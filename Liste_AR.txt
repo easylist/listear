@@ -1,0 +1,32 @@
+[Adblock Plus 1.1]
+! Liste AR ~ Filtres arabes complementaires
+! Title: Liste AR
+! Mises a jour : https://code.google.com/p/liste-ar-adblock/source/list
+! License : http://creativecommons.org/licenses/by-nc-sa/3.0/
+! Homepage: http://forums.lanik.us/viewforum.php?f=
+!
+! Merci de signaler toute publicite non bloquee ou tout blocage inadequat
+! dans le forum : http://forums.lanik.us/viewforum.php?f=
+! ou via e-mail : 
+!
+!----------------------- Filtres generiques ----------------------!
+!
+!
+!----------------------- Annonceurs -----------------------!
+!
+!
+!----------------------- Publicites tierces ----------------------!
+!
+!
+!----------------------- Sites specifiques -----------------------!
+!
+!
+!------------------ Elements generiques -----------------!
+!
+!
+!----------------------- Elements -----------------------!
+!
+!
+!----------------------- Exceptions -----------------------!
+!
+! Exception d'elements
