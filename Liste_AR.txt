@@ -3,7 +3,7 @@
 ! Title: Liste AR
 ! Mises a jour : https://code.google.com/p/liste-ar-adblock/source/list
 ! License : http://creativecommons.org/licenses/by-nc-sa/3.0/
-! Homepage: http://forums.lanik.us/viewforum.php?f=
+! Homepage: http://code.google.com/p/liste-ar-adblock/
 !
 ! Merci de signaler toute publicite non bloquee ou tout blocage inadequat
 ! dans le forum : http://forums.lanik.us/viewforum.php?f=
