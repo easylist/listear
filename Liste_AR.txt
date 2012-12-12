@@ -12,13 +12,13 @@
 !----------------------- Annonceurs -----------------------!
 !
 ||site.elkhabar.com^
-||ennaharonline.com^*/ads/
 !
 !----------------------- Publicites tierces ----------------------!
 !
 !
 !----------------------- Sites specifiques -----------------------!
 !
+||ennaharonline.com^*/ads/
 !
 !----------------------- Elements -----------------------!
 !
