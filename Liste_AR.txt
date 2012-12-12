@@ -21,7 +21,7 @@
 !
 !----------------------- Elements -----------------------!
 !
-||ennaharonline.com###flash
+ennaharonline.com###flash
 !
 !----------------------- Exceptions -----------------------!
 !
