@@ -21,11 +21,14 @@
 ||ahram.org.eg/newadv/
 ||djelfa.info/logo/
 ||ennaharonline.com^*/ads/
+||panet.co.il^*/cube_ads/
+||panet.co.il^*/flash_banners/
 ||web4africa.net/banners/
 !
 !----------------------- Elements -----------------------!
 !
 ennaharonline.com###flash
+panet.co.il##.ads-content
 !
 !----------------------- Exceptions -----------------------!
 !
