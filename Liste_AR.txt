@@ -19,6 +19,7 @@
 !----------------------- Sites specifiques -----------------------!
 !
 ||ahram.org.eg/newadv/
+||djelfa.info/logo/
 ||ennaharonline.com^*/ads/
 ||web4africa.net/banners/
 !
