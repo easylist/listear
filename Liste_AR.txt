@@ -18,6 +18,7 @@
 !
 !----------------------- Sites specifiques -----------------------!
 !
+||ahram.org.eg/newadv/
 ||ennaharonline.com^*/ads/
 !
 !----------------------- Elements -----------------------!
