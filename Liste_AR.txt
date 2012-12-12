@@ -12,6 +12,7 @@
 !----------------------- Annonceurs -----------------------!
 !
 ||site.elkhabar.com^
+||ennaharonline.com^*/ads/
 !
 !----------------------- Publicites tierces ----------------------!
 !
