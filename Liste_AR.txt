@@ -15,6 +15,7 @@
 !
 !----------------------- Publicites tierces ----------------------!
 !
+||web4africa.net/banners/
 !
 !----------------------- Sites specifiques -----------------------!
 !
@@ -23,7 +24,6 @@
 ||ennaharonline.com^*/ads/
 ||panet.co.il^*/cube_ads/
 ||panet.co.il^*/flash_banners/
-||web4africa.net/banners/
 !
 !----------------------- Elements -----------------------!
 !
