@@ -23,12 +23,14 @@
 ||ahram.org.eg/newadv/
 ||djelfa.info/logo/
 ||ennaharonline.com^*/ads/
+||niswan.net^*/cube_ads/
 ||panet.co.il^*/cube_ads/
 ||panet.co.il^*/flash_banners/
 !
 !----------------------- Elements -----------------------!
 !
 ennaharonline.com###flash
+niswan.net##.ads-content
 panet.co.il##.ads-content
 !
 !----------------------- Exceptions -----------------------!
