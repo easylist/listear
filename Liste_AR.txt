@@ -22,6 +22,7 @@
 !
 ||ahram.org.eg/newadv/
 ||djelfa.info/logo/
+||akhersaa-dz.com^*/banners/
 ||ennaharonline.com^*/ads/
 ||niswan.net^*/cube_ads/
 ||panet.co.il^*/cube_ads/
