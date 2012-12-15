@@ -30,6 +30,7 @@
 !
 !----------------------- Elements -----------------------!
 !
+ech-chaab.net##IMG[width="820"][height="159"]
 ennaharonline.com###flash
 niswan.net##.ads-content
 panet.co.il##.ads-content
