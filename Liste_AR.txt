@@ -24,6 +24,7 @@
 ||djelfa.info/logo/
 ||akhersaa-dz.com^*/banners/
 ||ennaharonline.com^*/ads/
+||mtwer.com/vb/adsmtwerclient/
 ||niswan.net^*/cube_ads/
 ||panet.co.il^*/cube_ads/
 ||panet.co.il^*/flash_banners/
