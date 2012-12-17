@@ -17,6 +17,7 @@
 !----------------------- Publicites tierces ----------------------!
 !
 ||web4africa.net/banners/
+||tarfihe.com/fl/
 !
 !----------------------- Sites specifiques -----------------------!
 !
@@ -24,7 +25,7 @@
 ||djelfa.info/logo/
 ||akhersaa-dz.com^*/banners/
 ||ennaharonline.com^*/ads/
-||mtwer.com/vb/adsmtwerclient/
+||mtwer.com^*/adsmtwerclient/
 ||niswan.net^*/cube_ads/
 ||panet.co.il^*/cube_ads/
 ||panet.co.il^*/flash_banners/
