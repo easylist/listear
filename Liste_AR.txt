@@ -12,6 +12,7 @@
 !
 !----------------------- Elements generiques -----------------!
 !
+##A[href^="http://www.sotmasr.com/announcements/"]
 !
 !----------------------- Annonceurs -----------------------!
 !
