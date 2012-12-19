@@ -10,6 +10,9 @@
 ! dans le forum : http://forums.lanik.us/viewforum.php?f=
 ! ou par e-mail : liste.ar.adblock at gmail point com
 !
+!----------------------- Elements generiques -----------------!
+!
+!
 !----------------------- Annonceurs -----------------------!
 !
 ||site.elkhabar.com^
