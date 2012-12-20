@@ -10,6 +10,10 @@
 ! dans le forum : http://forums.lanik.us/viewforum.php?f=
 ! ou par e-mail : liste.ar.adblock at gmail point com
 !
+!----------------------- Filtres generiques -----------------!
+!
+/cube_ads/*
+!
 !----------------------- Elements generiques -----------------!
 !
 ##A[href^="http://www.sotmasr.com/announcements/"]
@@ -31,8 +35,6 @@
 ||ennaharonline.com^*/ads/
 ||m7ol.com/baners/
 ||mtwer.com^*/adsmtwerclient/
-||niswan.net^*/cube_ads/
-||panet.co.il^*/cube_ads/
 ||panet.co.il^*/flash_banners/
 !
 !----------------------- Elements -----------------------!
