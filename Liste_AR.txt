@@ -33,6 +33,7 @@
 ||djelfa.info/logo/
 ||akhersaa-dz.com^*/banners/
 ||ennaharonline.com^*/ads/
+||brg8.com/bb/
 ||m7ol.com/baners/
 ||mtwer.com^*/adsmtwerclient/
 ||panet.co.il^*/flash_banners/
