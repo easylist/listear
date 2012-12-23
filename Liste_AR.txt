@@ -41,6 +41,8 @@
 !
 !----------------------- Elements -----------------------!
 !
+arabsh.com###left_side_ads
+arabsh.com##.ads336x280
 cs-proton.net##.style123458
 ech-chaab.net##IMG[width="820"][height="159"]
 ennaharonline.com###flash
