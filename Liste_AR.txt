@@ -30,6 +30,7 @@
 !
 !----------------------- Sites specifiques -----------------------!
 !
+||al-fadjr.com^*/banners/
 ||ahram.org.eg/newadv/
 ||djelfa.info/logo/
 ||akhersaa-dz.com^*/banners/
