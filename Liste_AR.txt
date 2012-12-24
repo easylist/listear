@@ -11,10 +11,12 @@
 ! ou par e-mail : liste.ar.adblock at gmail point com
 !
 !----------------------- Filtres generiques -----------------!
-/cube_ads/*
+/newadv/*
 !
 !----------------------- Elements generiques -----------------!
-##A[href^="http://www.sotmasr.com/announcements/"]
+##.ads-content
+##.support-adv
+##a[href^="http://www.sotmasr.com/announcements/"]
 !
 !----------------------- Annonceurs -----------------------!
 ||site.elkhabar.com^
@@ -22,32 +24,26 @@
 !
 !----------------------- Publicites tierces ----------------------!
 ||dzautos.com/data/dzauto.swf
-||web4africa.net/banners/
 ||tarfihe.com/fl/
+||web4africa.net/banners/
 !
 !----------------------- Sites specifiques -----------------------!
-||al-fadjr.com^*/banners/
-||ahram.org.eg/newadv/
-||djelfa.info/logo/
 ||akhersaa-dz.com^*/banners/
-||ennaharonline.com^*/ads/
+||al-fadjr.com^*/banners/
 ||brg8.com/bb/
+||djelfa.info/logo/
+||ennaharonline.com^*/ads/
 ||m7ol.com/baners/
 ||mtwer.com^*/adsmtwerclient/
 ||panet.co.il^*/flash_banners/
 !
 !----------------------- Elements -----------------------!
-arabsh.com###left_side_ads
-arabsh.com##.ads336x280
 cs-proton.net##.style123458
-ech-chaab.net##IMG[width="820"][height="159"]
+ech-chaab.net##img[width="820"][height="159"]
 elheddaf.com###flash
 ennaharonline.com###flash
-niswan.net##.ads-content
-nono6.com##.bannbox
-nono6.com##.BannarTop
 nono6.com##.BannarDown
-panet.co.il##.ads-content
-support-ar.com##.support-adv
+nono6.com##.BannarTop
+nono6.com##.bannbox
 !
 !----------------------- Exceptions -----------------------!
