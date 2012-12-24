@@ -25,6 +25,7 @@
 !
 !----------------------- Publicites tierces ----------------------!
 !
+||dzautos.com/data/dzauto.swf
 ||web4africa.net/banners/
 ||tarfihe.com/fl/
 !
@@ -46,6 +47,7 @@ arabsh.com###left_side_ads
 arabsh.com##.ads336x280
 cs-proton.net##.style123458
 ech-chaab.net##IMG[width="820"][height="159"]
+elheddaf.com###flash
 ennaharonline.com###flash
 niswan.net##.ads-content
 nono6.com##.bannbox
