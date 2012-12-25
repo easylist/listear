@@ -20,7 +20,7 @@
 !
 !----------------------- Annonceurs -----------------------!
 ||site.elkhabar.com^
-||zwaar.org^
+||zwaar.org^$third-party
 !
 !----------------------- Publicites tierces ----------------------!
 ||dzautos.com/data/dzauto.swf
