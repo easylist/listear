@@ -41,6 +41,7 @@
 ||panet.co.il^*/flash_banners/
 ||support-ar.com/vb/index.php$image,~image,popup,domain=friasat.com
 ||arabsh.com/red.php$image,~image,popup,domain=nono6.com
+||forsangaza.net/vb/$image,~image,popup,domain=a7lahmsa.com
 !
 !----------------------- Elements -----------------------!
 al-fadjr.com###banner_container
