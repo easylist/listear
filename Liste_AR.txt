@@ -21,6 +21,7 @@
 !----------------------- Annonceurs -----------------------!
 ||site.elkhabar.com^
 ||zwaar.org^$third-party
+||zwaar.net^$third-party
 !
 !----------------------- Publicites tierces ----------------------!
 ||dzautos.com/data/dzauto.swf
@@ -34,6 +35,7 @@
 ||brg8.com/bb/
 ||djelfa.info/logo/
 ||ennaharonline.com^*/ads/
+||nono6.com/open.js
 ||m7ol.com/baners/
 ||mtwer.com^*/adsmtwerclient/
 ||panet.co.il^*/flash_banners/
