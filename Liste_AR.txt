@@ -37,6 +37,7 @@
 ||m7ol.com/baners/
 ||mtwer.com^*/adsmtwerclient/
 ||panet.co.il^*/flash_banners/
+||support-ar.com/vb/index.php$image,~image,popup,domain=friasat.com
 !
 !----------------------- Elements -----------------------!
 al-fadjr.com###banner_container
