@@ -29,7 +29,7 @@
 !
 !----------------------- Sites specifiques -----------------------!
 ||akhersaa-dz.com^*/banners/
-||al-fadjr.com^*/banners/
+||al-fadjr.com/ar/files/banners/
 ||brg8.com/bb/
 ||djelfa.info/logo/
 ||ennaharonline.com^*/ads/
