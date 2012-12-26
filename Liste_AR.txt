@@ -11,6 +11,7 @@
 ! ou par e-mail : liste.ar.adblock at gmail point com
 !
 !----------------------- Filtres generiques -----------------!
+_Adv_Banner_*
 /newadv/*
 !
 !----------------------- Elements generiques -----------------!
@@ -35,7 +36,6 @@
 ||alwasatnews.com/cache/ads_
 ||alwatannews.net/Images/*-660x90-
 ||alwatannews.net/Images/advert
-||bahrain.bh/*/PA_EGov_Adv_Banner_1/
 ||brg8.com/bb/
 ||djelfa.info/logo/
 ||ennaharonline.com^*/ads/
