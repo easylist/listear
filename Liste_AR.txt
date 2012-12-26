@@ -33,6 +33,8 @@
 ||al-fadjr.com/ar/files/banners/
 ||al-fadjr.com/ar/img/summary_medium/SURFpetite_974111832.jpg
 ||alwasatnews.com/cache/ads_
+||alwatannews.net/Images/*-660x90-
+||alwatannews.net/Images/advert
 ||brg8.com/bb/
 ||djelfa.info/logo/
 ||ennaharonline.com^*/ads/
@@ -47,6 +49,9 @@
 !
 !----------------------- Elements -----------------------!
 al-fadjr.com###banner_container
+alwatannews.net##.Adv
+alwatannews.net###pnlAdv12
+alwatannews.net###lnkMainAdver3
 cs-proton.net##.style123458
 ech-chaab.net##img[width="820"][height="159"]
 elheddaf.com###flash
