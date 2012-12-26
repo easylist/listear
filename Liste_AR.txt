@@ -57,6 +57,7 @@ cs-proton.net##.style123458
 ech-chaab.net##img[width="820"][height="159"]
 elheddaf.com###flash
 ennaharonline.com###flash
+hao123.com##.pr
 nono6.com##.BannarDown
 nono6.com##.BannarTop
 nono6.com##.bannbox
