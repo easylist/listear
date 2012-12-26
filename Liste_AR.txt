@@ -28,6 +28,7 @@ _Adv_Banner_*
 ||dzautos.com/data/dzauto.swf
 ||tarfihe.com/fl/
 ||web4africa.net/banners/
+||darendeal.com/widgets/recommendation_box
 !
 !----------------------- Sites specifiques -----------------------!
 ||akhersaa-dz.com/files/banners/
@@ -58,6 +59,9 @@ ech-chaab.net##img[width="820"][height="159"]
 elheddaf.com###flash
 ennaharonline.com###flash
 hao123.com##.pr
+masrawy.com##.leaderbg
+masrawy.com##.dealsoffer
+masrawy.com##.NewClassifieds
 nono6.com##.BannarDown
 nono6.com##.BannarTop
 nono6.com##.bannbox
