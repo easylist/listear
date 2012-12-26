@@ -32,6 +32,7 @@
 ||akhersaa-dz.com/files/banners/
 ||al-fadjr.com/ar/files/banners/
 ||al-fadjr.com/ar/img/summary_medium/SURFpetite_974111832.jpg
+||alwasatnews.com/cache/ads_
 ||brg8.com/bb/
 ||djelfa.info/logo/
 ||ennaharonline.com^*/ads/
