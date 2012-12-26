@@ -39,6 +39,7 @@
 ||m7ol.com/baners/
 ||mtwer.com^*/adsmtwerclient/
 ||panet.co.il^*/flash_banners/
+||star28.com/adv/
 ||support-ar.com/vb/index.php$image,~image,popup,domain=friasat.com
 ||arabsh.com/red.php$image,~image,popup,domain=nono6.com
 ||forsangaza.net/vb/$image,~image,popup,domain=a7lahmsa.com
