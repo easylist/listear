@@ -12,6 +12,7 @@
 !
 !----------------------- Filtres generiques -----------------!
 _Adv_Banner_*
+/js/adv.
 /newadv/*
 !
 !----------------------- Elements generiques -----------------!
