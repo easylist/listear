@@ -41,6 +41,7 @@ _Adv_Banner_*
 ||brg8.com/bb/
 ||djelfa.info/logo/
 ||ennaharonline.com^*/ads/
+||khaleejcal.com^*/banners/
 ||nono6.com/open.js
 ||m7ol.com/baners/
 ||mtwer.com^*/adsmtwerclient/
