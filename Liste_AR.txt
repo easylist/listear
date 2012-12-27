@@ -69,3 +69,4 @@ nono6.com##.BannarTop
 nono6.com##.bannbox
 !
 !----------------------- Exceptions -----------------------!
+@@||bawazir-tech.com/banners/
