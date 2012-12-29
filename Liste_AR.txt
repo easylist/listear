@@ -11,7 +11,7 @@
 ! ou par e-mail : liste.ar.adblock at gmail point com
 !
 !----------------------- Filtres generiques -----------------!
-/announce/adv/
+/announce/adv/*
 /ar/ads/*
 /cache/ads_
 /js/adv.
