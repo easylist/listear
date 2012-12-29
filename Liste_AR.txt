@@ -69,6 +69,8 @@ masrawy.com##.NewClassifieds
 nono6.com##.BannarDown
 nono6.com##.BannarTop
 nono6.com##.bannbox
+hawaaworld.com###boxContain
+hawaaworld.com###vacuumcleaners
 !
 !----------------------- Exceptions -----------------------!
 @@||bawazir-tech.com/banners/
