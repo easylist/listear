@@ -11,13 +11,19 @@
 ! ou par e-mail : liste.ar.adblock at gmail point com
 !
 !----------------------- Filtres generiques -----------------!
+/announce/adv/
 /ar/ads/*
+/cache/ads_
 /js/adv.
 /newadv/*
 _Adv_Banner_
 !
 !----------------------- Elements generiques -----------------!
+###AdsLeader
+###AdsShowCase
 ##.ads-content
+##.centerAdBar
+##.jumboAd
 ##.support-adv
 ##a[href*="ads.php?id="]
 ##a[href^="http://www.sotmasr.com/announcements/"]
@@ -42,8 +48,6 @@ _Adv_Banner_
 ||alarab.net/data/cubes/
 ||alarab.net/fursa.php
 ||alarab.net/SDK/MB_SDK_script.js
-||alayam.com/announce/adv/
-||alwasatnews.com/cache/ads_
 ||alwatannews.net/Images/*-660x90-
 ||alwatannews.net/Images/advert
 ||arabia.com^*/AdsAjaxRefresh.
@@ -51,6 +55,7 @@ _Adv_Banner_
 ||brg8.com/bb/
 ||djelfa.info/logo/
 ||forsangaza.net/vb/$image,~image,popup,domain=a7lahmsa.com
+||googlna.com/flash/bnar.swf
 ||khaleejcal.com^*/banners/
 ||m7ol.com/baners/
 ||mtwer.com^*/adsmtwerclient/
@@ -58,7 +63,6 @@ _Adv_Banner_
 ||panet.co.il^*/flash_banners/
 ||star28.com/adv/
 ||support-ar.com/vb/index.php$image,~image,popup,domain=friasat.com
-||googlna.com/flash/bnar.swf
 !
 !----------------------- Elements -----------------------!
 al-fadjr.com###banner_container
@@ -66,16 +70,12 @@ alarab.net###FloatBanner
 alarab.net###secncom
 alarab.net###topbanner
 alarab.net##.ad
-alarab.net##.centerAdBar
-alarab.net##.jumboAd
 alarab.net##.mbAdImg
 alayam.com##.slides1
 alayam.com##.slides76
 alwatannews.net###lnkMainAdver3
 alwatannews.net###pnlAdv12
 alwatannews.net##.Adv
-arabia.com###AdsLeader
-arabia.com###AdsShowCase
 arabia.com###divDimmed
 arabia.com###divIFrame
 arabia.com###dvleaderboard
