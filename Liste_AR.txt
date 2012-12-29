@@ -30,7 +30,7 @@ _Adv_Banner_
 !----------------------- Publicites tierces ----------------------!
 ||44aa.com/image/nesba.swf
 ||amazonaws.com/MixBerryAdsProduction/
-||darendeal.com/widgets/recommendation_box
+||darendeal.com/widgets/recommendation_box?
 ||dzautos.com/data/dzauto.swf
 ||tarfihe.com/fl/
 ||web4africa.net/banners/
@@ -46,13 +46,11 @@ _Adv_Banner_
 ||alwasatnews.com/cache/ads_
 ||alwatannews.net/Images/*-660x90-
 ||alwatannews.net/Images/advert
-||arabia.com^*AdsAjaxRefresh.
+||arabia.com^*/AdsAjaxRefresh.
 ||arabsh.com/red.php$image,~image,popup,domain=nono6.com
 ||brg8.com/bb/
 ||djelfa.info/logo/
 ||forsangaza.net/vb/$image,~image,popup,domain=a7lahmsa.com
-||hawamer.com###topBanner
-||hawamer.com##.centerBanner
 ||khaleejcal.com^*/banners/
 ||m7ol.com/baners/
 ||mtwer.com^*/adsmtwerclient/
@@ -60,7 +58,7 @@ _Adv_Banner_
 ||panet.co.il^*/flash_banners/
 ||star28.com/adv/
 ||support-ar.com/vb/index.php$image,~image,popup,domain=friasat.com
-||www.googlna.com/flash/bnar.swf
+||googlna.com/flash/bnar.swf
 !
 !----------------------- Elements -----------------------!
 al-fadjr.com###banner_container
@@ -93,6 +91,10 @@ ennaharonline.com###flash
 hao123.com##.pr
 hawaaworld.com###boxContain
 hawaaworld.com###vacuumcleaners
+hawamer.com###topBanner
+hawamer.com##.centerBanner
+masrawy.com###hleader
+masrawy.com###hswcase
 masrawy.com##.NewClassifieds
 masrawy.com##.dealsoffer
 masrawy.com##.leaderbg
