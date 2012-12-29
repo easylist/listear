@@ -40,6 +40,8 @@ _Adv_Banner_*
 ||alwatannews.net/Images/*-660x90-
 ||alwatannews.net/Images/advert
 ||brg8.com/bb/
+||hawamer.com##.centerBanner
+||hawamer.com###topBanner
 ||djelfa.info/logo/
 ||ennaharonline.com^*/ads/
 ||www.googlna.com/flash/bnar.swf
