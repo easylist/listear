@@ -81,6 +81,7 @@ sports.arabia.com###divIFrame
 sports.arabia.com###divDimmed
 sports.arabia.com###AdsLeader
 sports.arabia.com###showcase
+yallabina.com##.adv
 !
 !----------------------- Exceptions -----------------------!
 @@||bawazir-tech.com/banners/
