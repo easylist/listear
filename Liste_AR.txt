@@ -73,6 +73,7 @@ nono6.com##.BannarTop
 nono6.com##.bannbox
 hawaaworld.com###boxContain
 hawaaworld.com###vacuumcleaners
+shofha.com##.adv
 !
 !----------------------- Exceptions -----------------------!
 @@||bawazir-tech.com/banners/
