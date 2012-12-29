@@ -36,6 +36,7 @@ _Adv_Banner_*
 ||akhersaa-dz.com/files/banners/
 ||al-fadjr.com/ar/files/banners/
 ||al-fadjr.com/ar/img/summary_medium/SURFpetite_974111832.jpg
+||alayam.com/announce/adv/
 ||alwasatnews.com/cache/ads_
 ||alwatannews.net/Images/*-660x90-
 ||alwatannews.net/Images/advert
@@ -77,6 +78,8 @@ nono6.com##.bannbox
 hawaaworld.com###boxContain
 hawaaworld.com###vacuumcleaners
 shofha.com##.adv
+alayam.com##.slides1
+alayam.com##.slides76
 arabia.com##.ykaleader
 arabia.com###divIFrame
 arabia.com###divDimmed
