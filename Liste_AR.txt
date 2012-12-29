@@ -12,6 +12,7 @@
 !
 !----------------------- Filtres generiques -----------------!
 _Adv_Banner_*
+/ar/ads/*
 /js/adv.
 /newadv/*
 !
@@ -50,7 +51,6 @@ _Adv_Banner_*
 ||hawamer.com##.centerBanner
 ||hawamer.com###topBanner
 ||djelfa.info/logo/
-||ennaharonline.com^*/ads/
 ||www.googlna.com/flash/bnar.swf
 ||khaleejcal.com^*/banners/
 ||nono6.com/open.js
