@@ -63,6 +63,8 @@ alwatannews.net###lnkMainAdver3
 cs-proton.net##.style123458
 ech-chaab.net##img[width="820"][height="159"]
 elheddaf.com###flash
+el3ab.com##.showcase
+el3ab.com##.smallLeader
 ennaharonline.com###flash
 hao123.com##.pr
 masrawy.com##.leaderbg
