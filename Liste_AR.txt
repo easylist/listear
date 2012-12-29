@@ -19,6 +19,7 @@ _Adv_Banner_*
 ##.ads-content
 ##.support-adv
 ##a[href^="http://www.sotmasr.com/announcements/"]
+##a[href*="ads.php?id="]
 !
 !----------------------- Annonceurs -----------------------!
 ||site.elkhabar.com^
