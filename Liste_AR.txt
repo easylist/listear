@@ -39,6 +39,7 @@ _Adv_Banner_*
 ||alwasatnews.com/cache/ads_
 ||alwatannews.net/Images/*-660x90-
 ||alwatannews.net/Images/advert
+||arabia.com^*AdsAjaxRefresh.
 ||brg8.com/bb/
 ||hawamer.com##.centerBanner
 ||hawamer.com###topBanner
@@ -76,11 +77,14 @@ nono6.com##.bannbox
 hawaaworld.com###boxContain
 hawaaworld.com###vacuumcleaners
 shofha.com##.adv
-sports.arabia.com##.ykaleader
-sports.arabia.com###divIFrame
-sports.arabia.com###divDimmed
-sports.arabia.com###AdsLeader
-sports.arabia.com###showcase
+arabia.com##.ykaleader
+arabia.com###divIFrame
+arabia.com###divDimmed
+arabia.com###AdsLeader
+arabia.com###showcase
+arabia.com###dvleaderboard
+arabia.com###AdsShowCase
+arabia.com###dvwidgetad
 yallabina.com##.adv
 yallakora.com##.dealsoffer
 !
