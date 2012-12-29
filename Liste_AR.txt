@@ -32,6 +32,7 @@ _Adv_Banner_*
 ||tarfihe.com/fl/
 ||web4africa.net/banners/
 ||darendeal.com/widgets/recommendation_box
+||amazonaws.com/MixBerryAdsProduction/
 !
 !----------------------- Sites specifiques -----------------------!
 ||akhersaa-dz.com/files/banners/
@@ -41,6 +42,9 @@ _Adv_Banner_*
 ||alwasatnews.com/cache/ads_
 ||alwatannews.net/Images/*-660x90-
 ||alwatannews.net/Images/advert
+||alarab.net/SDK/MB_SDK_script.js
+||alarab.net/data/cubes/
+||alarab.net/fursa.php
 ||arabia.com^*AdsAjaxRefresh.
 ||brg8.com/bb/
 ||hawamer.com##.centerBanner
@@ -81,6 +85,13 @@ hawaaworld.com###vacuumcleaners
 shofha.com##.adv
 alayam.com##.slides1
 alayam.com##.slides76
+alarab.net###topbanner
+alarab.net###FloatBanner
+alarab.net###secncom
+alarab.net##.ad
+alarab.net##.jumboAd
+alarab.net##.mbAdImg
+alarab.net##.centerAdBar
 arabia.com##.ykaleader
 arabia.com###divIFrame
 arabia.com###divDimmed
