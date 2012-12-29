@@ -74,6 +74,11 @@ nono6.com##.bannbox
 hawaaworld.com###boxContain
 hawaaworld.com###vacuumcleaners
 shofha.com##.adv
+sports.arabia.com##.ykaleader
+sports.arabia.com###divIFrame
+sports.arabia.com###divDimmed
+sports.arabia.com###AdsLeader
+sports.arabia.com###showcase
 !
 !----------------------- Exceptions -----------------------!
 @@||bawazir-tech.com/banners/
