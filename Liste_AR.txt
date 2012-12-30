@@ -109,6 +109,9 @@ cs-proton.net##.style123458
 ech-chaab.net##img[width="820"][height="159"]
 el3ab.com##.showcase
 el3ab.com##.smallLeader
+elheddaf.com##.logo_pub
+elheddaf.com##.pub_plus
+elheddaf.com##.pub_info
 elheddaf.com###flash
 eqla3.com##IFRAME
 linkat-online.com##.left_side
