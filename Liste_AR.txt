@@ -54,6 +54,7 @@ _Adv_Banner_
 ||arabsh.com/red.php$image,~image,popup,domain=nono6.com
 ||brg8.com/bb/
 ||djelfa.info/logo/
+||eqla3.com/adv
 ||forsangaza.net/vb/$image,~image,popup,domain=a7lahmsa.com
 ||googlna.com/flash/bnar.swf
 ||khaleejcal.com^*/banners/
@@ -91,6 +92,7 @@ ech-chaab.net##img[width="820"][height="159"]
 el3ab.com##.showcase
 el3ab.com##.smallLeader
 elheddaf.com###flash
+eqla3.com##IFRAME
 ennaharonline.com###flash
 hao123.com##.pr
 hawaaworld.com###boxContain
