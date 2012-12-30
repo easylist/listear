@@ -63,6 +63,7 @@ _Adv_Banner_
 ||nono6.com/open.js
 ||panet.co.il^*/flash_banners/
 ||star28.com/adv/
+||uob-bh.com/uploadfiles/bahraindir.gif
 ||elastec.info/$image,~image,popup,domain=s-ajfan.com
 ||7bbb7.com/vb/$image,~image,popup,domain=s-ajfan.com
 ||ps-0.com/vb/$image,~image,popup,domain=s-ajfan.com
