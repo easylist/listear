@@ -32,6 +32,8 @@ _Adv_Banner_
 ||site.elkhabar.com^
 ||zwaar.net^$third-party
 ||zwaar.org^$third-party
+||adzouk.com^$third-party
+||adscoo.com^$third-party
 !
 !----------------------- Publicites tierces ----------------------!
 ||44aa.com/image/nesba.swf
@@ -83,6 +85,10 @@ alayam.com##.slides76
 alwatannews.net###lnkMainAdver3
 alwatannews.net###pnlAdv12
 alwatannews.net##.Adv
+alnaddy.com###headAds
+alnaddy.com###leftAds
+alnaddy.com###rightAds
+alnaddy.com###centerAdsHeadlines
 arabia.com###divDimmed
 arabia.com###divIFrame
 arabia.com###dvleaderboard
