@@ -24,6 +24,11 @@ _Adv_Banner_
 ###AdsLeader
 ###AdsShowCase
 ##.ads-content
+##.bigCubeAd
+###headAds
+###leftAds
+###rightAds
+###centerAdsHeadlines
 ##.centerAdBar
 ##.jumboAd
 ##.support-adv
@@ -89,10 +94,6 @@ alayam.com##.slides76
 alwatannews.net###lnkMainAdver3
 alwatannews.net###pnlAdv12
 alwatannews.net##.Adv
-alnaddy.com###headAds
-alnaddy.com###leftAds
-alnaddy.com###rightAds
-alnaddy.com###centerAdsHeadlines
 arabia.com###divDimmed
 arabia.com###divIFrame
 arabia.com###dvleaderboard
@@ -102,7 +103,6 @@ arabia.com##.ykaleader
 bokra.net##.ad
 bokra.net##.towerBanner
 bokra.net##.twoBanners
-bokra.net##.bigCubeAd
 bokra.net##.catsBanner
 bokra.net##.strip
 bokra.net##.bigStrip
@@ -113,9 +113,6 @@ cs-proton.net##.style123458
 ech-chaab.net##img[width="820"][height="159"]
 el3ab.com##.showcase
 el3ab.com##.smallLeader
-elheddaf.com##.logo_pub
-elheddaf.com##.pub_plus
-elheddaf.com##.pub_info
 elheddaf.com###flash
 eqla3.com##IFRAME
 linkat-online.com##.left_side
