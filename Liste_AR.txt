@@ -14,6 +14,8 @@
 /announce/adv/*
 /ar/ads/*
 /cache/ads_
+/Handlers/Ads.
+/Ads.ashx?
 /js/adv.
 /newadv/*
 _Adv_Banner_
@@ -33,6 +35,7 @@ _Adv_Banner_
 ||zwaar.net^$third-party
 ||zwaar.org^$third-party
 ||adzouk.com^$third-party
+||oneclickad.net^$third-party
 ||adscoo.com^$third-party
 !
 !----------------------- Publicites tierces ----------------------!
@@ -58,7 +61,7 @@ _Adv_Banner_
 ||arabsh.com/red.php$image,~image,popup,domain=nono6.com
 ||brg8.com/bb/
 ||djelfa.info/logo/
-||eqla3.com/adv
+||eqla3.com/adv3/
 ||forsangaza.net/vb/$image,~image,popup,domain=a7lahmsa.com
 ||googlna.com/flash/bnar.swf
 ||khaleejcal.com^*/banners/
