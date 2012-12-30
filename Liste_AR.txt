@@ -116,6 +116,7 @@ s-ajfan.com###window10
 s-ajfan.com###aero_window_1
 s-ajfan.com###aero_window_2
 s-ajfan.com###aero_window_5
+traidnt.net##TD[width="160px"]
 yallabina.com##.adv
 yallakora.com##.dealsoffer
 !
