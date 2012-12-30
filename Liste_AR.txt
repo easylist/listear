@@ -64,6 +64,8 @@ _Adv_Banner_
 ||star28.com/adv/
 ||elastec.info/$image,~image,popup,domain=s-ajfan.com
 ||7bbb7.com/vb/$image,~image,popup,domain=s-ajfan.com
+||ps-0.com/vb/$image,~image,popup,domain=s-ajfan.com
+||3rby.net/$image,~image,popup,domain=s-ajfan.com
 ||support-ar.com/vb/index.php$image,~image,popup,domain=friasat.com
 !
 !----------------------- Elements -----------------------!
@@ -106,6 +108,12 @@ nono6.com##.bannbox
 shofha.com##.adv
 s-ajfan.com###aero_window_5
 s-ajfan.com###navbar_notice_8
+s-ajfan.com###window3
+s-ajfan.com###window9
+s-ajfan.com###window10
+s-ajfan.com###aero_window_1
+s-ajfan.com###aero_window_2
+s-ajfan.com###aero_window_5
 yallabina.com##.adv
 yallakora.com##.dealsoffer
 !
