@@ -36,6 +36,7 @@ _Adv_Banner_
 !----------------------- Publicites tierces ----------------------!
 ||44aa.com/image/nesba.swf
 ||amazonaws.com/MixBerryAdsProduction/
+||drubit.com/adsAPI.php?
 ||darendeal.com/widgets/recommendation_box?
 ||dzautos.com/data/dzauto.swf
 ||tarfihe.com/fl/
@@ -88,6 +89,16 @@ arabia.com###dvleaderboard
 arabia.com###dvwidgetad
 arabia.com###showcase
 arabia.com##.ykaleader
+bokra.net##.ad
+bokra.net##.towerBanner
+bokra.net##.twoBanners
+bokra.net##.bigCubeAd
+bokra.net##.catsBanner
+bokra.net##.strip
+bokra.net##.bigStrip
+bokra.net##.tower
+bokra.net##.main_baner
+bokra.net##.floatBanner
 cs-proton.net##.style123458
 ech-chaab.net##img[width="820"][height="159"]
 el3ab.com##.showcase
