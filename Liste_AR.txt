@@ -111,6 +111,8 @@ el3ab.com##.showcase
 el3ab.com##.smallLeader
 elheddaf.com###flash
 eqla3.com##IFRAME
+linkat-online.com##.left_side
+linkat-online.com##.adss_left
 ennaharonline.com###flash
 hao123.com##.pr
 hawaaworld.com###boxContain
