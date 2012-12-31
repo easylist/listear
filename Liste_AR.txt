@@ -61,6 +61,7 @@ _Adv_Banner_
 ||tarfihe.com/fl/
 ||thouk.com/thouk.gif
 ||web4africa.net/banners/
+||z4ar.com/banner/bsh.gif
 !
 !----------------------- Sites specifiques -----------------------!
 ||0zz0.com/e/$image
@@ -145,6 +146,8 @@ hawamer.com##.centerBanner
 jsoftj.com###freet
 linkat-online.com##.adss_left
 linkat-online.com##.left_side
+m5zn.com###dropin
+m5zn.com###img[width="728"][height="90"]
 masrawy.com###hleader
 masrawy.com###hswcase
 masrawy.com##.NewClassifieds
