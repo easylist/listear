@@ -52,6 +52,7 @@ _Adv_Banner_
 ||darendeal.com/widgets/recommendation_box?
 ||dzautos.com/data/dzauto.swf
 ||mark4you.com/mark.gif
+||m5zn.com/open.js
 ||thouk.com/thouk.gif
 ||tarfihe.com/fl/
 ||web4africa.net/banners/
@@ -147,6 +148,8 @@ hawaaworld.com###boxContain
 hawaaworld.com###vacuumcleaners
 hawamer.com###topBanner
 hawamer.com##.centerBanner
+jsoftj.com###freet
+jsoftj.com###advert_1
 masrawy.com###hleader
 masrawy.com###hswcase
 masrawy.com##.NewClassifieds
