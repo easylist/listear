@@ -164,6 +164,8 @@ s-ajfan.com###aero_window_1
 s-ajfan.com###aero_window_2
 s-ajfan.com###aero_window_5
 traidnt.net##TD[width="160px"]
+y4yy.com##.adv
+y4yy.com##.main_adv
 y4yy.com##.header-ads
 y4yy.com##IMG[width="300"][height="250"]
 yallabina.com##.adv
