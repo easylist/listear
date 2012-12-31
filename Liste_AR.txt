@@ -54,6 +54,16 @@ _Adv_Banner_
 ||web4africa.net/banners/
 !
 !----------------------- Sites specifiques -----------------------!
+||0zz0.com/e/luna20120131_2.swf
+||0zz0.com/e/adama.gif
+||0zz0.com/e/roro4420120126_2.gif
+||0zz0.com/e/roro4420120126_1.gif
+||0zz0.com/e/5foq.com.gif
+||0zz0.com/e/a3mal.org.gif
+||0zz0.com/e/souqa3mal.com.gif
+||0zz0.com/e/mzad.com.sa.png
+||0zz0.com/e/a150x60.gif
+||0zz0.com/e/matjrksa.gif
 ||akhersaa-dz.com/files/banners/
 ||al-fadjr.com/ar/files/banners/
 ||al-fadjr.com/ar/img/summary_medium/SURFpetite_974111832.jpg
@@ -149,16 +159,6 @@ s-ajfan.com###aero_window_5
 traidnt.net##TD[width="160px"]
 yallabina.com##.adv
 yallakora.com##.dealsoffer
-||0zz0.com/e/luna20120131_2.swf
-||0zz0.com/e/adama.gif
-||0zz0.com/e/roro4420120126_2.gif
-||0zz0.com/e/roro4420120126_1.gif
-||0zz0.com/e/5foq.com.gif
-||0zz0.com/e/a3mal.org.gif
-||0zz0.com/e/souqa3mal.com.gif
-||0zz0.com/e/mzad.com.sa.png
-||0zz0.com/e/a150x60.gif
-||0zz0.com/e/matjrksa.gif
 !
 !----------------------- Exceptions -----------------------!
 @@||bawazir-tech.com/banners/
