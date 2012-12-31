@@ -56,6 +56,7 @@ _Adv_Banner_
 ||thouk.com/thouk.gif
 ||tarfihe.com/fl/
 ||web4africa.net/banners/
+||up-00.com/June12/hol25633.gif
 !
 !----------------------- Sites specifiques -----------------------!
 ||0zz0.com/e/luna20120131_2.swf
@@ -68,6 +69,8 @@ _Adv_Banner_
 ||0zz0.com/e/mzad.com.sa.png
 ||0zz0.com/e/a150x60.gif
 ||0zz0.com/e/matjrksa.gif
+||educ40.net/images/hotcourses.gif
+||y4yy.com/la3bty.gif
 ||3asq.com/img/uploads/13560751771.swf?
 ||akhersaa-dz.com/files/banners/
 ||al-fadjr.com/ar/files/banners/
@@ -173,7 +176,7 @@ s-ajfan.com###aero_window_1
 s-ajfan.com###aero_window_2
 s-ajfan.com###aero_window_5
 traidnt.net##TD[width="160px"]
-||educ40.net/images/hotcourses.gif
+y4yy.com##.header-ads
 yallabina.com##.adv
 yallakora.com##.dealsoffer
 !
