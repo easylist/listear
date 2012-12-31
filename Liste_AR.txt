@@ -47,6 +47,7 @@ _Adv_Banner_
 ||site.elkhabar.com^
 ||zwaar.net^$third-party
 ||zwaar.org^$third-party
+||hsoub.com^$third-party
 !
 !----------------------- Publicites tierces ----------------------!
 ||44aa.com/image/nesba.swf
@@ -56,6 +57,7 @@ _Adv_Banner_
 ||dzautos.com/data/dzauto.swf
 ||m5zn.com/open.js
 ||mark4you.com/mark.gif
+||raya.ps/data/banners/
 ||tarfihe.com/fl/
 ||thouk.com/thouk.gif
 ||web4africa.net/banners/
