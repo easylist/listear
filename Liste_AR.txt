@@ -62,6 +62,12 @@ _Adv_Banner_
 ||alarab.net/SDK/MB_SDK_script.js
 ||alwatannews.net/Images/*-660x90-
 ||alwatannews.net/Images/advert
+||aksalser.com/e/sale2.swf
+||aksalser.com/e/hamool.swf
+||aksalser.com/e/et20120201.swf
+||aksalser.com/e/lee20110808.swf
+||aksalser.com/e/CCA_20110528.swf
+||aksalser.com/e/hospital20110609.swf
 ||arabia.com^*/AdsAjaxRefresh.
 ||arabsh.com/red.php$image,~image,popup,domain=nono6.com
 ||brg8.com/bb/
