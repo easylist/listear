@@ -42,6 +42,7 @@ _Adv_Banner_
 ||adzouk.com^$third-party
 ||oneclickad.net^$third-party
 ||adscoo.com^$third-party
+||adintop.com^$third-party
 !
 !----------------------- Publicites tierces ----------------------!
 ||44aa.com/image/nesba.swf
@@ -93,6 +94,11 @@ _Adv_Banner_
 ||nono6.com/open.js
 ||panet.co.il^*/flash_banners/
 ||star28.com/adv/
+||sedty.com/imagehosting/1_1346843455.gif
+||sedty.com/imagehosting/1_1337147336.gif
+||sedty.com/imagehosting/1_1338325669.gif
+||sedty.com/imagehosting/2_1337379699.gif
+||sedty.com/imagehosting/1_1337148319.gif
 ||uob-bh.com/uploadfiles/bahraindir.gif
 ||elastec.info/$image,~image,popup,domain=s-ajfan.com
 ||7bbb7.com/vb/$image,~image,popup,domain=s-ajfan.com
