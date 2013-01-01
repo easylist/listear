@@ -91,6 +91,7 @@ _Adv_Banner_
 ||eqla3.com/adv3/
 ||forsangaza.net/vb/$image,~image,popup,domain=a7lahmsa.com
 ||googlna.com/flash/bnar.swf
+||gem-flash.com/vb/banners1.php?
 ||khaleejcal.com^*/banners/
 ||mbc.net/dms/analytics-and-banners/
 ||m7ol.com/baners/
