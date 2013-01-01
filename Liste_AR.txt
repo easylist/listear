@@ -183,13 +183,8 @@ nono6.com##.BannarDown
 nono6.com##.BannarTop
 nono6.com##.bannbox
 raya.ps.##ad_space_in
-s-ajfan.com###aero_window_1
-s-ajfan.com###aero_window_2
-s-ajfan.com###aero_window_5
 s-ajfan.com###navbar_notice_8
-s-ajfan.com###window10
-s-ajfan.com###window3
-s-ajfan.com###window9
+s-ajfan.com##.decoded
 sedty.com##.Ads
 sedty.com##.Ads_3
 sedty.com##.Ads_4
