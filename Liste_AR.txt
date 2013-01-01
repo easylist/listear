@@ -53,6 +53,7 @@ _Adv_Banner_
 ||44aa.com/image/nesba.swf
 ||amazonaws.com/MixBerryAdsProduction/
 ||darendeal.com/widgets/recommendation_box?
+||diwanee.net/?ref=
 ||drubit.com/adsAPI.php?
 ||dzautos.com/data/dzauto.swf
 ||m5zn.com/open.js
@@ -175,6 +176,7 @@ y4yy.com##.adv
 y4yy.com##img[width="300"][height="250"]
 yallabina.com##.adv
 yallakora.com##.dealsoffer
+z4ar.com##.leaderboard
 !
 !----------------------- Exceptions -----------------------!
 @@||bawazir-tech.com/banners/
