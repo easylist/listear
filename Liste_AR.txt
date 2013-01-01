@@ -156,6 +156,7 @@ bokra.net##.tower
 bokra.net##.towerBanner
 bokra.net##.twoBanners
 cs-proton.net##.style123458
+dvd4arab.maktoob.com##.adsgrd
 ech-chaab.net##img[width="820"][height="159"]
 ech-chaab.net##.module.mod-line.color-black.deepest
 el3ab.com##.showcase
