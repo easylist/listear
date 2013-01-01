@@ -92,6 +92,7 @@ _Adv_Banner_
 ||forsangaza.net/vb/$image,~image,popup,domain=a7lahmsa.com
 ||googlna.com/flash/bnar.swf
 ||khaleejcal.com^*/banners/
+||mbc.net/dms/analytics-and-banners/
 ||m7ol.com/baners/
 ||mtwer.com^*/adsmtwerclient/
 ||nono6.com/open.js
@@ -179,6 +180,8 @@ masrawy.com##.dealsoffer
 masrawy.com##.leaderbg
 m5zn.com##.home_sway_adv
 m5zn.com##.home_offer_adv
+mbc.net###header-ad
+mbc.net###adSlot2
 nono6.com##.BannarDown
 nono6.com##.BannarTop
 nono6.com##.bannbox
