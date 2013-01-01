@@ -152,6 +152,7 @@ hawaaworld.com###boxContain
 hawaaworld.com###vacuumcleaners
 hawamer.com###topBanner
 hawamer.com##.centerBanner
+jsoftj.com##.adv_hed
 jsoftj.com###freet
 linkat-online.com##.adss_left
 linkat-online.com##.left_side
