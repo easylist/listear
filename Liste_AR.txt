@@ -107,6 +107,13 @@ _Adv_Banner_
 ||ksa-ksa.com/$subdocument,domain=a7lahmsa.com
 ||ps-0.com/vb/$subdocument,domain=a7lahmsa.com
 ||llssll.com/vb/$subdocument,domain=a7lahmsa.com
+||3rby.net/$subdocument,domain=s-ajfan.com
+||7bbb7.com/vb/$subdocument,domain=s-ajfan.com
+||aldam3h.com/vb/$subdocument,domain=s-ajfan.com
+||wirwaar.com/$subdocument,domain=s-ajfan.com
+||tumblr.com/$subdocument,domain=s-ajfan.com
+||a7lahmsa.com/vb/$subdocument,domain=s-ajfan.com
+||ps-0.com/vb/$subdocument,domain=s-ajfan.com
 ||sedty.com/imagehosting/1_1337147336.gif
 ||sedty.com/imagehosting/1_1337148319.gif
 ||sedty.com/imagehosting/1_1338325669.gif
@@ -188,6 +195,10 @@ nono6.com##.bannbox
 raya.ps.##ad_space_in
 s-ajfan.com###navbar_notice_8
 s-ajfan.com##.decoded
+s-ajfan.com###dhtmlgoodies_floating_window0
+s-ajfan.com###dhtmlgoodies_floating_window1
+s-ajfan.com###dhtmlgoodies_floating_window2
+s-ajfan.com###dhtmlgoodies_floating_window3
 sedty.com##.Ads
 sedty.com##.Ads_3
 sedty.com##.Ads_4
