@@ -144,6 +144,9 @@ elaana.com###dropin
 elheddaf.com###flash
 ennaharonline.com###flash
 eqla3.com##iframe
+g5y.com##.Ads
+g5y.com###dropin
+g5y.com##DIV[style="height:150px;"]
 hao123.com##.pr
 hawaaworld.com###boxContain
 hawaaworld.com###vacuumcleaners
