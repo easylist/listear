@@ -57,6 +57,7 @@ _Adv_Banner_
 ||drubit.com/adsAPI.php?
 ||dzautos.com/data/dzauto.swf
 ||m5zn.com/open.js
+||elaana.com/open.js
 ||mark4you.com/mark.gif
 ||raya.ps/data/banners/
 ||tarfihe.com/fl/
@@ -136,6 +137,10 @@ cs-proton.net##.style123458
 ech-chaab.net##img[width="820"][height="159"]
 el3ab.com##.showcase
 el3ab.com##.smallLeader
+elaana.com##.AdTop
+elaana.com##.AdBar
+elaana.com##.ADFooter
+elaana.com###dropin
 elheddaf.com###flash
 ennaharonline.com###flash
 eqla3.com##iframe
