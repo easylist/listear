@@ -154,6 +154,8 @@ masrawy.com###hswcase
 masrawy.com##.NewClassifieds
 masrawy.com##.dealsoffer
 masrawy.com##.leaderbg
+m5zn.com##.home_sway_adv
+m5zn.com##.home_offer_adv
 nono6.com##.BannarDown
 nono6.com##.BannarTop
 nono6.com##.bannbox
