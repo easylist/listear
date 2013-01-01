@@ -135,6 +135,7 @@ bokra.net##.towerBanner
 bokra.net##.twoBanners
 cs-proton.net##.style123458
 ech-chaab.net##img[width="820"][height="159"]
+ech-chaab.net##.module.mod-line.color-black.deepest
 el3ab.com##.showcase
 el3ab.com##.smallLeader
 elaana.com##.AdTop
