@@ -144,6 +144,7 @@ arabia.com###dvwidgetad
 arabia.com###showcase
 arabia.com##.ykaleader
 a7lahmsa.com##.decoded
+a7lahmsa.com##.floatingWindowContent
 bokra.net##.ad
 bokra.net##.bigStrip
 bokra.net##.catsBanner
