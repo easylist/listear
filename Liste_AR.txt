@@ -122,7 +122,6 @@ _Adv_Banner_
 ||sedty.com/imagehosting/1_1346843455.gif
 ||sedty.com/imagehosting/2_1337379699.gif
 ||star28.com/adv/
-||sundous.com/images/pub
 ||support-ar.com/vb/index.php$image,~image,popup,domain=friasat.com
 ||uob-bh.com/uploadfiles/bahraindir.gif
 ||y4yy.com/la3bty.gif
@@ -209,6 +208,10 @@ sedty.com##.Ads_4
 sedty.com##a[href^="http://www.drsrv.com/adv/"]
 sedty.com##a[href^="http://www.sedty.com/adv/"]
 shofha.com##.adv
+n4hr.com##.adv728
+n4hr.com##.advactar
+n4hr.com##.ladv
+n4hr.com##.adsens
 traidnt.net##td[width="160px"]
 y4yy.com##.adv
 y4yy.com##img[width="300"][height="250"]
