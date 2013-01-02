@@ -65,6 +65,7 @@ _Adv_Banner_
 ||thouk.com/thouk.gif
 ||web4africa.net/banners/
 ||z4ar.com/banner/bsh.gif
+||vworker.com/RentACoder/Affiliates/images/OrientalDreamz/worker/banner-part-time-728-90.jpg
 !
 !----------------------- Sites specifiques -----------------------!
 ||0zz0.com/e/$image
@@ -129,7 +130,6 @@ _Adv_Banner_
 ||sedty.com/imagehosting/2_1337379699.gif
 ||star28.com/adv/
 ||176.31.125.138/icon.aspx?ads=
-||vworker.com/RentACoder/Affiliates/images/OrientalDreamz/worker/banner-part-time-728-90.jpg
 ||support-ar.com/vb/index.php$image,~image,popup,domain=friasat.com
 ||uob-bh.com/uploadfiles/bahraindir.gif
 ||y4yy.com/la3bty.gif
