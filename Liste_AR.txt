@@ -6,6 +6,7 @@
 ! License : http://creativecommons.org/licenses/by-nc-sa/3.0/
 ! Homepage: http://code.google.com/p/liste-ar-adblock/
 !
+! شكرا للإبلاغ عن أي إعلان أو لافتة إشهارية غير محجوبة
 ! Merci de signaler toute publicite non bloquee ou tout blocage inadequat
 ! dans le forum : http://forums.lanik.us/viewforum.php?f=
 ! ou par e-mail : liste.ar.adblock at gmail point com
