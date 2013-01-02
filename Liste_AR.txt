@@ -87,6 +87,7 @@ _Adv_Banner_
 ||s-ajfan.com/vb/aerowindow/
 ||arabsh.com/red.php$image,~image,popup,domain=nono6.com
 ||brg8.com/bb/
+||hawanaajd.com/img/b/$image
 ||djelfa.info/logo/
 ||educ40.net/images/hotcourses.gif
 ||elastec.info/$image,~image,popup,domain=s-ajfan.com
