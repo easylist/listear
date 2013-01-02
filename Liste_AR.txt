@@ -175,6 +175,7 @@ dvd4arab.maktoob.com##.adsgrd
 ksa-ksa.com##A[href*="/?adsclick=banner&id="]
 ech-chaab.net##img[width="820"][height="159"]
 ech-chaab.net##.module.mod-line.color-black.deepest
+arabsgate.com##img[width="645"][height="79"]
 el3ab.com##.showcase
 el3ab.com##.smallLeader
 elaana.com##.AdTop
