@@ -99,6 +99,8 @@ _Adv_Banner_
 ||djelfa.info/logo/
 ||educ40.net/images/hotcourses.gif
 ||arabseed.com/ffx/forsan728.jpg
+||bentvip.com/adv/
+||bentvip.com/up/20120511032813.gif
 ||mbc.net$image,~image,popup,domain=arabseed.com
 ||elastec.info/$image,~image,popup,domain=s-ajfan.com
 ||eqla3.com/adv3/
