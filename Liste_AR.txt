@@ -75,6 +75,7 @@ _Adv_Banner_
 ||aksalser.com/e/$object
 ||al-fadjr.com/ar/files/banners/
 ||al-fadjr.com/ar/img/summary_medium/SURFpetite_974111832.jpg
+||al-wlid.com/awsanmm2.js
 ||alarab.net/data/cubes/
 ||alarab.net/fursa.php
 ||alarab.net/SDK/MB_SDK_script.js
