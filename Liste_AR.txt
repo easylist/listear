@@ -91,6 +91,8 @@ _Adv_Banner_
 ||hawanaajd.com/img/b/$image
 ||djelfa.info/logo/
 ||educ40.net/images/hotcourses.gif
+||arabseed.com/ffx/forsan728.jpg
+||mbc.net$image,~image,popup,domain=arabseed.com
 ||elastec.info/$image,~image,popup,domain=s-ajfan.com
 ||eqla3.com/adv3/
 ||forsangaza.net/vb/$image,~image,popup,domain=a7lahmsa.com
