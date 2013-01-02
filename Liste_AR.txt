@@ -12,6 +12,7 @@
 ! ou par e-mail : liste.ar.adblock at gmail point com
 !
 !----------------------- Filtres generiques -----------------!
+!
 /Ads.ashx?
 /announce/adv/*
 /ar/ads/*
@@ -22,6 +23,7 @@
 _Adv_Banner_
 !
 !----------------------- Elements generiques -----------------!
+!
 ###AdsLeader
 ###AdsShowCase
 ###advert_1
@@ -41,6 +43,7 @@ _Adv_Banner_
 ##a[href^="http://www.sotmasr.com/announcements/"]
 !
 !----------------------- Annonceurs -----------------------!
+!
 ||adintop.com^$third-party
 ||adscoo.com^$third-party
 ||adtoadd.com^$third-party
@@ -51,6 +54,7 @@ _Adv_Banner_
 ||hsoub.com^$third-party
 !
 !----------------------- Publicites tierces ----------------------!
+!
 ||44aa.com/image/nesba.swf
 ||amazonaws.com/MixBerryAdsProduction/
 ||darendeal.com/widgets/recommendation_box?
@@ -68,6 +72,7 @@ _Adv_Banner_
 ||vworker.com/RentACoder/Affiliates/images/OrientalDreamz/worker/banner-part-time-728-90.jpg
 !
 !----------------------- Sites specifiques -----------------------!
+!
 ||0zz0.com/e/$image
 ||0zz0.com/e/luna20120131_2.swf
 ||3asq.com/img/uploads/13560751771.swf?
@@ -135,6 +140,7 @@ _Adv_Banner_
 ||y4yy.com/la3bty.gif
 !
 !----------------------- Elements -----------------------!
+!
 alfajertv.com###hdr-ad
 al-fadjr.com###banner_container
 alarab.net###FloatBanner
@@ -229,4 +235,5 @@ yallakora.com##.dealsoffer
 z4ar.com##.leaderboard
 !
 !----------------------- Exceptions -----------------------!
+!
 @@||bawazir-tech.com/banners/
