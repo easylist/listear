@@ -94,6 +94,7 @@ _Adv_Banner_
 ||alwatannews.net/Images/*-660x90-
 ||alwatannews.net/Images/advert
 ||arabia.com^*/AdsAjaxRefresh.
+||alnda.com/img/a3lan.gif
 ||a7lahmsa.com/vb/aerowindow/
 ||a7lahmsa.com/vb/open/
 ||s-ajfan.com/vb/open/
