@@ -119,6 +119,8 @@ _Adv_Banner_
 ||nono6.com/open.js
 ||panet.co.il^*/flash_banners/
 ||as7apcool.com/pic/$image
+||brooonzyah.net/vb/js.php
+||brooonzyah.net//uploads/images/brooonzyah-fd2b8c6425.gif
 ||ps-0.com/vb/$image,~image,popup,domain=s-ajfan.com
 ||s-ajfan.com/vb/$subdocument,domain=a7lahmsa.com
 ||anota-des.com/vb/$subdocument,domain=a7lahmsa.com
@@ -177,6 +179,7 @@ bokra.net##.strip
 bokra.net##.tower
 bokra.net##.towerBanner
 bokra.net##.twoBanners
+brooonzyah.net##.BGoogleAds300
 cs-proton.net##.style123458
 dvd4arab.maktoob.com##.adsgrd
 qwled.com##.headerbanner
