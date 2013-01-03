@@ -33,6 +33,7 @@ _Adv_Banner_
 ###rightAds
 ##.Adv_Left
 ##.ads-content
+##.adsgrd
 ##.bigCubeAd
 ##.centerAdBar
 ##.header-ads
@@ -185,7 +186,6 @@ bokra.net##.towerBanner
 bokra.net##.twoBanners
 brooonzyah.net##.BGoogleAds300
 cs-proton.net##.style123458
-dvd4arab.maktoob.com##.adsgrd
 qwled.com##.headerbanner
 ksa-ksa.com##A[href*="/?adsclick=banner&id="]
 ech-chaab.net##img[width="820"][height="159"]
