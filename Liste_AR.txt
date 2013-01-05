@@ -160,6 +160,7 @@ _Adv_Banner_
 ||support-ar.com/vb/index.php$image,~image,popup,domain=friasat.com
 ||uob-bh.com/uploadfiles/bahraindir.gif
 ||y4yy.com/la3bty.gif
+||m5zn.com/uploads/2011/5/16/photo/051611140536vqazfi1wcpjmoxyhejdf.jpg
 !
 !----------------------- Elements -----------------------!
 !
@@ -210,6 +211,7 @@ elheddaf.com###flash
 ennaharonline.com###flash
 eqla3.com##iframe
 g5y.com##.Ads
+g5y5.com###dropin
 g5y.com###dropin
 g5y.com##DIV[style="height:150px;"]
 hao123.com##.pr
