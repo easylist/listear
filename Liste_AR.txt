@@ -143,6 +143,9 @@ _Adv_Banner_
 ||tumblr.com/$subdocument,domain=s-ajfan.com
 ||a7lahmsa.com/vb/$subdocument,domain=s-ajfan.com
 ||ps-0.com/vb/$subdocument,domain=s-ajfan.com
+||servimg.com/u/f42/16/22/48/64/34637510.gif
+||servimg.com/u/f10/16/22/48/64/f40-mo10.gif
+||upxmedia.com/$subdocument,domain=shofonline.net
 ||sedty.com/imagehosting/1_1337147336.gif
 ||sedty.com/imagehosting/1_1337148319.gif
 ||sedty.com/imagehosting/1_1338325669.gif
