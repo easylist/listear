@@ -60,6 +60,7 @@ _Adv_Banner_
 ||amazonaws.com/MixBerryAdsProduction/
 ||arabweb.biz/pop-
 ||arabweb.biz/bannar-
+||alforat.org/images/banners/foraten.jpg
 ||darendeal.com/widgets/recommendation_box?
 ||diwanee.net/?ref=
 ||drubit.com/adsAPI.php?
@@ -153,6 +154,7 @@ _Adv_Banner_
 ||sedty.com/imagehosting/1_1346843455.gif
 ||sedty.com/imagehosting/2_1337379699.gif
 ||star28.com/adv/
+||shatelarab.com/images/banners/
 ||176.31.125.138/icon.aspx?ads=
 ||support-ar.com/vb/index.php$image,~image,popup,domain=friasat.com
 ||uob-bh.com/uploadfiles/bahraindir.gif
