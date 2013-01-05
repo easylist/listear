@@ -60,7 +60,7 @@ _Adv_Banner_
 ||amazonaws.com/MixBerryAdsProduction/
 ||arabweb.biz/pop-
 ||arabweb.biz/bannar-
-||alforat.org/images/banners/foraten.jpg
+||alforat.org/images/banners/
 ||darendeal.com/widgets/recommendation_box?
 ||diwanee.net/?ref=
 ||drubit.com/adsAPI.php?
