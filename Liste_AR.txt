@@ -196,6 +196,7 @@ bokra.net##.twoBanners
 brooonzyah.net##.BGoogleAds300
 brooonzyah.net##.navbar_notice
 cs-proton.net##.style123458
+chat-alriyadh.com##.paner
 qwled.com##.headerbanner
 ksa-ksa.com##A[href*="/?adsclick=banner&id="]
 ech-chaab.net##img[width="820"][height="159"]
