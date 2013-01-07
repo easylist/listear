@@ -100,6 +100,7 @@ _Adv_Banner_
 ||aksalser.com$image,~image,popup,domain=0zz0.com
 ||176.31.125.138/icon.aspx?ads=
 ||3asq.com/img/uploads/13560751771.swf?
+||3roos.com/files/ups/
 ||3rby.net/$image,~image,popup,domain=s-ajfan.com
 ||7bbb7.com/vb/$image,~image,popup,domain=s-ajfan.com
 ||7bbb7.com/vb/$subdocument,domain=s-ajfan.com
