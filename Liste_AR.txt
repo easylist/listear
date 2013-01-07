@@ -97,7 +97,7 @@ _Adv_Banner_
 !
 ||0zz0.com/e/$image
 ||0zz0.com/e/luna20120131_2.swf
-||aksalser.com$image,~image,popup,domain=0zz0.com
+||aksalser.com^$image,~image,popup,domain=0zz0.com
 ||176.31.125.138/icon.aspx?ads=
 ||3asq.com/img/uploads/13560751771.swf?
 ||3roos.com/files/ups/
