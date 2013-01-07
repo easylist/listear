@@ -15,7 +15,7 @@
 !
 -728-90.
 /Ads.ashx?
-/adsimages/
+/adsimages/*
 /announce/adv/*
 /ar/ads/*
 /cache/ads_
