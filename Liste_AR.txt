@@ -67,6 +67,7 @@ _Adv_Banner_
 ||hsoub.com^$third-party
 ||oneclickad.net^$third-party
 ||site.elkhabar.com^
+||clickmena.com^$third-party
 ||zwaar.net^$third-party
 ||zwaar.org^$third-party
 !
