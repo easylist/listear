@@ -203,6 +203,7 @@ arabia.com###dvwidgetad
 arabia.com###showcase
 arabia.com##.ykaleader
 arabsgate.com##img[width="645"][height="79"]
+ashwagi.com##.adv
 bokra.net##.ad
 bokra.net##.bigStrip
 bokra.net##.catsBanner
