@@ -183,6 +183,7 @@ _Adv_Banner_
 !
 !----------------------- Elements -----------------------!
 !
+3a2ilati.com##.eshop-list
 a7lahmsa.com##.decoded
 a7lahmsa.com##.floatingWindowContent
 al-fadjr.com###banner_container
