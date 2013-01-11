@@ -84,6 +84,7 @@ _Adv_Banner_
 ||dzautos.com/data/dzauto.swf
 ||elaana.com/open.js
 ||freewebsubmission.com/images/fwsbanner
+||jazora.com/banner/
 ||m5zn.com/open.js
 ||mark4you.com/mark.gif
 ||mn66.com/mn66SMS.GIF
@@ -225,6 +226,7 @@ el3ab.com##.showcase
 el3ab.com##.smallLeader
 el3b.sukrbnat.com###head_ads
 el3b.sukrbnat.com##IMG[alt="M5znUpload"]
+al3aab.net##SPAN[style="padding: 0; position: relative; right: 232px; top: 64px;"]
 elaana.com###dropin
 elheddaf.com###flash
 ennaharonline.com###flash
