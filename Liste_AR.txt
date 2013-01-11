@@ -205,6 +205,7 @@ arabia.com###dvwidgetad
 arabia.com###showcase
 arabia.com##.ykaleader
 arabsgate.com##img[width="645"][height="79"]
+lakii.com##a[href*="ads-redirect.php?i="]
 ashwagi.com##.adv
 bokra.net##.ad
 bokra.net##.bigStrip
