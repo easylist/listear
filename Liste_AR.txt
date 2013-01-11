@@ -223,6 +223,8 @@ ech-chaab.net##.module.mod-line.color-black.deepest
 ech-chaab.net##img[width="820"][height="159"]
 el3ab.com##.showcase
 el3ab.com##.smallLeader
+el3b.sukrbnat.com###head_ads
+el3b.sukrbnat.com##IMG[alt="M5znUpload"]
 elaana.com###dropin
 elheddaf.com###flash
 ennaharonline.com###flash
