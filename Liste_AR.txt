@@ -73,6 +73,7 @@ _Adv_Banner_
 !
 !----------------------- Publicites tierces ----------------------!
 !
+||l3bh.com/728.gif
 ||44aa.com/image/nesba.swf
 ||alforat.org/images/banners/
 ||amazonaws.com/MixBerryAdsProduction/
@@ -111,6 +112,9 @@ _Adv_Banner_
 ||a7lahmsa.com/vb/open/
 ||7be.com/banner/
 ||7be.com/images/mos1/img/728r.gif
+||7be.com^*/img/Adv468.jpg
+||7be.com^*/img/Adv150.jpg
+||7be.com/wp-content/uploads/2011/11/7be2.gif
 ||akhersaa-dz.com/files/banners/
 ||aksalser.com/e/$object
 ||al-fadjr.com/ar/files/banners/
@@ -155,6 +159,7 @@ _Adv_Banner_
 ||q8yat.com/uploads/images/q8yat-bd676156ea.gif
 ||q8yat.com/uploads/images/q8yat-6f74f90b85.gif
 ||q8yat.com/uploads/images/q8yat-1ce0d91ca2.gif
+||l3bh.com$image,~image,popup,domain=7be.com
 ||m5zn.com/uploads/2011/5/16/photo/051611140536vqazfi1wcpjmoxyhejdf.jpg
 ||m7ol.com/baners/
 ||mbc.net$image,~image,popup,domain=arabseed.com
@@ -189,6 +194,8 @@ _Adv_Banner_
 !----------------------- Elements -----------------------!
 !
 3a2ilati.com##.eshop-list
+7be.com##.Adv468
+7be.com###table2805
 a7lahmsa.com##.decoded
 a7lahmsa.com##.floatingWindowContent
 al-fadjr.com###banner_container
