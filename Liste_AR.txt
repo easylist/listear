@@ -99,6 +99,7 @@ _Adv_Banner_
 !
 !----------------------- Sites specifiques -----------------------!
 !
+||0sat.net/index/
 ||0zz0.com/e/$image
 ||0zz0.com/e/luna20120131_2.swf
 ||aksalser.com^$image,~image,popup,domain=0zz0.com
