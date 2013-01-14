@@ -8,7 +8,7 @@
 !
 ! شكرا للإبلاغ عن أي إعلان أو لافتة إشهارية غير محجوبة
 ! Merci de signaler toute publicite non bloquee ou tout blocage inadequat
-! dans le forum : http://forums.lanik.us/viewforum.php?f=
+! dans le forum : http://forums.lanik.us/viewforum.php?f=98
 ! ou par e-mail : liste.ar.adblock at gmail point com
 !
 !----------------------- Filtres generiques -----------------!
