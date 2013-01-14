@@ -223,6 +223,7 @@ arabsgate.com##img[width="645"][height="79"]
 l3bh.com##.ads
 lakii.com##a[href*="ads-redirect.php?i="]
 ashwagi.com##.adv
+al-wrwd.com###bannbox
 bokra.net##.ad
 bokra.net##.bigStrip
 bokra.net##.catsBanner
