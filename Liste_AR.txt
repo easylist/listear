@@ -153,6 +153,7 @@ _Adv_Banner_
 ||googlna.com/flash/bnar.swf
 ||gulfup.com/styles/gulfup2/p/$image
 ||hawanaajd.com/img/b/$image
+||ibtesama.com/adv/
 ||khaleejcal.com^*/banners/
 ||ksa-ksa.com^$subdocument,domain=a7lahmsa.com
 ||llssll.com/uploads/viewimages/
