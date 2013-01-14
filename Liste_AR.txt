@@ -273,6 +273,7 @@ nono6.com##.BannarDown
 nono6.com##.BannarTop
 nono6.com##.bannbox
 qwled.com##.headerbanner
+qatarw.com##IMG[width="728"][height="90"]
 s-ajfan.com###navbar_notice_8
 s-ajfan.com###window10
 s-ajfan.com###window3
