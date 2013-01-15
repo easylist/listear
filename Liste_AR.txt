@@ -76,7 +76,7 @@ _Adv_Banner_
 ||0sat.com/photo0sat/
 ||44aa.com/image/nesba.swf
 ||alforat.org/images/banners/
-||algrbh.com/upl/bnr-grbh.gif
+||algrbh.com/upl/bnr-
 ||amazonaws.com/MixBerryAdsProduction/
 ||arabweb.biz/bannar-
 ||arabweb.biz/pop-
@@ -282,6 +282,7 @@ masrawy.com###hswcase
 masrawy.com##.NewClassifieds
 masrawy.com##.dealsoffer
 masrawy.com##.leaderbg
+mtwer.com##A[onclick^="_gaq.push(['_trackEvent', 'Outgoing',"]
 n4hr.com##.advactar
 n4hr.com##.ladv
 nono6.com##.BannarDown
