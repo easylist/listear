@@ -148,6 +148,16 @@ _Adv_Banner_
 ||egypt.com/gui/images/banner.gif
 ||elastec.info/$image,~image,popup,domain=s-ajfan.com
 ||eqla3.com/adv3/
+||fannannsat.com/vb/images/00.gif
+||fannannsat.com/vb/images/000.gif
+||fannannsat.com/vb/images/0000.gif
+||fannannsat.com/vb/images/Nas.gif
+||fannannsat.com/vb/images/cccam.gif
+||fannannsat.com/vb/images/Waled.gif
+||fannannsat.com/vb/images/banner.gif
+||fannannsat.com/vb/images/newcamd.gif
+||fannannsat.com/vb/images/Radwan1.gif
+||fannannsat.com/vb/images/Toolbar.gif
 ||forsangaza.net/vb/$image,~image,popup,domain=a7lahmsa.com
 ||forsangaza.net/vb/$subdocument,domain=a7lahmsa.com
 ||fragny.com/open.js
