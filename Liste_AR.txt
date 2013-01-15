@@ -117,6 +117,8 @@ _Adv_Banner_
 ||7be.com^*/img/Adv468.jpg
 ||7be.com^*/img/Adv150.jpg
 ||7be.com/wp-content/uploads/2011/11/7be2.gif
+||7bbb7.com/vb/dr-7bbb7/images/468.jpg
+||7bbb7.com/vb/dr-7bbb7/images/150.jpg
 ||akhersaa-dz.com/files/banners/
 ||aksalser.com/e/$object
 ||al-fadjr.com/ar/files/banners/
