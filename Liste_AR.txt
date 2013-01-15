@@ -172,6 +172,7 @@ _Adv_Banner_
 ||mbc.net$image,~image,popup,domain=arabseed.com
 ||mbc.net/dms/analytics-and-banners/
 ||mtwer.com^*/adsmtwerclient/
+||mtwer.com/files/14806.gif
 ||nono6.com/open.js
 ||panet.co.il^*/flash_banners/
 ||ps-0.com/vb/$image,~image,popup,domain=s-ajfan.com
