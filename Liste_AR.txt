@@ -310,6 +310,7 @@ sedty.com##.Ads_4
 sedty.com##a[href^="http://www.drsrv.com/adv/"]
 sedty.com##a[href^="http://www.sedty.com/adv/"]
 shofha.com##.adv
+swarih.com##.adv
 traidnt.net##td[width="160px"]
 y4yy.com##.adv
 y4yy.com##img[width="300"][height="250"]
