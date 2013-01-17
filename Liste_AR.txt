@@ -259,6 +259,7 @@ bokra.net##.twoBanners
 brooonzyah.net##.navbar_notice
 chat-alriyadh.com##.paner
 cs-proton.net##.style123458
+d1g.com###ads_wrapper
 ech-chaab.net##.module.mod-line.color-black.deepest
 ech-chaab.net##img[width="820"][height="159"]
 el3ab.com##.showcase
