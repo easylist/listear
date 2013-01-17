@@ -176,6 +176,7 @@ _Adv_Banner_
 ||llssll.com/vb/2.jpg
 ||m5zn.com/uploads/2011/5/16/photo/051611140536vqazfi1wcpjmoxyhejdf.jpg
 ||m7ol.com/baners/
+||maas1.com/images/adv-
 ||mbc.net$image,~image,popup,domain=arabseed.com
 ||mbc.net/dms/analytics-and-banners/
 ||mtwer.com/files/14806.gif
