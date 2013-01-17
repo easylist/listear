@@ -290,6 +290,7 @@ nono6.com##.BannarTop
 nono6.com##.bannbox
 qatarw.com##img[width="728"][height="90"]
 qwled.com##.headerbanner
+rjeem.com##.ads1
 s-ajfan.com###navbar_notice_8
 s-ajfan.com###window10
 s-ajfan.com###window3
