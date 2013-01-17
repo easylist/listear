@@ -69,7 +69,6 @@ _Adv_Banner_
 ||oneclickad.net^$third-party
 ||site.elkhabar.com^
 ||zwaar.net^$third-party
-||zwaar.org^$third-party
 !
 !----------------------- Publicites tierces ----------------------!
 !
@@ -78,8 +77,6 @@ _Adv_Banner_
 ||alforat.org/images/banners/
 ||algrbh.com/upl/bnr-
 ||amazonaws.com/MixBerryAdsProduction/
-||arabweb.biz/bannar-
-||arabweb.biz/pop-
 ||darendeal.com/widgets/recommendation_box?
 ||diwanee.net/?ref=
 ||alquds.co.uk/zaaptv.gif
