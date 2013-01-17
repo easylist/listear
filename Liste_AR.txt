@@ -213,6 +213,7 @@ _Adv_Banner_
 !----------------------- Elements -----------------------!
 !
 3a2ilati.com##.eshop-list
+5foq.com##DIV[style="width:680px;height:180px;float:left;margin-left:5px;margin-top:25px"]
 7be.com###table2805
 7be.com##.Adv468
 a7lahmsa.com##.decoded
