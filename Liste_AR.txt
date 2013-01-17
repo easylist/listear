@@ -146,6 +146,8 @@ _Adv_Banner_
 ||brg8.com/bb/
 ||brooonzyah.net/vb/js.php
 ||djelfa.info/logo/
+||dl3-r.com/dla3/images/area-in--header.png
+||dl3-r.com/dla3/images/large-area.gif
 ||educ40.net/images/hotcourses.gif
 ||egypt.com/gui/images/banner.gif
 ||elastec.info/$image,~image,popup,domain=s-ajfan.com
