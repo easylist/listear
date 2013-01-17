@@ -267,6 +267,10 @@ g5y.com###dropin
 g5y.com##.Ads
 g5y.com##div[style="height:150px;"]
 g5y5.com###dropin
+hwaml.com##img[width="150"][height="60"]
+hwaml.com##img[width="240"][height="60"]
+hwaml.com##img[width="468"][height="60"]
+hwaml.com##img[width="728"][height="90"]
 hao123.com##.pr
 hawaaworld.com###boxContain
 hawaaworld.com###vacuumcleaners
