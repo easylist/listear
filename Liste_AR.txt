@@ -281,6 +281,7 @@ m5zn.com###dropin
 m5zn.com##.banner_120_black
 m5zn.com##img[width="728"][height="90"]
 maas1.com##.ads-google
+maas1.com###topads
 masrawy.com###hleader
 masrawy.com###hswcase
 masrawy.com##.NewClassifieds
