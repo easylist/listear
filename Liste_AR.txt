@@ -107,6 +107,7 @@ _Adv_Banner_
 ||3asq.com/img/uploads/13560751771.swf?
 ||3rby.net/$image,~image,popup,domain=s-ajfan.com
 ||3roos.com/files/ups/
+||5jle.com^$image,~image,popup,domain=maas1.com
 ||7bbb7.com/vb/$image,~image,popup,domain=s-ajfan.com
 ||7bbb7.com/vb/$subdocument,domain=s-ajfan.com
 ||7bbb7.com/vb/dr-7bbb7/images/150.jpg
@@ -279,6 +280,7 @@ linkat-online.com##.left_side
 m5zn.com###dropin
 m5zn.com##.banner_120_black
 m5zn.com##img[width="728"][height="90"]
+maas1.com##.ads-google
 masrawy.com###hleader
 masrawy.com###hswcase
 masrawy.com##.NewClassifieds
