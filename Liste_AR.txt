@@ -175,7 +175,7 @@ _Adv_Banner_
 ||ibtesama.com/adv/
 ||khaleejcal.com^*/banners/
 ||ksa-ksa.com^$subdocument,domain=a7lahmsa.com
-||l3bh.com$image,~image,popup,domain=7be.com
+||l3bh.com^$image,~image,popup,domain=7be.com
 ||llssll.com/uploads/viewimages/
 ||llssll.com/vb/$subdocument,domain=a7lahmsa.com
 ||llssll.com/vb/2.jpg
@@ -186,7 +186,7 @@ _Adv_Banner_
 ||mbc.net/dms/analytics-and-banners/
 ||mtwer.com/files/14806.gif
 ||mtwer.com^*/adsmtwerclient/
-||mycar4ever.blogspot.com$image,~image,popup,domain=egyptladies.net
+||mycar4ever.blogspot.com^$image,~image,popup,domain=egyptladies.net
 ||myegy.com/class.Pop.php
 ||nono6.com/open.js
 ||panet.co.il^*/flash_banners/
