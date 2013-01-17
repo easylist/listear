@@ -108,6 +108,7 @@ _Adv_Banner_
 ||3rby.net/$image,~image,popup,domain=s-ajfan.com
 ||3roos.com/files/ups/
 ||5jle.com^$image,~image,popup,domain=maas1.com
+||6oyor-aljanah.com/vb/6oyor2012/ads
 ||7bbb7.com/vb/$image,~image,popup,domain=s-ajfan.com
 ||7bbb7.com/vb/$subdocument,domain=s-ajfan.com
 ||7bbb7.com/vb/dr-7bbb7/images/150.jpg
