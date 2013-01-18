@@ -14,7 +14,9 @@
 !----------------------- Filtres generiques -----------------!
 !
 -728-90.
-/Ads.ashx?
+/AdsAjaxRefresh.
+/Ads.ashx
+/adsAPI.
 /adsimages/*
 /announce/adv/*
 /ar/ads/*
@@ -22,6 +24,10 @@
 /Handlers/Ads.
 /js/adv.
 /newadv/*
+/images/adv-
+/Adv150.
+/Adv468.
+/default_adv.
 /vb/ads/*
 _Adv_Banner_
 !
@@ -37,12 +43,19 @@ _Adv_Banner_
 ###header-ad
 ###leftAds
 ###rightAds
+##.ads-google
+###topads
 ##.ADFooter
+##.Adv468
 ##.AdBar
 ##.AdTop
 ##.Adv_Left
 ##.BGoogleAds300
+##.Ads_3
+##.Ads_4
+###ads_wrapper
 ##.ad_space_in
+###head_ads
 ##.ads-content
 ##.adsens
 ##.adsgrd
@@ -80,7 +93,6 @@ _Adv_Banner_
 ||darendeal.com/widgets/recommendation_box?
 ||diwanee.net/?ref=
 ||alquds.co.uk/zaaptv.gif
-||drubit.com/adsAPI.php?
 ||dzautos.com/data/dzauto.swf
 ||elaana.com/open.js
 ||freewebsubmission.com/images/fwsbanner
@@ -115,8 +127,6 @@ _Adv_Banner_
 ||7be.com/banner/
 ||7be.com/images/mos1/img/728r.gif
 ||7be.com/wp-content/uploads/2011/11/7be2.gif
-||7be.com^*/img/Adv150.jpg
-||7be.com^*/img/Adv468.jpg
 ||a7lahmsa.com/vb/$subdocument,domain=s-ajfan.com
 ||a7lahmsa.com/vb/aerowindow/
 ||a7lahmsa.com/vb/open/
@@ -135,7 +145,6 @@ _Adv_Banner_
 ||alwatannews.net/Images/*-660x90-
 ||alwatannews.net/Images/advert
 ||anota-des.com/vb/$subdocument,domain=a7lahmsa.com
-||arabia.com^*/AdsAjaxRefresh.
 ||arabseed.com/ffx/forsan728.jpg
 ||arabsh.com/red.php$image,~image,popup,domain=nono6.com
 ||as7apcool.com/pic/$image
@@ -164,7 +173,6 @@ _Adv_Banner_
 ||forsangaza.net/vb/$image,~image,popup,domain=a7lahmsa.com
 ||forsangaza.net/vb/$subdocument,domain=a7lahmsa.com
 ||fragny.com/open.js
-||friasat.com/vb/images/default_adv.gif
 ||gem-flash.com/vb/banners1.php?
 ||googlna.com/flash/bnar.swf
 ||gulfup.com/styles/gulfup2/p/$image
@@ -178,7 +186,6 @@ _Adv_Banner_
 ||llssll.com/vb/2.jpg
 ||m5zn.com/uploads/2011/5/16/photo/051611140536vqazfi1wcpjmoxyhejdf.jpg
 ||m7ol.com/baners/
-||maas1.com/images/adv-
 ||mbc.net$image,~image,popup,domain=arabseed.com
 ||mbc.net/dms/analytics-and-banners/
 ||mtwer.com/files/14806.gif
@@ -222,7 +229,6 @@ _Adv_Banner_
 3a2ilati.com##.eshop-list
 5foq.com##DIV[style="width:680px;height:180px;float:left;margin-left:5px;margin-top:25px"]
 7be.com###table2805
-7be.com##.Adv468
 a7lahmsa.com##.decoded
 a7lahmsa.com##.floatingWindowContent
 al-fadjr.com###banner_container
@@ -259,12 +265,10 @@ bokra.net##.twoBanners
 brooonzyah.net##.navbar_notice
 chat-alriyadh.com##.paner
 cs-proton.net##.style123458
-d1g.com###ads_wrapper
 ech-chaab.net##.module.mod-line.color-black.deepest
 ech-chaab.net##img[width="820"][height="159"]
 el3ab.com##.showcase
 el3ab.com##.smallLeader
-el3b.sukrbnat.com###head_ads
 el3b.sukrbnat.com##img[alt="M5znUpload"]
 elaana.com###dropin
 elheddaf.com###flash
@@ -293,8 +297,6 @@ linkat-online.com##.left_side
 m5zn.com###dropin
 m5zn.com##.banner_120_black
 m5zn.com##img[width="728"][height="90"]
-maas1.com##.ads-google
-maas1.com###topads
 masrawy.com###hleader
 masrawy.com###hswcase
 masrawy.com##.NewClassifieds
@@ -318,8 +320,6 @@ s-ajfan.com###window3
 s-ajfan.com###window9
 s-ajfan.com##.decoded
 sedty.com##.Ads
-sedty.com##.Ads_3
-sedty.com##.Ads_4
 sedty.com##a[href^="http://www.drsrv.com/adv/"]
 sedty.com##a[href^="http://www.sedty.com/adv/"]
 shofha.com##.adv
