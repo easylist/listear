@@ -44,7 +44,6 @@ _Adv_Banner_
 ###leftAds
 ###rightAds
 ##.ads-google
-###topads
 ##.ADFooter
 ##.Adv468
 ##.AdBar
@@ -288,6 +287,7 @@ hawaaworld.com###boxContain
 hawaaworld.com###vacuumcleaners
 hawamer.com###topBanner
 hawamer.com##.centerBanner
+maas1.com###topads
 jsoftj.com###freet
 ksa-ksa.com##a[href*="/?adsclick=banner&id="]
 l3bh.com##.ads
