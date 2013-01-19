@@ -155,6 +155,7 @@
 ||q8yat.com/uploads/images/q8yat-6f74f90b85.gif
 ||q8yat.com/uploads/images/q8yat-bd676156ea.gif
 ||realmadridarabia.com^*/images/bnr_
+||rmadarab.com/vb/RMclub/pub
 ||roro44.com/girls-games-banner.jpg
 ||s-ajfan.com/vb/$subdocument,domain=a7lahmsa.com
 ||s-ajfan.com/vb/aerowindow/
@@ -277,6 +278,8 @@ physique48.org##.TOOLbarB
 qatarw.com##img[width="728"][height="90"]
 qwled.com##.headerbanner
 rjeem.com##.ads1
+rmadarab.com##IMG[width="150"][height="60"]
+rmadarab.com##IMG[width="500"][height="60"]
 s-ajfan.com###navbar_notice_8
 s-ajfan.com###window10
 s-ajfan.com###window3
