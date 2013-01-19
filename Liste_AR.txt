@@ -199,6 +199,7 @@ alayam.com##.slides76
 alwatannews.net###lnkMainAdver3
 alwatannews.net###pnlAdv12
 alwatannews.net##.Adv
+arab-x.com##IMG[width="110"][height="35"]
 arabia.com###divDimmed
 arabia.com###divIFrame
 arabia.com###dvleaderboard
