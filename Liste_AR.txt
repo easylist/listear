@@ -219,6 +219,8 @@ chat-alriyadh.com##.paner
 cs-proton.net##.style123458
 ech-chaab.net##.module.mod-line.color-black.deepest
 ech-chaab.net##img[width="820"][height="159"]
+filgoal.com##.inner_leaderboard
+filgoal.com##.MRContainer
 el3ab.com##.showcase
 el3ab.com##.smallLeader
 el3b.sukrbnat.com##img[alt="M5znUpload"]
