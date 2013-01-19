@@ -45,6 +45,7 @@
 ||dzautos.com/data/dzauto.swf
 ||elaana.com/open.js
 ||freewebsubmission.com/images/fwsbanner
+||g2g2.net/banars/
 ||jazora.com/banner/
 ||karizmo.net/vb/karix.gif
 ||l3bh.com/728.gif
