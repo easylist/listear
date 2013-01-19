@@ -262,6 +262,8 @@ masrawy.com###hswcase
 masrawy.com##.NewClassifieds
 masrawy.com##.dealsoffer
 masrawy.com##.leaderbg
+mdredclub.com##IMG[width="150"][height="60"]
+mdredclub.com##IMG[width="460"][height="60"]
 mtwer.com##A[onclick^="_gaq.push(['_trackEvent', 'Outgoing',"]
 n4hr.com##.advactar
 n4hr.com##.ladv
