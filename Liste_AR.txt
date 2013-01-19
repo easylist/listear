@@ -131,6 +131,8 @@
 ||gulfup.com/styles/gulfup2/p/$image
 ||hawanaajd.com/img/b/$image
 ||ibtesama.com/adv/
+||jawaley.com/advs.php
+||jawaley.com/banar/*
 ||khaleejcal.com^*/banners/
 ||ksa-ksa.com^$subdocument,domain=a7lahmsa.com
 ||l3bh.com^$image,~image,popup,domain=7be.com
