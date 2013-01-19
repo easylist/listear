@@ -162,6 +162,7 @@
 ||servimg.com/u/f10/16/22/48/64/f40-mo10.gif
 ||servimg.com/u/f42/16/22/48/64/34637510.gif
 ||shatelarab.com/images/banners/
+||sm3na.com/ads/*
 ||souqa3mal.com^*/ad125b.gif
 ||star28.com/adv/
 ||support-ar.com/vb/index.php$image,~image,popup,domain=friasat.com
@@ -274,6 +275,7 @@ sedty.com##.Ads
 sedty.com##a[href^="http://www.drsrv.com/adv/"]
 sedty.com##a[href^="http://www.sedty.com/adv/"]
 shofha.com##.adv
+sm3na.com###topbar
 souqa3mal.com##.ads
 souqa3mal.com##.slid-topmaxtech-costom-ads
 swarih.com##.adv
