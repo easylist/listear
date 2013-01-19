@@ -46,6 +46,7 @@
 ||elaana.com/open.js
 ||freewebsubmission.com/images/fwsbanner
 ||jazora.com/banner/
+||karizmo.net/vb/karix.gif
 ||l3bh.com/728.gif
 ||m5zn.com/open.js
 ||mark4you.com/mark.gif
@@ -103,6 +104,8 @@
 ||bentvip.com/up/20120511032813.gif
 ||brg8.com/bb/
 ||brooonzyah.net/vb/js.php
+||clasicooo.com/pic/bd1.gif
+||clasicooo.com/pic/bd2.gif
 ||djelfa.info/logo/
 ||dl3-r.com/dla3/images/area-in--header.png
 ||dl3-r.com/dla3/images/large-area.gif
