@@ -151,6 +151,7 @@
 ||mtwer.com^*/adsmtwerclient/
 ||mycar4ever.blogspot.com^$image,~image,popup,domain=egyptladies.net
 ||myegy.com/class.Pop.php
+||nokiagate.com/bans/
 ||nono6.com/open.js
 ||panet.co.il^*/flash_banners/
 ||ps-0.com/vb/$image,~image,popup,domain=s-ajfan.com
