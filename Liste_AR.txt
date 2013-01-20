@@ -125,6 +125,7 @@
 ||fannannsat.com/vb/images/Radwan1.gif
 ||fannannsat.com/vb/images/Toolbar.gif
 ||fannannsat.com/vb/images/Waled.gif
+||fibladi.com/common/pub_
 ||forsangaza.net/vb/$image,~image,popup,domain=a7lahmsa.com
 ||forsangaza.net/vb/$subdocument,domain=a7lahmsa.com
 ||fragny.com/open.js
@@ -239,6 +240,8 @@ elaana.com###dropin
 elheddaf.com###flash
 ennaharonline.com###flash
 eqla3.com##iframe
+fibladi.com##.lastads
+fibladi.com##[id^="google_ads"]
 g5y.com###dropin
 g5y.com##.Ads
 g5y.com##div[style="height:150px;"]
