@@ -165,6 +165,9 @@
 ||s-ajfan.com/vb/$subdocument,domain=a7lahmsa.com
 ||s-ajfan.com/vb/aerowindow/
 ||s-ajfan.com/vb/open/
+||sawt-alahrar.net/ara/files/banners/pub
+||sawt-alahrar.net/ara/themes/rtlsouf/img/alimisurata3.gif
+||sawt-alahrar.net/ara/themes/rtlsouf/img/ichhar.jpg
 ||sedty.com/imagehosting/1_1337147336.gif
 ||sedty.com/imagehosting/1_1337148319.gif
 ||sedty.com/imagehosting/1_1338325669.gif
