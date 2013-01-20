@@ -112,6 +112,7 @@
 ||dl3-r.com/dla3/images/large-area.gif
 ||educ40.net/images/hotcourses.gif
 ||egypt.com/gui/images/banner.gif
+||el-massa.com/ar/images/banners/
 ||elastec.info/$image,~image,popup,domain=s-ajfan.com
 ||eqla3.com/adv3/
 ||fannannsat.com/vb/images/00.gif
