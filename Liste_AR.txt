@@ -134,6 +134,7 @@
 ||gulfup.com/styles/gulfup2/p/$image
 ||hawanaajd.com/img/b/$image
 ||ibtesama.com/adv/
+||infosoir.com/images/pub.gif
 ||jawaley.com/advs.php
 ||jawaley.com/banar/*
 ||khaleejcal.com^*/banners/
