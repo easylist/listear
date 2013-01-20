@@ -238,6 +238,7 @@ el3ab.com##.smallLeader
 el3b.sukrbnat.com##img[alt="M5znUpload"]
 elaana.com###dropin
 elheddaf.com###flash
+elkhabar.com###pub_entete
 ennaharonline.com###flash
 eqla3.com##iframe
 fibladi.com##.lastads
