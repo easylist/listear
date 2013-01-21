@@ -71,6 +71,7 @@
 ||3roos.com/files/ups/
 ||5jle.com^$image,~image,popup,domain=maas1.com
 ||6oyor-aljanah.com/vb/6oyor2012/ads
+||6ef.com/ee/fr7-160x300.gif
 ||7bbb7.com/vb/$image,~image,popup,domain=s-ajfan.com
 ||7bbb7.com/vb/$subdocument,domain=s-ajfan.com
 ||7bbb7.com/vb/dr-7bbb7/images/150.jpg
@@ -240,6 +241,7 @@ ech-chaab.net##.module.mod-line.color-black.deepest
 ech-chaab.net##img[width="820"][height="159"]
 filgoal.com##.inner_leaderboard
 filgoal.com##.MRContainer
+fr7.com###webColorsHeader2
 el3ab.com##.showcase
 el3ab.com##.smallLeader
 el3b.sukrbnat.com##img[alt="M5znUpload"]
