@@ -46,6 +46,7 @@
 ||elaana.com/open.js
 ||freewebsubmission.com/images/fwsbanner
 ||g2g2.net/banars/
+||galileosolutions.net^*/banners_
 ||jazora.com/banner/
 ||karizmo.net/vb/karix.gif
 ||l3bh.com/728.gif
@@ -227,6 +228,7 @@ arabia.com###dvleaderboard
 arabia.com###dvwidgetad
 arabia.com###showcase
 arabia.com##.ykaleader
+arabnet5.com##DIV[style^="width:728px; height:90px;"]
 arabseed.com##A[href$="goo.gl/W8VHQ"]
 arabseyes.com###Banner
 arabsgate.com##img[width="645"][height="79"]
