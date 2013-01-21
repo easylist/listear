@@ -44,6 +44,7 @@
 ||bdyamall.com/banner
 ||dzautos.com/data/dzauto.swf
 ||elaana.com/open.js
+||elmal.us/banner
 ||freewebsubmission.com/images/fwsbanner
 ||g2g2.net/banars/
 ||galileosolutions.net^*/banners_
