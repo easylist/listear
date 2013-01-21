@@ -71,7 +71,7 @@
 ||3roos.com/files/ups/
 ||5jle.com^$image,~image,popup,domain=maas1.com
 ||6oyor-aljanah.com/vb/6oyor2012/ads
-||6ef.com/ee/fr7-160x300.gif
+||6ef.com/ee/*-160x300.
 ||7bbb7.com/vb/$image,~image,popup,domain=s-ajfan.com
 ||7bbb7.com/vb/$subdocument,domain=s-ajfan.com
 ||7bbb7.com/vb/dr-7bbb7/images/150.jpg
@@ -196,6 +196,7 @@
 3a2ilati.com##.eshop-list
 3rbb.net##.ad
 5foq.com##DIV[style="width:680px;height:180px;float:left;margin-left:5px;margin-top:25px"]
+6ef.com###webColorsHeader2
 6rb.com##.adsbnr
 7be.com###table2805
 a7lahmsa.com##.decoded
