@@ -199,6 +199,8 @@
 6ef.com###webColorsHeader2
 6rb.com##.adsbnr
 7be.com###table2805
+q8yatnews.com##.ads
+q8yatnews.com##.Ads2
 a7lahmsa.com##.decoded
 a7lahmsa.com##.floatingWindowContent
 al-fadjr.com###banner_container
