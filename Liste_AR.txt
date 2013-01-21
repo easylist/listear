@@ -81,6 +81,7 @@
 ||a7lahmsa.com/vb/$subdocument,domain=s-ajfan.com
 ||a7lahmsa.com/vb/aerowindow/
 ||a7lahmsa.com/vb/open/
+||adv.6rb.com^
 ||akhersaa-dz.com/files/banners/
 ||aksalser.com/e/$object
 ||aksalser.com^$image,~image,popup,domain=0zz0.com
@@ -194,6 +195,7 @@
 3-tp.com##.bannbox
 3a2ilati.com##.eshop-list
 5foq.com##DIV[style="width:680px;height:180px;float:left;margin-left:5px;margin-top:25px"]
+6rb.com##.adsbnr
 7be.com###table2805
 a7lahmsa.com##.decoded
 a7lahmsa.com##.floatingWindowContent
