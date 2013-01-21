@@ -261,6 +261,9 @@ elheddaf.com###flash
 elkhabar.com###pub_entete
 ennaharonline.com###flash
 eqla3.com##iframe
+ewbas.com###AdvContainerMiddleRight
+ewbas.com###AdvContainerTopCenter
+ewbas.com###AdvContainerTopRight
 fibladi.com##.lastads
 fibladi.com##[id^="google_ads"]
 g5y.com###dropin
