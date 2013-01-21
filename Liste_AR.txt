@@ -164,6 +164,7 @@
 ||q8yat.com/uploads/images/q8yat-bd676156ea.gif
 ||realmadridarabia.com^*/images/bnr_
 ||rmadarab.com/vb/RMclub/pub
+||roooo3.com^$image,~image,popup,domain=arabsh.com
 ||roro44.com/girls-games-banner.jpg
 ||s-ajfan.com/vb/$subdocument,domain=a7lahmsa.com
 ||s-ajfan.com/vb/aerowindow/
@@ -179,6 +180,7 @@
 ||servimg.com/u/f10/16/22/48/64/f40-mo10.gif
 ||servimg.com/u/f42/16/22/48/64/34637510.gif
 ||shatelarab.com/images/banners/
+||soft365.com^$image,~image,popup,domain=arabsh.com
 ||sm3na.com/ads/*
 ||souqa3mal.com^*/ad125b.gif
 ||star28.com/adv/
@@ -227,6 +229,8 @@ arabseed.com##A[href$="goo.gl/W8VHQ"]
 arabseyes.com###Banner
 arabsgate.com##img[width="645"][height="79"]
 ashwagi.com##.adv
+arabsh.com##.ads-area
+arabsh.com##.ads160x600
 bokra.net##.ad
 bokra.net##.bigStrip
 bokra.net##.catsBanner
