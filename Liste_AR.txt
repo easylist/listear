@@ -209,6 +209,7 @@ a7lahmsa.com##.floatingWindowContent
 al-fadjr.com###banner_container
 al-wrwd.com###bannbox
 al3aab.net##span[style="padding: 0; position: relative; right: 232px; top: 64px;"]
+alaan.tv##.show-specificimg1
 alarab.net###FloatBanner
 alarab.net###secncom
 alarab.net###topbanner
