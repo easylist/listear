@@ -138,6 +138,7 @@
 ||hawanaajd.com/img/b/$image
 ||ibtesama.com/adv/
 ||infosoir.com/images/pub.gif
+||islamiy.com^$subdocument,domain=wadilarab.com
 ||jawaley.com/advs.php
 ||jawaley.com/banar/*
 ||khaleejcal.com^*/banners/
@@ -191,6 +192,7 @@
 ||uob-bh.com/uploadfiles/bahraindir.gif
 ||upxmedia.com/$subdocument,domain=shofonline.net
 ||wadize2ab.com^$subdocument,domain=a7lahmsa.com
+||wdbook.net^$subdocument,domain=wadilarab.com
 ||wirwaar.com/$subdocument,domain=s-ajfan.com
 ||y4yy.com/la3bty.gif
 !
