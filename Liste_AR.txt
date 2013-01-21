@@ -293,6 +293,7 @@ nono6.com##.bannbox
 onothty.net##.ads
 onothty.net##.Ads2
 physique48.org##.TOOLbarB
+q8me.com###webColorsHeader2
 qatarw.com##img[width="728"][height="90"]
 qwled.com##.headerbanner
 rjeem.com##.ads1
