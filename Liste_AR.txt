@@ -92,6 +92,7 @@
 ||alarab.net/data/cubes/
 ||alarab.net/fursa.php
 ||alarab.net/SDK/MB_SDK_script.js
+||albrq.net/open*.js
 ||aldam3h.com/vb/$subdocument,domain=s-ajfan.com
 ||alnda.com/img/a3lan.gif
 ||alwatannews.net/Images/*-660x90-
