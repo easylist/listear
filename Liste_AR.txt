@@ -248,6 +248,8 @@ brooonzyah.net##.navbar_notice
 chat-alriyadh.com##.paner
 calcio4arab.com##IMG[width="280"][height="80"]
 cs-proton.net##.style123458
+dramany.net###AdvContainer
+dramany.net###AdvContainerBottom
 ech-chaab.net##.module.mod-line.color-black.deepest
 ech-chaab.net##img[width="820"][height="159"]
 filgoal.com##.inner_leaderboard
