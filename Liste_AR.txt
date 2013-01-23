@@ -191,6 +191,7 @@
 ||q8yat.com/uploads/images/q8yat-20e3d95ccd.gif
 ||q8yat.com/uploads/images/q8yat-6f74f90b85.gif
 ||q8yat.com/uploads/images/q8yat-bd676156ea.gif
+||rassoulallah.info/new/images/e3lan.png
 ||realmadridarabia.com^*/images/bnr_
 ||rmadarab.com/vb/RMclub/pub
 ||roro44.com/girls-games-banner.jpg
@@ -336,6 +337,8 @@ q8yatnews.com##.Ads2
 q8yatnews.com##.ads
 qatarw.com##img[width="728"][height="90"]
 qwled.com##.headerbanner
+rassoulallah.info##.narrow_column
+rassoulallah.info##.right_column
 rjeem.com##.ads1
 rmadarab.com##img[width="150"][height="60"]
 rmadarab.com##img[width="500"][height="60"]
