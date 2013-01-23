@@ -162,6 +162,10 @@
 ||fannannsat.com/vb/images/Radwan1.gif
 ||fannannsat.com/vb/images/Toolbar.gif
 ||fannannsat.com/vb/images/Waled.gif
+||fennec-dz.com/img/efth.jpg
+||fennec-dz.com/img/atlas.jpg
+||fennec-dz.com/img/bann_sweet.jpg
+||fennec-dz.com/img/ayrade.jpg
 ||fibladi.com/common/pub_
 ||fragny.com/open.js
 ||gem-flash.com/vb/banners1.php?
