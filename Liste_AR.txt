@@ -361,6 +361,8 @@ sedty.com##.Ads
 sedty.com##a[href^="http://www.drsrv.com/adv/"]
 sedty.com##a[href^="http://www.sedty.com/adv/"]
 shofha.com##.adv
+shorouknews.com##.largeAd
+shorouknews.com###DivTopAd
 sm3na.com###topbar
 souqa3mal.com##.ads
 souqa3mal.com##.slid-topmaxtech-costom-ads
