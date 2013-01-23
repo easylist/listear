@@ -86,6 +86,7 @@
 ||mn66.com/mn66SMS.GIF
 ||mn66.com/sms2.jpg
 ||mycar4ever.blogspot.com^$image,~image,popup,domain=egyptladies.net
+||nadorhoy.net/pub/
 ||ps-0.com/vb/$image,~image,popup,domain=s-ajfan.com
 ||ps-0.com/vb/$subdocument,domain=a7lahmsa.com
 ||ps-0.com/vb/$subdocument,domain=s-ajfan.com
@@ -204,6 +205,7 @@
 ||roooo3.com/Rooo3/images/adv.png
 ||roooo3.com/Rooo3/images/cont-adv.png
 ||roooo3.com/vb/stylev1/images/banner
+||roooo3.com/vb/aerowindow/
 ||roro44.com/girls-games-banner.jpg
 ||s-ajfan.com/vb/aerowindow/
 ||s-ajfan.com/vb/open/
