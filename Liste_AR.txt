@@ -67,6 +67,7 @@
 ||elaana.com/open.js
 ||elastec.info/$image,~image,popup,domain=s-ajfan.com
 ||elmal.us/banner
+||fanslave.com/images/stories/fanslave/banner-en/
 ||forsangaza.net/vb/$image,~image,popup,domain=a7lahmsa.com
 ||forsangaza.net/vb/$subdocument,domain=a7lahmsa.com
 ||freewebsubmission.com/images/fwsbanner
