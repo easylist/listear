@@ -22,6 +22,7 @@
 !
 !----------------------- Annonceurs -----------------------!
 !
+||awsclic.com^$third-party
 ||adintop.com^$third-party
 ||adscoo.com^$third-party
 ||adtoadd.com^$third-party
