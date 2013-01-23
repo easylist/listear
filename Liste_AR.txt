@@ -201,6 +201,8 @@
 ||rassoulallah.info/new/images/e3lan.png
 ||realmadridarabia.com^*/images/bnr_
 ||rmadarab.com/vb/RMclub/pub
+||roooo3.com/Rooo3/images/adv.png
+||roooo3.com/Rooo3/images/cont-adv.png
 ||roro44.com/girls-games-banner.jpg
 ||s-ajfan.com/vb/aerowindow/
 ||s-ajfan.com/vb/open/
@@ -349,6 +351,7 @@ rassoulallah.info##.right_column
 rjeem.com##.ads1
 rmadarab.com##img[width="150"][height="60"]
 rmadarab.com##img[width="500"][height="60"]
+roooo3.com##[class$="advs"]
 s-ajfan.com###navbar_notice_8
 s-ajfan.com###window10
 s-ajfan.com###window3
