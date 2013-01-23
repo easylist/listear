@@ -30,6 +30,15 @@
 ||oneclickad.net^$third-party
 ||site.elkhabar.com^
 ||zwaar.net^$third-party
+||seprovider.com^$third-party
+||reachjunction.com^$third-party
+||safeadnetwork.net^$third-party
+||cdxndirectopt.com^$third-party
+||cdxndirect.com^$third-party
+||bursttraffic.net^$third-party
+||trafficrevmaster.com^$third-party
+||pixfuture.net^$third-party
+||zenoviaexchange.com^$third-party
 !
 !----------------------- Publicites tierces ----------------------!
 !
@@ -164,6 +173,10 @@
 ||kuwait777.com/kuwait777/images/adv_
 ||llssll.com/uploads/viewimages/
 ||llssll.com/vb/2.jpg
+||liilas.com/300.htm
+||liilas.com/600.htm
+||liilas.com/728.htm
+||liilas.com/up/uploads/liilas_
 ||m5zn.com/uploads/2011/5/16/photo/051611140536vqazfi1wcpjmoxyhejdf.jpg
 ||m7ol.com/baners/
 ||mbc.net/dms/analytics-and-banners/
@@ -196,6 +209,7 @@
 ||sm3na.com/ads/
 ||souqa3mal.com^*/ad125b.gif
 ||star28.com/adv/
+||t555t.com/uploads/13586252371.gif
 ||uob-bh.com/uploadfiles/bahraindir.gif
 ||y4yy.com/la3bty.gif
 !
@@ -291,6 +305,7 @@ kuwait777.com##.adv350
 kuwait777.com##.adv468
 l3bh.com##.ads
 lakii.com##a[href*="ads-redirect.php?i="]
+liilas.com###tickermain
 linkat-online.com##.adss_left
 linkat-online.com##.left_side
 m-4u.net##[class^="hcne_ads"]
