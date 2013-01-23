@@ -97,6 +97,7 @@
 ||thouk.com/thouk.gif
 ||tumblr.com/$subdocument,domain=s-ajfan.com
 ||upxmedia.com/$subdocument,domain=shofonline.net
+||vip600.com/aaa/
 ||wadize2ab.com^$subdocument,domain=a7lahmsa.com
 ||wdbook.net^$subdocument,domain=wadilarab.com
 ||web4africa.net/banners/
