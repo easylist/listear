@@ -69,6 +69,7 @@
 ||elastec.info/$image,~image,popup,domain=s-ajfan.com
 ||elmal.us/banner
 ||fanslave.com/images/stories/fanslave/banner-en/
+||foldersoft.com/holl.jpg
 ||forsangaza.net/vb/$image,~image,popup,domain=a7lahmsa.com
 ||forsangaza.net/vb/$subdocument,domain=a7lahmsa.com
 ||freewebsubmission.com/images/fwsbanner
@@ -94,6 +95,7 @@
 ||raya.ps/data/banners/
 ||roooo3.com^$image,~image,popup,domain=arabsh.com
 ||s-ajfan.com/vb/$subdocument,domain=a7lahmsa.com
+||short5.com/2d/popup.js
 ||soft365.com^$image,~image,popup,domain=arabsh.com
 ||startdedicated.com/newbrz.gif
 ||support-ar.com/vb/index.php$image,~image,popup,domain=friasat.com
@@ -138,6 +140,7 @@
 ||alnda.com/img/a3lan.gif
 ||alwatannews.net/Images/*-660x90-
 ||alwatannews.net/Images/advert
+||arabhardware.net/$popup
 ||arabseed.com/ffx/forsan728.jpg
 ||arabseed.com/hfx/open.js
 ||as7apcool.com/pic/$image
@@ -156,6 +159,8 @@
 ||el-massa.com/ar/images/banners/
 ||eqla3.com/adv3/
 ||egyup.com/popup.js
+||egyup.com^*/banner
+||egyup.com/adv.
 ||fannannsat.com/vb/images/00.gif
 ||fannannsat.com/vb/images/000.gif
 ||fannannsat.com/vb/images/0000.gif
@@ -286,6 +291,7 @@ dramany.net###AdvContainerBottom
 ech-chaab.net##.module.mod-line.color-black.deepest
 ech-chaab.net##img[width="820"][height="159"]
 egyup.com##.ads_slice
+egyup.com##.bannerBox
 el3ab.com##.showcase
 el3ab.com##.smallLeader
 el3b.sukrbnat.com##img[alt="M5znUpload"]
