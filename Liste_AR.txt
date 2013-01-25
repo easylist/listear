@@ -155,6 +155,7 @@
 ||egypt.com/gui/images/banner.gif
 ||el-massa.com/ar/images/banners/
 ||eqla3.com/adv3/
+||egyup.com/popup.js
 ||fannannsat.com/vb/images/00.gif
 ||fannannsat.com/vb/images/000.gif
 ||fannannsat.com/vb/images/0000.gif
@@ -284,6 +285,7 @@ dramany.net###AdvContainer
 dramany.net###AdvContainerBottom
 ech-chaab.net##.module.mod-line.color-black.deepest
 ech-chaab.net##img[width="820"][height="159"]
+egyup.com##.ads_slice
 el3ab.com##.showcase
 el3ab.com##.smallLeader
 el3b.sukrbnat.com##img[alt="M5znUpload"]
