@@ -25,6 +25,7 @@
 ||awsclic.com^$third-party
 ||adintop.com^$third-party
 ||adscoo.com^$third-party
+||adrife.com^$third-party
 ||adtoadd.com^$third-party
 ||clickmena.com^$third-party
 ||hsoub.com^$third-party
@@ -196,6 +197,7 @@
 ||liilas.com/up/uploads/liilas_
 ||m5zn.com/uploads/2011/5/16/photo/051611140536vqazfi1wcpjmoxyhejdf.jpg
 ||m7ol.com/baners/
+||mazika2day.com/index.php?action=ads&ad_type=
 ||mbc.net/dms/analytics-and-banners/
 ||mtwer.com/files/14806.gif
 ||mtwer.com^*/adsmtwerclient/
@@ -342,6 +344,8 @@ masrawy.com###hswcase
 masrawy.com##.NewClassifieds
 masrawy.com##.dealsoffer
 masrawy.com##.leaderbg
+mazika2day.com###topban
+mazika2day.com###page_end_bans
 mdredclub.com##img[width="150"][height="60"]
 mdredclub.com##img[width="460"][height="60"]
 mexat.com##[class^="banner"]
