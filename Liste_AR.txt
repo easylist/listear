@@ -58,6 +58,7 @@
 ||alquds.co.uk/zaaptv.gif
 ||amazonaws.com/MixBerryAdsProduction/
 ||anota-des.com/vb/$subdocument,domain=a7lahmsa.com
+||arabic-developers.com/images/bnr/
 ||arabsh.com/red.php$image,~image,popup,domain=nono6.com
 ||asalahpal.com/vb/$subdocument,domain=a7lahmsa.com
 ||bdyamall.com/banner
