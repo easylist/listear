@@ -257,6 +257,8 @@ alarab.net###secncom
 alarab.net###topbanner
 alarab.net##.ad
 alarab.net##.mbAdImg
+arabhardware.net##.adv_aff
+arabhardware.net##.avd_display_block
 alayam.com##.slides1
 alayam.com##.slides76
 alwatannews.net###lnkMainAdver3
