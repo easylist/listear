@@ -265,6 +265,7 @@ alwatannews.net###lnkMainAdver3
 alwatannews.net###pnlAdv12
 alwatannews.net##.Adv
 arab-x.com##img[width="110"][height="35"]
+arabia.com##.ad-showcase
 arabia.com###divDimmed
 arabia.com###divIFrame
 arabia.com###dvleaderboard
