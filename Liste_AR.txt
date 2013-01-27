@@ -1,4 +1,5 @@
 [Adblock Plus 1.1]
+! Checksum: 8ZhkgQmUzqa9gP1LFXiTiQ
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
