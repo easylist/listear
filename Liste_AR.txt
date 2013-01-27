@@ -267,6 +267,7 @@ alwatannews.net##.Adv
 arab-x.com##img[width="110"][height="35"]
 arabia.com##.ad_feature
 arabia.com##.ad-showcase
+arabia.com##.adHolder2
 arabia.com###divDimmed
 arabia.com###divIFrame
 arabia.com###dvleaderboard
