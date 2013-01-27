@@ -1,51 +1,50 @@
 [Adblock Plus 1.1]
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
-! Liste AR ~ Filtres arabes complementaires
+! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
-! Mises a jour : https://code.google.com/p/liste-ar-adblock/source/list
-! License : http://creativecommons.org/licenses/by-nc-sa/3.0/
+! Mises à jour : https://code.google.com/p/liste-ar-adblock/source/list
+! Licence : http://creativecommons.org/licenses/by-nc-sa/3.0/
 ! Homepage: http://code.google.com/p/liste-ar-adblock/
 !
 ! شكرا للإبلاغ عن أي إعلان أو لافتة إشهارية غير محجوبة
-! Merci de signaler toute publicite non bloquee ou tout blocage inadequat
+! Merci de signaler toute publicité non bloquée ou tout blocage inadéquat
 ! dans le forum : http://forums.lanik.us/viewforum.php?f=98
 ! ou par e-mail : liste.ar.adblock at gmail point com
 !
-!----------------------- Filtres generiques -----------------!
+!----------------------- Filtres génériques -----------------!
 !
 /ar/ads/*
 !
-!----------------------- Elements generiques -----------------!
+!----------------------- Éléments génériques -----------------!
 !
-##a[href*="ads.php?id="]
 ##a[href*="adintop.com/outgoing/click.php?"]
+##a[href*="ads.php?id="]
 ##a[href^="http://www.sotmasr.com/announcements/"]
 !
 !----------------------- Annonceurs -----------------------!
 !
 ||adintop.com^$third-party
-||ads.yebab.com^
-||awsclic.com^$third-party
-||adintop.com^$third-party
-||adscoo.com^$third-party
 ||adrife.com^$third-party
+||ads.yebab.com^
+||adscoo.com^$third-party
 ||adtoadd.com^$third-party
+||awsclic.com^$third-party
+||bursttraffic.net^$third-party
+||cdxndirect.com^$third-party
+||cdxndirectopt.com^$third-party
 ||clickmena.com^$third-party
 ||hsoub.com^$third-party
 ||oneclickad.net^$third-party
-||site.elkhabar.com^
-||zwaar.net^$third-party
-||seprovider.com^$third-party
+||pixfuture.net^$third-party
 ||reachjunction.com^$third-party
 ||safeadnetwork.net^$third-party
-||cdxndirectopt.com^$third-party
-||cdxndirect.com^$third-party
-||bursttraffic.net^$third-party
+||seprovider.com^$third-party
+||site.elkhabar.com^
 ||trafficrevmaster.com^$third-party
-||pixfuture.net^$third-party
 ||zenoviaexchange.com^$third-party
+||zwaar.net^$third-party
 !
-!----------------------- Publicites tierces ----------------------!
+!----------------------- Publicités tierces ----------------------!
 !
 ||0sat.com/photo0sat/
 ||3rby.net/$image,~image,popup,domain=s-ajfan.com
@@ -114,15 +113,15 @@
 ||wirwaar.com/$subdocument,domain=s-ajfan.com
 ||z4ar.com/banner/bsh.gif
 !
-!----------------------- Sites specifiques -----------------------!
+!----------------------- Sites spécifiques -----------------------!
 !
 ||0sat.net/index/
 ||0zz0.com/e/$image
 ||0zz0.com/e/luna20120131_2.swf
 ||176.31.125.138/icon.aspx?ads=
-||3roos.com/images/i3lan.gif
 ||3asq.com/img/uploads/13560751771.swf?
 ||3roos.com/files/ups/
+||3roos.com/images/i3lan.gif
 ||6ef.com/ee/*-160x300.
 ||6oyor-aljanah.com/vb/6oyor2012/ads
 ||7bbb7.com/vb/dr-7bbb7/images/150.jpg
@@ -149,12 +148,11 @@
 ||arabseed.com/hfx/open.js
 ||as7apcool.com/pic/$image
 ||bdr130.net/adv-f.
-||bdr130.net/vb/bnr1/
 ||bdr130.net/vb/bdr130_popup/
+||bdr130.net/vb/bnr1/
 ||bentvip.com/adv/
 ||bentvip.com/up/20120511032813.gif
 ||brg8.com/bb/
-||xtratube.net/player/*/codes.html
 ||brooonzyah.net/vb/js.php
 ||ce4arab.com/images/myus-banner
 ||clasicooo.com/pic/bd1.gif
@@ -164,11 +162,11 @@
 ||dl3-r.com/dla3/images/large-area.gif
 ||educ40.net/images/hotcourses.gif
 ||egypt.com/gui/images/banner.gif
-||el-massa.com/ar/images/banners/
-||eqla3.com/adv3/
+||egyup.com/adv.
 ||egyup.com/popup.js
 ||egyup.com^*/banner
-||egyup.com/adv.
+||el-massa.com/ar/images/banners/
+||eqla3.com/adv3/
 ||fannannsat.com/vb/images/00.gif
 ||fannannsat.com/vb/images/000.gif
 ||fannannsat.com/vb/images/0000.gif
@@ -179,10 +177,10 @@
 ||fannannsat.com/vb/images/Radwan1.gif
 ||fannannsat.com/vb/images/Toolbar.gif
 ||fannannsat.com/vb/images/Waled.gif
-||fennec-dz.com/img/efth.jpg
 ||fennec-dz.com/img/atlas.jpg
-||fennec-dz.com/img/bann_sweet.jpg
 ||fennec-dz.com/img/ayrade.jpg
+||fennec-dz.com/img/bann_sweet.jpg
+||fennec-dz.com/img/efth.jpg
 ||fibladi.com/common/pub_
 ||fragny.com/open.js
 ||gem-flash.com/vb/banners1.php?
@@ -195,12 +193,12 @@
 ||jawaley.com/banar/
 ||khaleejcal.com^*/banners/
 ||kuwait777.com/kuwait777/images/adv_
-||llssll.com/uploads/viewimages/
-||llssll.com/vb/2.jpg
 ||liilas.com/300.htm
 ||liilas.com/600.htm
 ||liilas.com/728.htm
 ||liilas.com/up/uploads/liilas_
+||llssll.com/uploads/viewimages/
+||llssll.com/vb/2.jpg
 ||m5zn.com/uploads/2011/5/16/photo/051611140536vqazfi1wcpjmoxyhejdf.jpg
 ||m7ol.com/baners/
 ||mazika2day.com/index.php?action=ads&ad_type=
@@ -220,12 +218,11 @@
 ||rmadarab.com/vb/RMclub/pub
 ||roooo3.com/Rooo3/images/adv.png
 ||roooo3.com/Rooo3/images/cont-adv.png
-||roooo3.com/vb/stylev1/images/banner
 ||roooo3.com/vb/aerowindow/
+||roooo3.com/vb/stylev1/images/banner
 ||roro44.com/girls-games-banner.jpg
 ||s-ajfan.com/vb/aerowindow/
 ||s-ajfan.com/vb/open/
-||swalif.com/banner/
 ||sawt-alahrar.net/ara/files/banners/pub
 ||sawt-alahrar.net/ara/themes/rtlsouf/img/alimisurata3.gif
 ||sawt-alahrar.net/ara/themes/rtlsouf/img/ichhar.jpg
@@ -240,11 +237,13 @@
 ||sm3na.com/ads/
 ||souqa3mal.com^*/ad125b.gif
 ||star28.com/adv/
+||swalif.com/banner/
 ||t555t.com/uploads/13586252371.gif
 ||uob-bh.com/uploadfiles/bahraindir.gif
+||xtratube.net/player/*/codes.html
 ||y4yy.com/la3bty.gif
 !
-!----------------------- Elements -----------------------!
+!----------------------- Éléments -----------------------!
 !
 3-tp.com##.bannbox
 3a2ilati.com##.eshop-list
@@ -264,22 +263,22 @@ alarab.net###secncom
 alarab.net###topbanner
 alarab.net##.ad
 alarab.net##.mbAdImg
-arabhardware.net##.adv_aff
-arabhardware.net##.avd_display_block
 alayam.com##.slides1
 alayam.com##.slides76
 alwatannews.net###lnkMainAdver3
 alwatannews.net###pnlAdv12
 alwatannews.net##.Adv
 arab-x.com##img[width="110"][height="35"]
-arabia.com##.ad_feature
-arabia.com##.ad-showcase
-arabia.com##.adHolder2
+arabhardware.net##.adv_aff
+arabhardware.net##.avd_display_block
 arabia.com###divDimmed
 arabia.com###divIFrame
 arabia.com###dvleaderboard
 arabia.com###dvwidgetad
 arabia.com###showcase
+arabia.com##.ad-showcase
+arabia.com##.adHolder2
+arabia.com##.ad_feature
 arabia.com##.ykaleader
 arabnet5.com##div[style^="width:728px; height:90px;"]
 arabseed.com##a[href$="goo.gl/W8VHQ"]
@@ -328,9 +327,9 @@ g5y.com##.Ads
 g5y.com##div[style="height:150px;"]
 g5y5.com###dropin
 gamesgb.com##.ad
-gamesgb.com##.head_ads
 gamesgb.com##.adGlobalHeader
-gamesgb.com##IMG[width="150"][height="50"]
+gamesgb.com##.head_ads
+gamesgb.com##img[width="150"][height="50"]
 graaam.com##.haw
 hao123.com##.pr
 hawaaworld.com###boxContain
@@ -360,8 +359,8 @@ masrawy.com###hswcase
 masrawy.com##.NewClassifieds
 masrawy.com##.dealsoffer
 masrawy.com##.leaderbg
-mazika2day.com###topban
 mazika2day.com###page_end_bans
+mazika2day.com###topban
 mdredclub.com##img[width="150"][height="60"]
 mdredclub.com##img[width="460"][height="60"]
 mexat.com##[class^="banner"]
@@ -394,8 +393,8 @@ sedty.com##.Ads
 sedty.com##a[href^="http://www.drsrv.com/adv/"]
 sedty.com##a[href^="http://www.sedty.com/adv/"]
 shofha.com##.adv
-shorouknews.com##.largeAd
 shorouknews.com###DivTopAd
+shorouknews.com##.largeAd
 sm3na.com###topbar
 souqa3mal.com##.ads
 souqa3mal.com##.slid-topmaxtech-costom-ads
