@@ -18,10 +18,12 @@
 !----------------------- Elements generiques -----------------!
 !
 ##a[href*="ads.php?id="]
+##a[href*="adintop.com/outgoing/click.php?"]
 ##a[href^="http://www.sotmasr.com/announcements/"]
 !
 !----------------------- Annonceurs -----------------------!
 !
+||adintop.com^$third-party
 ||ads.yebab.com^
 ||awsclic.com^$third-party
 ||adintop.com^$third-party
@@ -325,6 +327,10 @@ g5y.com###dropin
 g5y.com##.Ads
 g5y.com##div[style="height:150px;"]
 g5y5.com###dropin
+gamesgb.com##.ad
+gamesgb.com##.head_ads
+gamesgb.com##.adGlobalHeader
+gamesgb.com##IMG[width="150"][height="50"]
 graaam.com##.haw
 hao123.com##.pr
 hawaaworld.com###boxContain
