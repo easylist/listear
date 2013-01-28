@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: XFAk/xgGReJmShoQmFHtHw
+! Checksum: f+IjInp0rbQRhww2qyIP+w
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -304,6 +304,7 @@ chat-alriyadh.com##.paner
 cs-proton.net##.style123458
 dramany.net###AdvContainer
 dramany.net###AdvContainerBottom
+dwayir.com###nav
 ech-chaab.net##.module.mod-line.color-black.deepest
 ech-chaab.net##img[width="820"][height="159"]
 egyup.com##.ads_slice

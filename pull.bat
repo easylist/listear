@@ -1,2 +1,1 @@
 hg pull -u
-pause
