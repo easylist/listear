@@ -63,12 +63,16 @@ foreach my $file (@ARGV) {
 	  next;
   }
 
-  # Update the date.
-  my @months = qw(Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec);
-  my ($sec,$min,$hour,$mday,$mon,$year,$wday,$yday,$isdst) = localtime();
-  $year += 1900; # Year is years since 1900.
-  my $todaysdate = "$mday $months[$mon] $year";
-  $data =~ s/(^.*!.*Updated:\s*)(.*)\s*$/$1$todaysdate/gmi;
+# Update the date and time.
+my @months = qw(Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec);
+my ($sec,$min,$hour,$mday,$mon,$year,$wday,$yday,$isdst) = localtime();
+$year += 1900; # Year is years since 1900.
+my $ampm = "AM";
+if ($hour >= 12)    {$ampm = "PM";}
+if ($hour == 0)     {$hour = 12;  }
+elsif ($hour >= 13) {$hour -= 12; }
+my $dat = sprintf("$mday $months[$mon] $year (%d:%02d:%02d $ampm)", $hour, $min, $sec);
+$data =~ s/(!.*Updated:\s*)([^\r\n]*)(\r?\n)/$1$dat$3/;
 
   # Recalculate the checksum as we've altered the date.
   $checksumData = $data;
