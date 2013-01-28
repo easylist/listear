@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: WT+vxjlWkLQpkPq7Tu8KUg
+! Checksum: WsiXC9qws6VvUlfs/3p6xg
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -405,6 +405,7 @@ souqa3mal.com##.slid-topmaxtech-costom-ads
 swarih.com##.adv
 t8t3.com##img[width="140"][height="60"]
 t8t3.com##img[width="150"][height="60"]
+thaqafnafsak.com##.top_ad_big
 toptwitt.com##.ads2
 toptwitt.com##.vertical_ads
 toyoraljanheg.com###bnrhd468
