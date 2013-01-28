@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: sL1dYKUwaubrSL0C1ldqkw
+! Checksum: fOF87SjPnQ7/+Bnqca2VTg
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -79,6 +79,8 @@
 ||freewebsubmission.com/images/fwsbanner
 ||g2g2.net/banars/
 ||galileosolutions.net^*/banners_
+||gulfbase.com/APopUp.
+||gulfbase.com/Assets/css/AeroWindow
 ||islamiy.com^$subdocument,domain=wadilarab.com
 ||jazora.com/banner/
 ||karizmo.net/vb/karix.gif
@@ -336,6 +338,7 @@ gamesgb.com##.adGlobalHeader
 gamesgb.com##.head_ads
 gamesgb.com##img[width="150"][height="50"]
 graaam.com##.haw
+gulfbase.com##.AeroWindow
 hao123.com##.pr
 hawaaworld.com###boxContain
 hawaaworld.com###vacuumcleaners
