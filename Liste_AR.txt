@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: zjW7sAFYNxSA3aznODQ/ag
+! Checksum: pEiVekIY1mOXMtGTKVOf2w
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -325,7 +325,7 @@ el3b.sukrbnat.com##img[alt="M5znUpload"]
 elaana.com###dropin
 elheddaf.com###flash
 elkhabar.com###pub_entete
-elmedan.com##.ads.left
+elmedan.com##.ads
 ennaharonline.com###flash
 eqla3.com##iframe
 ewbas.com###AdvContainerMiddleRight
