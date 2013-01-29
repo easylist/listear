@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: Qs5OYl6JnoSDcx4xiKkKGg
+! Checksum: R7xqQHHiQLZw0GW0Nfo/Pg
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -217,6 +217,7 @@
 ||q8yat.com/uploads/images/q8yat-6f74f90b85.gif
 ||q8yat.com/uploads/images/q8yat-bd676156ea.gif
 ||rassoulallah.info/new/images/e3lan.png
+||rawabetvb.net/styles/default/images/adver-left.
 ||realmadridarabia.com^*/images/bnr_
 ||rmadarab.com/vb/RMclub/pub
 ||roooo3.com/Rooo3/images/adv.png
@@ -389,6 +390,7 @@ qatarw.com##img[width="728"][height="90"]
 qwled.com##.headerbanner
 rassoulallah.info##.narrow_column
 rassoulallah.info##.right_column
+rawabetvb.net##.adver-left
 rjeem.com##.ads1
 rmadarab.com##img[width="150"][height="60"]
 rmadarab.com##img[width="500"][height="60"]
