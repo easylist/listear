@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: zDGtN7qceRRL/inm9p/v9g
+! Checksum: DIyGYgXLGWm4s049frysig
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -295,7 +295,7 @@ arabsh.com##.ads-area
 arabsh.com##.ads160x600
 argaam.com##.banner-728x90
 ashwagi.com##.adv
-bayt.com##[id^="ad_sidebar_"]
+bayt.com##div[id^="ad_sidebar_"]
 bnat16.com###adv_Reload
 bokra.net##.ad
 bokra.net##.bigStrip
@@ -330,7 +330,7 @@ ewbas.com###AdvContainerMiddleRight
 ewbas.com###AdvContainerTopCenter
 ewbas.com###AdvContainerTopRight
 fibladi.com##.lastads
-fibladi.com##[id^="google_ads"]
+fibladi.com##iframe[id^="google_ads"]
 filgoal.com##.MRContainer
 filgoal.com##.inner_leaderboard
 fr7.com###webColorsHeader2
@@ -362,7 +362,7 @@ lakii.com##a[href*="ads-redirect.php?i="]
 liilas.com###tickermain
 linkat-online.com##.adss_left
 linkat-online.com##.left_side
-m-4u.net##[class^="hcne_ads"]
+m-4u.net##a[class^="hcne_ads"]
 m5zn.com###dropin
 m5zn.com##.banner_120_black
 m5zn.com##img[width="728"][height="90"]
@@ -376,7 +376,7 @@ mazika2day.com###page_end_bans
 mazika2day.com###topban
 mdredclub.com##img[width="150"][height="60"]
 mdredclub.com##img[width="460"][height="60"]
-mexat.com##[class^="banner"]
+mexat.com##div[class^="banner"]
 mtwer.com##a[onclick^="_gaq.push(['_trackEvent', 'Outgoing',"]
 n4hr.com##.advactar
 n4hr.com##.ladv
