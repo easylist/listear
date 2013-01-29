@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: jYPyz1D5u5ZieC1q3RTKSQ
+! Checksum: akGZnC8A2AyE4zIEI14QVw
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -211,6 +211,7 @@
 ||mbc.net/dms/analytics-and-banners/
 ||mtwer.com/files/14806.gif
 ||mtwer.com^*/adsmtwerclient/
+||mwadah.com/images/mwadahhost.swf
 ||myegy.com/class.Pop.php
 ||nokiagate.com/bans/
 ||nono6.com/open.js
@@ -381,6 +382,7 @@ mdredclub.com##img[width="150"][height="60"]
 mdredclub.com##img[width="460"][height="60"]
 mexat.com##div[class^="banner"]
 mtwer.com##a[onclick^="_gaq.push(['_trackEvent', 'Outgoing',"]
+mwadah.com##.bannerBox
 n4hr.com##.advactar
 n4hr.com##.ladv
 nono6.com##.BannarDown
