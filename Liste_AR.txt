@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: HC4pqr5ut7Za5KnuxEueTA
+! Checksum: jqDk8aG4atHLjwufRev3OA
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -155,6 +155,7 @@
 ||arabseed.com/ffx/forsan728.jpg
 ||arabseed.com/hfx/open.js
 ||as7apcool.com/pic/$image
+||aswat-elchamal.com/ar/pub/
 ||bdr130.net/adv-f.
 ||bdr130.net/vb/bdr130_popup/
 ||bdr130.net/vb/bnr1/
