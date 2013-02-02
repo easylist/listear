@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: CouieYu1NSXoQ/TK6jGilg
+! Checksum: 3iWnQj2vyHfHJ7OJEkCrsg
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -208,6 +208,7 @@
 ||infosoir.com/images/pub.gif
 ||jawaley.com/advs.php
 ||jawaley.com/banar/
+||k1br.com/vb/$subdocument,domain=s7rny.com
 ||khaleejcal.com^*/banners/
 ||kuwait777.com/kuwait777/images/adv_
 ||liilas.com/300.htm
@@ -246,6 +247,9 @@
 ||roro44.com/girls-games-banner.jpg
 ||s-ajfan.com/vb/aerowindow/
 ||s-ajfan.com/vb/open/
+||s7rny.com/vb/open/
+||s7rny.com/vb/s/150.png
+||s7rny.com/vb/s/400.png
 ||sawt-alahrar.net/ara/files/banners/pub
 ||sawt-alahrar.net/ara/themes/rtlsouf/img/alimisurata3.gif
 ||sawt-alahrar.net/ara/themes/rtlsouf/img/ichhar.jpg
