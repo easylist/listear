@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: ArcyONM8jx63uq30cNfDbw
+! Checksum: 4g4jElzcllANd0PmAk7qLQ
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -180,6 +180,8 @@
 ||el-massa.com/ar/images/banners/
 ||elheddaf.com/data/dzauto.swf
 ||eqla3.com/adv3/
+||f3al.com/open27.js
+||f3al.com/vb/aerowindow/
 ||fannannsat.com/vb/images/00.gif
 ||fannannsat.com/vb/images/000.gif
 ||fannannsat.com/vb/images/0000.gif
@@ -221,6 +223,7 @@
 ||mtwer.com/files/14806.gif
 ||mtwer.com^*/adsmtwerclient/
 ||mwadah.com/images/mwadahhost.swf
+||mwlaty.com/$subdocument,domain=f3al.com
 ||myegy.com/class.Pop.php
 ||nokiagate.com/bans/
 ||nono6.com/open.js
