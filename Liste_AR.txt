@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: Yfe/IQkD/5SMpx72tllAlw
+! Checksum: aMrS37+NqyWG3NGLFJH2fg
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -59,6 +59,7 @@
 ||aldam3h.com/vb/$subdocument,domain=s-ajfan.com
 ||alforat.org/images/banners/
 ||algrbh.com/upl/bnr-
+||allomani.com/js_banners
 ||alquds.co.uk/zaaptv.gif
 ||amazonaws.com/MixBerryAdsProduction/
 ||anota-des.com/vb/$subdocument,domain=a7lahmsa.com
@@ -155,6 +156,9 @@
 ||alwatannews.net/Images/advert
 ||ar-wp.com/forums-archive/images/bn1.
 ||ar-wp.com/forums-archive/images/bn2.
+||arab4mp3.com/banner/
+||arab4mp3.com/up/uploads/arab4mp3
+||arab4mp3.com/uploads/banners/
 ||arabhardware.net/$popup
 ||arabseed.com/ffx/forsan728.jpg
 ||arabseed.com/hfx/open.js
