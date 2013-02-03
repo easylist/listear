@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: TdfFdzcUXJyxijHB+2hM1g
+! Checksum: Yfe/IQkD/5SMpx72tllAlw
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -249,6 +249,7 @@
 ||roooo3.com/vb/aerowindow/
 ||roooo3.com/vb/stylev1/images/banner
 ||roro44.com/girls-games-banner.jpg
+||rumonline.net/assets/banners/
 ||s-ajfan.com/vb/aerowindow/
 ||s-ajfan.com/vb/open/
 ||s7rny.com/vb/open/
