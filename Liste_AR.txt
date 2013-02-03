@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: 3iWnQj2vyHfHJ7OJEkCrsg
+! Checksum: 0s9Q/pBZG5MoNc1VugiAYw
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -377,6 +377,9 @@ hwaml.com##img[width="150"][height="60"]
 hwaml.com##img[width="240"][height="60"]
 hwaml.com##img[width="468"][height="60"]
 hwaml.com##img[width="728"][height="90"]
+jeddahbikers.com###Main_MPU
+jeddahbikers.com##.Googleads728
+jeddahbikers.com##.ads
 jsoftj.com###freet
 ksa-ksa.com##a[href*="/?adsclick=banner&id="]
 kuwait777.com##.adv350
