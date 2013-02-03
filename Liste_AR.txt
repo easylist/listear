@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: mP6Oee91J/VoZ3HPFtlmEA
+! Checksum: mgFGs+svQ2b5dTlTcsnOeA
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -82,6 +82,7 @@
 ||galileosolutions.net^*/banners_
 ||gulfbase.com/APopUp.
 ||gulfbase.com/Assets/css/AeroWindow
+||hitleap.com/assets/banner.png
 ||islamiy.com^$subdocument,domain=wadilarab.com
 ||jazora.com/banner/
 ||karizmo.net/vb/karix.gif
@@ -468,6 +469,8 @@ y4yy.com##.adv
 y4yy.com##img[width="300"][height="250"]
 yallabina.com##.adv
 yallakora.com##.dealsoffer
+yourcolor.net##.ads-post
+yourcolor.net##div[id^="ads250"]
 z4ar.com##.leaderboard
 !
 !----------------------- Exceptions -----------------------!
