@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: /JK12Ee9ET/W9A8sH10F5A
+! Checksum: 1TnwH5jlHuTS1m+pT8ujNA
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -34,6 +34,7 @@
 ||cdxndirect.com^$third-party
 ||cdxndirectopt.com^$third-party
 ||clickmena.com^$third-party
+||hibamedia.com^$third-party
 ||hsoub.com^$third-party
 ||oneclickad.net^$third-party
 ||pixfuture.net^$third-party
@@ -223,6 +224,7 @@
 ||googlna.com/flash/bnar.swf
 ||gulfup.com/styles/gulfup2/p/$image
 ||hawanaajd.com/img/b/$image
+||hibasport.com/pubip/
 ||ibtesama.com/adv/
 ||infosoir.com/images/pub.gif
 ||jawaley.com/advs.php
