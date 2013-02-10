@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: aTDXum8F8bnFzHhmwnUyxQ
+! Checksum: 7+A1v86mgYostwrH+incMg
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -256,6 +256,8 @@
 ||m7ol.com/baners/
 ||ma3hd.net$subdocument,domain=ma3hd.net
 ||ma3hd.net/js.php
+||marocannonces.com/images/tombola-
+||marocannonces.com^*/images/bannier_
 ||mazika2day.com/index.php?action=ads&ad_type=
 ||mbc.net/dms/analytics-and-banners/
 ||mtwer.com/files/14806.gif
@@ -434,6 +436,7 @@ m5zn.com###dropin
 m5zn.com##.banner_120_black
 m5zn.com##img[width="728"][height="90"]
 maas1.com###topads
+marocannonces.com##.baner
 masrawy.com###hleader
 masrawy.com###hswcase
 masrawy.com##.NewClassifieds
