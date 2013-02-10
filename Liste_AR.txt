@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: ufV9Z9UNA6IHqQ5zfFf2nA
+! Checksum: O9Kc6V1wfP2EsTY+k5XC4g
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -404,6 +404,7 @@ hawaaworld.com###boxContain
 hawaaworld.com###vacuumcleaners
 hawamer.com###topBanner
 hawamer.com##.centerBanner
+hibasport.com##.pub_header
 hwaml.com##img[width="150"][height="60"]
 hwaml.com##img[width="240"][height="60"]
 hwaml.com##img[width="468"][height="60"]
