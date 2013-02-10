@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 9X2wT17iV34BfrwgqKH0dQ
+! Checksum: rio0l91iE0flJcEs23n+BQ
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -196,6 +196,8 @@
 ||clasicooo.com/pic/bd1.gif
 ||clasicooo.com/pic/bd2.gif
 ||d2ja.com/Ads/
+||dafatir.ma/do.php?img=441
+||dafatiri.com/vb/open.js
 ||dawshagya.org/vb/open.js
 ||djelfa.info/logo/
 ||dl3-r.com/dla3/images/area-in--header.png
