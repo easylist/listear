@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: O9Kc6V1wfP2EsTY+k5XC4g
+! Checksum: nWwIgXpGRzwNsanKQ5xw2w
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -435,6 +435,7 @@ mazika2day.com###page_end_bans
 mazika2day.com###topban
 mdredclub.com##img[width="150"][height="60"]
 mdredclub.com##img[width="460"][height="60"]
+menara.ma##.pub
 mexat.com##div[class^="banner"]
 moheet.com##div[class*="Adv"]
 moheet.com##div[class*="adv"]
