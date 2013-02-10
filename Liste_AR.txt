@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 7+A1v86mgYostwrH+incMg
+! Checksum: vVQZYuhHfnA7MrOqWuAldw
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -428,6 +428,7 @@ kuwait777.com##.adv350
 kuwait777.com##.adv468
 l3bh.com##.ads
 lakii.com##a[href*="ads-redirect.php?i="]
+lakome.com###outside-left
 liilas.com###tickermain
 linkat-online.com##.adss_left
 linkat-online.com##.left_side
