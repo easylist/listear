@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: nWwIgXpGRzwNsanKQ5xw2w
+! Checksum: S9LPHN54mzyroPNiLOvO5A
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -104,6 +104,7 @@
 ||mn66.com/sms2.jpg
 ||mycar4ever.blogspot.com^$image,~image,popup,domain=egyptladies.net
 ||nadorhoy.net/pub/
+||optionyard.com/l.aspx?
 ||ps-0.com/vb/$image,~image,popup,domain=s-ajfan.com
 ||ps-0.com/vb/$subdocument,domain=a7lahmsa.com
 ||ps-0.com/vb/$subdocument,domain=s-ajfan.com
@@ -183,6 +184,11 @@
 ||bdr130.net/vb/bnr1/
 ||bentvip.com/adv/
 ||bentvip.com/up/20120511032813.gif
+||bramjnet.com/images/upload/bramj.jpg
+||bramjnet.com/images/upload/bramjnet-2012.gif
+||bramjnet.com/images/upload/f1l1.gif
+||bramjnet.com/images/upload/softxgame.gif
+||bramjnet.com/js1.php
 ||brg8.com/bb/
 ||brooonzyah.net/vb/js.php
 ||ce4arab.com/images/myus-banner
@@ -193,6 +199,7 @@
 ||djelfa.info/logo/
 ||dl3-r.com/dla3/images/area-in--header.png
 ||dl3-r.com/dla3/images/large-area.gif
+||eaglepro.net^$image,~image,popup,domain=bramjnet.com
 ||educ40.net/images/hotcourses.gif
 ||egypt.com/gui/images/banner.gif
 ||egyup.com/adv.
