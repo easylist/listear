@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: vVQZYuhHfnA7MrOqWuAldw
+! Checksum: 9X2wT17iV34BfrwgqKH0dQ
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -34,6 +34,7 @@
 ||cdxndirect.com^$third-party
 ||cdxndirectopt.com^$third-party
 ||clickmena.com^$third-party
+||clients-ads.panet.co.il^
 ||hibamedia.com^$third-party
 ||hsoub.com^$third-party
 ||oneclickad.net^$third-party
@@ -268,6 +269,9 @@
 ||nokiagate.com/bans/
 ||nono6.com/open.js
 ||oleeh.com/images/Adv
+||panet.co.il/Ext/js/auadsx.js
+||panet.co.il/Ext/ShowBanner.php?
+||panet.co.il/Ext/text_ads_cached.php?
 ||panet.co.il^*/flash_banners/
 ||q8yat.com/uploads/images/q8yat-1ce0d91ca2.gif
 ||q8yat.com/uploads/images/q8yat-20e3d95ccd.gif
@@ -460,6 +464,7 @@ nono6.com##.BannarTop
 nono6.com##.bannbox
 onothty.net##.Ads2
 onothty.net##.ads
+panet.co.il##.ads_460up
 physique48.org##.TOOLbarB
 q8me.com###webColorsHeader2
 q8yatnews.com##.Ads2
