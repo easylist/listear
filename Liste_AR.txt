@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 2vOXZsgQC4L5hVL4D2tCfQ
+! Checksum: KR4Nwx6P3NuLt72jLgak2w
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -50,6 +50,7 @@
 !----------------------- Publicités tierces ----------------------!
 !
 ||0sat.com/photo0sat/
+||0zz0.com/2012/07/28/21/250712642.gif
 ||3rby.net/$popup,domain=s-ajfan.com
 ||44aa.com/image/nesba.swf
 ||5jle.com^$popup,domain=maas1.com
@@ -88,8 +89,10 @@
 ||galileosolutions.net^*/banners_
 ||gulfbase.com/APopUp.
 ||gulfbase.com/Assets/css/AeroWindow
+||gulfup.com/2012-06-04/133881477241.gif
 ||hanya.ma/caro
 ||hitleap.com/assets/banner.png
+||hotelscombined.com/Affiliate/Widgets/
 ||islamiy.com^$subdocument,domain=wadilarab.com
 ||jazora.com/banner/
 ||karizmo.net/vb/karix.gif
@@ -166,6 +169,12 @@
 ||alarab.net/fursa.php
 ||alarab.net/SDK/MB_SDK_script.js
 ||albrq.net/open*.js
+||almosafr.com/forum/imgcache/2/50alsh3er.gif
+||almosafr.com/forum/users/21264-albums130-1027.gif
+||almosafr.com/forum/users/4-albums127-1021.gif
+||almosafr.com/forum/users/4-albums127-1023.jpg
+||almosafr.com/forum/users/4-albums127-964.png
+||almosafr.com/up/uploads/images/almosafr_
 ||alnda.com/img/a3lan.gif
 ||alrainews.net/assets/banners/
 ||alwadifa-maroc.com/flash/banniere_
@@ -340,6 +349,10 @@ alarab.net##.ad
 alarab.net##.mbAdImg
 alayam.com##.slides1
 alayam.com##.slides76
+almosafr.com##a[href^="http://www.almosafr.com/forum/ads.php?"]
+almosafr.com##a[href^="http://www.booking.com/index.html?aid="]
+almosafr.com##a[href^="http://www.hotelscombined.com/?a_aid="]
+almosafr.com##a[href^="http://www.rentalcars.com/Home.do?affiliateCode="]
 alwatannews.net###lnkMainAdver3
 alwatannews.net###pnlAdv12
 alwatannews.net##.Adv
