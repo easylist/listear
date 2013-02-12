@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 8WDJ1RPcr5DWZbu1Vhd6gg
+! Checksum: AA+GSC8lYtIXJUknI5uTZA
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -516,3 +516,4 @@ z4ar.com##.leaderboard
 !----------------------- Exceptions -----------------------!
 !
 @@||bawazir-tech.com/banners/
+!
