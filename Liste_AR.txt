@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: rio0l91iE0flJcEs23n+BQ
+! Checksum: FvgrZ7wm79e6juAHVMVvhw
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -19,7 +19,7 @@
 !----------------------- Éléments génériques -----------------!
 !
 ##a[href*="adintop.com/outgoing/click.php?"]
-##a[href*="ads.php?id="]
+##a[href^="ads.php?id="]
 ##a[href^="http://www.sotmasr.com/announcements/"]
 !
 !----------------------- Annonceurs -----------------------!
