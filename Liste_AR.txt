@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 9HhotEC1xDIzDlTB1Tgoew
+! Checksum: 2vOXZsgQC4L5hVL4D2tCfQ
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -380,7 +380,6 @@ bokra.net##.twoBanners
 brooonzyah.net##.navbar_notice
 calcio4arab.com##img[width="280"][height="80"]
 chat-alriyadh.com##.paner
-cs-proton.net##.style123458
 deltaclic.com##.squarebanner
 dramany.net###AdvContainer
 dramany.net###AdvContainerBottom
