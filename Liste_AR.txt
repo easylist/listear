@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: Z3O8e85e5d4zUWkPtLrGDQ
+! Checksum: dRYFyPGlYt8zsiv1gWQN0Q
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -508,6 +508,9 @@ jeddahbikers.com###Main_MPU
 jeddahbikers.com##.Googleads728
 jeddahbikers.com##.ads
 jsoftj.com###freet
+kifache.com##.ad200
+kifache.com##.ad728
+kifache.com##.ad987
 ksa-ksa.com##a[href*="/?adsclick=banner&id="]
 kuwait777.com##.adv350
 kuwait777.com##.adv468
