@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: hQonHZHnKe35evqwR170Bg
+! Checksum: e0L7Sg5Tsgx2sZXrzvUNcA
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -288,6 +288,7 @@
 ||marocannonces.com^*/images/bannier_
 ||mazika2day.com/index.php?action=ads&ad_type=
 ||mbc.net/dms/analytics-and-banners/
+||misbahinet.com/blog/wp-content/uploads/125.gif
 ||montadaphp.net/e3lan.png
 ||montadaphp.net/hamada_banner.png
 ||montadaphp.net/pollify-ads.gif
@@ -492,6 +493,7 @@ mdredclub.com##img[width="150"][height="60"]
 mdredclub.com##img[width="460"][height="60"]
 menara.ma##.pub
 mexat.com##div[class^="banner"]
+misbahinet.com##.squarebanner
 moheet.com##div[class*="Adv"]
 moheet.com##div[class*="adv"]
 mothhelah.com##a[href^="index.php?op=ad_click"]
