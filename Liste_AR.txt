@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 6SzqLtVESgpRoYdDaPLqmQ
+! Checksum: B9OO9dx7yJqYE17yXeh5Ww
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -272,6 +272,7 @@
 ||foola.net/up/styles/alhjer/images/alhjerdesign_traidnt_07.jpg
 ||fragny.com/open.js
 ||gem-flash.com/vb/banners1.php?
+||goo.gl/fYnDL^$subdocument,domain=lmseh.com
 ||googlna.com/flash/bnar.swf
 ||gulfup.com/styles/gulfup2/p/$image
 ||hawanaajd.com/img/b/$image
@@ -297,6 +298,7 @@
 ||liilas.com/up/uploads/liilas_
 ||llssll.com/uploads/viewimages/
 ||llssll.com/vb/2.jpg
+||lmseh.com/vb/open/
 ||m5zn.com/uploads/2011/5/16/photo/051611140536vqazfi1wcpjmoxyhejdf.jpg
 ||m7ol.com/baners/
 ||ma3hd.net$subdocument,domain=ma3hd.net
@@ -370,6 +372,7 @@
 ||star-cute.com/images/star-cute_10.png
 ||star28.com/adv/
 ||swalif.com/banner/
+||t3bqlbe.net^$subdocument,domain=lmseh.com
 ||t555t.com/uploads/13586252371.gif
 ||uob-bh.com/uploadfiles/bahraindir.gif
 ||xtratube.net/player/*/codes.html
@@ -508,6 +511,7 @@ lakome.com###outside-left
 liilas.com###tickermain
 linkat-online.com##.adss_left
 linkat-online.com##.left_side
+linkat.lmseh.com##.floatingWindowContent
 lmseh.com##img[src^="http://www.up.lmseh.com/do.php?"]
 m-4u.net##a[class^="hcne_ads"]
 m5zn.com###dropin
