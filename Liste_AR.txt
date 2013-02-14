@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: jdOxkLv8mBgpYNWB+qh2Cg
+! Checksum: jzLBDuU4CER1frKP/OmdRA
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -416,6 +416,7 @@ almosafr.com##a[href^="http://www.almosafr.com/forum/ads.php?"]
 almosafr.com##a[href^="http://www.booking.com/index.html?aid="]
 almosafr.com##a[href^="http://www.hotelscombined.com/?a_aid="]
 almosafr.com##a[href^="http://www.rentalcars.com/Home.do?affiliateCode="]
+alqabas.com.kw##div[id^="azk"]
 alwatannews.net###lnkMainAdver3
 alwatannews.net###pnlAdv12
 alwatannews.net##.Adv
