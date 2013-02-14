@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 3Ow1w9Nz6ymZ9XGVWj1Rag
+! Checksum: 2cr40JkHnsWT3ZlFXa/Dbw
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -507,6 +507,7 @@ lakome.com###outside-left
 liilas.com###tickermain
 linkat-online.com##.adss_left
 linkat-online.com##.left_side
+lmseh.com##img[src^="http://www.up.lmseh.com/do.php?"]
 m-4u.net##a[class^="hcne_ads"]
 m5zn.com###dropin
 m5zn.com##.banner_120_black
