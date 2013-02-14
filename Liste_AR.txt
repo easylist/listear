@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: i7eu3t+J6v2Q5v4kdFTUHA
+! Checksum: 5NbgjRPG8nI8UCQbsSo31A
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -94,6 +94,7 @@
 ||gulfbase.com/APopUp.
 ||gulfbase.com/Assets/css/AeroWindow
 ||gulfup.com/2012-06-04/133881477241.gif
+||gulfup.com/ft2Ou.swf
 ||hanya.ma/caro
 ||hitleap.com/assets/banner.png
 ||hotelscombined.com/Affiliate/Widgets/
@@ -111,6 +112,7 @@
 ||mn66.com/mn66SMS.GIF
 ||mn66.com/sms2.jpg
 ||mothhelah.com/bnr.jpg
+||mothhelah.com/img/psF78481.gif
 ||mycar4ever.blogspot.com^$popup,domain=egyptladies.net
 ||nadorhoy.net/pub/
 ||optionyard.com/l.aspx?
@@ -144,6 +146,7 @@
 ||0zz0.com/e/$image
 ||0zz0.com/e/luna20120131_2.swf
 ||176.31.125.138/icon.aspx?ads=
+||3asfh.net/vb/js.php
 ||3asq.com/img/uploads/13560751771.swf?
 ||3asq.com/img/uploads/13607070421.swf
 ||3at3ot.com/pop.js
@@ -186,6 +189,7 @@
 ||almosafr.com/up/uploads/images/almosafr_
 ||alnda.com/img/a3lan.gif
 ||alrainews.net/assets/banners/
+||alrassed.com^$popup,domain=3asfh.net
 ||alwadifa-maroc.com/flash/banniere_
 ||alwatannews.net/Images/*-660x90-
 ||alwatannews.net/Images/advert
