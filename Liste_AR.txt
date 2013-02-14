@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: VJJkzX+UmrCSu+DaM1i9VA
+! Checksum: mkciFa9FaYVmmN6ZWUKNOQ
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -230,6 +230,8 @@
 ||djelfa.info/logo/
 ||dl3-r.com/dla3/images/area-in--header.png
 ||dl3-r.com/dla3/images/large-area.gif
+||dohaup.com/up/2010-01-29/dohaup_827224532.gif
+||dohaup.com/up/2010-02-10/dohaup_1758332280.gif
 ||eaglepro.net^$popup,domain=bramjnet.com
 ||educ40.net/images/hotcourses.gif
 ||egypt.com/gui/images/banner.gif
@@ -526,6 +528,7 @@ physique48.org##.TOOLbarB
 q8me.com###webColorsHeader2
 q8yatnews.com##.Ads2
 q8yatnews.com##.ads
+qatarw.com##a[href^="http://www.qatartop.com/out.php?"]
 qatarw.com##img[width="728"][height="90"]
 qwled.com##.headerbanner
 rassoulallah.info##.narrow_column
