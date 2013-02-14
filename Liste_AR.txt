@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: Czu++/9rDaQj3bpRZ/NL8Q
+! Checksum: DxDV6xlHek4+0qGCnohZSg
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -72,6 +72,7 @@
 ||arabic-developers.com/images/bnr/
 ||arabsh.com/red.php$popup,domain=nono6.com
 ||asalahpal.com/vb/$subdocument,domain=a7lahmsa.com
+||awtad.com/www/
 ||bayt.com/barrier/adimage?
 ||bayt.com/referred?
 ||bayt.com/scripts/associates_banner_ads.js
@@ -111,6 +112,7 @@
 ||mbc.net$popup,domain=arabseed.com
 ||mn66.com/mn66SMS.GIF
 ||mn66.com/sms2.jpg
+||mnq8.com/bnrs/
 ||mothhelah.com/bnr.jpg
 ||mothhelah.com/img/psF78481.gif
 ||mycar4ever.blogspot.com^$popup,domain=egyptladies.net
