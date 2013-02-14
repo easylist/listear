@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: e0L7Sg5Tsgx2sZXrzvUNcA
+! Checksum: Czu++/9rDaQj3bpRZ/NL8Q
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -546,6 +546,8 @@ toyoraljanheg.com###bnrhd468
 traidnt.net##td[width="160px"]
 y4yy.com##.adv
 y4yy.com##img[width="300"][height="250"]
+yakamar.com###ads
+yakamar.com##.img_ads
 yallabina.com##.adv
 yallakora.com##.dealsoffer
 yourcolor.net##.ads-post
