@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: B9OO9dx7yJqYE17yXeh5Ww
+! Checksum: 3XtqakSMtm5hl1paiDlEYw
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -96,6 +96,7 @@
 ||gulfbase.com/Assets/css/AeroWindow
 ||gulfup.com/2012-06-04/133881477241.gif
 ||gulfup.com/ft2Ou.swf
+||gulfup.com/U3If1.gif
 ||hanya.ma/caro
 ||hitleap.com/assets/banner.png
 ||homekw.com/temp/jahrawi_150_167.gif
@@ -104,6 +105,7 @@
 ||jazora.com/banner/
 ||karizmo.net/vb/karix.gif
 ||ksa-ksa.com^$subdocument,domain=a7lahmsa.com
+||ksadl3.com/468.gif
 ||kuwaitchat.net/750/750_150.gif
 ||l3bh.com/728.gif
 ||l3bh.com^$popup,domain=7be.com
@@ -372,6 +374,8 @@
 ||star-cute.com/images/star-cute_10.png
 ||star28.com/adv/
 ||swalif.com/banner/
+||t3bqlbe.net/shbkat/Co1/img/add728.jpg
+||t3bqlbe.net/Untitled-100.gif
 ||t3bqlbe.net^$subdocument,domain=lmseh.com
 ||t555t.com/uploads/13586252371.gif
 ||uob-bh.com/uploadfiles/bahraindir.gif
