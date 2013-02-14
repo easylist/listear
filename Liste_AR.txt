@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 2cr40JkHnsWT3ZlFXa/Dbw
+! Checksum: 6SzqLtVESgpRoYdDaPLqmQ
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -401,6 +401,7 @@ alarab.net##.ad
 alarab.net##.mbAdImg
 alayam.com##.slides1
 alayam.com##.slides76
+aljazeerasport.tv##.banner-leaderboard
 almosafr.com##a[href^="http://www.almosafr.com/forum/ads.php?"]
 almosafr.com##a[href^="http://www.booking.com/index.html?aid="]
 almosafr.com##a[href^="http://www.hotelscombined.com/?a_aid="]
