@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 5NbgjRPG8nI8UCQbsSo31A
+! Checksum: hQonHZHnKe35evqwR170Bg
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -320,6 +320,9 @@
 ||rumonline.net/assets/banners/
 ||s-ajfan.com/vb/aerowindow/
 ||s-ajfan.com/vb/open/
+||s-oman.net/banner
+||s-oman.net/bVp9Ju.gif
+||s-oman.net/MzqAJ.gif
 ||s7rny.com/vb/open/
 ||s7rny.com/vb/s/150.png
 ||s7rny.com/vb/s/400.png
@@ -520,6 +523,7 @@ s-ajfan.com###window10
 s-ajfan.com###window3
 s-ajfan.com###window9
 s-ajfan.com##.decoded
+s-oman.net###ad_global_below_navbar
 sedty.com##.Ads
 sedty.com##a[href^="http://www.drsrv.com/adv/"]
 sedty.com##a[href^="http://www.sedty.com/adv/"]
