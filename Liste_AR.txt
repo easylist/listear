@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: jzLBDuU4CER1frKP/OmdRA
+! Checksum: EdWj+E0WVJFlFEd6QDCddw
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires
 ! Title: Liste AR
@@ -468,6 +468,7 @@ ech-chaab.net##.module.mod-line.color-black.deepest
 ech-chaab.net##img[width="820"][height="159"]
 egyup.com##.ads_slice
 egyup.com##.bannerBox
+egyup.tv##img[width="197"][height="98"]
 el3ab.com##.showcase
 el3ab.com##.smallLeader
 el3b.sukrbnat.com##img[alt="M5znUpload"]
