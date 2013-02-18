@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: SYEU8ZlCs4GnQv8gHoEogA
+! Checksum: 20syZNbGmqbEA51+mmm6NQ
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -585,6 +585,8 @@ se-te.com##table[width="70%"][style="border-collapse: collapse"]
 sedty.com##.Ads
 sedty.com##a[href^="http://www.drsrv.com/adv/"]
 sedty.com##a[href^="http://www.sedty.com/adv/"]
+shbab1.com##img[width="200"][height="60"]
+shbab1.com##img[width="300"][height="60"]
 shofha.com##.adv
 shorouknews.com###DivTopAd
 shorouknews.com##.largeAd
