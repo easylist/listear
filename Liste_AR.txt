@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 20syZNbGmqbEA51+mmm6NQ
+! Checksum: Byrrt8F8jIZmm7TAV9YSXA
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -223,6 +223,7 @@
 ||bdr130.net/vb/bnr1/
 ||bentvip.com/adv/
 ||bentvip.com/up/20120511032813.gif
+||blogspot.com^$popup,domain=mountada.net
 ||bramjnet.com/images/upload/bramj.jpg
 ||bramjnet.com/images/upload/bramjnet-2012.gif
 ||bramjnet.com/images/upload/f1l1.gif
@@ -488,6 +489,7 @@ fibladi.com##.lastads
 fibladi.com##iframe[id^="google_ads"]
 filgoal.com##.MRContainer
 filgoal.com##.inner_leaderboard
+fonction-publique-dz.mountada.net##img[width="364"][height="60"]
 fr7.com###webColorsHeader2
 g5y.com###dropin
 g5y.com##.Ads
