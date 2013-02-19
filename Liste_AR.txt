@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: o9NxDaFrSjPuAKkInyp14w
+! Checksum: 382uq0m3ZBiL2CAajpm+TA
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -513,6 +513,8 @@ filgoal.com##.inner_leaderboard
 fivesat.net##a[href="http://www.sharing-sat.com"]
 fonction-publique-dz.mountada.net##img[width="364"][height="60"]
 fr7.com###webColorsHeader2
+fraise-d.com##img[width="150"][height="60"]
+fraise-d.com##img[width="468"][height="60"]
 g5y.com###dropin
 g5y.com##.Ads
 g5y.com##div[style="height:150px;"]
