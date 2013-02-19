@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: HK27iQoJkx7IyjvHh8Vfxg
+! Checksum: N3x6kj13DqMCJUJrGl1/nQ
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -474,6 +474,7 @@ bokra.net##.strip
 bokra.net##.tower
 bokra.net##.towerBanner
 bokra.net##.twoBanners
+bouzypress.com##.pub_728
 brooonzyah.net##.navbar_notice
 calcio4arab.com##img[width="280"][height="80"]
 chat-alriyadh.com##.paner
