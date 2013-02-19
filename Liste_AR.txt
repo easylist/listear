@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 8ipffDJKJ1Zf3XyN7u8vLw
+! Checksum: o9NxDaFrSjPuAKkInyp14w
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -100,6 +100,7 @@
 ||gulfup.com/2012-06-04/133881477241.gif
 ||gulfup.com/5vZe3.swf
 ||gulfup.com/ft2Ou.swf
+||gulfup.com/o8FnS.gif
 ||gulfup.com/U3If1.gif
 ||hanya.ma/caro
 ||hitleap.com/assets/banner.png
@@ -540,6 +541,10 @@ jordanzad.com##a[href^="ad.php?"]
 jordanzad.com##div[style="width:306px;height:63px;"]
 jordanzad.com##div[style="width:600px;height:80px;"]
 jsoftj.com###freet
+k1g3.com##a[href="http://www.sharing-sat.com"]
+k1g3.com##img[title="اعــلن مــــــعنا"]
+k1g3.com##img[width="150"][height="60"]
+k1g3.com##img[width="486"][height="60"]
 kifache.com##.ad200
 kifache.com##.ad728
 kifache.com##.ad987
