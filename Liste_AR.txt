@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: tuYfBkfcIghG0Pzd4qOT+w
+! Checksum: lIK49xaSKcY9H628Vm/Z0g
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -294,6 +294,7 @@
 ||goo.gl/meRtR^$popup,domain=abotlal.com
 ||googlna.com/flash/bnar.swf
 ||gulfup.com/styles/gulfup2/p/$image
+||hawahome.com/images/left-ads.
 ||hawanaajd.com/img/b/$image
 ||hibapress.com/Hanya90.jpg
 ||hibasport.com/pubip/
@@ -537,6 +538,7 @@ gulfbase.com##.AeroWindow
 hao123.com##.pr
 hawaaworld.com###boxContain
 hawaaworld.com###vacuumcleaners
+hawahome.com##a[href^="http://forum.hawahome.com/ads.php?"]
 hawamer.com###topBanner
 hawamer.com##.centerBanner
 hibasport.com##.pub_header
