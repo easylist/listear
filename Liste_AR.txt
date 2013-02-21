@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: BNC+n+dGXwzsuC/2s3i9sA
+! Checksum: mf90qEKfXitxhuOrg1oZyw
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -68,6 +68,10 @@
 ||algrbh.com/upl/bnr-
 ||allomani.com/js_banners
 ||alquds.co.uk/zaaptv.gif
+||amalh.net/images/addsapcem.gif
+||amalh.net/images/amalh.gif
+||amalh.net/images/amalh2.jpg
+||amalh.net/images/monjz.gif
 ||amazonaws.com/MixBerryAdsProduction/
 ||anota-des.com/vb/$subdocument,domain=a7lahmsa.com
 ||arabic-developers.com/images/bnr/
@@ -136,6 +140,8 @@
 ||roooo3.com^$popup,domain=arabsh.com
 ||s-ajfan.com/vb/$subdocument,domain=a7lahmsa.com
 ||shbkat.com/adv/
+||shnat.net/vb/images/14.jpg
+||shnat.net/vb/images/bag.gif
 ||short5.com/2d/popup.js
 ||soft365.com^$popup,domain=arabsh.com
 ||startdedicated.com/newbrz.gif
@@ -333,6 +339,10 @@
 ||montadaphp.net/e3lan.png
 ||montadaphp.net/hamada_banner.png
 ||montadaphp.net/pollify-ads.gif
+||mshaweer.net/images/majed.gif
+||mshaweer.net/images/quikbus.gif
+||mshaweer.net/images/ramah.gif
+||mshaweer.net/images/waslny.gif
 ||mtwer.com/files/14806.gif
 ||mtwer.com^*/adsmtwerclient/
 ||mwadah.com/images/mwadahhost.swf
