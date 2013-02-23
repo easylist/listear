@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 9bUUR0S9MZinPfaF7tyMjg
+! Checksum: ye6NoRcv9UjFOph08d2pAQ
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -110,6 +110,7 @@
 ||gulfup.com/5vZe3.swf
 ||gulfup.com/ft2Ou.swf
 ||gulfup.com/o8FnS.gif
+||gulfup.com/SNI11.gif
 ||gulfup.com/U3If1.gif
 ||hanya.ma/caro
 ||hitleap.com/assets/banner.png
