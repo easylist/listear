@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: E8tRjK7XTzTLvQVarZdpVQ
+! Checksum: yTwdAazMYvBLLq7JLGh5Eg
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -189,6 +189,7 @@
 ||7be.com/banner/
 ||7be.com/images/mos1/img/728r.gif
 ||7be.com/wp-content/uploads/2011/11/7be2.gif
+||7hob.com/1.gif
 ||7ozn.com/e3lanat/
 ||a7lahmsa.com/vb/aerowindow/
 ||a7lahmsa.com/vb/open/
@@ -449,6 +450,7 @@
 6ef.com###webColorsHeader2
 6rb.com##.adsbnr
 7be.com###table2805
+7hob.com##td[style="border:2px #EA8336 dotted ; width:336px;height:280px;"]
 a7lahmsa.com##.decoded
 a7lahmsa.com##.floatingWindowContent
 a7lashare.com###topbar
@@ -562,6 +564,8 @@ fivesat.net##a[href="http://www.sharing-sat.com"]
 fll2.com##.ads
 fll2.com##.adv
 fonction-publique-dz.mountada.net##img[width="364"][height="60"]
+forums.7hob.com##.ads-header
+forums.7hob.com##td[style="border:2px #EA8610 dotted ; width:750px;height:280px;"]
 fr7.com###webColorsHeader2
 fraise-d.com##img[width="150"][height="60"]
 fraise-d.com##img[width="468"][height="60"]
