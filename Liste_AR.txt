@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: ye6NoRcv9UjFOph08d2pAQ
+! Checksum: Gm8ffNiR8PNTtzywi1SMcA
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -526,6 +526,9 @@ bouzypress.com##.pub_728
 brooonzyah.net##.navbar_notice
 calcio4arab.com##img[width="280"][height="80"]
 chat-alriyadh.com##.paner
+chtoukapress.com##img[width="200"][height="90"]
+chtoukapress.com##img[width="228"][height="100"]
+chtoukapress.com##img[width="728px"][height="100px"]
 deltaclic.com##.squarebanner
 dramany.net###AdvContainer
 dramany.net###AdvContainerBottom
