@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: QubGs6hGIWKu/pUBJeL2xA
+! Checksum: HAali9LXB8OnEfJY8dKzNg
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -463,8 +463,8 @@ a7lashare.com###topbar
 abotlal.com##.nannr
 abotlal.com##a[href^="http://www.izhra.com/?utm_source="]
 acmilanclub.com##div[class^="ads-"]
-agadir24.info##[class^="adsense-"]
-agadir24.info##[class^="advert-"]
+agadir24.info##.adsense-300x256-widget-2
+agadir24.info##.advert-top-footer
 akhbarona.com##.banner
 al-fadjr.com###banner_container
 al-wlid.com##.ads-header
