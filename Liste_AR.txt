@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: ISe20/2KD6d7hellXuM6UA
+! Checksum: rEbUbeaklyTb9tLdnZVBFQ
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -95,6 +95,7 @@ _banner_ads.
 ##.vertical_ads
 ##a[href*="adintop.com/outgoing/click.php?"]
 ##a[href^="ads.php?id="]
+##a[href^="http://adserver.adtech.de/?adlink|"]
 ##a[href^="http://www.sotmasr.com/announcements/"]
 !
 !----------------------- Annonceurs -----------------------!
@@ -298,6 +299,9 @@ elahdath.net/themes/ahdath_tm/img/pub.jpg
 ||almosafr.com/forum/users/4-albums127-1023.jpg
 ||almosafr.com/forum/users/4-albums127-964.png
 ||almosafr.com/up/uploads/images/almosafr_
+||almountakhab.com/img/bg_image.jpg
+||almountakhab.com/img/cote_bas.swf
+||almountakhab.com/img/cote_top.swf
 ||almstba.com/Pic/Alexa.gif
 ||alnda.com/img/a3lan.gif
 ||alrainews.net/assets/banners/
