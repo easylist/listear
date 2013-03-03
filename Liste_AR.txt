@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: Tty7n4zwFAJJSu4xN+A+tA
+! Checksum: BnRO8HZlqOEjOhsB9FykDg
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -133,16 +133,16 @@ _banner_ads.
 ||0sat.com/photo0sat/
 ||0zz0.com/2012/07/28/21/250712642.gif
 ||3ikarat.com/rotatingad.js
-||3rby.net/$popup,domain=s-ajfan.com
+||3rby.net/$image,~image,popup,domain=s-ajfan.com
 ||4040.cc/images/fakhr.gif
 ||44aa.com/image/nesba.swf
 ||5bre.com/images/5bre.gif
-||5jle.com^$popup,domain=maas1.com
-||7bbb7.com/vb/$popup,domain=s-ajfan.com
+||5jle.com^$image,~image,popup,domain=maas1.com
+||7bbb7.com/vb/$image,~image,popup,domain=s-ajfan.com
 ||7bbb7.com/vb/$subdocument,domain=s-ajfan.com
 ||a7lahmsa.com/vb/$subdocument,domain=s-ajfan.com
 ||ads-bubble.snseonetwork.com/zone?
-||aksalser.com^$popup,domain=0zz0.com
+||aksalser.com^$image,~image,popup,domain=0zz0.com
 ||al-ghla.net/vb/$subdocument,domain=a7lahmsa.com
 ||aldam3h.com/vb/$subdocument,domain=s-ajfan.com
 ||aldlall.com/aldlall.gif
@@ -159,7 +159,7 @@ _banner_ads.
 ||anota-des.com/vb/$subdocument,domain=a7lahmsa.com
 ||arabic-developers.com/images/bnr/
 ||arabseed.com/foo.php
-||arabsh.com/red.php$popup,domain=nono6.com
+||arabsh.com/red.php$image,~image,popup,domain=nono6.com
 ||asalahpal.com/vb/$subdocument,domain=a7lahmsa.com
 ||awtad.com/www/
 ||bayt.com/referred?
@@ -171,16 +171,16 @@ _banner_ads.
 ||dohaup.com/up/2010-05-07/dohaup_206097194.gif
 ||dzautos.com/data/dzauto.swf
 ||elaana.com/open.js
-||elastec.info/$popup,domain=s-ajfan.com
+||elastec.info/$image,~image,popup,domain=s-ajfan.com
 ||elmal.us/banner
 ||fanslave.com/images/stories/fanslave/banner-en/
 ||foldersoft.com/holl.jpg
-||forsangaza.net/vb/$popup,domain=a7lahmsa.com
+||forsangaza.net/vb/$image,~image,popup,domain=a7lahmsa.com
 ||forsangaza.net/vb/$subdocument,domain=a7lahmsa.com
 ||freewebsubmission.com/images/fwsbanner
 ||g2g2.net/banars/
 ||galileosolutions.net^*/banners_
-||goo.gl/v1xfr^$popup,domain=arabseed.com
+||goo.gl/v1xfr^$image,~image,popup,domain=arabseed.com
 ||gulfbase.com/APopUp.
 ||gulfbase.com/Assets/css/AeroWindow
 ||gulfup.com/2012-06-04/133881477241.gif
@@ -200,34 +200,34 @@ _banner_ads.
 ||ksadl3.com/468.gif
 ||kuwaitchat.net/750/750_150.gif
 ||l3bh.com/728.gif
-||l3bh.com^$popup,domain=7be.com
+||l3bh.com^$image,~image,popup,domain=7be.com
 ||llssll.com/vb/$subdocument,domain=a7lahmsa.com
 ||m5zn.com/images/fmb_
 ||m5zn.com/open.js
 ||mark4you.com/mark.gif
-||mbc.net$popup,domain=arabseed.com
+||mbc.net$image,~image,popup,domain=arabseed.com
 ||mn66.com/mn66SMS.GIF
 ||mn66.com/sms2.jpg
 ||mnq8.com/bnrs/
 ||mothhelah.com/bnr.jpg
 ||mothhelah.com/img/psF78481.gif
 ||mshaweer.net/vb/images/e3lan3.gif
-||mycar4ever.blogspot.com^$popup,domain=egyptladies.net
+||mycar4ever.blogspot.com^$image,~image,popup,domain=egyptladies.net
 ||nadorhoy.net/pub/
 ||optionyard.com/l.aspx?
-||ps-0.com/vb/$popup,domain=s-ajfan.com
+||ps-0.com/vb/$image,~image,popup,domain=s-ajfan.com
 ||ps-0.com/vb/$subdocument,domain=a7lahmsa.com
 ||ps-0.com/vb/$subdocument,domain=s-ajfan.com
 ||raya.ps/data/banners/
-||roooo3.com^$popup,domain=arabsh.com
+||roooo3.com^$image,~image,popup,domain=arabsh.com
 ||s-ajfan.com/vb/$subdocument,domain=a7lahmsa.com
 ||shbkat.com/adv/
 ||shnat.net/vb/images/14.jpg
 ||shnat.net/vb/images/bag.gif
 ||short5.com/2d/popup.js
-||soft365.com^$popup,domain=arabsh.com
+||soft365.com^$image,~image,popup,domain=arabsh.com
 ||startdedicated.com/newbrz.gif
-||support-ar.com/vb/index.php$popup,domain=friasat.com
+||support-ar.com/vb/index.php$image,~image,popup,domain=friasat.com
 ||tarfihe.com/fl/
 ||thouk.com/thouk.gif
 ||tumblr.com/$subdocument,domain=s-ajfan.com
@@ -251,7 +251,7 @@ elahdath.net/themes/ahdath_tm/img/pub.jpg
 ||3asq.com/img/uploads/13560751771.swf?
 ||3asq.com/img/uploads/13607070421.swf
 ||3at3ot.com/pop.js
-||3ayezakol.com^$popup,domain=egyup.com
+||3ayezakol.com^$image,~image,popup,domain=egyup.com
 ||3ikarat.com/App_Images/BannerImages/
 ||3roos.com/files/ups/
 ||3roos.com/images/i3lan.gif
@@ -279,7 +279,7 @@ elahdath.net/themes/ahdath_tm/img/pub.jpg
 ||al-zin.com/up/uploads/13544017121.gif
 ||al-zin.com/up/uploads/13557545631.jpg
 ||al-zin.com/up/uploads/13600111111.gif
-||al-zin.com^$popup,domain=al-zin.com
+||al-zin.com^$image,~image,popup,domain=al-zin.com
 ||al3ushaq.com/t7mel/uploads/13505054691.gif
 ||al3ushaq.com/t7mel/uploads/13515103911.gif
 ||al3ushaq.com/vb/open.js
@@ -304,18 +304,18 @@ elahdath.net/themes/ahdath_tm/img/pub.jpg
 ||almstba.com/Pic/Alexa.gif
 ||alnda.com/img/a3lan.gif
 ||alrainews.net/assets/banners/
-||alrassed.com^$popup,domain=3asfh.net
+||alrassed.com^$image,~image,popup,domain=3asfh.net
 ||alwadifa-maroc.com/flash/banniere_
 ||alwatannews.net/Images/*-660x90-
 ||amalh.net/images/alberekat2.gif
 ||amalh.net/images/shalwi3.gif
-||aqarbook.com^$popup,domain=mothhelah.com
+||aqarbook.com^$image,~image,popup,domain=mothhelah.com
 ||ar-wp.com/forums-archive/images/bn1.
 ||ar-wp.com/forums-archive/images/bn2.
 ||arab4mp3.com/banner/
 ||arab4mp3.com/up/uploads/arab4mp3
 ||arab4mp3.com/uploads/banners/
-||arabhardware.net/$popup
+||arabhardware.net/$image,~image,popup
 ||arabs-up.com/uploads/12_02_13_13606696151.gif
 ||arabs-up.com/uploads/arabs-up_13510211071.jpg
 ||arabs-up.com/uploads/arabs-up_13510222912.gif
@@ -332,7 +332,7 @@ elahdath.net/themes/ahdath_tm/img/pub.jpg
 ||bdr130.net/vb/bnr1/
 ||bentvip.com/adv/
 ||bentvip.com/up/20120511032813.gif
-||blogspot.com^$popup,domain=mountada.net
+||blogspot.com^$image,~image,popup,domain=mountada.net
 ||bramjnet.com/images/upload/bramj.jpg
 ||bramjnet.com/images/upload/bramjnet-2012.gif
 ||bramjnet.com/images/upload/f1l1.gif
@@ -354,8 +354,8 @@ elahdath.net/themes/ahdath_tm/img/pub.jpg
 ||dl3-r.com/dla3/images/large-area.gif
 ||dohaup.com/up/2010-01-29/dohaup_827224532.gif
 ||dohaup.com/up/2010-02-10/dohaup_1758332280.gif
-||dzecole.com/^$popup,domain=bacdz.org
-||eaglepro.net^$popup,domain=bramjnet.com
+||dzecole.com/^$image,~image,popup,domain=bacdz.org
+||eaglepro.net^$image,~image,popup,domain=bramjnet.com
 ||echoroukonline.com/img/aswak2.swf
 ||educ40.net/images/hotcourses.gif
 ||educ40.net/images/kotobdz.gif
@@ -392,7 +392,7 @@ elahdath.net/themes/ahdath_tm/img/pub.jpg
 ||fragny.com/open.js
 ||gem-flash.com/vb/banners1.php?
 ||goo.gl/fYnDL^$subdocument,domain=lmseh.com
-||goo.gl/meRtR^$popup,domain=abotlal.com
+||goo.gl/meRtR^$image,~image,popup,domain=abotlal.com
 ||googlna.com/flash/bnar.swf
 ||gulfup.com/styles/gulfup2/p/$image
 ||hawanaajd.com/img/b/$image
@@ -412,7 +412,7 @@ elahdath.net/themes/ahdath_tm/img/pub.jpg
 ||k1br.com/vb/$subdocument,domain=s7rny.com
 ||khaleejcal.com^*/banners/
 ||kuwait777.com/kuwait777/images/adv_
-||lhzro.com^$popup,domain=lhzro.com
+||lhzro.com^$image,~image,popup,domain=lhzro.com
 ||liilas.com/300.htm
 ||liilas.com/600.htm
 ||liilas.com/728.htm
@@ -459,7 +459,7 @@ elahdath.net/themes/ahdath_tm/img/pub.jpg
 ||q8yat.com/uploads/images/q8yat-20e3d95ccd.gif
 ||q8yat.com/uploads/images/q8yat-6f74f90b85.gif
 ||q8yat.com/uploads/images/q8yat-bd676156ea.gif
-||qatar2.net^$popup,domain=qatarw.com
+||qatar2.net^$image,~image,popup,domain=qatarw.com
 ||qatarw.com/get-11-2008-1.gif
 ||qatarw.com/images/88.gif
 ||qatarw.com/images/89.gif
@@ -506,7 +506,7 @@ elahdath.net/themes/ahdath_tm/img/pub.jpg
 ||tvfun.ma/p.js
 ||uob-bh.com/uploadfiles/bahraindir.gif
 ||uskarmawi.com^$subdocument,domain=asalahpal.com
-||xdahk.bihax.com^$popup,domain=bihax.com
+||xdahk.bihax.com^$image,~image,popup,domain=bihax.com
 ||xtratube.net/player/*/codes.html
 ||y4yy.com/la3bty.gif
 !
