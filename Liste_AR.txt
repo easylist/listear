@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: rEbUbeaklyTb9tLdnZVBFQ
+! Checksum: cfdODddVUikubLdLcxkt9Q
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -17,6 +17,7 @@
 &ad_type=
 -ads.gif
 .aspx?ads=
+.ma/ads/
 /ad-125.
 /ad125b.
 /ad290x60_
@@ -504,7 +505,6 @@ elahdath.net/themes/ahdath_tm/img/pub.jpg
 ||t3bqlbe.net^$subdocument,domain=lmseh.com
 ||t555t.com/uploads/13586252371.gif
 ||tourism-review.net/banners/
-||tvfun.ma/ads/
 ||tvfun.ma/p.js
 ||uob-bh.com/uploadfiles/bahraindir.gif
 ||uskarmawi.com^$subdocument,domain=asalahpal.com
