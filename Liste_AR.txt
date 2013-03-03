@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Checksum: 0VxYFkwA+G/ogbfzMh+rZg
-! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
+! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Mises à jour : https://code.google.com/p/liste-ar-adblock/source/list
 ! Licence : http://creativecommons.org/licenses/by-nc-sa/3.0/
 ! Homepage: http://code.google.com/p/liste-ar-adblock/
