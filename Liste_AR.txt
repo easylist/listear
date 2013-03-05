@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: f++cqY9YZQCIwZgfNcxHZw
+! Checksum: 06G6iY87Qt99SacKbxXLAQ
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -565,6 +565,7 @@ alwatannews.net###pnlAdv12
 alwatannews.net##.Adv
 ar-wp.com##.box
 ar-wp.com##.nbanners
+ar-wp.com##.ten-banners
 arab-x.com##img[width="110"][height="35"]
 arabhardware.net##.avd_display_block
 arabia.com###divDimmed
