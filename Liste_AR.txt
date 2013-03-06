@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: SZGU4NxH04Uq3cP9vkjwaQ
+! Checksum: 7zK8o0TRuVCqO7z0SwFcSw
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -39,6 +39,7 @@
 /images/ads.
 /images/adver-
 /left-ads.
+/rotatingad.
 /text_ads_
 ?action=ads&
 _ads_cached.
@@ -136,7 +137,6 @@ _banner_ads.
 !
 ||0sat.com/photo0sat/
 ||0zz0.com/2012/07/28/21/250712642.gif
-||3ikarat.com/rotatingad.js
 ||3rby.net/$image,~image,popup,domain=s-ajfan.com
 ||4040.cc/images/fakhr.gif
 ||44aa.com/image/nesba.swf
