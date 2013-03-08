@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: NLk+/kESOud7QFqPCz1A4g
+! Checksum: BNTG4scUmPGBI+nuzSSGFA
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -123,12 +123,10 @@ _banner_ads.
 ||oneclickad.net^$third-party
 ||pixfuture.net^$third-party
 ||poparb.com^$third-party
-||popup.egyup.com^
 ||reachjunction.com^$third-party
 ||safeadnetwork.net^$third-party
 ||sarmady-ads.com^$third-party
 ||seprovider.com^$third-party
-||site.elkhabar.com^
 ||trafficrevmaster.com^$third-party
 ||zenoviaexchange.com^$third-party
 ||zwaar.net^$third-party
@@ -476,6 +474,7 @@ _banner_ads.
 ||panet.co.il/Ext/js/auadsx.js
 ||panet.co.il/Ext/ShowBanner.php?
 ||panet.co.il^*/flash_banners/
+||popup.egyup.com^
 ||q8classroom.net/adv_
 ||q8classroom.net/banners/
 ||q8classroom.net/bbn.gif
@@ -522,6 +521,7 @@ _banner_ads.
 ||servimg.com/u/f10/16/22/48/64/f40-mo10.gif
 ||servimg.com/u/f42/16/22/48/64/34637510.gif
 ||shatelarab.com/images/banners/
+||site.elkhabar.com^
 ||star-cute.com/images/star-cute_10.png
 ||star28.com/adv/
 ||swalif.com/banner/
