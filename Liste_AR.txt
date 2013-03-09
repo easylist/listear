@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: BNTG4scUmPGBI+nuzSSGFA
+! Checksum: /xJ4SHd/ZzrTJErrmxY2Wg
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -29,14 +29,17 @@
 /ads300x250_
 /ads_pro/*
 /adv-f.
+/adv.png
 /adv_468.
 /adver-left.
 /advert01.
 /advert33.
 /advertising300x250.
 /ar/ads/*
+/cont-adv.
 /develop/ads_
 /images/ads.
+/images/adv.
 /images/adver-
 /left-ads.
 /rotatingad.
@@ -82,6 +85,7 @@ _banner_ads.
 ##.adv350
 ##.adv468
 ##.adv_aff
+##.adv_top
 ##.adver-left
 ##.advert-top-footer
 ##.advert-under-hedaer
@@ -404,7 +408,6 @@ _banner_ads.
 ||fivesat.net/bnr2.gif
 ||fontypress.info/images/banners/
 ||foola.net/images/foola_22.png
-||foola.net/up/styles/alhjer/images/adv.jpg
 ||foola.net/up/styles/alhjer/images/alhjerdesign_traidnt_07.jpg
 ||fragny.com/open.js
 ||gem-flash.com/vb/banners1.php?
@@ -495,8 +498,6 @@ _banner_ads.
 ||realmadridarabia.com^*/images/bnr_
 ||riyada.ma/images/chadafm-adv.jpg
 ||rmadarab.com/vb/RMclub/pub
-||roooo3.com/Rooo3/images/adv.png
-||roooo3.com/Rooo3/images/cont-adv.png
 ||roooo3.com/vb/aerowindow/
 ||roooo3.com/vb/stylev1/images/banner
 ||roro44.com/girls-games-banner.jpg
@@ -553,7 +554,6 @@ abotlal.com##.nannr
 abotlal.com##a[href^="http://www.izhra.com/?utm_source="]
 ahram.org.eg###AdvShowCase1_divShowcase
 ahram.org.eg###ctl00_ContentPlaceHolder1_AdvShowCase1_divShowcase
-ahram.org.eg##.adv_top
 akhbarona.com##.banner
 al-fadjr.com###banner_container
 al-wrwd.com###bannbox
