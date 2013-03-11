@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: HzFK0qXOYTa457I4MXX39w
+! Checksum: a5PekrptGG4/GIGnebTp6g
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -690,4 +690,3 @@ z4ar.com##.leaderboard
 !----------------------- Exceptions -----------------------!
 !
 @@||bawazir-tech.com/banners/
-!
