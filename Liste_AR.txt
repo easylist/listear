@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: a5PekrptGG4/GIGnebTp6g
+! Checksum: cdrr0PnWc6LZUaBiOOMalw
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -15,7 +15,6 @@
 !----------------------- Filtres génériques -----------------!
 .ma/ads/
 /ar/ads/*
-/images/adv_
 !
 !----------------------- Éléments génériques -----------------!
 ##a[href*="adintop.com/outgoing/click.php?"]
@@ -395,7 +394,6 @@
 ||q8classroom.net/banners/
 ||q8classroom.net/bbn.gif
 ||q8classroom.net/bnnn.gif
-||q8classroom.net/q8da_ad.gif
 ||q8yat.com/uploads/images/q8yat-1ce0d91ca2.gif
 ||q8yat.com/uploads/images/q8yat-20e3d95ccd.gif
 ||q8yat.com/uploads/images/q8yat-6f74f90b85.gif
@@ -409,7 +407,6 @@
 ||qatarw.com/up/qatarw_uhtpDMwxza.gif
 ||rassoulallah.info/new/images/e3lan.png
 ||realmadridarabia.com^*/images/bnr_
-||riyada.ma/images/chadafm-adv.jpg
 ||rmadarab.com/vb/RMclub/pub
 ||roooo3.com/vb/aerowindow/
 ||roooo3.com/vb/stylev1/images/banner
@@ -676,7 +673,6 @@ t8t3.com##img[width="140"][height="60"]
 t8t3.com##img[width="150"][height="60"]
 techarabi.com###mpu-in-post
 toptwitt.com##.ads2
-toyoraljanheg.com###bnrhd468
 traidnt.net##td[width="160px"]
 uskarmawi.com###topads
 y4yy.com##.adv
@@ -684,7 +680,6 @@ y4yy.com##img[width="300"][height="250"]
 yakamar.com###ads
 yallabina.com##.adv
 yallakora.com##.dealsoffer
-yourcolor.net##div[id^="ads250"]
 z4ar.com##.leaderboard
 !
 !----------------------- Exceptions -----------------------!
