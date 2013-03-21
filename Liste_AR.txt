@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: rnP787yMJcbk/0PROHfwtQ
+! Checksum: 00rsWX9AU9Wh355I5SEPxw
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -17,6 +17,8 @@
 /ar/ads/*
 !
 !----------------------- Éléments génériques -----------------!
+##.ads-468
+##.ads300-200
 ##a[href*="adintop.com/outgoing/click.php?"]
 ##a[href^="ads.php?id="]
 ##a[href^="http://adserver.adtech.de/?adlink|"]
@@ -37,6 +39,7 @@
 ||emarketing.net.sa^$third-party
 ||hibamedia.com^$third-party
 ||hsoub.com^$third-party
+||imediastreams.com^$third-party
 ||oneclickad.net^$third-party
 ||pixfuture.net^$third-party
 ||poparb.com^$third-party
@@ -600,6 +603,7 @@ k1g3.com##a[href="http://www.sharing-sat.com"]
 k1g3.com##img[title="اعــلن مــــــعنا"]
 k1g3.com##img[width="150"][height="60"]
 k1g3.com##img[width="486"][height="60"]
+korabia.com###divLeaderBoard
 ksa-ksa.com##a[href*="/?adsclick=banner&id="]
 l3bh.com##.ads
 lakii.com##a[href*="ads-redirect.php?i="]
