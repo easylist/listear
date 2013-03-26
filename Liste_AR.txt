@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: XVtKv3fspCnf8D9+ZaK5OA
+! Checksum: huRs8Mw9Nc2GsRSsldBxow
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -118,6 +118,11 @@
 ||homekw.com/temp/jahrawi_150_167.gif
 ||hostgator.com/images/banners/
 ||hotelscombined.com/Affiliate/Widgets/
+||imageshack.us/img195/9178/28906591.jpg
+||imageshack.us/img22/7856/81950907.jpg
+||imageshack.us/img687/748/83145832.jpg
+||imageshack.us/img831/6584/69953352.jpg
+||imageshack.us/img856/4224/64119518.jpg
 ||islamiy.com^$subdocument,domain=wadilarab.com
 ||jazora.com/banner/
 ||karizmo.net/vb/karix.gif
@@ -289,6 +294,7 @@
 ||bdr130.net/vb/bnr1/
 ||bentvip.com/adv/
 ||bentvip.com/up/20120511032813.gif
+||blogspot.com/^$popup,domain=cima4u.com
 ||blogspot.com^$image,~image,popup,domain=mountada.net
 ||bramjnet.com/images/upload/bramj.jpg
 ||bramjnet.com/images/upload/bramjnet-2012.gif
@@ -300,6 +306,7 @@
 ||cairo7.com/vb/open19.js
 ||ce4arab.com/images/myus-banner
 ||chadafm.net/images/stories/ban-605x106.gif
+||cima4u.com/open/
 ||clasicooo.com/pic/bd1.gif
 ||clasicooo.com/pic/bd2.gif
 ||d2ja.com/Ads/
