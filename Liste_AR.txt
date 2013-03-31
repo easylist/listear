@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: XBsDze1Btwfc0WacimnjSg
+! Checksum: XasfJcIUhTP/1I+AGqJFhw
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -79,6 +79,10 @@
 ||arabic-developers.com/images/bnr/
 ||arabseed.com/foo.php
 ||arabsh.com/red.php$image,~image,popup,domain=nono6.com
+||arblue.com/5.gif
+||arblue.com/5ligi.gif
+||arblue.com/9.gif
+||arblue.com/flm3.gif
 ||asalahpal.com/vb/$subdocument,domain=a7lahmsa.com
 ||awtad.com/www/
 ||bayt.com/referred?
@@ -239,6 +243,10 @@
 ||alarab.net/SDK/MB_SDK_script.js
 ||albrq.net/open*.js
 ||algomhuria.net.eg/algomhuria/adv/
+||algremh.com/adv.htm
+||algremh.com/img/in-goore.gif
+||algremh.com/open.js
+||algremh.com/open/
 ||almesryoon.com/templates/news/images/banner300.
 ||almesryoon.com/templates/news/images/banner728.
 ||almosafr.com/forum/imgcache/2/50alsh3er.gif
@@ -358,6 +366,7 @@
 ||foola.net/images/foola_22.png
 ||foola.net/up/styles/alhjer/images/alhjerdesign_traidnt_07.jpg
 ||fragny.com/open.js
+||g9g.im^$subdocument,domain=algremh.com
 ||gem-flash.com/vb/banners1.php?
 ||goo.gl/fYnDL^$subdocument,domain=lmseh.com
 ||goo.gl/meRtR^$image,~image,popup,domain=abotlal.com
@@ -383,6 +392,7 @@
 ||jsoftj.com/games-folder/zTkW1_jsoftj.com.png
 ||k1br.com/vb/$subdocument,domain=s7rny.com
 ||khaleejcal.com^*/banners/
+||ktaby.com^$subdocument,domain=algremh.com
 ||lhzro.com^$image,~image,popup,domain=lhzro.com
 ||liilas.com/300.htm
 ||liilas.com/600.htm
@@ -527,6 +537,7 @@ alayam.com##.slides76
 albaladeyes.com###ads1
 albaladeyes.com###advs
 algeriamax.com##img[alt="مساحة إعلانية"]
+algremh.com##.floatingWindowContent
 alhayat.com##.TopHeaderBanner
 alhayat.com##.banner2
 aljazeerasport.tv##.banner-leaderboard
