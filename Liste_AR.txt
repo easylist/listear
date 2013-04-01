@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: BibrOCD59gtQP0Dx25n5oA
+! Checksum: DL94imnZBxUgwHRgq2FVEA
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -725,6 +725,7 @@ s-ajfan.com###window3
 s-ajfan.com###window9
 s-ajfan.com##.decoded
 s-oman.net###ad_global_below_navbar
+s-oman.net##a[href="http://www.rennamobile.com/promotions/"]
 se-te.com##table[width="70%"][style="border-collapse: collapse"]
 sedty.com##.Ads
 sedty.com##a[href^="http://www.drsrv.com/adv/"]
