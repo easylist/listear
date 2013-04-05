@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: OQ6eMiFcjKGzf+sVCMA4CA
+! Checksum: zzDy/yc8eEfix0J/byjL8Q
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -37,6 +37,7 @@
 ||emarketing.net.sa^$third-party
 ||hibamedia.com^$third-party
 ||hsoub.com^$third-party
+||ikoo.com^$third-party
 ||imediastreams.com^$third-party
 ||oneclickad.net^$third-party
 ||pixfuture.net^$third-party
@@ -85,8 +86,10 @@
 ||arblue.com/flm3.gif
 ||asalahpal.com/vb/$subdocument,domain=a7lahmsa.com
 ||awtad.com/www/
+||b8cdn.com/widgets/affiliate-
 ||bayt.com/referred?
 ||bayt.com/scripts/associates_latest_jobs.js
+||bayt.com/widgets/get_jobs_widget?
 ||bdyamall.com/banner
 ||beeieg.com/bums//js.php?
 ||casasky.com/bannerslider/
@@ -392,6 +395,7 @@
 ||jsoftj.com/games-folder/zTkW1_jsoftj.com.png
 ||k1br.com/vb/$subdocument,domain=s7rny.com
 ||khaleejcal.com^*/banners/
+||ktaby.com/open.js
 ||ktaby.com^$subdocument,domain=algremh.com
 ||lhzro.com^$image,~image,popup,domain=lhzro.com
 ||liilas.com/300.htm
