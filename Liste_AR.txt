@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 7yb8kh6iiZ1UmtPeRjE+8Q
+! Checksum: 4JNLJqt4iEZqXsW4OTFYCQ
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -706,6 +706,8 @@ mdredclub.com##img[width="460"][height="60"]
 menara.ma##.pub
 mexat.com##div[class^="banner"]
 misbahinet.com##.squarebanner
+mobdi3ine.net##.adv
+mobdi3ine.net##img[width="140"][height="60"]
 mothhelah.com##a[href^="code,banner,"]
 mothhelah.com##a[href^="index.php?op=ad_click"]
 mtwer.com##a[onclick^="_gaq.push(['_trackEvent', 'Outgoing',"]
