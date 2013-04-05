@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: zzDy/yc8eEfix0J/byjL8Q
+! Checksum: Ilj3CYvlg0GyVfWwZlWLsA
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -196,6 +196,7 @@
 ||0zz0.com/e/luna20120131_2.swf
 ||0zz0.com/js.php
 ||33sh8.com/up/styles/default2//images/adds.gif
+||3ajaba.com^$subdocument,domain=ktaby.com
 ||3asfh.net/vb/js.php
 ||3asq.com/img/uploads/13560751771.swf?
 ||3asq.com/img/uploads/13607070421.swf
@@ -395,7 +396,10 @@
 ||jsoftj.com/games-folder/zTkW1_jsoftj.com.png
 ||k1br.com/vb/$subdocument,domain=s7rny.com
 ||khaleejcal.com^*/banners/
+||ktaby.com/adv_ktaby/
 ||ktaby.com/open.js
+||ktaby.com/vb/open/
+||ktaby.com/wzayef^$subdocument,domain=ktaby.com
 ||ktaby.com^$subdocument,domain=algremh.com
 ||lhzro.com^$image,~image,popup,domain=lhzro.com
 ||liilas.com/300.htm
@@ -665,6 +669,8 @@ k1g3.com##img[width="150"][height="60"]
 k1g3.com##img[width="486"][height="60"]
 korabia.com###divLeaderBoard
 ksa-ksa.com##a[href*="/?adsclick=banner&id="]
+ktaby.com##.floatingWindowContent
+ktaby.com##a[href^="http://performance.ikoo.com/"]
 l3bh.com##.ads
 lakii.com##a[href*="ads-redirect.php?i="]
 lakii.com##a[href^="http://www.deraah.com.sa/default.aspx?"]
