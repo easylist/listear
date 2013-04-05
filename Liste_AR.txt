@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 5du1dNRL2gqfXfWL8wMAlQ
+! Checksum: cJX5wNcfHRtq038WTEN1oQ
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -17,6 +17,7 @@
 /ar/ads/*
 !
 !----------------------- Éléments génériques -----------------!
+##.WideAdsLeft
 ##a[href*="adintop.com/outgoing/click.php?"]
 ##a[href^="ads.php?id="]
 ##a[href^="http://adserver.adtech.de/?adlink|"]
@@ -614,6 +615,9 @@ chat-alriyadh.com##.paner
 chtoukapress.com##img[width="200"][height="90"]
 chtoukapress.com##img[width="228"][height="100"]
 chtoukapress.com##img[width="728px"][height="100px"]
+contactcars.com###leaderBoard
+contactcars.com###mediumRectangle
+contactcars.com##[class^="G_ads"]
 deltaclic.com##.squarebanner
 dwayir.com###nav
 ech-chaab.net##.module.mod-line.color-black.deepest
