@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 0Ta95PpTI7HILjzwC47mbg
+! Checksum: eCVHry8H3i7SLrmz1MWiKw
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -17,6 +17,8 @@
 /ar/ads/*
 !
 !----------------------- Éléments génériques -----------------!
+##.ad_box
+##.ad_box_2
 ##a[href*="adintop.com/outgoing/click.php?"]
 ##a[href^="ads.php?id="]
 ##a[href^="http://adserver.adtech.de/?adlink|"]
@@ -318,6 +320,7 @@
 ||bentvip.com/up/20120511032813.gif
 ||blogspot.com/^$popup,domain=cima4u.com
 ||blogspot.com^$image,~image,popup,domain=mountada.net
+||blogspot.com^$popup,domain=el7l.com
 ||bramjnet.com/images/upload/bramj.jpg
 ||bramjnet.com/images/upload/bramjnet-2012.gif
 ||bramjnet.com/images/upload/f1l1.gif
