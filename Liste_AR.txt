@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: rkbPMtslgAYwm9LLEoVcMA
+! Checksum: Zhj+LUdu4XPpGDgi5o6OHw
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -706,6 +706,7 @@ k1g3.com##a[href="http://www.sharing-sat.com"]
 k1g3.com##img[title="اعــلن مــــــعنا"]
 k1g3.com##img[width="150"][height="60"]
 k1g3.com##img[width="486"][height="60"]
+kawalisse.com###bannerHead
 korabia.com###divLeaderBoard
 ksa-ksa.com##a[href*="/?adsclick=banner&id="]
 ktaby.com##.floatingWindowContent
