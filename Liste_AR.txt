@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: w3/hG0elUqG+USsq1tpZlA
+! Checksum: CbT2mJl/zLU3WEYvinVMQg
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -405,6 +405,7 @@
 ||hibapress.com/Hanya90.jpg
 ||hibasport.com/pubip/
 ||http://www.chadafm.net/images/stories/ban-605x106.gif
+||http://www.elmassar-ar.com/ara/ads/
 ||ibtesama.com/adv/
 ||infosoir.com/images/pub.gif
 ||ismailiaonline.com/swf_top/
@@ -798,3 +799,4 @@ z4ar.com##.leaderboard
 !----------------------- Exceptions -----------------------!
 !
 @@||bawazir-tech.com/banners/
+@@||elmassar-ar.com/ara/ads/logo2010.swf
