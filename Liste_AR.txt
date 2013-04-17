@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: GOpPfhfs5O9YkgcTaD3dwg
+! Checksum: q+wQIcR8AzS+XDvVuGogTQ
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -55,6 +55,7 @@
 !
 ||0sat.com/photo0sat/
 ||0zz0.com/2012/07/28/21/250712642.gif
+||3rabgamer.net/banner/
 ||3rby.net/$image,~image,popup,domain=s-ajfan.com
 ||4040.cc/images/fakhr.gif
 ||44aa.com/image/nesba.swf
@@ -77,6 +78,7 @@
 ||amalh.net/images/amalh2.jpg
 ||amalh.net/images/monjz.gif
 ||anota-des.com/vb/$subdocument,domain=a7lahmsa.com
+||arabearpiece.com/big.png
 ||arabic-developers.com/images/bnr/
 ||arabseed.com/foo.php
 ||arabsh.com/red.php$image,~image,popup,domain=nono6.com
@@ -157,6 +159,7 @@
 ||nadorimg.com/photos/faniabiiiii.gif
 ||nadorimg.com/photos/kabdani.gif
 ||nadorimg.com/pub/
+||nqashalhob.com/sharing.gif
 ||optionyard.com/l.aspx?
 ||profvb.com/pub/
 ||ps-0.com/vb/$image,~image,popup,domain=s-ajfan.com
@@ -537,6 +540,7 @@
 ||t555t.com/uploads/13586252371.gif
 ||tangersport.com/VillArt.gif
 ||tourism-review.net/banners/
+||tvegy.com/open17.js
 ||tvfun.ma/p.js
 ||uob-bh.com/uploadfiles/bahraindir.gif
 ||uskarmawi.com^$subdocument,domain=asalahpal.com
@@ -800,6 +804,7 @@ t8t3.com##img[width="150"][height="60"]
 techarabi.com###mpu-in-post
 toptwitt.com##.ads2
 traidnt.net##td[width="160px"]
+tvegy.com##a[href^="http://ar.hao123.com/?tn="]
 uskarmawi.com###topads
 wmuae.net##.binsaad
 y4yy.com##.adv
