@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: bHy3VdMrkjkP5bF9jzYwag
+! Checksum: TGV3LUgmSqhB7tfo+pm5Tw
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -200,6 +200,7 @@
 ||0zz0.com/e/$image
 ||0zz0.com/e/luna20120131_2.swf
 ||0zz0.com/js.php
+||24caratksa.com^$popup,domain=syrcafe.com
 ||33sh8.com/up/styles/default2//images/adds.gif
 ||3ajaba.com^$subdocument,domain=ktaby.com
 ||3asfh.net/vb/js.php
@@ -240,6 +241,7 @@
 ||al-zin.com/up/uploads/13557545631.jpg
 ||al-zin.com/up/uploads/13600111111.gif
 ||al-zin.com^$image,~image,popup,domain=al-zin.com
+||al-zin.com^$popup,domain=syrcafe.com
 ||al3ushaq.com/t7mel/uploads/13505054691.gif
 ||al3ushaq.com/t7mel/uploads/13515103911.gif
 ||al3ushaq.com/vb/open.js
@@ -535,6 +537,8 @@
 ||star-cute.com/images/star-cute_10.png
 ||star28.com/adv/
 ||swalif.com/banner/
+||syrcafe.com/ra03a.js
+||syrcafe.com/ufxaffiliates.js
 ||t3bqlbe.net/Untitled-100.gif
 ||t3bqlbe.net^$subdocument,domain=lmseh.com
 ||t555t.com/uploads/13586252371.gif
@@ -801,6 +805,7 @@ souq.com##.ad2
 souqa3mal.com##.ads
 souqa3mal.com##.slid-topmaxtech-costom-ads
 swarih.com##.adv
+syrcafe.com##a[href^="http://24caratksa.com/"]
 t8t3.com##img[width="140"][height="60"]
 t8t3.com##img[width="150"][height="60"]
 techarabi.com###mpu-in-post
