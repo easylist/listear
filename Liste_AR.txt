@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: b5xj32JhbA3HQzro34thdw
+! Checksum: sscRbghiLhBF7dOnN1UxwQ
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -47,6 +47,7 @@
 ||safeadnetwork.net^$third-party
 ||sarmady-ads.com^$third-party
 ||seprovider.com^$third-party
+||shabakti.com^$third-party
 ||trafficrevmaster.com^$third-party
 ||zenoviaexchange.com^$third-party
 ||zwaar.net^$third-party
@@ -154,6 +155,7 @@
 ||mothhelah.com/bnr.jpg
 ||mothhelah.com/img/psF78481.gif
 ||mshaweer.net/vb/images/e3lan3.gif
+||mshkla.com/sd.html
 ||mycar4ever.blogspot.com^$image,~image,popup,domain=egyptladies.net
 ||nadorhoy.net/pub/
 ||nadorimg.com/photos/faniabiiiii.gif
@@ -295,6 +297,7 @@
 ||arabhard.co/open19.js
 ||arabhardware.net/$image,~image,popup
 ||arablionz.com/histate/du.png
+||arablionz.com/histate/open146.js
 ||arablionz.com/histate/open147.js
 ||arablionz.com/histate/open2.php
 ||arablionz.com/left.jpg
