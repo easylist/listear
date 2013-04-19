@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: S0h25i+YG6nmuVe4SRPbVg
+! Checksum: Su+s59OYNbN9Lz69M6CIDw
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -18,6 +18,7 @@
 !
 !----------------------- Éléments génériques -----------------!
 ##a[href*="adintop.com/outgoing/click.php?"]
+##a[href*="dubizzle.com/ar/?utm_source="]
 ##a[href^="ads.php?id="]
 ##a[href^="http://adserver.adtech.de/?adlink|"]
 ##a[href^="http://www.sotmasr.com/announcements/"]
@@ -99,7 +100,7 @@
 ||darendeal.com/widgets/recommendation_box?
 ||diwanee.net/?ref=
 ||dohaup.com/up/2010-05-07/dohaup_206097194.gif
-||dubizzle.com/ar/?utm_source=$popup
+||dubizzle.com*^/?utm_source=$popup
 ||dzautos.com/data/dzauto.swf
 ||egyup.com/300.png
 ||egyup.com/banner-990x90.png
@@ -663,6 +664,7 @@ chat-alriyadh.com##.paner
 chtoukapress.com##img[width="200"][height="90"]
 chtoukapress.com##img[width="228"][height="100"]
 chtoukapress.com##img[width="728px"][height="100px"]
+cima4u.com##a[href^="http://goo.gl/"]
 contactcars.com###leaderBoard
 contactcars.com###mediumRectangle
 deltaclic.com##.squarebanner
