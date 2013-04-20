@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: UNuZAoZHXLQf1R8cnnQBFg
+! Checksum: VhFZORUaoMiDT58f1rsA4Q
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -149,6 +149,7 @@
 ||m5zn.com/themes/dir/assets/images/120_banner_black.gif
 ||m5zn.com/uploads3/2012/4/9/photo/040912220452picoovy1i4g2q.jpg
 ||mark4you.com/mark.gif
+||mazikadrama.com/vidads2.php
 ||ml7n.com/open.js
 ||mn66.com/mn66SMS.GIF
 ||mn66.com/sms2.jpg
@@ -569,6 +570,8 @@
 ||xdahk.bihax.com^$image,~image,popup,domain=bihax.com
 ||xtratube.net/player/*/codes.html
 ||y4yy.com/la3bty.gif
+||yalladrama.tv/js.php
+||yalladrama.tv/player/Download-icon.gif
 ||youm7.com/cairodar/index2.html
 ||youtube.com/watch?v=88eJwlVi898$popup,domain=alrealclub.com
 !
@@ -837,6 +840,8 @@ y4yy.com##.adv
 y4yy.com##img[width="300"][height="250"]
 yakamar.com###ads
 yallabina.com##.adv
+yalladrama.tv###bannerfloat22
+yalladrama.tv##div[style$="height: 250px; width: 300px;"]
 yallakora.com##.dealsoffer
 z4ar.com##.leaderboard
 !
