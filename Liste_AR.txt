@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: Su+s59OYNbN9Lz69M6CIDw
+! Checksum: UNuZAoZHXLQf1R8cnnQBFg
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -530,6 +530,11 @@
 ||s7rny.com/vb/s/150.png
 ||s7rny.com/vb/s/400.png
 ||sa.ae^$popup,domain=bacdz.org
+||saidaonline.com/flash/di3ayaad.swf
+||saidaonline.com/gifs/alassaadlogo21.jpg
+||saidaonline.com/gifs/bsatad2013.jpg
+||saidaonline.com/gifs/image5464df131311.jpg
+||saidaonline.com/gifs/Shubadak-Baner-600x200.jpg
 ||sawt-alahrar.net/ara/files/banners/pub
 ||sawt-alahrar.net/ara/themes/rtlsouf/img/alimisurata3.gif
 ||sawt-alahrar.net/ara/themes/rtlsouf/img/ichhar.jpg
@@ -804,6 +809,7 @@ s-ajfan.com###window9
 s-ajfan.com##.decoded
 s-oman.net###ad_global_below_navbar
 s-oman.net##a[href="http://www.rennamobile.com/promotions/"]
+saidaonline.com##a[href^="advertising.php?"]
 se-te.com##table[width="70%"][style="border-collapse: collapse"]
 sedty.com##.Ads
 sedty.com##a[href^="http://www.drsrv.com/adv/"]
