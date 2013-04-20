@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: v4ZZkGeHZl0tviAtN0YfXQ
+! Checksum: AXT12UeeHu5wpdbq7w9ddg
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -578,6 +578,7 @@
 ||yalladrama.tv/player/Download-icon.gif
 ||youm7.com/cairodar/index2.html
 ||youtube.com/watch?v=88eJwlVi898$popup,domain=alrealclub.com
+||zaiocity.net^*/zaiocitypub/
 !
 !----------------------- Éléments -----------------------!
 !
