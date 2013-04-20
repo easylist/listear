@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: tKWkYx8RiTnRtJ69k0xI8A
+! Checksum: v4ZZkGeHZl0tviAtN0YfXQ
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -790,6 +790,7 @@ nadorcity.com##a[href^="/ads/"]
 nono6.com##.BannarDown
 nono6.com##.BannarTop
 nono6.com##.bannbox
+nuqudy.com###headeradv
 onothty.net##.Ads2
 onothty.net##.ads
 physique48.org##.TOOLbarB
