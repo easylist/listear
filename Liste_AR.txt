@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: Bye7SCHysnbqpP04IXABhw
+! Checksum: 0sPxNtQGtFdHCqDgyZtMKQ
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -200,6 +200,7 @@
 ||wdbook.net^$subdocument,domain=wadilarab.com
 ||web4africa.net/banners/
 ||wirwaar.com/$subdocument,domain=s-ajfan.com
+||yourjavascript.com^*/pp-kora.js
 ||z4ar.com/banner/bsh.gif
 !
 !----------------------- Sites spécifiques -----------------------!
@@ -358,6 +359,7 @@
 ||cima4u.com/open/
 ||clasicooo.com/pic/bd1.gif
 ||clasicooo.com/pic/bd2.gif
+||coolkora.com/p/cool-kora-f.html
 ||d2ja.com/Ads/
 ||dafatir.ma/do.php?img=441
 ||dafatiri.com/vb/open.js
