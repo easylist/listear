@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: w0vrBo1fTkrnJwcqY9wJ5A
+! Checksum: JQbcmj4lu9nAV4hyWeOHag
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -38,6 +38,7 @@
 ||clients-ads.panet.co.il^
 ||clkmon.com^$third-party
 ||emarketing.net.sa^$third-party
+||gainmoneyfast.com^$third-party
 ||hibamedia.com^$third-party
 ||hsoub.com^$third-party
 ||ikoo.com^$third-party
@@ -776,6 +777,7 @@ masrawy.com###hswcase
 masrawy.com##.NewClassifieds
 masrawy.com##.dealsoffer
 masrawy.com##.leaderbg
+masrytube.com##[id^="bannerfloat"]
 mazika2day.com###page_end_bans
 mazika2day.com###topban
 mdredclub.com##img[width="150"][height="60"]
