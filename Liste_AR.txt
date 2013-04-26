@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: UogIkQNIJIa2g4mOoM7NiQ
+! Checksum: 5EhJpavzpaGLGQjq/ixdAg
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -687,6 +687,8 @@ chtoukapress.com##img[width="728px"][height="100px"]
 cima4u.com##a[href^="http://goo.gl/"]
 contactcars.com###leaderBoard
 contactcars.com###mediumRectangle
+darendeal.com##.banner
+darendeal.com##.takeover
 deltaclic.com##.squarebanner
 dwayir.com###nav
 ech-chaab.net##.module.mod-line.color-black.deepest
