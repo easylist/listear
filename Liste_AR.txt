@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: nP+S99kcgCrykA7J1dUHaA
+! Checksum: UogIkQNIJIa2g4mOoM7NiQ
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -796,6 +796,10 @@ mwadah.com##.bannerBox
 n4hr.com##.advactar
 n4hr.com##.ladv
 nadorcity.com##a[href^="/ads/"]
+ninjaup.com###ads1
+ninjaup.com###ads2
+ninjaup.com###ads3
+ninjaup.com###spons
 nono6.com##.BannarDown
 nono6.com##.BannarTop
 nono6.com##.bannbox
