@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 5EhJpavzpaGLGQjq/ixdAg
+! Checksum: YgqUpnixeSEkmOjR6dLFxA
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -50,6 +50,7 @@
 ||reachjunction.com^$third-party
 ||safeadnetwork.net^$third-party
 ||sarmady-ads.com^$third-party
+||sarmady.net^$third-party
 ||seprovider.com^$third-party
 ||shabakti.com^$third-party
 ||trafficrevmaster.com^$third-party
