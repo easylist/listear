@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: ahXdiTGMwqREcSt5KPQUng
+! Checksum: a1N5OyzFPDdqthsncCOjBg
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -324,7 +324,7 @@
 ||arabs-up.com/uploads/arabs-up_13580021531.gif
 ||arabseed.com/ffx/forsan728.jpg
 ||arabseed.com/image/goplayer
-||arabseed.com/images/db2.png
+||arabseed.com/ioption.html
 ||arabseed.com/open/
 ||arabseed.com/redirect/open*.js
 ||arabseyes.com/php1.js
@@ -483,6 +483,7 @@
 ||ma3hd.net/js.php
 ||marocannonces.com/images/tombola-
 ||marocannonces.com^*/images/bannier_
+||mbc.net/?utm_source=$popup,domain=arabseed.com
 ||mbc.net/dms/analytics-and-banners/
 ||melody.ma/images/300/
 ||melody.ma/images/500/
@@ -662,7 +663,7 @@ arabnet5.com##div[style^="width:728px; height:90px;"]
 arabs-up.com##a[href^="go.php?"]
 arabs-up.com##img[width="144"][height="60"]
 arabs-up.com##img[width="155"][height="60"]
-arabseed.com##a[href$="goo.gl/W8VHQ"]
+arabseed.com##a[href="http://goo.gl/W8VHQ"]
 arabseyes.com###Banner
 arabsgate.com##img[width="645"][height="79"]
 arabycommunity.com##a[href^="http://www.babylon.com/redirects/download.cgi?"]
