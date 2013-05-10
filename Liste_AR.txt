@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: yiMoJqEgbAkHoKUas6yWQA
+! Checksum: H0eHzwMJzXkHHivHi8sJqA
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -207,6 +207,7 @@
 ||wdbook.net^$subdocument,domain=wadilarab.com
 ||web4africa.net/banners/
 ||wirwaar.com/$subdocument,domain=s-ajfan.com
+||ymoviez.com/yallamoviez.js
 ||yourjavascript.com^*/pp-kora.js
 ||z4ar.com/banner/bsh.gif
 !
@@ -355,6 +356,7 @@
 ||blogspot.com/^$popup,domain=cima4u.com
 ||blogspot.com^$image,~image,popup,domain=mountada.net
 ||blogspot.com^$popup,domain=el7l.com
+||blogspot.com^$popup,domain=yallamoviez.com
 ||bramjnet.com/images/upload/bramj.jpg
 ||bramjnet.com/images/upload/bramjnet-2012.gif
 ||bramjnet.com/images/upload/f1l1.gif
