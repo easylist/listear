@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: UbtE/M1fDcA2TEKqkeQd2A
+! Checksum: lSIscsSlyMDLt0hkN/7BUg
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -444,6 +444,8 @@
 ||goo.gl/meRtR^$image,~image,popup,domain=abotlal.com
 ||goo.gl^$popup,domain=arabseed.com
 ||googlna.com/flash/bnar.swf
+||gornalak.com/alexa.gif
+||gornalak.com/pop.js
 ||gulfup.com/BATot.gif
 ||gulfup.com/styles/gulfup2/p/$image
 ||hawanaajd.com/img/b/$image
@@ -546,6 +548,7 @@
 ||s-oman.net/banner
 ||s-oman.net/bVp9Ju.gif
 ||s-oman.net/MzqAJ.gif
+||s7days.com^$subdocument,domain=gornalak.com
 ||s7o.net/drn.gif
 ||s7rny.com/vb/open/
 ||s7rny.com/vb/s/150.png
@@ -742,6 +745,9 @@ g5y.com##div[style="height:150px;"]
 g5y5.com###dropin
 gamesgb.com##.ad
 gamesgb.com##img[width="150"][height="50"]
+gornalak.com##.ad
+gornalak.com##.ad_left
+gornalak.com##.ad_right
 graaam.com##.haw
 gulfbase.com##.AeroWindow
 hao123.com##.pr
