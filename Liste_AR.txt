@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: ePmYZWZ1nj5dnzZ2/qbSKw
+! Checksum: SDV8jqaAK9mMbq1pCoFl+g
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -133,6 +133,7 @@
 ||gulfup.com/SNI11.gif
 ||gulfup.com/U3If1.gif
 ||hanya.ma/caro
+||hao123.com^*/ar-banner.
 ||homekw.com/temp/jahrawi_150_167.gif
 ||hostgator.com/images/banners/
 ||hotelscombined.com/Affiliate/Widgets/
@@ -358,6 +359,7 @@
 ||blogspot.com^$image,~image,popup,domain=mountada.net
 ||blogspot.com^$popup,domain=el7l.com
 ||blogspot.com^$popup,domain=yallamoviez.com
+||bramj.co/womens.js
 ||bramjnet.com/images/upload/bramj.jpg
 ||bramjnet.com/images/upload/bramjnet-2012.gif
 ||bramjnet.com/images/upload/f1l1.gif
@@ -698,6 +700,7 @@ bokra.net##.strip
 bokra.net##.tower
 bokra.net##.towerBanner
 bokra.net##.twoBanners
+bramj.co##.headerbanner
 brooonzyah.net##.navbar_notice
 calcio4arab.com##img[width="280"][height="80"]
 cartoonnetworkarabic.com###cn-tv-show-subpage-with-skyscraper-region-sidebar
