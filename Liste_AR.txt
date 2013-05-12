@@ -778,6 +778,7 @@ hwaml.com##img[width="240"][height="60"]
 hwaml.com##img[width="468"][height="60"]
 hwaml.com##img[width="728"][height="90"]
 i-share-ads.com###Ads1
+egyup.com##A[href="http://bit.ly/138z4OL"]
 i-share-ads.com###Ads4
 i-share-ads.com###ContentPlaceHolder1_MPE_AdsShow_backgroundElement
 i-share-ads.com###ContentPlaceHolder1_Pnl_ShowAds
