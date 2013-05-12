@@ -17,6 +17,7 @@
 /ar/ads/*
 !
 !----------------------- Éléments génériques -----------------!
+##.adsarea
 ##a[href*="adintop.com/outgoing/click.php?"]
 ##a[href*="dubizzle.com/ar/?utm_source="]
 ##a[href^="ads.php?id="]
@@ -646,7 +647,6 @@ alarab.net##.left_sqr
 alarab.net##.mbAdImg
 alayam.com##.slides1
 alayam.com##.slides76
-arabinlinks.com##.adsarea
 albaladeyes.com###ads1
 albaladeyes.com###advs
 algareda.com##a[href^="http://goo.gl/"]
