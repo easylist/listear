@@ -42,6 +42,7 @@
 ||hibamedia.com^$third-party
 ||hsoub.com^$third-party
 ||ikoo.com^$third-party
+||acdcads.com^$third-party
 ||imediastreams.com^$third-party
 ||nile-ads.com^$third-party
 ||oneclickad.net^$third-party
@@ -671,7 +672,7 @@ arabhardware.net##.avd_display_block
 arabia.com###divDimmed
 arabia.com###divIFrame
 arabia.com###dvleaderboard
-alnaddy.com##A[href^="http://www.acdcads.com/tracks/Gtracking.php?"]
+alnaddy.com##A[href^="http://www.acdcads.com/tracks/"]
 arabia.com###dvwidgetad
 arabia.com###showcase
 arabia.com##.ykaleader
