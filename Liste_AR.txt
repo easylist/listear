@@ -202,6 +202,7 @@
 ||upxmedia.com/$subdocument,domain=shofonline.net
 ||videobam.com/this-pays-for-bandwidth/
 ||vip600.com/aaa/
+||d3oyytf0n6db9a.cloudfront.net^
 ||wadize2ab.com^$subdocument,domain=a7lahmsa.com
 ||waffarnalk.com/widget/
 ||wald-aden.com/mghrdon.gif
@@ -593,6 +594,7 @@
 ||ta7a.com/open.htm
 ||tangersport.com/VillArt.gif
 ||tourism-review.net/banners/
+||alnaddy.com^*.php?$popup
 ||tvegy.com/open17.js
 ||tvfun.ma/p.js
 ||uob-bh.com/uploadfiles/bahraindir.gif
@@ -669,6 +671,7 @@ arabhardware.net##.avd_display_block
 arabia.com###divDimmed
 arabia.com###divIFrame
 arabia.com###dvleaderboard
+alnaddy.com##A[href^="http://www.acdcads.com/tracks/Gtracking.php?"]
 arabia.com###dvwidgetad
 arabia.com###showcase
 arabia.com##.ykaleader
