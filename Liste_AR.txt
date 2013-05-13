@@ -912,6 +912,7 @@ z4ar.com##.leaderboard
 !
 !----------------------- Exceptions -----------------------!
 !
+@@||betakonline.com/advertisements/securimage/
 @@||bawazir-tech.com/banners/
 @@||elhiwarnet.com/images/banners/meteo-hiwar.png
 @@||elmassar-ar.com/ara/ads/logo2010.swf
