@@ -843,6 +843,7 @@ ninjaup.com###ads3
 ninjaup.com###spons
 nono6.com##.BannarDown
 nono6.com##.BannarTop
+qloob.com##A[href^="http://www.qloob.com/adv/"]
 nono6.com##.bannbox
 nuqudy.com###headeradv
 onothty.net##.Ads2
