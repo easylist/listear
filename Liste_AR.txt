@@ -563,6 +563,7 @@
 ||s7rny.com/vb/open/
 ||s7rny.com/vb/s/150.png
 ||s7rny.com/vb/s/400.png
+||annoncesmall.com^$popup,domain=awwah.com
 ||sa.ae^$popup,domain=bacdz.org
 ||saidaonline.com/flash/di3ayaad.swf
 ||saidaonline.com/gifs/alassaadlogo21.jpg
