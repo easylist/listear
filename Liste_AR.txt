@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: SDV8jqaAK9mMbq1pCoFl+g
+! Checksum: lP6LKcQ4qsxROEHwzBi5vw
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -26,6 +26,7 @@
 !
 !----------------------- Annonceurs -----------------------!
 !
+||acdcads.com^$third-party
 ||adaraby.com^$third-party
 ||adintop.com^$third-party
 ||adrife.com^$third-party
@@ -43,7 +44,6 @@
 ||hibamedia.com^$third-party
 ||hsoub.com^$third-party
 ||ikoo.com^$third-party
-||acdcads.com^$third-party
 ||imediastreams.com^$third-party
 ||nile-ads.com^$third-party
 ||oneclickad.net^$third-party
@@ -106,6 +106,7 @@
 ||beeieg.com/bums//js.php?
 ||bothemes.com/fonts/popup.js
 ||casasky.com/bannerslider/
+||d3oyytf0n6db9a.cloudfront.net^
 ||darendeal.com/widgets/recommendation_box?
 ||diwanee.net/?ref=
 ||dohaup.com/up/2010-05-07/dohaup_206097194.gif
@@ -204,7 +205,6 @@
 ||upxmedia.com/$subdocument,domain=shofonline.net
 ||videobam.com/this-pays-for-bandwidth/
 ||vip600.com/aaa/
-||d3oyytf0n6db9a.cloudfront.net^
 ||wadize2ab.com^$subdocument,domain=a7lahmsa.com
 ||waffarnalk.com/widget/
 ||wald-aden.com/mghrdon.gif
@@ -298,6 +298,7 @@
 ||almountakhab.com/img/cote_bas.swf
 ||almountakhab.com/img/cote_top.swf
 ||almstba.com/Pic/Alexa.gif
+||alnaddy.com^*.php?$popup
 ||alnda.com/13.gif
 ||alnda.com/img/a3lan.gif
 ||alquds.co.uk/fx1.htm
@@ -311,6 +312,7 @@
 ||alwatannews.net/Images/*-660x90-
 ||amalh.net/images/alberekat2.gif
 ||amalh.net/images/shalwi3.gif
+||annoncesmall.com^$popup,domain=awwah.com
 ||aqarbook.com^$image,~image,popup,domain=mothhelah.com
 ||ar-wp.com/forums-archive/images/bn1.
 ||ar-wp.com/forums-archive/images/bn2.
@@ -320,6 +322,7 @@
 ||arabhard.co/open19.js
 ||arabhardware.net/$image,~image,popup
 ||arablionz.com/histate/du.png
+||arablionz.com/histate/open*.
 ||arablionz.com/histate/open146.js
 ||arablionz.com/histate/open147.js
 ||arablionz.com/histate/open2.php
@@ -563,7 +566,6 @@
 ||s7rny.com/vb/open/
 ||s7rny.com/vb/s/150.png
 ||s7rny.com/vb/s/400.png
-||annoncesmall.com^$popup,domain=awwah.com
 ||sa.ae^$popup,domain=bacdz.org
 ||saidaonline.com/flash/di3ayaad.swf
 ||saidaonline.com/gifs/alassaadlogo21.jpg
@@ -579,7 +581,6 @@
 ||sedty.com/imagehosting/1_1346843455.gif
 ||sedty.com/imagehosting/2_1337379699.gif
 ||senksar.com/Untitled-2.jpg
-||arablionz.com/histate/open*.
 ||servimg.com/u/f10/16/22/48/64/f40-mo10.gif
 ||servimg.com/u/f42/16/22/48/64/34637510.gif
 ||shatelarab.com/images/banners/
@@ -598,7 +599,6 @@
 ||ta7a.com/open.htm
 ||tangersport.com/VillArt.gif
 ||tourism-review.net/banners/
-||alnaddy.com^*.php?$popup
 ||tvegy.com/open17.js
 ||tvfun.ma/p.js
 ||uob-bh.com/uploadfiles/bahraindir.gif
@@ -662,6 +662,7 @@ almosafr.com##a[href^="http://www.almosafr.com/forum/ads.php?"]
 almosafr.com##a[href^="http://www.booking.com/index.html?aid="]
 almosafr.com##a[href^="http://www.hotelscombined.com/?a_aid="]
 almosafr.com##a[href^="http://www.rentalcars.com/Home.do?affiliateCode="]
+alnaddy.com##a[href^="http://www.acdcads.com/tracks/"]
 alqabas.com.kw##div[id^="azk"]
 alwatannews.net###lnkMainAdver3
 alwatannews.net###pnlAdv12
@@ -675,7 +676,6 @@ arabhardware.net##.avd_display_block
 arabia.com###divDimmed
 arabia.com###divIFrame
 arabia.com###dvleaderboard
-alnaddy.com##A[href^="http://www.acdcads.com/tracks/"]
 arabia.com###dvwidgetad
 arabia.com###showcase
 arabia.com##.ykaleader
@@ -731,6 +731,7 @@ ech-chaab.net##img[width="820"][height="159"]
 egy4up.net##.ad_left
 egy4up.net##.ad_right
 egyup.com##.bannerBox
+egyup.com##a[href="http://bit.ly/138z4OL"]
 egyup.tv##img[width="197"][height="98"]
 el3ab.com##.showcase
 el3ab.com##.smallLeader
@@ -780,7 +781,6 @@ hwaml.com##img[width="240"][height="60"]
 hwaml.com##img[width="468"][height="60"]
 hwaml.com##img[width="728"][height="90"]
 i-share-ads.com###Ads1
-egyup.com##A[href="http://bit.ly/138z4OL"]
 i-share-ads.com###Ads4
 i-share-ads.com###ContentPlaceHolder1_MPE_AdsShow_backgroundElement
 i-share-ads.com###ContentPlaceHolder1_Pnl_ShowAds
@@ -833,6 +833,7 @@ mobdi3ine.net##.adv
 mobdi3ine.net##img[width="140"][height="60"]
 mothhelah.com##a[href^="code,banner,"]
 mothhelah.com##a[href^="index.php?op=ad_click"]
+mshkla.com###weblks
 mtwer.com##a[onclick^="_gaq.push(['_trackEvent', 'Outgoing',"]
 mwadah.com##.bannerBox
 n4hr.com##.advactar
@@ -844,7 +845,6 @@ ninjaup.com###ads3
 ninjaup.com###spons
 nono6.com##.BannarDown
 nono6.com##.BannarTop
-qloob.com##A[href^="http://www.qloob.com/adv/"]
 nono6.com##.bannbox
 nuqudy.com###headeradv
 onothty.net##.Ads2
@@ -859,6 +859,7 @@ qassimy.com##img[width="150"][height="60"]
 qassimy.com##img[width="300"][height="60"]
 qatarw.com##a[href^="http://www.qatartop.com/out.php?"]
 qatarw.com##img[width="728"][height="90"]
+qloob.com##a[href^="http://www.qloob.com/adv/"]
 qwled.com##.headerbanner
 rassoulallah.info##.narrow_column
 rassoulallah.info##.right_column
@@ -914,7 +915,7 @@ z4ar.com##.leaderboard
 !
 !----------------------- Exceptions -----------------------!
 !
-@@||betakonline.com/advertisements/securimage/
 @@||bawazir-tech.com/banners/
+@@||betakonline.com/advertisements/securimage/
 @@||elhiwarnet.com/images/banners/meteo-hiwar.png
 @@||elmassar-ar.com/ara/ads/logo2010.swf
