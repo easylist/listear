@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 2OYDefbXK4nQSXBn6L+nXA
+! Checksum: Q9oEMrjEA1tvMxBq16HZBA
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -619,7 +619,7 @@
 !
 !----------------------- Éléments -----------------------!
 !
-2lboo.com##[class^="banner"]
+2lboo.com##a[class^="banner"]
 3-tp.com##.bannbox
 33sh8.com###adds
 3a2ilati.com##.eshop-list
@@ -826,7 +826,7 @@ masrawy.com###hswcase
 masrawy.com##.NewClassifieds
 masrawy.com##.dealsoffer
 masrawy.com##.leaderbg
-masrytube.com##[id^="bannerfloat"]
+masrytube.com##div[id^="bannerfloat"]
 mazika2day.com###page_end_bans
 mazika2day.com###topban
 mdredclub.com##img[width="150"][height="60"]
@@ -872,7 +872,7 @@ retag4.com##a[href^="bnnr.php?"]
 rjeem.com##.ads1
 rmadarab.com##img[width="150"][height="60"]
 rmadarab.com##img[width="500"][height="60"]
-roooo3.com##[class$="advs"]
+roooo3.com##.advs
 s-ajfan.com###navbar_notice_8
 s-ajfan.com###window10
 s-ajfan.com###window3
@@ -901,7 +901,7 @@ ta7a.com##.bannbox
 ta7a.com##a[href="http://www.adamahospital.com/ar/"]
 techarabi.com###mpu-in-post
 th3professional.com##a[href="http://ar.ouamer.com/"]
-top555games.com##[class^="adshp"]
+top555games.com##div[class^="adshp"]
 toptwitt.com##.ads2
 traidnt.net##td[width="160px"]
 tvegy.com##a[href^="http://ar.hao123.com/?tn="]
