@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: xXepf2fbN0bBdhJGTIcATw
+! Checksum: N8DnDFivPFaAU3Rlz0jo9A
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -730,6 +730,7 @@ deltaclic.com##.squarebanner
 dwayir.com###nav
 ech-chaab.net##.module.mod-line.color-black.deepest
 ech-chaab.net##img[width="820"][height="159"]
+echoroukonline.com##.banner
 egy4up.net##.ad_left
 egy4up.net##.ad_right
 egyup.com##.bannerBox
