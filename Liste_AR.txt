@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 6/Tk96a5507cQ7WuJdTc+w
+! Checksum: a+H4tvPErZs+fMSlhTeOjw
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -796,6 +796,7 @@ jordanzad.com##a[href^="ad.php?"]
 jordanzad.com##div[style="width:306px;height:63px;"]
 jordanzad.com##div[style="width:600px;height:80px;"]
 jsoftj.com###freet
+juve1897.net##a[href^="http://www.probux.com/?r="]
 k1g3.com##a[href="http://www.sharing-sat.com"]
 k1g3.com##img[title="اعــلن مــــــعنا"]
 k1g3.com##img[width="150"][height="60"]
@@ -926,5 +927,3 @@ z4ar.com##.leaderboard
 @@||betakonline.com/advertisements/securimage/
 @@||elhiwarnet.com/images/banners/meteo-hiwar.png
 @@||elmassar-ar.com/ara/ads/logo2010.swf
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=notre-planete.info
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=notre-planete.info
