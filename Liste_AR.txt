@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: tJ2ijA+Iu8BYnWVuKb7yvg
+! Checksum: ZOvPMvXEAiZfr+JbGGzGJg
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -939,6 +939,8 @@ techarabi.com###mpu-in-post
 th3professional.com##a[href="http://ar.ouamer.com/"]
 top555games.com##div[class^="adshp"]
 toptwitt.com##.ads2
+touteslesrecettes.fr###banner
+touteslesrecettes.fr###first
 traidnt.net##td[width="160px"]
 tvegy.com##a[href^="http://ar.hao123.com/?tn="]
 up-aa.com##img[width="115"][src^="templates/siti/img/"]
