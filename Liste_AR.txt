@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: Rs2OK1KrPLW6uAMpLMWNFA
+! Checksum: uDt2CV0Ccxz6eVSAZKiyfw
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -866,6 +866,7 @@ mshkla.com###weblks
 mstaml.com##a[href^="http://www.mstaml.com/out.php?i="]
 mtwer.com##a[onclick^="_gaq.push(['_trackEvent', 'Outgoing',"]
 mwadah.com##.bannerBox
+mwordpress.net##a[href^="http://mwordpress.net/visit/"]
 n4hr.com##.advactar
 n4hr.com##.ladv
 nadorcity.com##a[href^="/ads/"]
