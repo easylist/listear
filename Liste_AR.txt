@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: WRdTfJyYIlPvwwSrkF0kng
+! Checksum: Rs2OK1KrPLW6uAMpLMWNFA
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -193,6 +193,7 @@
 ||roooo3.com^$image,~image,popup,domain=arabsh.com
 ||rsbfoot.com/annonce/
 ||s-ajfan.com/vb/$subdocument,domain=a7lahmsa.com
+||servimg.com/u/f65/11/55/73/09/downlo10.gif
 ||shbkat.com/adv/
 ||shnat.net/vb/images/14.jpg
 ||shnat.net/vb/images/bag.gif
@@ -371,6 +372,7 @@
 ||bdr130.net/vb/bnr1/
 ||bentvip.com/adv/
 ||bentvip.com/up/20120511032813.gif
+||bit.ly^$popup,domain=arbcinema.com
 ||blogspot.com/^$popup,domain=cima4u.com
 ||blogspot.com^$image,~image,popup,domain=mountada.net
 ||blogspot.com^$popup,domain=el7l.com
@@ -709,6 +711,8 @@ arabseed.com##a[href="http://goo.gl/W8VHQ"]
 arabseyes.com###Banner
 arabsgate.com##img[width="645"][height="79"]
 arabycommunity.com##a[href^="http://www.babylon.com/redirects/download.cgi?"]
+arbcinema.com##a[href^="http://bit.ly/"]
+arbcinema.com##a[href^="http://www.babylon.com/welcome/index?affID="]
 ashwagi.com##.adv
 bacdz.org###head-banner
 bahranicool.com##img[width="200"][height="60"]
