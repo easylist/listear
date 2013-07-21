@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: DxOkcGdOtZF2dY5pVZ0Bzw
+! Checksum: MRyIV3eHIQ3yRm9Y6wX/bA
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -762,6 +762,7 @@ contactcars.com###mediumRectangle
 dardarkom.com##div[style="padding-top:5px; font-family:tahoma;float:right;width:100%;font-size:10pt;line-height:26px;height:31px;top: 12px;z-index:9999;text-align:right"]
 darendeal.com##.banner
 darendeal.com##.takeover
+darseries.com##div[style="padding-top:5px; font-family:tahoma;float:right;width:100%;font-size:10pt;line-height:26px;height:31px;top: 12px;z-index:9999;text-align:right"]
 deltaclic.com##.squarebanner
 dwayir.com###nav
 ech-chaab.net##.module.mod-line.color-black.deepest
