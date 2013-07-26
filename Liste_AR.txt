@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: HmlU3flZwSDzQzMhQj+5FA
+! Checksum: nZmV3Bf+SuRcCnwvhz8new
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -910,6 +910,7 @@ physique48.org##.TOOLbarB
 q8me.com###webColorsHeader2
 q8yatnews.com##.Ads2
 q8yatnews.com##.ads
+qalansuwa.com###pathway
 qassimy.com##img[width="145"][height="45"]
 qassimy.com##img[width="150"][height="60"]
 qassimy.com##img[width="300"][height="60"]
