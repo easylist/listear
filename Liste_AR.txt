@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 3UTqqskhS9TMootho53Yaw
+! Checksum: L2SJQXbrtkuqmOQPgKyDOw
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -191,6 +191,7 @@
 ||realup.net/201001/1362765520.gif
 ||realup.net/201001/1362929492.gif
 ||realup.net/201001/1362929493.gif
+||realup.net/201001/1374349753.gif
 ||roooo3.com^$image,~image,popup,domain=arabsh.com
 ||rsbfoot.com/annonce/
 ||s-ajfan.com/vb/$subdocument,domain=a7lahmsa.com
@@ -209,6 +210,7 @@
 ||tumblr.com/$subdocument,domain=s-ajfan.com
 ||tvmasrnet-javafiles.googlecode.com/files/Ads
 ||tvquran.com/banr/
+||up-00.com/Apr13/IUw99602.gif
 ||up700.net/affiliates/
 ||upxmedia.com/$subdocument,domain=shofonline.net
 ||videobam.com/this-pays-for-bandwidth/
@@ -705,6 +707,9 @@ almosafr.com##a[href^="http://www.hotelscombined.com/?a_aid="]
 almosafr.com##a[href^="http://www.rentalcars.com/Home.do?affiliateCode="]
 alnaddy.com##a[href^="http://www.acdcads.com/tracks/"]
 alqabas.com.kw##div[id^="azk"]
+alrealclub.com##.smallfont a[target="_blank"]
+alrealclub.com##.style10 img
+alrealclub.com##a[title^="ينتهي في"]
 alwatannews.net###lnkMainAdver3
 alwatannews.net###pnlAdv12
 alwatannews.net##.Adv
