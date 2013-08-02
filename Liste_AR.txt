@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: L2SJQXbrtkuqmOQPgKyDOw
+! Checksum: twQKWTRkDTqW8TXu5mbNrQ
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -122,6 +122,7 @@
 ||esdaraty.com/images/etisalat-al.jpg
 ||esdaraty.com/images/free-calls.jpg
 ||fanslave.com/images/stories/fanslave/banner-en/
+||fitness-4-life.org.uk^*/Sports-160-x-600-Animation.gif
 ||foldersoft.com/holl.jpg
 ||forsangaza.net/vb/$image,~image,popup,domain=a7lahmsa.com
 ||forsangaza.net/vb/$subdocument,domain=a7lahmsa.com
@@ -385,6 +386,7 @@
 ||blogspot.com^$image,~image,popup,domain=mountada.net
 ||blogspot.com^$popup,domain=el7l.com
 ||blogspot.com^$popup,domain=yallamoviez.com
+||blogspot.com^*/banusr.jpg$domain=juste4femme.blogspot.com
 ||bramj.co/womens.js
 ||bramjnet.com/images/upload/bramj.jpg
 ||bramjnet.com/images/upload/bramjnet-2012.gif
