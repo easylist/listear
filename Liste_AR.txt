@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: sIy+uiuG/BS8bAjAfTU4Cg
+! Checksum: ZuaUFeMxQdGP+6F4g9cnWw
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -891,6 +891,8 @@ masrawy.com##.leaderbg
 masrytube.com##div[id^="bannerfloat"]
 mazika2day.com###page_end_bans
 mazika2day.com###topban
+mbc.net###adSlot-inPage-300x250-left
+mbc.net##.killerbanner
 mdredclub.com##img[width="150"][height="60"]
 mdredclub.com##img[width="460"][height="60"]
 menara.ma##.pub
