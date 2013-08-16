@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: twQKWTRkDTqW8TXu5mbNrQ
+! Checksum: ME7V40NqdAlXmMvSGxW4Wg
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -911,6 +911,9 @@ nuqudy.com###headeradv
 onothty.net##.Ads2
 onothty.net##.ads
 ouamer.com##a[href^="http://eepurl.com/"]
+ounousa.com###LeftBannerContainer
+ounousa.com##.leaderboard
+ounousa.com##[class^="SubBanner"]
 panorama-istanbul.org##.banners
 panorama-istanbul.org##.floatingWindowContent
 panorama-istanbul.org##a[href$="wiki-net.net/"]
