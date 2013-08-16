@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: xC+XAY/vpxEwdNEOutZcqg
+! Checksum: sIy+uiuG/BS8bAjAfTU4Cg
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -847,6 +847,7 @@ i-share-ads.com###Ads1
 i-share-ads.com###Ads4
 i-share-ads.com###ContentPlaceHolder1_MPE_AdsShow_backgroundElement
 i-share-ads.com###ContentPlaceHolder1_Pnl_ShowAds
+igli5.com##.ads
 imanschool.com##.bannerBox
 jeddahbikers.com###Main_MPU
 jeddahbikers.com##.ads
