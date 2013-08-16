@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: P+Mk7X/4FSowI1gR7rcyow
+! Checksum: knhl7ujP//zxavgo6IyiEg
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -69,6 +69,7 @@
 ||44aa.com/image/nesba.swf
 ||5bre.com/images/5bre.gif
 ||5jle.com^$image,~image,popup,domain=maas1.com
+||5short.com/short/autokey.php
 ||7bbb7.com/vb/$image,~image,popup,domain=s-ajfan.com
 ||7bbb7.com/vb/$subdocument,domain=s-ajfan.com
 ||a7lahmsa.com/vb/$subdocument,domain=s-ajfan.com
@@ -165,6 +166,7 @@
 ||m5zn.com/uploads3/2012/4/9/photo/040912220452picoovy1i4g2q.jpg
 ||mark4you.com/mark.gif
 ||mazikadrama.com/vidads2.php
+||mirecal-d.com/d7001.gif
 ||ml7n.com/open.js
 ||mla5er.com/r.php
 ||mn66.com/mn66SMS.GIF
@@ -558,6 +560,8 @@
 ||nadorcity.com/docs/kitra3.jpg
 ||njomqtr.com/img/150.gif
 ||njomqtr.com/img/468.gif
+||nogooom.com/open.php
+||nogooom.com/up2/uploads/137659633062.gif
 ||nokiagate.com/bans/
 ||nono6.com/open.js
 ||oleeh.com/images/Adv
