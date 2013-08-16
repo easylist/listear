@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: ZuaUFeMxQdGP+6F4g9cnWw
+! Checksum: fqAoqzZwNubJ9RH56OkxhA
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -165,6 +165,7 @@
 ||m5zn.com/uploads3/2012/4/9/photo/040912220452picoovy1i4g2q.jpg
 ||mark4you.com/mark.gif
 ||mazikadrama.com/vidads2.php
+||mirecal-d.com/300download.gif
 ||mirecal-d.com/d7001.gif
 ||ml7n.com/open.js
 ||mla5er.com/r.php
@@ -177,6 +178,7 @@
 ||mshaweer.net/vb/images/e3lan3.gif
 ||mshaweer.net/vb/images/mshaweer2.gif
 ||mshkla.com/sd.html
+||multiuploaden.com/do.php?img=6603
 ||mycar4ever.blogspot.com^$image,~image,popup,domain=egyptladies.net
 ||nadorhoy.net/pub/
 ||nadorimg.com/photos/faniabiiiii.gif
@@ -594,6 +596,7 @@
 ||qatarw.com/up/qatarw_uhtpDMwxza.gif
 ||rassoulallah.info/new/images/e3lan.png
 ||realmadridarabia.com^*/images/bnr_
+||right-allthie-times.blogspot.com^$popup,domain=egynt.net
 ||rmadarab.com/vb/RMclub/pub
 ||roooo3.com/vb/aerowindow/
 ||roooo3.com/vb/stylev1/images/banner
@@ -645,6 +648,7 @@
 ||t555t.com/uploads/13586252371.gif
 ||ta7a.com/mnfz-
 ||ta7a.com/open.htm
+||tabeebk.com^$popup,domain=egynt.net
 ||tangersport.com/VillArt.gif
 ||tourism-review.net/banners/
 ||tvegy.com/open17.js
@@ -793,6 +797,8 @@ ech-chaab.net##img[width="820"][height="159"]
 echoroukonline.com##.banner
 egy4up.net##.ad_left
 egy4up.net##.ad_right
+egynt.net##img[width="100"][height="35"]
+egynt.net##img[width="140"][height="50"]
 egyup.com##.bannerBox
 egyup.com##a[href="http://bit.ly/138z4OL"]
 egyup.tv##img[width="197"][height="98"]
