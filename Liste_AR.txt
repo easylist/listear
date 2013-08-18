@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: QY1BfpiRz552MaOIHKslng
+! Checksum: LioA8RFzQGITZ1D0ebZDQA
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -65,7 +65,7 @@
 ||0zz0.com/2012/07/28/21/250712642.gif
 ||3rabgamer.net/banner/
 ||3rby.net/$image,~image,popup,domain=s-ajfan.com
-||3support.com/wp-content/uploads/2012/12/support.gif
+||3support.com/wp-content/uploads/*/support.gif
 ||4040.cc/images/fakhr.gif
 ||44aa.com/image/nesba.swf
 ||5bre.com/images/5bre.gif
@@ -263,7 +263,7 @@
 ||7bbb7.com/vb/dr-7bbb7/images/468.jpg
 ||7be.com/banner/
 ||7be.com/images/mos1/img/728r.gif
-||7be.com/wp-content/uploads/2011/11/7be2.gif
+||7be.com/wp-content/uploads/*/7be2.gif
 ||7hob.com/1.gif
 ||7ooobe.com/vb/images/a3lan
 ||7ozn.com/e3lanat/
