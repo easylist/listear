@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: U3DYvhBq8PjxqVevs+SIVA
+! Checksum: qFRioHHqhZT6TUXx8K4dng
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -1009,6 +1009,7 @@ yallabina.com##.adv
 yalladrama.tv###bannerfloat22
 yalladrama.tv##div[style$="height: 250px; width: 300px;"]
 yallakora.com##.dealsoffer
+yallashare.com###banner
 z4ar.com##.leaderboard
 !
 !----------------------- Exceptions -----------------------!
