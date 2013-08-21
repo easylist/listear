@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: vIgeJ22ia35ntakJsfmPxw
+! Checksum: Z5fnHUUEaK5V0EpK1wKbiA
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -63,6 +63,7 @@
 !
 ||0sat.com/photo0sat/
 ||0zz0.com/2012/07/28/21/250712642.gif
+||3nwd.com/uploads/3nwd-1367442631216.gif
 ||3rabgamer.net/banner/
 ||3rby.net/$image,~image,popup,domain=s-ajfan.com
 ||3support.com/wp-content/uploads/*/support.gif
@@ -136,9 +137,11 @@
 ||gulfbase.com/APopUp.
 ||gulfbase.com/Assets/css/AeroWindow
 ||gulfup.com/2012-06-04/133881477241.gif
+||gulfup.com/2tgI3.gif
 ||gulfup.com/5vZe3.swf
 ||gulfup.com/ft2Ou.swf
 ||gulfup.com/o8FnS.gif
+||gulfup.com/Qe2Lk.jpg
 ||gulfup.com/SNI11.gif
 ||gulfup.com/U3If1.gif
 ||hanya.ma/caro
@@ -172,6 +175,7 @@
 ||mirecal-d.com/d7001.gif
 ||ml7n.com/open.js
 ||mla5er.com/r.php
+||mmnon.com/3nwd-1365515103061.gif
 ||mn66.com/mn66SMS.GIF
 ||mn66.com/sms2.jpg
 ||mnq8.com/bnrs/
@@ -605,6 +609,7 @@
 ||qatarw.com/up/2011-08-15/qatarw.com_1143213493.gif
 ||qatarw.com/up/2013-01-13/file1088986471.png
 ||qatarw.com/up/qatarw_uhtpDMwxza.gif
+||r-x0.com^$popup,domain=rb7ne.com
 ||rassoulallah.info/new/images/e3lan.png
 ||realmadridarabia.com^*/images/bnr_
 ||right-allthie-times.blogspot.com^$popup,domain=egynt.net
@@ -969,6 +974,8 @@ qloob.com##a[href^="http://www.qloob.com/adv/"]
 qwled.com##.headerbanner
 rassoulallah.info##.narrow_column
 rassoulallah.info##.right_column
+rb7ne.com###aladdin-ads
+rb7ne.com###header2
 retag4.com##a[href^="bnnr.php?"]
 rjeem.com##.ads1
 rmadarab.com##img[width="150"][height="60"]
