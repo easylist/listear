@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 21FUye9BjU7wO99nFQNeHA
+! Checksum: 2YKQ7AVJofaYulNLetHyzA
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -214,6 +214,7 @@
 ||shofonline.org/open*.js
 ||short5.com/2d/popup.js
 ||shwqna.at.ua/pop*.js
+||sinailiberties.com/1.gif$domain=kalemaro.com
 ||soft365.com^$image,~image,popup,domain=arabsh.com
 ||startdedicated.com/newbrz.gif
 ||support-ar.com/vb/index.php$image,~image,popup,domain=friasat.com
@@ -535,6 +536,7 @@
 ||jfranews.com/assets/banners/
 ||jsoftj.com/games-folder/zTkW1_jsoftj.com.png
 ||k1br.com/vb/$subdocument,domain=s7rny.com
+||kalemaro.com/dezndev*.js
 ||khaleejcal.com^*/banners/
 ||kleeja.com/static/images/e3/
 ||ktaby.com/adv_ktaby/
@@ -896,6 +898,8 @@ k1g3.com##a[href="http://www.sharing-sat.com"]
 k1g3.com##img[title="اعــلن مــــــعنا"]
 k1g3.com##img[width="150"][height="60"]
 k1g3.com##img[width="486"][height="60"]
+kalemaro.com##.adsance
+kalemaro.com##.adv2
 kalemaro.com##a[href="http://bit.ly/14I2rw3"]
 kawalisse.com###bannerHead
 korabia.com###divLeaderBoard
