@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 1vQdexb0g2BAOrs98GFu+g
+! Checksum: C1tNMWdrYcXcH5wLg4QwVg
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -47,6 +47,7 @@
 ||hsoub.com^$third-party
 ||ikoo.com^$third-party
 ||imediastreams.com^$third-party
+||jor1.net^$third-party
 ||nile-ads.com^$third-party
 ||oneclickad.net^$third-party
 ||pixfuture.net^$third-party
@@ -541,6 +542,7 @@
 ||jsoftj.com/games-folder/zTkW1_jsoftj.com.png
 ||k1br.com/vb/$subdocument,domain=s7rny.com
 ||kalemaro.com/dezndev*.js
+||kashta.net^$subdocument,domain=syrcafe.net
 ||khaleejcal.com^*/banners/
 ||kleeja.com/static/images/e3/
 ||ktaby.com/adv_ktaby/
@@ -674,6 +676,10 @@
 ||swalif.com/banner/
 ||syrcafe.com/ra03a.js
 ||syrcafe.com/ufxaffiliates.js
+||syrcafe.net/images/ufx.jpg
+||syrcafe.net/vb/aerowindow/
+||syrcafe.net/vb/download.gif
+||syrcafe.net/vb/forex99.jpg
 ||t3bqlbe.net/Untitled-100.gif
 ||t3bqlbe.net^$subdocument,domain=lmseh.com
 ||t555t.com/uploads/13586252371.gif
