@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: IWG25wvKDQ2Mh5Rv545H2A
+! Checksum: boF9gt0Xb9uQrg7o9mQEKA
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -903,6 +903,8 @@ i-share-ads.com###ContentPlaceHolder1_MPE_AdsShow_backgroundElement
 i-share-ads.com###ContentPlaceHolder1_Pnl_ShowAds
 igli5.com##.ads
 imanschool.com##.bannerBox
+inewsarabia.com##.box728
+inewsarabia.com##div[style="width:300px; height:250px;"]
 jeddahbikers.com###Main_MPU
 jeddahbikers.com##.ads
 jordanzad.com##a[href^="ad.php?"]
