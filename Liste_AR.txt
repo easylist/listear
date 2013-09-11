@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: boF9gt0Xb9uQrg7o9mQEKA
+! Checksum: naQa9QaZQz6tzE+BiGGEdQ
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -479,13 +479,6 @@
 ||fannannsat.com/vb/images/00.gif
 ||fannannsat.com/vb/images/000.gif
 ||fannannsat.com/vb/images/0000.gif
-||fannannsat.com/vb/images/banner.gif
-||fannannsat.com/vb/images/cccam.gif
-||fannannsat.com/vb/images/Nas.gif
-||fannannsat.com/vb/images/newcamd.gif
-||fannannsat.com/vb/images/Radwan1.gif
-||fannannsat.com/vb/images/Toolbar.gif
-||fannannsat.com/vb/images/Waled.gif
 ||farep.org/styles/helion/espace1.jpg
 ||farep.org/styles/helion/pener-2.png
 ||fatafeeet.com^$popup,domain=egyptladies.net
