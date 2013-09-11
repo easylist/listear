@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: F72rUD8d6EIgCVcIJumtKA
+! Checksum: D7xoVbtn4yjsjPrPLhPYKA
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -37,6 +37,7 @@
 ||bursttraffic.net^$third-party
 ||cdxndirect.com^$third-party
 ||cdxndirectopt.com^$third-party
+||cdxnopt.com^$third-party
 ||ck-cdn.com^$third-party
 ||clickmena.com^$third-party
 ||clients-ads.panet.co.il^
@@ -111,6 +112,7 @@
 ||bayt.com/widgets/get_jobs_widget?
 ||bdyamall.com/banner
 ||beeieg.com/bums//js.php?
+||bit.ly/hxLEG7
 ||bothemes.com/fonts/popup.js
 ||casasky.com/bannerslider/
 ||ctn-abbas.com/*_ads.
@@ -552,6 +554,10 @@
 ||liilas.com/600.htm
 ||liilas.com/728.htm
 ||liilas.com/up/uploads/liilas_
+||liilas.com/uploads/liilas_1373846713171.gif
+||liilas.com/uploads/liilas_1378255269441.jpg
+||liilas.com/vb3/mobiquo/smartbanner/appbanner.js
+||liilas.com/vb3/z.js
 ||llssll.com/uploads/viewimages/
 ||llssll.com/vb/2.jpg
 ||lmseh.com/vb/open/
