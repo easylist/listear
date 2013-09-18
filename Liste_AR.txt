@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: DfhsV7SydGczzjUDWoATow
+! Checksum: iC2WNi7PGNhGSDAkYbJlOQ
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -121,7 +121,7 @@
 ||darendeal.com/widgets/recommendation_box?
 ||diwanee.net/?ref=
 ||dohaup.com/up/2010-05-07/dohaup_206097194.gif
-||dubizzle.com*^/?utm_source=$popup
+||dubizzle.com^*/?utm_source=$popup
 ||dzautos.com/data/dzauto.swf
 ||egyup.com/300.png
 ||egyup.com/banner-990x90.png
@@ -467,7 +467,7 @@
 ||elbashayer.com/images/orientalweavers.jpg
 ||elbashayer.com/newahly100.swf
 ||eldjoumhouria.dz/ar/img/pub/
-||elhayatalarabiya.com*^/images/banner.gif
+||elhayatalarabiya.com^*/images/banner.gif
 ||elheddaf.com/data/dzauto.swf
 ||elheddaf.com/data/pub/
 ||elheddaf.com/interstitiel/
@@ -569,7 +569,7 @@
 ||lovely0smile.com/b-b5.php
 ||m5zn.com/uploads/2011/5/16/photo/051611140536vqazfi1wcpjmoxyhejdf.jpg
 ||m7ol.com/baners/
-||m7shsh.com*^/bn300.jpg
+||m7shsh.com^*/bn300.jpg
 ||ma3hd.net$subdocument,domain=ma3hd.net
 ||ma3hd.net/js.php
 ||marocannonces.com/images/tombola-
