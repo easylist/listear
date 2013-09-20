@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: zZLr3sHSNbpbldMoNsMdcQ
+! Checksum: FHGjgO8AVgiIyyXHjZAQrA
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -844,6 +844,7 @@ deltaclic.com##.squarebanner
 dwayir.com###nav
 ech-chaab.net##.module.mod-line.color-black.deepest
 ech-chaab.net##img[width="820"][height="159"]
+echoroukonline.com###add
 echoroukonline.com##.banner
 egy4up.net##.ad_left
 egy4up.net##.ad_right
@@ -1080,5 +1081,6 @@ z4ar.com##.leaderboard
 @@||adtvnetwork.com/wp-content/themes/adtv/images/ad
 @@||bawazir-tech.com/banners/
 @@||betakonline.com/advertisements/securimage/
+@@||echoroukonline.com/banners/half/
 @@||elhiwarnet.com/images/banners/meteo-hiwar.png
 @@||elmassar-ar.com/ara/ads/logo2010.swf
