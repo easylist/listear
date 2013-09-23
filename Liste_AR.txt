@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: xnd8ML0ighI91PCTFRVgjg
+! Checksum: ZdRcfdLzwmF6jm9bhag2hg
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -577,6 +577,11 @@
 ||ma3hd.net/js.php
 ||marocannonces.com/images/tombola-
 ||marocannonces.com^*/images/bannier_
+||mazajcool.net/160.gif
+||mazajcool.net/300.gif
+||mazajcool.net/300.html
+||mazajcool.net/728.gif
+||mazajcool.net/up-2.png
 ||mbc.net/?utm_source=$popup,domain=arabseed.com
 ||mbc.net/dms/analytics-and-banners/
 ||melody.ma/images/300/
