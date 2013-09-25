@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: Kr/nT9tx366MLKcnJ//KyQ
+! Checksum: m49WvVFVuiSIWvLjNWAXZw
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -416,6 +416,7 @@
 ||blogspot.com^$popup,domain=el7l.com
 ||blogspot.com^$popup,domain=yallamoviez.com
 ||blogspot.com^*/banusr.jpg$domain=juste4femme.blogspot.com
+||blogspot.com^*/download_little.jpg$domain=shofonline.net
 ||bramj.co/womens.js
 ||bramjnet.com/images/upload/bramj.jpg
 ||bramjnet.com/images/upload/bramjnet-2012.gif
@@ -1051,6 +1052,7 @@ sedty.com##a[href^="http://www.sedty.com/adv/"]
 shbab1.com##img[width="200"][height="60"]
 shbab1.com##img[width="300"][height="60"]
 shofha.com##.adv
+shofonline.net##a[href="http://games.mega-team.net/"]
 sm3na.com###topbar
 souq.com##.ad1
 souq.com##.ad2
