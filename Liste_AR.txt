@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: TGgNOeR7Lss/6QddUbpofQ
+! Checksum: fI74tAaWgQxkDRjgFGsT/g
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -890,6 +890,7 @@ elraaed.com##.ads_1
 enjaztech.com##img[width="728"][height="90"]
 ennaharonline.com###flash
 eqla3.com##iframe
+fatakat.com##div[onclick*="window.open('http://xads.zedo.com/')"]
 femme-tendance.com###carread
 fibladi.com##iframe[id^="google_ads"]
 filbalad.com##.leaderbord
