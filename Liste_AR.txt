@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: NXkmvfwoNiP/MWk9xaSyQg
+! Checksum: TGgNOeR7Lss/6QddUbpofQ
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -31,6 +31,7 @@
 ||adaraby.com^$third-party
 ||adintop.com^$third-party
 ||adrife.com^$third-party
+||ads-x.com^$third-party
 ||adscoo.com^$third-party
 ||adtoadd.com^$third-party
 ||awsclic.com^$third-party
@@ -820,6 +821,7 @@ arabsgate.com##img[width="645"][height="79"]
 arabycommunity.com##a[href^="http://www.babylon.com/redirects/download.cgi?"]
 arbcinema.com##a[href^="http://bit.ly/"]
 arbcinema.com##a[href^="http://www.babylon.com/welcome/index?affID="]
+arbface.co##table[width="800"][height="200"][bgcolor="#FFFFCC"]
 ashwagi.com##.adv
 bacdz.org###head-banner
 bahranicool.com##img[width="200"][height="60"]
