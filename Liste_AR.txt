@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: uYW1tPqTRgt5g9/0MnC/Dg
+! Checksum: 3fYu+MyeIj2RuyGtPbo2ng
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -22,6 +22,7 @@
 ##a[href*="dubizzle.com/ar/?utm_source="]
 ##a[href^="ads.php?id="]
 ##a[href^="http://adserver.adtech.de/?adlink|"]
+##a[href^="http://share.payoneer-affiliates.com/"]
 ##a[href^="http://www.sotmasr.com/announcements/"]
 !
 !----------------------- Annonceurs -----------------------!
