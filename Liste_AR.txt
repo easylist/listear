@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: foLkn2EOuKTHKXK37zTYNw
+! Checksum: 8uY1Vz8SnAZ+mi7w3pvpVA
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -918,6 +918,7 @@ g5y.com##div[style="height:150px;"]
 g5y5.com###dropin
 gamesgb.com##.ad
 gamesgb.com##img[width="150"][height="50"]
+ghnoh.com,l7en.com##a[href^="banner.php?id="]
 gololy.com##.advrtising-colum
 gornalak.com##.ad
 gornalak.com##.ad_left
@@ -962,7 +963,6 @@ ksa-ksa.com##a[href*="/?adsclick=banner&id="]
 ktaby.com##.floatingWindowContent
 ktaby.com##a[href^="http://performance.ikoo.com/"]
 l3bh.com##.ads
-l7en.com##a[href^="banner.php?id="]
 lakii.com##a[href*="ads-redirect.php?i="]
 lakii.com##a[href^="http://www.deraah.com.sa/default.aspx?"]
 lakome.com###outside-left
