@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: NIKlSg5OOPpbVCBsJb9HiA
+! Checksum: 2MP3fEIc4yf2mi5sfeF6Fw
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -22,6 +22,7 @@
 ##a[href*="dubizzle.com/ar/?utm_source="]
 ##a[href^="ads.php?id="]
 ##a[href^="http://adserver.adtech.de/?adlink|"]
+##a[href^="http://deals.souq.com/"]
 ##a[href^="http://share.payoneer-affiliates.com/"]
 ##a[href^="http://www.sotmasr.com/announcements/"]
 !
@@ -98,6 +99,7 @@
 ||amalh.net/images/amalh2.gif
 ||amalh.net/images/amalh2.jpg
 ||amalh.net/images/monjz.gif
+||amazonaws.com/*/KSA-Footer/images_leader_souq/
 ||anota-des.com/vb/$subdocument,domain=a7lahmsa.com
 ||arabearpiece.com/big.png
 ||arabic-developers.com/images/bnr/
@@ -760,6 +762,7 @@ a7lashare.com###topbar
 abotlal.com##.nannr
 abotlal.com##a[href^="http://www.izhra.com/?utm_source="]
 add-anime.net##.ads
+adslgate.com###boxbanner
 agarcom.com###ad_global_below_navbar
 ahram.org.eg###AdvShowCase1_divShowcase
 ahram.org.eg###ctl00_ContentPlaceHolder1_AdvShowCase1_divShowcase
