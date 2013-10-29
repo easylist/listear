@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: oE2t5Kgr5pAS6hubaYa+mQ
+! Checksum: XUtJBcpo1BquPxmjITXCSg
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -517,6 +517,7 @@
 ||free.panorama-istanbul.org^$popup,domain=panorama-istanbul.org
 ||fx-dz.com/images/banners/banner01300250.jpg
 ||fx-dz.com/images/banners/banner0270090.jpg
+||g7a.com^$popup,domain=str-ly.com
 ||g9g.im/open.js
 ||g9g.im^$subdocument,domain=algremh.com
 ||gem-flash.com/vb/banners1.php?
@@ -707,6 +708,7 @@
 ||star-cute.com/images/star-cute_10.png
 ||star28.com/adv/
 ||stardima.com/js1.php
+||str-ly.com/open*.js
 ||support-ar.com/vb/support-adv/
 ||swalif.com/banner/
 ||syrcafe.com/ra03a.js
@@ -1085,6 +1087,7 @@ souq.com##.ad1
 souq.com##.ad2
 souqa3mal.com##.ads
 souqa3mal.com##.slid-topmaxtech-costom-ads
+str-ly.com##a[href="http://games.str-ly.com/"]
 swalif.net##.sab-adPlace
 swarih.com##.adv
 syrcafe.com##a[href^="http://24caratksa.com/"]
