@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: eZiOoMNZJk9LBtHErF7YEw
+! Checksum: XrwaiG5cvHFByPGElb7n9w
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -855,6 +855,7 @@ baitkebeer.com##a[href="http://www.arabawe.com/"]
 barqaluae.com##table[style="border:\9 2px solid #ffffff; border-collapse: collapse; "]
 bh-gn.com##img[alt="ضع إعلانك هنا"]
 bloggerexp.com##p[style="padding-right:5px;width:290px;height:60px;"]
+blogspot.com##a[href^="http://www.arb-ex.com/?ref="]
 bokra.net##.ad
 bokra.net##.bigStrip
 bokra.net##.catsBanner
