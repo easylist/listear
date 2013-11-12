@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: /OgH0VxvRxRyW2Ye4390lg
+! Checksum: ZaK2/pe8NQ3PSyb5m/tH6Q
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -104,6 +104,7 @@
 ||anota-des.com/vb/$subdocument,domain=a7lahmsa.com
 ||arabearpiece.com/big.png
 ||arabic-developers.com/images/bnr/
+||arabs-up.com/adv.jpg
 ||arabseed.com/1st/deserts*.js
 ||arabsh.com/red.php$image,~image,popup,domain=nono6.com
 ||arblue.com/5.gif
@@ -841,6 +842,8 @@ arabseed.com##div[style="padding-top:5px;float:left;width:100%;font-size:13px;li
 arabseed.com##div[style="padding-top:5px;float:left;width:100%;font-size:13px;line-height:26px;height:31px;top: 12px;z-index:9999;text-align:right"]
 arabseyes.com###Banner
 arabsgate.com##img[width="645"][height="79"]
+arabsharing.com##.banners
+arabsharing.com##.extras_footer
 arabycommunity.com##a[href^="http://www.babylon.com/redirects/download.cgi?"]
 arbcinema.com##a[href^="http://bit.ly/"]
 arbcinema.com##a[href^="http://www.babylon.com/welcome/index?affID="]
