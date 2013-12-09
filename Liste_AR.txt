@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: j4M+h1n3PjHvLQkyDW9cxg
+! Checksum: +8XnfZhBwDA4x1Kx6EAmzQ
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -430,6 +430,7 @@
 ||bit.ly^$popup,domain=ultshare.com
 ||blogspot.com/^$popup,domain=cima4u.com
 ||blogspot.com^$image,~image,popup,domain=mountada.net
+||blogspot.com^$image,~image,popup,domain=uiraqi.com
 ||blogspot.com^$popup,domain=el7l.com
 ||blogspot.com^$popup,domain=yallamoviez.com
 ||blogspot.com^*/banusr.jpg$domain=juste4femme.blogspot.com
@@ -1139,6 +1140,7 @@ touteslesrecettes.fr###banner
 touteslesrecettes.fr###first
 traidnt.net##td[width="160px"]
 tvegy.com##a[href^="http://ar.hao123.com/?tn="]
+uiraqi.com##a[href^="/ads.php?"]
 ultshare.com###topbar
 up-aa.com##img[width="115"][src^="templates/siti/img/"]
 uskarmawi.com###topads
