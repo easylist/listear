@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: R3HqesElMCxQHtBoEKj/WA
+! Checksum: Fd7bX/bYuNf0CCoLLoDOyw
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -54,6 +54,7 @@
 ||hsoub.com^$third-party
 ||ikoo.com^$third-party
 ||imediastreams.com^$third-party
+||jazayr.net^$third-party
 ||jor1.net^$third-party
 ||nile-ads.com^$third-party
 ||oneclickad.net^$third-party
