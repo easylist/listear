@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: NrFLwgQwVutu0jSyEzON4w
+! Checksum: pkwTbesD/AJx4iCRgGVyfA
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -251,6 +251,7 @@
 ||up-00.com/Apr13/IUw99602.gif
 ||up700.net/affiliates/
 ||upxmedia.com/$subdocument,domain=shofonline.net
+||vchat.sa-girl.com^
 ||videobam.com/this-pays-for-bandwidth/
 ||vip600.com/aaa/
 ||wadize2ab.com^$subdocument,domain=a7lahmsa.com
