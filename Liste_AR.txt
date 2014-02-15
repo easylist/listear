@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: NBEl1yWyG4S2CB6+SpxRxQ
+! Checksum: WhkJ5O4HrjbD/b7z8l3Tfg
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -92,6 +92,7 @@
 ||ads-bubble.snseonetwork.com/zone?
 ||agarcom.com/up/uploads/1375263039741.gif
 ||al-ghla.net/vb/$subdocument,domain=a7lahmsa.com
+||al3abcooking.com/al3abcooking.gif
 ||aldam3h.com/vb/$subdocument,domain=s-ajfan.com
 ||aldlall.com/aldlall.gif
 ||aleqt.com/s/new/HP_
@@ -108,6 +109,7 @@
 ||amazonaws.com/*/KSA-Footer/images_leader_souq/
 ||anbagate.com/adv/
 ||anota-des.com/vb/$subdocument,domain=a7lahmsa.com
+||arabdvd.net/banner/
 ||arabearpiece.com/big.png
 ||arabic-developers.com/images/bnr/
 ||arabs-up.com/adv.jpg
@@ -153,6 +155,7 @@
 ||forsangaza.net/vb/$subdocument,domain=a7lahmsa.com
 ||freewebsubmission.com/images/fwsbanner
 ||g2g2.net/banars/
+||g44g.com/g44g-games.gif
 ||galileosolutions.net^*/banners_
 ||gamepower7.com/forum/banner.swf
 ||gulfbase.com/APopUp.
@@ -991,6 +994,9 @@ hawaaworld.com###vacuumcleaners
 hawahome.com##a[href^="http://forum.hawahome.com/ads.php?"]
 hawamer.com###topBanner
 hawamer.com##.centerBanner
+herosh.com##img[width="100"][height="35"]
+herosh.com##img[width="100"][height="40"]
+herosh.com##img[width="345"][height="40"]
 hwaml.com##img[width="150"][height="60"]
 hwaml.com##img[width="240"][height="60"]
 hwaml.com##img[width="468"][height="60"]
