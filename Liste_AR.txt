@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: kddzHif3AnOzIdoskcVnEg
+! Checksum: NBEl1yWyG4S2CB6+SpxRxQ
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -584,6 +584,7 @@
 ||jawaley.com/banar/
 ||jeddahbikers.com/LB.php
 ||jeddahbikers.com/LB_DFP.php
+||jeddahbikers.com/mobilead300.php
 ||jeddahbikers.com/MPU.php
 ||jeddahbikers.com/MPU_DFP.php
 ||jeddahbikers.com/SB_DFP.php
