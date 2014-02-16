@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: pdhrlQeexjKhvy63fIuijw
+! Checksum: F3FNBFebl2HSW/Ujusij7A
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -145,6 +145,7 @@
 ||darendeal.com/widgets/recommendation_box?
 ||diwanee.net/?ref=
 ||dohaup.com/up/2010-05-07/dohaup_206097194.gif
+||down1oads.com^$popup
 ||dubizzle.com^*/?utm_source=$popup
 ||dzautos.com/data/dzauto.swf
 ||egyup.com/300.png
@@ -799,6 +800,7 @@
 !
 !----------------------- Éléments -----------------------!
 !
+##div[style^="z-index: 99999; position: fixed; width: 100%; background-color: rgb(251, 236, 173);"]
 2flam.net##A[href="http://shwqna.at.ua/ADs.htm"]
 2flam.net##a[href="http://shwqna.at.ua/Free.htm"]
 2lboo.com##a[class^="banner"]
@@ -888,8 +890,6 @@ arabs-up.com##a[href^="go.php?"]
 arabs-up.com##img[width="144"][height="60"]
 arabs-up.com##img[width="155"][height="60"]
 arabseed.com##a[href^="http://goo.gl/"]
-arabseed.com##div[style="padding-top:5px;float:left;width:100%;font-size:13px;line-height:26px;height:31px;top: 12px;z-index:9999;text-align:left"]
-arabseed.com##div[style="padding-top:5px;float:left;width:100%;font-size:13px;line-height:26px;height:31px;top: 12px;z-index:9999;text-align:right"]
 arabseyes.com###Banner
 arabsgate.com##img[width="645"][height="79"]
 arabsharing.com##.banners
