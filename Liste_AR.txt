@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: vM0ZO2VbGw89da0Jtt9jeA
+! Checksum: pdhrlQeexjKhvy63fIuijw
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -1026,6 +1026,8 @@ igli5.com##.ads
 imanschool.com##.bannerBox
 inewsarabia.com##.box728
 inewsarabia.com##div[style="width:300px; height:250px;"]
+iq-vb.net###layer1
+iq-vb.net###topbar
 islamweb.net##.Advertising
 jeddahbikers.com###Main_MPU
 jeddahbikers.com##.ads
