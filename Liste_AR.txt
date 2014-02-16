@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: YBNChSSh+0+DKMAiUgxJEA
+! Checksum: HQIBbUPmQ3tQave94PpGKA
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -19,6 +19,7 @@
 !----------------------- Éléments génériques -----------------!
 ###ad2
 ###adLeft
+###ads_r_c
 ##.adengageadzone
 ##.adsarea
 ##a[href*="adintop.com/outgoing/click.php?"]
@@ -1046,6 +1047,7 @@ kalemaro.com##.adv2
 kalemaro.com##a[href="http://bit.ly/14I2rw3"]
 kawalisse.com###bannerHead
 korabia.com###divLeaderBoard
+korabia.com##[class^="modal"]
 ksa-ksa.com##a[href*="/?adsclick=banner&id="]
 ktaby.com##.floatingWindowContent
 ktaby.com##a[href^="http://performance.ikoo.com/"]
