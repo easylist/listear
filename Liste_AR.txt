@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: kBhlJrUgXQ+LHZtjd4J5ZA
+! Checksum: Y62hEOwq8onKTjuBmtWa6A
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -24,6 +24,7 @@
 ##a[href^="ads.php?id="]
 ##a[href^="http://ad2games.com/"]
 ##a[href^="http://adserver.adtech.de/?adlink|"]
+##a[href^="http://booraq.org"]
 ##a[href^="http://deals.souq.com/"]
 ##a[href^="http://share.payoneer-affiliates.com/"]
 ##a[href^="http://www.sotmasr.com/announcements/"]
@@ -40,6 +41,7 @@
 ||adtoadd.com^$third-party
 ||aknod.com^$third-party
 ||awsclic.com^$third-party
+||booraq.org^$third-party
 ||bursttraffic.net^$third-party
 ||cdxndirect.com^$third-party
 ||cdxndirectopt.com^$third-party
@@ -602,6 +604,7 @@
 ||ktaby.com/wzayef^$subdocument,domain=ktaby.com
 ||ktaby.com^$subdocument,domain=algremh.com
 ||ktaby.com^*/open.js
+||kuwait1.co^$subdocument,domain=syrcafe.co
 ||lahbabi.ma//home/code-widjet.html
 ||learn.wiki-net.net^$popup,domain=panorama-istanbul.org
 ||lhzro.com^$popup,domain=lhzro.com
@@ -746,8 +749,12 @@
 ||str-ly.com/open*.js
 ||support-ar.com/vb/support-adv/
 ||swalif.com/banner/
+||syrcafe.co/vb/aerowindow/
+||syrcafe.co/wal*.js
 ||syrcafe.com/ra03a.js
 ||syrcafe.com/ufxaffiliates.js
+||syrcafe.net/images/900forex.png
+||syrcafe.net/images/forex160-600.png
 ||syrcafe.net/images/ufx.jpg
 ||syrcafe.net/vb/aerowindow/
 ||syrcafe.net/vb/download.gif
@@ -1147,6 +1154,7 @@ souqa3mal.com##.slid-topmaxtech-costom-ads
 str-ly.com##a[href="http://games.str-ly.com/"]
 swalif.net##.sab-adPlace
 swarih.com##.adv
+syrcafe.co##.semoo
 syrcafe.com##a[href^="http://24caratksa.com/"]
 t8t3.com##img[width="140"][height="60"]
 t8t3.com##img[width="150"][height="60"]
