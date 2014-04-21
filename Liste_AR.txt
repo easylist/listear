@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: BSSRfBClw7duzPuGJ8p+KA
+! Checksum: yBrYUtgpPkly3NnxcVIkmA
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -328,6 +328,8 @@
 ||7obek-m.com^$popup,domain=700bk.com
 ||7ooobe.com/vb/images/a3lan
 ||7ozn.com/e3lanat/
+||7rcat.com/banar/
+||7rcat.com/games/banar/
 ||a7lacartoon.com/fetees.js
 ||a7lahmsa.com/vb/aerowindow/
 ||a7lahmsa.com/vb/open/
@@ -605,6 +607,7 @@
 ||jarayid.com/pictures/sadaakkar-ad.jpg
 ||jawaley.com/advs.php
 ||jawaley.com/banar/
+||jawaley.net/banar/
 ||jeddahbikers.com/LB.php
 ||jeddahbikers.com/LB_DFP.php
 ||jeddahbikers.com/mobilead300.php
@@ -819,6 +822,7 @@
 33sh8.com###adds
 3a2ilati.com##.eshop-list
 3rbb.net##.ad
+4algeria.com##img[width="75"][height="30"]
 5foq.com##div[style="width:680px;height:180px;float:left;margin-left:5px;margin-top:25px"]
 6ab5ty.com##.banar
 6ef.com###webColorsHeader2
