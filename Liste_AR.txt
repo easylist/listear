@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: h/Yx+RUUpLy6F8//Zwfc0A
+! Checksum: 1Ag9X3kU2JDilrh8hbE90g
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -195,6 +195,7 @@
 ||imageshack.us/img856/4224/64119518.jpg
 ||islamiy.com^$subdocument,domain=wadilarab.com
 ||jazora.com/banner/
+||jo-sharing.com/vb/images/bnnr.
 ||kalemaro.com/open*.js
 ||karizmo.net/vb/karix.gif
 ||ksa-ksa.com^$subdocument,domain=a7lahmsa.com
@@ -1040,6 +1041,9 @@ iq-vb.net###topbar
 islamweb.net##.Advertising
 jeddahbikers.com###Main_MPU
 jeddahbikers.com##.ads
+jo-sharing.com##img[width="468"]
+jo-sharing.com##img[width="700"][height="120"]
+jo-sharing.com##img[width="940"][height="80"]
 jordanzad.com##a[href^="ad.php?"]
 jordanzad.com##div[style="width:306px;height:63px;"]
 jordanzad.com##div[style="width:600px;height:80px;"]
