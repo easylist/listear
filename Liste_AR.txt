@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 1Ag9X3kU2JDilrh8hbE90g
+! Checksum: BSSRfBClw7duzPuGJ8p+KA
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -32,6 +32,8 @@
 ##a[href^="http://booraq.org"]
 ##a[href^="http://deals.souq.com/"]
 ##a[href^="http://share.payoneer-affiliates.com/"]
+##a[href^="http://www.fusebux.com/index.php?r="] > img
+##a[href^="http://www.probux.com/?rh="] > img
 ##a[href^="http://www.sotmasr.com/announcements/"]
 ##a[href^="http://xat.com/"]
 !
