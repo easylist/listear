@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: xzV3UIQ8RvnqNUGX2s9b6Q
+! Checksum: e5KBl51A4stqFkQMR/Tvag
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -248,6 +248,7 @@
 ||rsbfoot.com/annonce/
 ||s-ajfan.com/vb/$subdocument,domain=a7lahmsa.com
 ||saliny.com/bnr/
+||satarabia.net/v2/images/big_ar_banner.jpg
 ||servimg.com/u/f65/11/55/73/09/downlo10.gif
 ||shbkat.com/adv/
 ||shnat.net/vb/images/14.jpg
@@ -1155,6 +1156,7 @@ s-ajfan.com##.decoded
 s-oman.net###ad_global_below_navbar
 s-oman.net##a[href="http://www.rennamobile.com/promotions/"]
 saidaonline.com##a[href^="advertising.php?"]
+satarabia.net##img[width="728"][height="90"]
 se-te.com##table[width="70%"][style="border-collapse: collapse"]
 sedty.com##.Ads
 sedty.com##a[href^="http://www.drsrv.com/adv/"]
