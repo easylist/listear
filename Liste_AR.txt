@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 9zMeskwsizZqMM+0meMvvQ
+! Checksum: rQwepce8wOS7fOta7Nvmvw
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -69,6 +69,7 @@
 ||imediastreams.com^$third-party
 ||jazayr.net^$third-party
 ||jor1.net^$third-party
+||menaon.com^$third-party
 ||mochiads.com^$third-party
 ||nile-ads.com^$third-party
 ||oneclickad.net^$third-party
@@ -620,6 +621,7 @@
 ||k1br.com/vb/$subdocument,domain=s7rny.com
 ||kalemaro.com/dezndev*.js
 ||kashta.net^$subdocument,domain=syrcafe.net
+||kazaroza.net^$popup,domain=arablionz.com
 ||khaleejcal.com^*/banners/
 ||kleeja.com/static/images/e3/
 ||ktaby.com/adv_ktaby/
