@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: WTV6tRrOCKG234ThW7WXOQ
+! Checksum: s7p3dXfw/A/WO0c2NVAKNg
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -85,6 +85,7 @@
 ||seprovider.com^$third-party
 ||shabakti.com^$third-party
 ||trafficrevmaster.com^$third-party
+||vuiads.org^$third-party
 ||zenoviaexchange.com^$third-party
 ||zwaar.net^$third-party
 !
@@ -217,6 +218,7 @@
 ||m5zn.com/themes/dir/assets/images/120_banner_black.gif
 ||m5zn.com/uploads3/2012/4/9/photo/040912220452picoovy1i4g2q.jpg
 ||mark4you.com/mark.gif
+||masatv.com^$popup,domain=2flam.org
 ||mazikadrama.com/vidads2.php
 ||mirecal-d.com/300download.gif
 ||mirecal-d.com/d7001.gif
@@ -825,6 +827,7 @@
 ##div[style^="z-index: 99999; position: fixed; width: 100%; background-color: rgb(251, 236, 173);"]
 2flam.net##A[href="http://shwqna.at.ua/ADs.htm"]
 2flam.net##a[href="http://shwqna.at.ua/Free.htm"]
+2flam.org##div[style="position: fixed; bottom: 1px; border: dashed 1px; right: 1px; background-color:#000000;padding:5px;"]
 2lboo.com##a[class^="banner"]
 2v22.net##a[href^="bnnr.php?do="]
 3-tp.com##.bannbox
