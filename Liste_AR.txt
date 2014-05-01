@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: s7p3dXfw/A/WO0c2NVAKNg
+! Checksum: xuxVte/Mw7Er7RH59jJVMQ
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -63,6 +63,7 @@
 ||clickmena.com^$third-party
 ||clients-ads.panet.co.il^
 ||clkmon.com^$third-party
+||cpxmasters.com^$third-party
 ||emarketing.net.sa^$third-party
 ||gainmoneyfast.com^$third-party
 ||geniusinstaller.com^$third-party
