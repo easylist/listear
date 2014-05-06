@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: sYKBIVUEkya9zVKEJuw+KA
+! Checksum: DiifFupp53wNEu35H4UbTw
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -330,6 +330,7 @@
 ||3roos.com/files/ups/
 ||3roos.com/images/i3lan.gif
 ||4algeria.com/vb/images/al-e3lnat/
+||5jle.com^$subdocument,domain=liilas.com
 ||6ba5.com/Violet_hexll/images/hexll_19.png
 ||6ef.com/ee/*-160x300.
 ||750750.com/bnrs/
@@ -651,12 +652,14 @@
 ||lahbabi.ma//home/code-widjet.html
 ||learn.wiki-net.net^$popup,domain=panorama-istanbul.org
 ||lhzro.com^$popup,domain=lhzro.com
+||liilas.com/*/am.js
 ||liilas.com/300.htm
 ||liilas.com/600.htm
 ||liilas.com/728.htm
 ||liilas.com/up/uploads/liilas_
 ||liilas.com/uploads/liilas_1373846713171.gif
 ||liilas.com/uploads/liilas_1378255269441.jpg
+||liilas.com/uploads/liilas_1398296505511.gif
 ||liilas.com/vb3/mobiquo/smartbanner/appbanner.js
 ||liilas.com/vb3/z.js
 ||llssll.com/uploads/viewimages/
@@ -671,6 +674,7 @@
 ||m7shsh.com^*/bn300.jpg
 ||ma3hd.net$subdocument,domain=ma3hd.net
 ||ma3hd.net/js.php
+||maas1.net^$subdocument,domain=liilas.com
 ||manga-ar.com/upload/adv/
 ||marocannonces.com/images/tombola-
 ||marocannonces.com^*/images/bannier_
