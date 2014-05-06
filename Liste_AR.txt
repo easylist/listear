@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: Lkm/ZSrZEaoxFEeGA3FdbQ
+! Checksum: o4HKkn52C6eyDp81u40Ouw
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -514,6 +514,7 @@
 ||dl3-r.com/dla3/images/large-area.gif
 ||dohaup.com/up/2010-01-29/dohaup_827224532.gif
 ||dohaup.com/up/2010-02-10/dohaup_1758332280.gif
+||dostor.org/images/stories/300x150.gif
 ||dramacafe.tv/*/adblockdetect.min.js
 ||dramacafe.tv/dramacafe.js
 ||dzecole.com/^$popup,domain=bacdz.org
@@ -983,6 +984,7 @@ darendeal.com##.takeover
 darseries.com##div[style="padding-top:5px; font-family:tahoma;float:right;width:100%;font-size:10pt;line-height:26px;height:31px;top: 12px;z-index:9999;text-align:right"]
 darseries.com##div[style^="width:325px;height:275px;"]
 deltaclic.com##.squarebanner
+dostor.org##img[style="width: 120px; height: 599px;"]
 dwayir.com###nav
 ech-chaab.net##.module.mod-line.color-black.deepest
 ech-chaab.net##img[width="820"][height="159"]
