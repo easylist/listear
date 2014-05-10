@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 9mMxs//b3g73ucWQvTtGCw
+! Checksum: wNNYhg67/y4UzUuq8YSgRg
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -895,8 +895,8 @@ alarab.net##.mbAdImg
 alayam.com##.banner
 alayam.com##.slides1
 alayam.com##.slides76
-albaladeyes.com###ads1
 albaladeyes.com###advs
+albaladeyes.com,ninjaup.com###ads1
 algareda.com##a[href^="http://goo.gl/"]
 algeriamax.com##img[alt="مساحة إعلانية"]
 algremh.com##.floatingWindowContent
@@ -1158,7 +1158,6 @@ mwordpress.net##a[href^="http://mwordpress.net/visit/"]
 n4hr.com##.advactar
 n4hr.com##.ladv
 nadorcity.com##a[href^="/ads/"]
-ninjaup.com###ads1
 ninjaup.com###ads2
 ninjaup.com###ads3
 ninjaup.com###spons
