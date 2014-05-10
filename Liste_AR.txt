@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: vSkKMuCQyHACGQQkSnP92A
+! Checksum: 9mMxs//b3g73ucWQvTtGCw
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -1022,6 +1022,7 @@ elmihwar.com##.banneritem
 elraaed.com##.ads_1
 enjaztech.com##img[width="728"][height="90"]
 ennaharonline.com###flash
+ennaharonline.com,yakamar.com###ads
 eqla3.com##iframe
 europages.ma###article-apbox
 europages.ma###sponsor
@@ -1250,7 +1251,6 @@ videobam.com###this-pays-for-bandwidth-container
 wmuae.net##.binsaad
 y4yy.com##.adv
 y4yy.com##img[width="300"][height="250"]
-yakamar.com###ads
 yakamar.com##img[width="494"][height="60"]
 yakamar.com##img[width="728px"][height="90px"]
 yallabina.com##.adv
