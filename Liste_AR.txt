@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: wNNYhg67/y4UzUuq8YSgRg
+! Checksum: nMwpmphZsq0p1ov5uvNf9w
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -60,6 +60,7 @@
 ||adtracking.asia^$third-party
 ||adzzone.com^$third-party
 ||aknod.com^$third-party
+||ar-ads.net^$third-party
 ||awsclic.com^$third-party
 ||booraq.org^$third-party
 ||bursttraffic.net^$third-party
@@ -600,6 +601,7 @@
 ||goo.gl/fYnDL^$subdocument,domain=lmseh.com
 ||goo.gl/meRtR^$popup,domain=abotlal.com
 ||goo.gl^$popup,domain=arabseed.com
+||goo.gl^$popup,domain=mazika2day.com
 ||googlna.com/flash/bnar.swf
 ||gornalak.com/alexa.gif
 ||gornalak.com/pop.js
