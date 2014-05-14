@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 5XWTXl7RUxBHJtju+ODJ3w
+! Checksum: GRi6+lzwpzjnQbQ447I/dQ
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -354,7 +354,7 @@
 ||a7lahmsa.com/vb/aerowindow/
 ||a7lahmsa.com/vb/open/
 ||adf.ly^$popup,domain=nassamat.com
-||adv.mmnon.com/
+||adv.mmnon.com^
 ||aflamex.com/adv2012/
 ||aflamex.com/forum/download-icon.jpg
 ||aflamex.com/forum/open/
@@ -374,8 +374,7 @@
 ||al-zin.com/up/uploads/13544017121.gif
 ||al-zin.com/up/uploads/13557545631.jpg
 ||al-zin.com/up/uploads/13600111111.gif
-||al-zin.com^$popup,domain=al-zin.com
-||al-zin.com^$popup,domain=syrcafe.com
+||al-zin.com^$popup,domain=al-zin.com|syrcafe.com
 ||al3boshi.com^$subdocument,domain=aflamex.com
 ||al3ushaq.com/t7mel/uploads/13505054691.gif
 ||al3ushaq.com/t7mel/uploads/13515103911.gif
@@ -472,7 +471,6 @@
 ||as7apcool.com/pic/$image
 ||asalahpal.com/vb/open/
 ||ashefaa.com/i3lanat/
-||asrarcomp.blogspot.com^$popup,domain=el7l.co
 ||aswat-elchamal.com/ar/pub/
 ||azyya.com^$popup,domain=beautymaroc.com
 ||bahrain2day.com/adv/
@@ -483,14 +481,9 @@
 ||bdr130.net/vb/bnr1/
 ||bentvip.com/adv/
 ||bentvip.com/up/20120511032813.gif
-||bit.ly^$popup,domain=arbcinema.com
-||bit.ly^$popup,domain=ultshare.com
+||bit.ly^$popup,domain=arbcinema.com|ultshare.com
 ||blogspot.ae^$popup,domain=cima4u.com
-||blogspot.com/^$popup,domain=cima4u.com
-||blogspot.com^$popup,domain=el7l.com
-||blogspot.com^$popup,domain=mountada.net
-||blogspot.com^$popup,domain=uiraqi.com
-||blogspot.com^$popup,domain=yallamoviez.com
+||blogspot.com^$popup,domain=cima4u.com|el7l.co|el7l.com|mountada.net|uiraqi.com|yallamoviez.com
 ||blogspot.com^*/banusr.jpg$domain=juste4femme.blogspot.com
 ||blogspot.com^*/download_little.jpg$domain=shofonline.net
 ||bramj.co/womens.js
@@ -600,10 +593,8 @@
 ||g9g.im^$subdocument,domain=algremh.com
 ||gem-flash.com/vb/banners1.php?
 ||glwan.com/adv/
-||goo.gl/fYnDL^$subdocument,domain=lmseh.com
-||goo.gl/meRtR^$popup,domain=abotlal.com
-||goo.gl^$popup,domain=arabseed.com
-||goo.gl^$popup,domain=mazika2day.com
+||goo.gl^$popup,domain=abotlal.com|arabseed.com|mazika2day.com
+||goo.gl^$subdocument,domain=lmseh.com
 ||googlna.com/flash/bnar.swf
 ||gornalak.com/alexa.gif
 ||gornalak.com/pop.js
