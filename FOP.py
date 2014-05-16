@@ -328,7 +328,7 @@ def commit (repository, basecommand, userchanges):
         print("\nNo changes have been recorded by the repository.")
         return
     print("\nThe following changes have been recorded by the repository:")
-    print(difference.decode("utf-8"))
+    print(difference.decode('ascii', 'ignore'))
     try:
         # Persistently request a suitable comment
         while True:
