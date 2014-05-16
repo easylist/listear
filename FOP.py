@@ -141,10 +141,6 @@ def main (location):
                     # Ignore errors resulting from deleting files, as they likely indicate that the file has already been deleted
                     pass
 
-    # Add checksum
-    varliste = "Liste_AR.txt"
-    pipe = subprocess.call(["perl", "addChecksum.pl", varliste])
-
     # If in a repository, offer to commit any changes
     if repository:
         commit(repository, basecommand, originaldifference)
