@@ -917,6 +917,7 @@ nono6.com##.BannarTop
 ounousa.com##.HomeNewAndBanner
 filgoal.com##.MRContainer
 masrawy.com##.NewClassifieds
+swalif.net##.ShowThreadAdplace
 physique48.org##.TOOLbarB
 alhayat.com##.TopHeaderBanner
 3rbb.net,alarab.net,bokra.net,gamesgb.com,gornalak.com##.ad
