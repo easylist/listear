@@ -47,6 +47,7 @@
 ||aknod.com^$third-party
 ||ar-ads.com^$third-party
 ||ar-ads.net^$third-party
+||arab-ads.com^$third-party
 ||awsclic.com^$third-party
 ||booraq.org^$third-party
 ||bursttraffic.net^$third-party
