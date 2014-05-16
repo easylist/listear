@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: FCq/lXVnwg7SLOrk2k4Qrw
+! Checksum: Rg3K10W97T44DWYlxLalqg
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
@@ -13,26 +13,12 @@
 ! ou par e-mail : liste.ar.adblock at gmail point com
 !
 !----------------------- Filtres génériques -----------------!
--ads.swf
 .eg/ads/
 .ma/ads/
 /ar/ads/*
 !
 !----------------------- Éléments génériques -----------------!
-###ad2
-###adLeft
-###ad_global_below_navbar
-###ads_r_c
-###divTopAds
 ###pub-730x90
-##.adengageadzone
-##.ads-site
-##.ads-ul
-##.adsarea
-##.adv-top
-##.block_adv
-##.googleAds336
-##.googleAds728
 ##.pub-730x90
 ##a[href*="adintop.com/outgoing/click.php?"]
 ##a[href*="dubizzle.com/ar/?utm_source="]
@@ -300,7 +286,7 @@
 ||wdbook.net^$subdocument,domain=wadilarab.com
 ||web4africa.net/banners/
 ||wirwaar.com/$subdocument,domain=s-ajfan.com
-||xat.com^
+||xat.com^$third-party
 ||xatech.com^
 ||yellowpages.com.ps/search_bricks/ps_search_bricks_300X130.php
 ||ymoviez.com/yallamoviez.js
@@ -1188,5 +1174,3 @@ traidnt.net##td[width="160px"]
 !----------------------- Exceptions d'éléments -----------------------!
 !
 risalaradio.com#@#.ad-cell
-!
-!
