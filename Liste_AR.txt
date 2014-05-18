@@ -741,6 +741,7 @@
 ||rassoulallah.info/new/images/e3lan.png
 ||realmadridarabia.com^*/images/bnr_
 ||right-allthie-times.blogspot.com^$popup,domain=egynt.net
+||rmadarab.com/rmad-pro/site/header/Banner_
 ||rmadarab.com/vb/RMclub/pub
 ||roooo3.com/vb/aerowindow/
 ||roooo3.com/vb/stylev1/images/banner
