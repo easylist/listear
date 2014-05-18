@@ -742,7 +742,7 @@
 ||realmadridarabia.com^*/images/bnr_
 ||right-allthie-times.blogspot.com^$popup,domain=egynt.net
 ||rmadarab.com/rmad-pro/site/header/Banner_
-||rmadarab.com/vb/RMclub/pub
+||rmadarab.com/vb/rmad-pro/pub/
 ||roooo3.com/vb/aerowindow/
 ||roooo3.com/vb/stylev1/images/banner
 ||roro44.com/girls-games-banner.jpg
@@ -1125,7 +1125,7 @@ mobdi3ine.net,t8t3.com##img[width="140"][height="60"]
 arabs-up.com##img[width="144"][height="60"]
 qassimy.com##img[width="145"][height="45"]
 gamesgb.com##img[width="150"][height="50"]
-700bk.com,fraise-d.com,hwaml.com,k1g3.com,mdredclub.com,qassimy.com,rmadarab.com,roooo3.com,t8t3.com##img[width="150"][height="60"]
+700bk.com,fraise-d.com,hwaml.com,k1g3.com,mdredclub.com,qassimy.com,roooo3.com,t8t3.com##img[width="150"][height="60"]
 libyan-sat.com##img[width="150"][height="60"][style="margin: 0px 0px 0px 0px;"]
 arabs-up.com##img[width="155"][height="60"]
 egyup.tv##img[width="197"][height="98"]
@@ -1146,6 +1146,7 @@ fraise-d.com,hwaml.com##img[width="468"][height="60"]
 k1g3.com##img[width="486"][height="60"]
 yakamar.com##img[width="494"][height="60"]
 rmadarab.com##img[width="500"][height="60"]
+rmadarab.com##img[width="600"][height="90"]
 arabsgate.com##img[width="645"][height="79"]
 jo-sharing.com##img[width="700"][height="120"]
 enjaztech.com,hwaml.com,m5zn.com,qatarw.com,satarabia.net##img[width="728"][height="90"]
