@@ -499,6 +499,7 @@
 ||daralkotob.com/images/banners/
 ||daralkotob.com/images/photos/niledesign.jpg
 ||dawshagya.org/vb/open.js
+||djelfa.info/ar/files/banners/
 ||djelfa.info/logo/
 ||dl3-r.com/dla3/images/area-in--header.png
 ||dl3-r.com/dla3/images/large-area.gif
@@ -1073,6 +1074,7 @@ arabycommunity.com##a[href^="http://www.babylon.com/redirects/download.cgi?"]
 arbcinema.com##a[href^="http://www.babylon.com/welcome/index?affID="]
 almosafr.com##a[href^="http://www.booking.com/index.html?aid="]
 lakii.com##a[href^="http://www.deraah.com.sa/default.aspx?"]
+djelfa.info##a[href^="http://www.djelfa.info/ar/click/"]
 sedty.com##a[href^="http://www.drsrv.com/adv/"]
 almosafr.com##a[href^="http://www.hotelscombined.com/?a_aid="]
 abotlal.com##a[href^="http://www.izhra.com/?utm_source="]
