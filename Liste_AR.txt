@@ -14,6 +14,7 @@
 !----------------------- Filtres génériques -----------------!
 .eg/ads/
 .ma/ads/
+/ads468x60.
 /ar/ads/*
 !
 !----------------------- Éléments génériques -----------------!
@@ -593,6 +594,7 @@
 ||glwan.com/adv/
 ||goo.gl^$popup,domain=abotlal.com|arabseed.com|mazika2day.com
 ||goo.gl^$subdocument,domain=lmseh.com
+||googleusercontent.com^*/mastercard.gif$domain=myalge.net
 ||googlna.com/flash/bnar.swf
 ||gornalak.com/alexa.gif
 ||gornalak.com/pop.js
