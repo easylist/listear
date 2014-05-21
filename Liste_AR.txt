@@ -556,6 +556,7 @@
 ||elhiwarnet.com/images/banners/
 ||elmaouid.com/images/stories/23-02-2012/300_a.gif
 ||elmaouid.com/images/stories/pub-twins-1.gif
+||elmassar-ar.com/*/img/pub.jpg
 ||elmihwar.com/images/banners/
 ||elmokhalestv.com/banner_images/
 ||elraaed.com/ara/files/banners/
