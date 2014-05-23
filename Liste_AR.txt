@@ -707,6 +707,7 @@
 ||mwadah.com/images/mwadahhost.swf
 ||mwlaty.com/$subdocument,domain=f3al.com
 ||myegy.com/class.Pop.php
+||myegy.com/RC-Killer.gif
 ||mysite.ma/ads_
 ||mysite.ma/KHALID.js
 ||nadorcity.com/docs/imaipub.gif
