@@ -341,6 +341,7 @@
 ||a7lacartoon.com/fetees.js
 ||a7lahmsa.com/vb/aerowindow/
 ||a7lahmsa.com/vb/open/
+||actionha.net/stylesheets/takeover-rani/$stylesheet
 ||adf.ly^$popup,domain=nassamat.com
 ||adslgate.com/upload/mini-android-banner
 ||adv.mmnon.com^
