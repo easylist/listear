@@ -23,6 +23,7 @@
 !----------------------- Éléments génériques -----------------!
 ###pub-730x90
 ##.pub-730x90
+##a[href*="/ads/ad_link.php?"]
 ##a[href*="adintop.com/outgoing/click.php?"]
 ##a[href*="dubizzle.com/ar/?utm_source="]
 ##a[href^="ads.php?id="]
