@@ -749,6 +749,7 @@
 ||qalansuwa.com/online/images/stories/flash/
 ||qalansuwa.com/online/images/stories/spots/
 ||qaradawi.net^*/banners/
+||qariya.info/adv/
 ||qatar2.net^$popup,domain=qatarw.com
 ||qatarw.com/get-11-2008-1.gif
 ||qatarw.com/images/88.gif
