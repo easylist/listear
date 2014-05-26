@@ -857,6 +857,8 @@
 !
 !----------------------- Éléments -----------------------!
 !
+arabnet5.com###AdDivUnderNews
+arabnet5.com###Addiv
 i-share-ads.com###Ads1
 i-share-ads.com###Ads4
 ahram.org.eg###AdvShowCase1_divShowcase
@@ -864,6 +866,7 @@ arabseyes.com###Banner
 i-share-ads.com###ContentPlaceHolder1_MPE_AdsShow_backgroundElement
 i-share-ads.com###ContentPlaceHolder1_Pnl_ShowAds
 alarab.net###FloatBanner
+arabnet5.com###GoogleDivUnderNews
 ounousa.com###LeftBannerContainer
 jeddahbikers.com###Main_MPU
 ounousa.com###TopBanner
