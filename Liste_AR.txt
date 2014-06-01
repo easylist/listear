@@ -253,6 +253,7 @@
 ||profvb.com/pub/
 ||ps-0.com/vb/$popup,domain=s-ajfan.com
 ||ps-0.com/vb/$subdocument,domain=a7lahmsa.com|s-ajfan.com
+||rackcdn.com/1114112_1114112.swf
 ||raya.ps^*/banners/
 ||realup.net/201001/1362674452.gif
 ||realup.net/201001/1362765520.gif
@@ -846,6 +847,8 @@
 ||uob-bh.com/uploadfiles/bahraindir.gif
 ||uskarmawi.com^$subdocument,domain=asalahpal.com
 ||vbdar.com^$popup,domain=darseries.com
+||vip4soft.com/draw.swf
+||vip4soft.com/images/baneers/
 ||waffarnalk.com/googlead1.php
 ||waffarnalk.com/site_ads/
 ||wiki-net.net/$subdocument,domain=panorama-istanbul.org
