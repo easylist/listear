@@ -22,6 +22,7 @@
 !
 !----------------------- Éléments génériques -----------------!
 ###pub-730x90
+##.inside_adv_section
 ##.pub-730x90
 ##[href*="ad2games.com/"]
 ##a[href*="/ads/ad_link.php?"]
