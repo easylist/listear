@@ -197,6 +197,7 @@
 ||homekw.com/temp/jahrawi_150_167.gif
 ||hostgator.com^*/banners/
 ||hotelscombined.com/Affiliate/Widgets/
+||i7dollar.com/i1dollar.jpg
 ||icom-sat.net/Images/%D8%AF%D8%B9%D8%A7%D9%8A%D8%A7%D8%AA/
 ||im32.gulfup.com/ciSlt.gif
 ||im33.gulfup.com/TwdkK.gif
@@ -1158,6 +1159,7 @@ bh-gn.com##img[alt="ضع إعلانك هنا"]
 algeriamax.com##img[alt="مساحة إعلانية"]
 lmseh.com##img[src^="http://www.up.lmseh.com/do.php?"]
 bramjnet.com##img[style="WIDTH: 468px; HEIGHT: 60px"][title*="الإعلان "]
+teckni-sat.com##img[style="height: 90px; width: 728px; border-width: 0px"]
 dostor.org##img[style="width: 120px; height: 599px;"]
 k1g3.com##img[title="اعــلن مــــــعنا"]
 egynt.net,herosh.com,up-00.com##img[width="100"][height="35"]
