@@ -183,6 +183,7 @@
 ||g44g.com/g44g-games.gif
 ||galileosolutions.net^*/banners_
 ||gamepower7.com/forum/banner.swf
+||geek4arab.net/banner/
 ||gulfbase.com/APopUp.
 ||gulfbase.com/Assets/css/AeroWindow
 ||gulfup.com/2012-06-04/133881477241.gif
@@ -604,6 +605,7 @@
 ||g7a.com^$popup,domain=str-ly.com
 ||g9g.im/open.js
 ||g9g.im^$subdocument,domain=algremh.com
+||geek4arab.com^*/banner/
 ||gem-flash.com^*/banners1.php?
 ||glwan.com/adv/
 ||goo.gl^$popup,domain=abotlal.com|arabseed.com|mazika2day.com
