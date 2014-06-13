@@ -156,6 +156,7 @@
 ||blogspot.com^*/al3abo.png$domain=th3professional.com
 ||bothemes.com^*/popup.js
 ||casasky.com/bannerslider/
+||cs-proton.tv/images/banner-*.
 ||ctn-abbas.com/*_ads.
 ||d3oyytf0n6db9a.cloudfront.net^
 ||darendeal.com/widgets/recommendation_box?
