@@ -658,6 +658,7 @@
 ||kazaroza.net^$popup,domain=arablionz.com
 ||khaleejcal.com^*/banners/
 ||kleeja.com/static/images/e3/
+||korabia.com/Content/img/Cocacola.jpg
 ||ktaby.com/adv_ktaby/
 ||ktaby.com/vb/open/
 ||ktaby.com/wzayef^$subdocument,domain=ktaby.com
@@ -1046,6 +1047,7 @@ hao123.com##.pr
 europages.ma,menara.ma##.pub
 rassoulallah.info##.right_column
 swalif.net##.sab-adPlace
+korabia.com##.sayingOutOfContent
 syrcafe.co##.semoo
 alaan.tv##.show-specificimg1
 el3ab.com##.showcase
