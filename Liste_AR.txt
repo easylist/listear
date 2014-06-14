@@ -1053,6 +1053,7 @@ swalif.net##.sab-adPlace
 korabia.com##.sayingOutOfContent
 syrcafe.co##.semoo
 alaan.tv##.show-specificimg1
+kol7agh.com##.show_left_left_google
 el3ab.com##.showcase
 souqa3mal.com##.slid-topmaxtech-costom-ads
 alayam.com##.slides1
