@@ -630,8 +630,6 @@
 ||hibapress.com/Hanya90.jpg
 ||hibasport.com/pubip/
 ||hoolmiz.com/tvd/
-||http://l7en.com/ps/new/$script
-||http://www.elmassar-ar.com/ara/ads/
 ||i3z.net/styles/3iz/images/Bnr1.png
 ||i3z.net/styles/3iz/images/Bnr2.png
 ||ibtesama.com/adv/
@@ -669,10 +667,7 @@
 ||ktaby.com^*/open.js
 ||kuwait1.co^$subdocument,domain=syrcafe.co
 ||l7en.com/javascript/main.js
-||l7en.com/ps/new/fidaa3.js
-||l7en.com/ps/new/palgirls.js
-||l7en.com/ps/new/v-ttal.js
-||l7en.com/ps/new/voicegerman3.js
+||l7en.com/ps/new/$script
 ||lahbabi.ma//home/code-widjet.html
 ||learn.wiki-net.net^$popup,domain=panorama-istanbul.org
 ||lhzro.com^$popup,domain=lhzro.com
