@@ -507,6 +507,8 @@
 ||cairo7.com/vb/open19.js
 ||ce4arab.com/images/myus-banner
 ||ce4arab.com/vb7/images/*/963081.jpg
+||chadafm.net/images/banner_
+||chadafm.net/images/pub/
 ||chadafm.net/images/stories/ban-605x106.gif
 ||christian-dogma.com^*/banners/
 ||cima4u.com/open/
@@ -629,7 +631,6 @@
 ||hibasport.com/pubip/
 ||hoolmiz.com/tvd/
 ||http://l7en.com/ps/new/$script
-||http://www.chadafm.net/images/stories/ban-605x106.gif
 ||http://www.elmassar-ar.com/ara/ads/
 ||i3z.net/styles/3iz/images/Bnr1.png
 ||i3z.net/styles/3iz/images/Bnr2.png
