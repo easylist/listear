@@ -22,6 +22,7 @@
 !
 !----------------------- Éléments génériques -----------------!
 ###pub-730x90
+##.ban-728
 ##.inside_adv_section
 ##.pub-730x90
 ##[href*="ad2games.com/"]
@@ -1035,6 +1036,7 @@ alarab.net##.left_sqr
 bokra.net##.main_baner
 alarab.net##.mbAdImg
 mediamasr.tv##.mediumbanner
+hawaaweb.com##.middle-banner
 ech-chaab.net##.module.mod-line.color-black.deepest
 abotlal.com##.nannr
 rassoulallah.info##.narrow_column
@@ -1045,6 +1047,7 @@ now24.net##.pad5
 chat-alriyadh.com##.paner
 hao123.com##.pr
 europages.ma,menara.ma##.pub
+hawaaweb.com##.right-banner
 rassoulallah.info##.right_column
 swalif.net##.sab-adPlace
 korabia.com##.sayingOutOfContent
