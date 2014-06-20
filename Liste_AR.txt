@@ -34,6 +34,7 @@
 ##a[href^="http://adserver.adtech.de/?adlink|"]
 ##a[href^="http://booraq.org"]
 ##a[href^="http://deals.souq.com/"]
+##a[href^="http://drivercardusa.info/"]
 ##a[href^="http://share.payoneer-affiliates.com/"]
 ##a[href^="http://www.fusebux.com/index.php?r="] > img
 ##a[href^="http://www.probux.com/?rh="] > img
@@ -244,6 +245,7 @@
 ||mnq8.com/bnrs/
 ||mothhelah.com/bnr.jpg
 ||mothhelah.com/img/psF78481.gif
+||movizland.com/uploads/13978557311.gif
 ||mshaweer.net/vb//images/baner.swf
 ||mshaweer.net/vb/images/e3lan3.gif
 ||mshaweer.net/vb/images/mshaweer2.gif
