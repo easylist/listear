@@ -954,6 +954,7 @@ mazika2day.com###topban
 alarab.net###topbanner
 a7lashare.com,iq-vb.net,sm3na.com,ultshare.com###topbar
 hawaaworld.com###vacuumcleaners
+firedrive.com###ve_box
 europages.ma###vipBox
 6ef.com,fr7.com,q8me.com###webColorsHeader2
 mshkla.com###weblks
