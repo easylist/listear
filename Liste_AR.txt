@@ -50,6 +50,7 @@
 ||adrife.com^$third-party
 ||ads-x.com^$third-party
 ||adscoo.com^$third-party
+||adservingstd.com^$third-party
 ||adtoadd.com^$third-party
 ||adtracking.asia^$third-party
 ||adzzone.com^$third-party
