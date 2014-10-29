@@ -12,7 +12,6 @@
 ! ou par e-mail : liste.ar.adblock at gmail point com
 !
 !----------------------- Filtres génériques -----------------!
-!
 .eg/ads/
 .ma/ads/
 /ads468x60.
