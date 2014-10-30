@@ -152,6 +152,7 @@
 ||asalahpal.com/vb/$subdocument,domain=a7lahmsa.com
 ||awtad.com/www/
 ||b8cdn.com^*/affiliate-
+||babal.net/tools/home.php?$third-party
 ||banathi.com/banathi*.
 ||bayt.com/referred?
 ||bayt.com/scripts/associates_latest_jobs.js
