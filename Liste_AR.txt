@@ -141,6 +141,7 @@
 ||anota-des.com/vb/$subdocument,domain=a7lahmsa.com
 ||arabdvd.net/banner/
 ||arabearpiece.com/big.png
+||arabiawin.com^$popup
 ||arabic-developers.com^*/bnr/
 ||arabs-up.com/adv.jpg
 ||arabseed.com/1st/deserts*.js
