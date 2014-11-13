@@ -65,6 +65,7 @@
 ||cdxndirect.com^$third-party
 ||cdxndirectopt.com^$third-party
 ||cdxnopt.com^$third-party
+||citenkomedia.com^$third-party
 ||ck-cdn.com^$third-party
 ||clickmena.com^$third-party
 ||clients-ads.panet.co.il^
