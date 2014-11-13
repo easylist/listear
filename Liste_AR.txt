@@ -36,6 +36,7 @@
 ##a[href^="http://booraq.org"]
 ##a[href^="http://deals.souq.com/"]
 ##a[href^="http://drivercardusa.info/"]
+##a[href^="http://go.redirectingat.com"]
 ##a[href^="http://share.payoneer-affiliates.com/"]
 ##a[href^="http://www.fusebux.com/index.php?r="] > img
 ##a[href^="http://www.probux.com/?rh="] > img
@@ -369,7 +370,7 @@
 ||a7lahmsa.com/vb/open/
 ||actionha.net/stylesheets/takeover-rani/$stylesheet
 ||adf.ly^$popup,domain=nassamat.com
-||adslgate.com/upload/mini-android-banner
+||adslgate.com/upload/*banner
 ||adv.mmnon.com^
 ||aflamex.com/adv2012/
 ||aflamex.com/forum/download-icon.jpg
