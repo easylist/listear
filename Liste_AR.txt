@@ -565,6 +565,7 @@
 ||egypt.com/gui/images/banner.gif
 ||egyptwindow.net/Uploadedimage/dar-elbenaagdeed.gif
 ||egyptwindow.net/Uploadedimage/ren2t.gif
+||egyrace.com^$popup,domain=ya3ale.com
 ||egyup.com/adv.
 ||egyup.com/popup.js
 ||egyup.com^*/banner
@@ -592,6 +593,8 @@
 ||elmihwar.com^*/banners/
 ||elmokhalestv.com/banner_images/
 ||elraaed.com^*/banners/
+||elso9.biz/$subdocument,domain=ya3ale.com
+||elso9.com/$subdocument,domain=ya3ale.com
 ||emaratalyoum.com^*/banners/
 ||eqla3.com/adv3/
 ||eqla3.com/if/code*.htm
@@ -630,6 +633,7 @@
 ||glwan.com/adv/
 ||goo.gl^$popup,domain=abotlal.com|arabseed.com|mazika2day.com
 ||goo.gl^$subdocument,domain=lmseh.com
+||google.com/url?^$popup,domain=ya3ale.com
 ||googleusercontent.com^*/mastercard.gif$domain=myalge.net
 ||googlna.com^*/bnar.swf
 ||gornalak.com/alexa.gif
@@ -883,6 +887,7 @@
 ||xdahk.bihax.com^$popup,domain=bihax.com
 ||xtratube.net/player/*/codes.html
 ||y4yy.com/la3bty.gif
+||ya3ale.com/aerowindow/
 ||yakamar.com/vb/open.js
 ||yalladrama.tv/js.php
 ||yalladrama.tv/player/Download-icon.gif
@@ -1149,6 +1154,7 @@ almosafr.com##a[href^="http://www.booking.com/index.html?aid="]
 lakii.com##a[href^="http://www.deraah.com.sa/default.aspx?"]
 djelfa.info##a[href^="http://www.djelfa.info/ar/click/"]
 sedty.com##a[href^="http://www.drsrv.com/adv/"]
+ya3ale.com##a[href^="http://www.google.com/url?"]
 almosafr.com##a[href^="http://www.hotelscombined.com/?a_aid="]
 abotlal.com##a[href^="http://www.izhra.com/?utm_source="]
 maroc-quran.com##a[href^="http://www.maroc-quran.com/vb/bnnr.php?"]
