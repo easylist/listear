@@ -646,6 +646,7 @@
 ||hakchouf.net/image%20site/aff.jpg
 ||hakchouf.net/images/Banner3.png
 ||hawanaajd.com/img/b/$image
+||hi10.net^$popup,domain=arablionz.com
 ||hibapress.com/Hanya90.jpg
 ||hibasport.com/pubip/
 ||hoolmiz.com/tvd/
