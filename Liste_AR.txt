@@ -23,6 +23,7 @@
 !
 !----------------------- Éléments génériques -----------------!
 ###pub-730x90
+##.adv-header
 ##.ban-728
 ##.inside_adv_section
 ##.pub-730x90
@@ -845,6 +846,7 @@
 ||servimg.com/u/f42/16/22/48/64/34637510.gif
 ||sfari-s.com^$subdocument,domain=r-khleeg.net
 ||shatelarab.com^*/banners/
+||shattalarab.net/*/images/avd.png
 ||shofonline.org/megapop.js
 ||site.elkhabar.com^
 ||skauu.com^$subdocument,domain=3mri-qtr.com
