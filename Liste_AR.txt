@@ -320,6 +320,7 @@
 ||xuscacamusca.se/js/adsj.js
 ||yellowpages.com.ps/search_bricks/ps_search_bricks_300X130.php
 ||ymoviez.com/yallamoviez.js
+||yourjavascript.com/16635201220/add-url.js
 ||yourjavascript.com^*/pp-kora.js
 ||z4ar.com/banner/bsh.gif
 ||zimabdk.com/uploads/13739105611.gif
@@ -1259,6 +1260,9 @@ arbface.co##table[width="800"][height="200"][bgcolor="#FFFFCC"]
 7hob.com##td[style="border:2px #EA8336 dotted ; width:336px;height:280px;"]
 forums.7hob.com##td[style="border:2px #EA8610 dotted ; width:750px;height:280px;"]
 traidnt.net##td[width="160px"]
+! Anti-Adblock
+! Attention webmasters : https://easylist.adblockplus.org/blog/2013/05/10/anti-adblock-guide-for-site-admins
+@@||coolkora.com^$elemhide
 !
 !----------------------- Exceptions -----------------------!
 !
