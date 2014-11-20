@@ -1261,7 +1261,6 @@ arbface.co##table[width="800"][height="200"][bgcolor="#FFFFCC"]
 forums.7hob.com##td[style="border:2px #EA8610 dotted ; width:750px;height:280px;"]
 traidnt.net##td[width="160px"]
 ! Anti-Adblock
-! Attention webmasters : https://easylist.adblockplus.org/blog/2013/05/10/anti-adblock-guide-for-site-admins
 @@||coolkora.com^$elemhide
 !
 !----------------------- Exceptions -----------------------!
