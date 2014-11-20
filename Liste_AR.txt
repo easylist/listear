@@ -738,6 +738,7 @@
 ||misryh.com/open.js
 ||misryh.com/open/
 ||mob4me.com/adv/
+||mobihall.com/data/adv/
 ||mobtada.com/files/banners_days/
 ||montadaphp.net/e3lan.png
 ||montadaphp.net/hamada_banner.png
