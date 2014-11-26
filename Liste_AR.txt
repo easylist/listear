@@ -225,6 +225,7 @@
 ||islamiy.com^$subdocument,domain=wadilarab.com
 ||jazora.com/banner/
 ||jo-sharing.com^*/bnnr.
+||jscsportlive.com/bzaf.php
 ||jscsportlive.com/bzf.php
 ||kalemaro.com/open*.js
 ||karizmo.net/vb/karix.gif
