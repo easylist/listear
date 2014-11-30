@@ -101,6 +101,7 @@
 ||trafficrevmaster.com^$third-party
 ||vuiads.org^$third-party
 ||zenoviaexchange.com^$third-party
+||zwaar.net^$popup,third-party
 ||zwaar.net^$third-party
 !
 !----------------------- Publicités tierces ----------------------!
