@@ -63,6 +63,7 @@
 ||ar-ads.com^$third-party
 ||ar-ads.net^$third-party
 ||arab-ads.com^$third-party
+||ato.mx^$third-party
 ||awsclic.com^$third-party
 ||booraq.org^$third-party
 ||bursttraffic.net^$third-party
@@ -292,6 +293,8 @@
 ||saliny.com/bnr/
 ||satarabia.net/v2/images/big_ar_banner.jpg
 ||servimg.com/*/5souq_10.gif
+||servimg.com/u/f30/15/50/53/07/0802.jpg
+||servimg.com/u/f30/15/50/53/07/0879.jpg
 ||servimg.com/u/f65/11/55/73/09/downlo10.gif
 ||shbkat.com/adv/
 ||shnat.net/vb/images/14.jpg
