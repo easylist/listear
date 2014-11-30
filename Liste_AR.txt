@@ -37,7 +37,6 @@
 ##a[href^="ads.php?id="]
 ##a[href^="http://adserver.adtech.de/?adlink|"]
 ##a[href^="http://booraq.org"]
-##a[href^="http://deals.souq.com/"]
 ##a[href^="http://drivercardusa.info/"]
 ##a[href^="http://go.redirectingat.com"]
 ##a[href^="http://share.payoneer-affiliates.com/"]
@@ -452,6 +451,7 @@
 ||alwatannews.net/Images/*-660x90-
 ||amalh.net/images/alberekat2.gif
 ||amalh.net/images/shalwi3.gif
+||amazonaws.com/fl/KSA-Footer/JSFiles/leader.js
 ||annoncesmall.com^$popup,domain=awwah.com
 ||aqarbook.com^$popup,domain=mothhelah.com
 ||ar-wp.com/forums-archive/images/bn1.
@@ -1262,6 +1262,7 @@ barqaluae.com##table[style="border:\9 2px solid #ffffff; border-collapse: collap
 al-zin.com##table[style="width: 728px; height: 90px"]
 se-te.com##table[width="70%"][style="border-collapse: collapse"]
 arbface.co##table[width="800"][height="200"][bgcolor="#FFFFCC"]
+adslgate.com##td[style="border: 1px solid #3878FA; border-top: 0px;background:#fafafa;"]
 7hob.com##td[style="border:2px #EA8336 dotted ; width:336px;height:280px;"]
 forums.7hob.com##td[style="border:2px #EA8610 dotted ; width:750px;height:280px;"]
 traidnt.net##td[width="160px"]
