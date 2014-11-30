@@ -503,6 +503,7 @@
 ||aswat-elchamal.com/ar/pub/
 ||azyya.com^$popup,domain=beautymaroc.com
 ||bahrain2day.com/adv/
+||banotacool.net^$popup,third-party
 ||barqaluae.com/vb/last-d/2.gif
 ||barqaluae.com/vb/last-d/3.gif
 ||barqaluae.com/vb/me/2.gif
