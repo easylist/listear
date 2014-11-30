@@ -125,6 +125,7 @@
 ||agarcom.com/up/uploads/1375263039741.gif
 ||al-ghla.net/vb/$subdocument,domain=a7lahmsa.com
 ||al3abcooking.com/al3abcooking.gif
+||alal3ab.net^$popup,third-party
 ||aldam3h.com/vb/$subdocument,domain=s-ajfan.com
 ||aldlall.com/aldlall.gif
 ||aleqt.com/s/new/HP_
