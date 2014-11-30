@@ -48,6 +48,7 @@
 !----------------------- Annonceurs -----------------------!
 !
 ||1stads.net^$third-party
+||acads.net^$third-party
 ||acdcads.com^$third-party
 ||adaraby.com^$third-party
 ||adintop.com^$third-party
