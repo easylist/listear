@@ -23,6 +23,7 @@
 !
 !----------------------- Éléments génériques -----------------!
 ###pub-730x90
+##.ads_box_home_box
 ##.adv-header
 ##.ban-728
 ##.inside_adv_section
