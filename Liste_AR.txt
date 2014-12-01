@@ -291,6 +291,7 @@
 ||rsbfoot.com/annonce/
 ||s-ajfan.com/vb/$subdocument,domain=a7lahmsa.com
 ||saliny.com/bnr/
+||samaup.com/uploads/1416251268231.jpg
 ||satarabia.net/v2/images/big_ar_banner.jpg
 ||servimg.com/*/5souq_10.gif
 ||servimg.com/u/f30/15/50/53/07/0802.jpg
@@ -316,6 +317,7 @@
 ||tvquran.com/banr/
 ||up700.net/affiliates/
 ||upxmedia.com/$subdocument,domain=shofonline.net
+||vb.zi-m.com^$popup,domain=sh-arab.com
 ||videobam.com/this-pays-for-bandwidth/
 ||vip600.com/aaa/
 ||wadize2ab.com^$subdocument,domain=a7lahmsa.com
@@ -694,6 +696,7 @@
 ||kazaroza.net^$popup,domain=arablionz.com
 ||khaleejcal.com^*/banners/
 ||kleeja.com/static/images/e3/
+||kora.me/$subdocument,domain=zi-m.com
 ||kora.me^$subdocument,domain=vb.zi-m.com
 ||korabia.com/Content/img/Cocacola.jpg
 ||ktaby.com/adv_ktaby/
@@ -912,6 +915,9 @@
 ||youm7.com/cairodar/index2.html
 ||youtube.com/watch?v=88eJwlVi898$popup,domain=alrealclub.com
 ||zaiocity.net^*/zaiocitypub/
+||zi-m.com/uploads/1416339632941.png
+||zi-m.com/uploads/1417362976041.png
+||zi-m.info/$subdocument,domain=zi-m.com
 !
 !----------------------- Éléments -----------------------!
 !
