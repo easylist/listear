@@ -1035,6 +1035,7 @@ linkat-online.com##.adss_left
 ashwagi.com,fll2.com,mobdi3ine.net,shofha.com,swarih.com,y4yy.com,yallabina.com##.adv
 kalemaro.com##.adv2
 n4hr.com##.advactar
+mp3quran.net##.advertising
 gololy.com##.advrtising-colum
 roooo3.com##.advs
 arabhardware.net##.avd_display_block
