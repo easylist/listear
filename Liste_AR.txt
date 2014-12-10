@@ -178,6 +178,7 @@
 ||cs-proton.tv/images/banner-*.
 ||ctn-abbas.com/*_ads.
 ||d3oyytf0n6db9a.cloudfront.net^
+||daralakhbar.com/widgetgen/$third-party
 ||darendeal.com/widgets/recommendation_box?
 ||diwanee.net/?ref=
 ||dohaup.com/up/2010-05-07/dohaup_206097194.gif
@@ -1077,6 +1078,7 @@ bramj.co,qwled.com##.headerbanner
 filgoal.com##.inner_leaderboard
 mbc.net##.killerbanner
 n4hr.com##.ladv
+arabia.com##.leaderBoard
 masrawy.com##.leaderbg
 ounousa.com,z4ar.com##.leaderboard
 filbalad.com##.leaderbord
