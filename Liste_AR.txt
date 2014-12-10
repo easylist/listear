@@ -144,6 +144,7 @@
 ||amalh.net/images/amalh2.jpg
 ||amalh.net/images/monjz.gif
 ||amazonaws.com/*/KSA-Footer/images_leader_souq/
+||amazonaws.com/email/fatakat/
 ||amazonaws.com/irgames/bnrs/
 ||anbagate.com/adv/
 ||anota-des.com/vb/$subdocument,domain=a7lahmsa.com
@@ -622,6 +623,7 @@
 ||farep.org/styles/helion/espace1.jpg
 ||farep.org/styles/helion/pener-2.png
 ||fatafeeet.com^$popup,domain=egyptladies.net
+||fatakat.com/ads/
 ||fbrka.net/open*.js
 ||fbrka.net/style/banner72890.gif
 ||felmedan.com/images/banners/
@@ -934,6 +936,7 @@ arabnet5.com###GoogleDivUnderNews
 ounousa.com###LeftBannerContainer
 jeddahbikers.com###Main_MPU
 ounousa.com###TopBanner
+fatakat.com###ad1
 mbc.net###adSlot-inPage-300x250-left
 agarcom.com,s-oman.net###ad_global_below_navbar
 echoroukonline.com###add
