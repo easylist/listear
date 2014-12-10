@@ -18,6 +18,7 @@
 /ads_90_728.
 /advStatLib.js
 /advStatSettings.js
+/antiadblockmsg.
 /ar/ads/*
 /ara/ads/*
 !
