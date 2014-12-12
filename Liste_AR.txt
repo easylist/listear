@@ -581,6 +581,7 @@
 ||educ40.net/hotcourses.swf
 ||educ40.net/images/hotcourses.gif
 ||educ40.net/images/kotobdz.gif
+||egfire.com/O.js
 ||egy2day.com^$popup,domain=mazika2day.com
 ||egynn.net/media/Vodafone_wap_push_banner.gif
 ||egypt.com/gui/images/banner.gif
