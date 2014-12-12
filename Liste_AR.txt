@@ -28,6 +28,7 @@
 ##.adv-header
 ##.ban-728
 ##.inside_adv_section
+##.leftSideAds
 ##.pub-730x90
 ##.sidbar-ad1
 ##[href*="ad2games.com/"]
