@@ -12,6 +12,7 @@
 ! ou par e-mail : liste.ar.adblock at gmail point com
 !
 !----------------------- Filtres génériques -----------------!
+##.adv_cont
 .eg/ads/
 .ma/ads/
 /ads468x60.
@@ -1031,7 +1032,7 @@ souq.com##.ad1
 souq.com##.ad2
 egy4up.net,gornalak.com##.ad_left
 egy4up.net,gornalak.com##.ad_right
-add-anime.net,elmedan.com,fll2.com,igli5.com,jeddahbikers.com,l3bh.com,mc-doualiya.com,onothty.net,q8yatnews.com,skynewsarabia.com,souqa3mal.com##.ads
+add-anime.net,cairodar.com,elmedan.com,fll2.com,igli5.com,jeddahbikers.com,l3bh.com,mc-doualiya.com,onothty.net,q8yatnews.com,skynewsarabia.com,souqa3mal.com##.ads
 rjeem.com##.ads1
 toptwitt.com##.ads2
 elraaed.com##.ads_1
