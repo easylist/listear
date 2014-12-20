@@ -68,6 +68,7 @@
 ||arab-ads.com^$third-party
 ||ato.mx^$third-party
 ||awsclic.com^$third-party
+||bntags.com^$third-party
 ||booraq.org^$third-party
 ||bursttraffic.net^$third-party
 ||cdxndirect.com^$third-party
