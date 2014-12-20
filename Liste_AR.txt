@@ -63,6 +63,7 @@
 ||adtracking.asia^$third-party
 ||adzzone.com^$third-party
 ||aknod.com^$third-party
+||al3ab2014.com^$popup,third-party
 ||ar-ads.com^$third-party
 ||ar-ads.net^$third-party
 ||arab-ads.com^$third-party
