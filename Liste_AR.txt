@@ -393,6 +393,7 @@
 ||adf.ly^$popup,domain=nassamat.com
 ||adslgate.com/upload/*banner
 ||adv.mmnon.com^
+||aff.kooora.com/images/aff_
 ||aflamex.com/adv2012/
 ||aflamex.com/forum/download-icon.jpg
 ||aflamex.com/forum/open/
