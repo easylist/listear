@@ -959,6 +959,7 @@ masrawy.com###hleader
 masrawy.com###hswcase
 iq-vb.net###layer1
 contactcars.com###leaderBoard
+7s5.net###light[style="position: absolute; left: 9px; top: 31px; display: block;"]
 alwatannews.net###lnkMainAdver3
 baitkebeer.com###makingdifferentpopup
 contactcars.com###mediumRectangle
@@ -1037,6 +1038,7 @@ arabsharing.com,mediamasr.tv,panorama-istanbul.org##.banners
 marocemploi.net##.bg_link
 bokra.net##.bigStrip
 wmuae.net##.binsaad
+7s5.net##.black_overlay[style="display: block;"]
 ar-wp.com##.box
 inewsarabia.com##.box728
 bokra.net##.catsBanner
