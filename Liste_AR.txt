@@ -89,6 +89,7 @@
 ||mochiads.com^$third-party
 ||nile-ads.com^$third-party
 ||oneclickad.net^$third-party
+||palfad.com^$third-party
 ||poparb.com^$third-party
 ||safeadnetwork.net^$third-party
 ||sarmady-ads.com^$third-party
