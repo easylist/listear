@@ -385,6 +385,7 @@
 ||aflamex.com/adv2012/
 ||aflamex.com/forum/download-icon.jpg
 ||aflamex.com/forum/open/
+||aflamonline.info/ads*.
 ||agadir24.info/flash.swf
 ||agadir24.info/khir.swf
 ||agadir24.info/minipain02.swf
