@@ -43,7 +43,6 @@
 ##a[href*="dubizzle.com/ar/?utm_source="]
 ##a[href^="ads.php?id="]
 ##a[href^="http://drivercardusa.info/"]
-##a[href^="http://go.redirectingat.com"]
 ##a[href^="http://share.payoneer-affiliates.com/"]
 ##a[href^="http://www.fusebux.com/index.php?r="] > img
 ##a[href^="http://www.probux.com/?rh="] > img
@@ -387,6 +386,7 @@
 ||actionha.net/stylesheets/takeover-rani/$stylesheet
 ||adf.ly^$popup,domain=nassamat.com
 ||adslgate.com/upload/*banner
+||adslgate.com/upload/boxhop33.gif
 ||adv.mmnon.com^
 ||aff.kooora.com/images/aff_
 ||aflamex.com/adv2012/
@@ -1215,6 +1215,7 @@ arabe-media.com##iframe[width="300"][height="250"]
 el3b.sukrbnat.com##img[alt="M5znUpload"]
 bh-gn.com##img[alt="ضع إعلانك هنا"]
 algeriamax.com##img[alt="مساحة إعلانية"]
+adslgate.com##img[height="90"][width="728"]
 lmseh.com##img[src^="http://www.up.lmseh.com/do.php?"]
 bramjnet.com##img[style="WIDTH: 468px; HEIGHT: 60px"][title*="الإعلان "]
 teckni-sat.com##img[style="height: 90px; width: 728px; border-width: 0px"]
