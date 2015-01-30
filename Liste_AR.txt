@@ -112,12 +112,14 @@
 ||0zz0.com/2012/07/28/21/250712642.gif
 ||3nwd.com/uploads/3nwd-1367442631216.gif
 ||3rabgamer.net^*/banner/
+||3rbup.com^*/direct.php?s=5670b66b3011a18f&/zi-m1.gif
 ||3rby.net/$popup,domain=s-ajfan.com
 ||3support.com/wp-content/uploads/*/support.gif
 ||4040.cc/images/fakhr.gif
 ||44aa.com/image/nesba.swf
 ||46.151.209.69^
 ||4arabsex.net/Banner1.jpg
+||4uploading.com/bnr/
 ||5bre.com/images/5bre.gif
 ||5jle.com^$popup,domain=maas1.com
 ||5short.com/short/autokey.php
@@ -298,6 +300,7 @@
 ||servimg.com/u/f30/15/50/53/07/0802.jpg
 ||servimg.com/u/f30/15/50/53/07/0879.jpg
 ||servimg.com/u/f65/11/55/73/09/downlo10.gif
+||sh-arab.com^$popup,domain=zi-m.com
 ||shnat.net/vb/images/14.jpg
 ||shnat.net/vb/images/bag.gif
 ||shofonline.org/open*.js
@@ -317,7 +320,6 @@
 ||tvquran.com/banr/
 ||up700.net/affiliates/
 ||upxmedia.com/$subdocument,domain=shofonline.net
-||vb.zi-m.com^$popup,domain=sh-arab.com
 ||videobam.com/this-pays-for-bandwidth/
 ||vip600.com/aaa/
 ||wadize2ab.com^$subdocument,domain=a7lahmsa.com
@@ -333,6 +335,9 @@
 ||yourjavascript.com/16635201220/add-url.js
 ||yourjavascript.com^*/pp-kora.js
 ||z4ar.com/banner/bsh.gif
+||zi-m.com/uploads/1421349783282.jpg
+||zi-m.com^$popup,domain=sh-arab.com
+||zi-m.info^$popup,domain=zi-m.com
 ||zimabdk.com/uploads/13739105611.gif
 ||zimabdk.com/uploads/13739970081.png
 ||zimabdk.com/uploads/1385612495381.gif
@@ -1155,6 +1160,7 @@ retag4.com##a[href^="bnnr.php?"]
 mothhelah.com##a[href^="code,banner,"]
 arabs-up.com##a[href^="go.php?"]
 syrcafe.com##a[href^="http://24caratksa.com/"]
+zi-m.com##a[href^="http://af.gamepower7.com/"]
 almesryoon.com,tvegy.com##a[href^="http://ar.hao123.com/?tn="]
 arbcinema.com##a[href^="http://bit.ly/"]
 ouamer.com##a[href^="http://eepurl.com/"]
