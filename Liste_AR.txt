@@ -339,7 +339,6 @@
 ||z4ar.com/banner/bsh.gif
 ||zi-m.com/uploads/1421349783282.jpg
 ||zi-m.com^$popup,domain=sh-arab.com
-||zi-m.info^$popup,domain=zi-m.com
 ||zimabdk.com/uploads/13739105611.gif
 ||zimabdk.com/uploads/13739970081.png
 ||zimabdk.com/uploads/1385612495381.gif
@@ -907,6 +906,7 @@
 ||uob-bh.com/uploadfiles/bahraindir.gif
 ||uskarmawi.com^$subdocument,domain=asalahpal.com
 ||vb.zi-m.com/aerowindow/
+||vb.zi-m.com/js.php
 ||vbdar.com^$popup,domain=darseries.com
 ||vip4soft.com/draw.swf
 ||vip4soft.com/images/baneers/
