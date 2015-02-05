@@ -119,6 +119,7 @@
 ||44aa.com/image/nesba.swf
 ||46.151.209.69^
 ||4arabsex.net/Banner1.jpg
+||4halal.co/*.htm$subdocument,domain=4halal.co|4helal.co
 ||4uploading.com/bnr/
 ||5bre.com/images/5bre.gif
 ||5jle.com^$popup,domain=maas1.com
@@ -128,6 +129,7 @@
 ||a7la-games.com/b/
 ||a7lahmsa.com/vb/$subdocument,domain=s-ajfan.com
 ||ads-bubble.snseonetwork.com/zone?
+||af.gamepower7.com/*?aid=$popup,third-party
 ||agarcom.com/up/uploads/1375263039741.gif
 ||al-ghla.net/vb/$subdocument,domain=a7lahmsa.com
 ||al3ab2014.com^$popup,third-party
@@ -370,6 +372,7 @@
 ||3roos.com/files/ups/
 ||3roos.com/images/i3lan.gif
 ||4algeria.com^*/al-e3lnat/
+||4helal.co/images/bnr/
 ||5jle.com^$subdocument,domain=liilas.com
 ||6ba5.com/Violet_hexll/images/hexll_19.png
 ||6ef.com/ee/*-160x300.
