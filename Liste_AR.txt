@@ -582,6 +582,7 @@
 ||e-mailaat.com/banarat/
 ||e3lanat.rofof.com^
 ||eaglepro.net^$popup,domain=bramjnet.com
+||easycima.com^$popup,domain=el7l.co
 ||echoroukonline.com/img/aswak2.swf
 ||echoroukonline.com/sponsors/
 ||educ40.net/hotcourses.swf
