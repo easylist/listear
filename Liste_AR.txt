@@ -105,6 +105,7 @@
 ||shabakti.com^$third-party
 ||trafficrevmaster.com^$third-party
 ||vuiads.org^$third-party
+||wafmedia2.com^$third-party
 ||zwaar.net^$popup,third-party
 ||zwaar.net^$third-party
 !
