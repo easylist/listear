@@ -83,6 +83,7 @@
 ||cpxmasters.com^$third-party
 ||edomz.com^$third-party
 ||emarketing.net.sa^$third-party
+||exarab.com^$third-party
 ||gateads.co^$third-party
 ||geniusinstaller.com^$third-party
 ||hibamedia.com^$third-party
@@ -235,6 +236,7 @@
 ||imageshack.us/img687/748/83145832.jpg
 ||imageshack.us/img831/6584/69953352.jpg
 ||imageshack.us/img856/4224/64119518.jpg
+||imgur.com/9VzIEw9.gif
 ||islamiy.com^$subdocument,domain=wadilarab.com
 ||jazora.com/banner/
 ||jo-sharing.com^*/bnnr.
@@ -324,6 +326,9 @@
 ||tvgate.tv/tvgate/campaign/
 ||tvmasrnet-javafiles.googlecode.com/files/Ads
 ||tvquran.com/banr/
+||up-00.com/2015-02/1424470761543.jpg
+||up-00.com/2015-02/1424470761776.jpg
+||up-00.com/2015-02/1424472081151.jpg
 ||up700.net/affiliates/
 ||upxmedia.com/$subdocument,domain=shofonline.net
 ||videobam.com/this-pays-for-bandwidth/
@@ -333,6 +338,7 @@
 ||wald-aden.com/mghrdon.gif
 ||wdbook.net^$subdocument,domain=wadilarab.com
 ||web4africa.net/banners/
+||widgipedia.com/widgets/$third-party
 ||wirwaar.com/$subdocument,domain=s-ajfan.com
 ||xatech.com^
 ||xuscacamusca.se/js/adsj.js
@@ -1242,7 +1248,8 @@ arabe-media.com##iframe[width="300"][height="250"]
 el3b.sukrbnat.com##img[alt="M5znUpload"]
 bh-gn.com##img[alt="ضع إعلانك هنا"]
 algeriamax.com##img[alt="مساحة إعلانية"]
-adslgate.com##img[height="90"][width="728"]
+wed-alqlop.com##img[height="600"][width="160"]
+adslgate.com,wed-alqlop.com##img[height="90"][width="728"]
 lmseh.com##img[src^="http://www.up.lmseh.com/do.php?"]
 bramjnet.com##img[style="WIDTH: 468px; HEIGHT: 60px"][title*="الإعلان "]
 teckni-sat.com##img[style="height: 90px; width: 728px; border-width: 0px"]
