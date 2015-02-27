@@ -35,6 +35,7 @@
 ##.large-ad-center-close
 ##.leftSideAds
 ##.ltas_adspot
+##.pm-ad-zone
 ##.pub-730x90
 ##.sidbar-ad1
 ##.yourcolor-ads
@@ -190,6 +191,7 @@
 ||darendeal.com/widgets/recommendation_box?
 ||diwanee.net/?ref=
 ||dohaup.com/up/2010-05-07/dohaup_206097194.gif
+||dramacafe.tv/Adblock_
 ||dubizzle.com^*/?utm_source=$popup
 ||dzautos.com/data/dzauto.swf
 ||egyup.com/300.png
@@ -1312,6 +1314,7 @@ traidnt.net##td[width="160px"]
 !
 @@||ads.hsoub.com/$domain=hsoub.com
 @@||arabe-media.com/advertisement.js
+@@||arabhardware.net^$popup,domain=facebook.com
 @@||bawazir-tech.com/banners/
 @@||betakonline.com/advertisements/securimage/
 @@||echoroukonline.com/banners/half/
