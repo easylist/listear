@@ -353,6 +353,8 @@
 ||yourjavascript.com^*/pp-kora.js
 ||z4ar.com/banner/bsh.gif
 ||zi-m.com/uploads/1421349783282.jpg
+||zi-m.com/uploads/1424183257331.png
+||zi-m.com/uploads/1424438015121.gif
 ||zi-m.com^$popup,domain=sh-arab.com
 ||zimabdk.com/uploads/13739105611.gif
 ||zimabdk.com/uploads/13739970081.png
