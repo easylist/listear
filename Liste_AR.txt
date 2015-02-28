@@ -551,6 +551,7 @@
 ||bentvip.com/up/20120511032813.gif
 ||bit.ly^$popup,domain=arbcinema.com|ultshare.com
 ||blogspot.ae^$popup,domain=cima4u.com
+||blogspot.com/-ZGaEt5qQ2Sw/*/*D8%A7%D8%B4%2B160%2B600.png
 ||blogspot.com^$popup,domain=cima4u.com|el7l.co|el7l.com|mountada.net|uiraqi.com|yallamoviez.com
 ||blogspot.com^*/banusr.jpg$domain=juste4femme.blogspot.com
 ||blogspot.com^*/download_little.jpg$domain=shofonline.net
