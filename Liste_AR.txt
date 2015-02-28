@@ -1323,6 +1323,8 @@ forums.7hob.com##td[style="border:2px #EA8610 dotted ; width:750px;height:280px;
 damasgate.com##td[width="160"]
 traidnt.net##td[width="160px"]
 ! Anti-Adblock
+g9g.com#@##myAd
+xaddad.com#@#.afs_ads
 @@||coolkora.com^$elemhide
 !
 !----------------------- Exceptions -----------------------!
@@ -1338,5 +1340,4 @@ traidnt.net##td[width="160px"]
 !
 !----------------------- Exceptions d'éléments -----------------------!
 !
-g9g.com#@##myAd
 risalaradio.com#@#.ad-cell
