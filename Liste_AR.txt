@@ -101,6 +101,8 @@
 ||oneclickad.net^$third-party
 ||palfad.com^$third-party
 ||poparb.com^$third-party
+||rvfrm2005.com^$popup,third-party
+||rvfrm2005.com^$third-party
 ||safeadnetwork.net^$third-party
 ||sarmady-ads.com^$third-party
 ||sarmady.net^$third-party
@@ -120,6 +122,7 @@
 ||0zz0.com/2012/07/28/21/250712642.gif
 ||3nwd.com/uploads/3nwd-1367442631216.gif
 ||3rabgamer.net^*/banner/
+||3rbup.com/plugins/imageviewer/site/direct.php?s=2d82009cee6b9b33
 ||3rbup.com^*/direct.php?s=5670b66b3011a18f&/zi-m1.gif
 ||3rby.net/$popup,domain=s-ajfan.com
 ||3support.com/wp-content/uploads/*/support.gif
@@ -290,6 +293,7 @@
 ||nadorimg.com/pub/
 ||neargood.com^$popup,third-party
 ||nqashalhob.com/sharing.gif
+||op-arab.net/images/2015/01/04/BYVMon.gif
 ||optionyard.com/l.aspx?
 ||postimg.org/g70xglyjt/banner.png
 ||profvb.com/pub/
@@ -334,6 +338,7 @@
 ||up-00.com/2015-02/1424470761543.jpg
 ||up-00.com/2015-02/1424470761776.jpg
 ||up-00.com/2015-02/1424472081151.jpg
+||up07.net/open*.js
 ||up700.net/affiliates/
 ||upxmedia.com/$subdocument,domain=shofonline.net
 ||videobam.com/this-pays-for-bandwidth/
@@ -1063,7 +1068,7 @@ elraaed.com##.ads_1
 kalemaro.com##.adsance
 arab-eng.org##.adsensarab2
 linkat-online.com##.adss_left
-ashwagi.com,fll2.com,mobdi3ine.net,shofha.com,swarih.com,y4yy.com,yallabina.com##.adv
+ashwagi.com,fll2.com,mobdi3ine.net,op-arab.com,shofha.com,swarih.com,y4yy.com,yallabina.com##.adv
 kalemaro.com##.adv2
 n4hr.com##.advactar
 mp3quran.net##.advertising
