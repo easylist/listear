@@ -20,6 +20,7 @@
 /ar/ads/*
 /ara/ads/*
 /bnr468.
+/cdn-cgi/pe/bag*?
 !
 !----------------------- Éléments génériques -----------------!
 ###custom-ad
@@ -110,6 +111,8 @@
 ||wafmedia2.com^$third-party
 ||zwaar.net^$popup,third-party
 ||zwaar.net^$third-party
+||zwaar.org^$popup,third-party
+||zwaar.org^$third-party
 !
 !----------------------- Publicités tierces ----------------------!
 !
