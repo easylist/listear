@@ -363,6 +363,7 @@
 !
 !----------------------- Sites spécifiques -----------------------!
 !
+|http:$subdocument,third-party,domain=sa.ae
 |http://j.gs^$popup,domain=showsat.org
 ||0sat.net/index/
 ||0zz0.com/e/$image
