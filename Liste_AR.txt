@@ -626,6 +626,7 @@
 ||elbashayer.com/images/forex.jpg
 ||elbashayer.com/images/orientalweavers.jpg
 ||elbashayer.com/newahly100.swf
+||elcinema.com/images/booking-button-homepage.png
 ||eldjoumhouria.dz^*/pub/
 ||elhayatalarabiya.com^*/images/banner.gif
 ||elheddaf.com/data/dzauto.swf
@@ -1113,6 +1114,7 @@ alarab.net##.mbAdImg
 mediamasr.tv##.mediumbanner
 hawaaweb.com##.middle-banner
 ech-chaab.net##.module.mod-line.color-black.deepest
+elcinema.com##.movie-reserve-cinema
 skynewsarabia.com##.mpu
 abotlal.com##.nannr
 rassoulallah.info##.narrow_column
