@@ -1338,6 +1338,7 @@ xaddad.com#@#.afs_ads
 @@||echoroukonline.com/banners/half/
 @@||elhiwarnet.com/images/banners/meteo-hiwar.png
 @@||elmassar-ar.com/ara/ads/logo2010.swf
+@@||xaddad.com/advertisers/$~third-party
 !
 !----------------------- Exceptions d'éléments -----------------------!
 !
