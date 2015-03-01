@@ -111,6 +111,7 @@
 ||trafficrevmaster.com^$third-party
 ||vuiads.org^$third-party
 ||wafmedia2.com^$third-party
+||xaddad.com^$third-party
 ||zwaar.net^$popup,third-party
 ||zwaar.net^$third-party
 ||zwaar.org^$popup,third-party
