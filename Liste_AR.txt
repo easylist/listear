@@ -23,12 +23,14 @@
 /cdn-cgi/pe/bag*?
 !
 !----------------------- Éléments génériques -----------------!
+###advBarMars
 ###custom-ad
 ###pub-730x90
 ##.ads_box_home_box
 ##.adv-header
 ##.adv_cont
 ##.ban-728
+##.cubes-ads
 ##.custom-advert-banner
 ##.custom-advert-banner-frame
 ##.inside_adv_section
@@ -36,6 +38,7 @@
 ##.large-ad-center-close
 ##.leftSideAds
 ##.ltas_adspot
+##.panet-mars-adv-panel
 ##.pm-ad-zone
 ##.pub-730x90
 ##.sidbar-ad1
@@ -829,6 +832,7 @@
 ||othaimmarkets.com/themes/*/BannerRotator.swf?
 ||ouestribune-dz.com/boutons/Pub-louer.swf
 ||panet.co.il/Ext/js/auadsx.js
+||panet.co.il/online/images/links_blocks/
 ||panet.co.il^*/flash_banners/
 ||panorama-istanbul.org/vb/open/
 ||popup.egyup.com^
