@@ -34,6 +34,7 @@
 ##.cubes-ads
 ##.custom-advert-banner
 ##.custom-advert-banner-frame
+##.innerpad
 ##.inside_adv_section
 ##.large-ad-center
 ##.large-ad-center-close
@@ -740,6 +741,9 @@
 ||kazaroza.net^$popup,domain=arablionz.com
 ||khaleejcal.com^*/banners/
 ||kleeja.com/static/images/e3/
+||kora-online.tv/channellist.
+||kora-online.tv/chat.html
+||kora-online.tv/user.html
 ||kora.me/$subdocument,domain=zi-m.com
 ||kora.me^$subdocument,domain=vb.zi-m.com
 ||korabia.com/Content/img/Cocacola.jpg
