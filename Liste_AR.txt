@@ -228,6 +228,9 @@
 ||gamepower7.com/forum/banner.swf
 ||gamezek.com/img.png
 ||geek4arab.net/banner/
+||giclub.tv/index.php?action=*=2350$image
+||giclub.tv/index.php?action=*=2642$image
+||giclub.tv/index.php?action=*=36095$image
 ||gulfbase.com/APopUp.
 ||gulfbase.com/Assets/css/AeroWindow
 ||gulfup.com/2012-06-04/133881477241.gif
