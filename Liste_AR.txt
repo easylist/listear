@@ -20,7 +20,6 @@
 /ar/ads/*
 /ara/ads/*
 /bnr468.
-/cdn-cgi/pe/bag*?
 !
 !----------------------- Éléments génériques -----------------!
 ###advBarMars
