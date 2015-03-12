@@ -1338,7 +1338,7 @@ damasgate.com##td[width="160"]
 traidnt.net##td[width="160px"]
 ! Anti-Adblock
 g9g.com#@##myAd
-online.dramacafe.in,xaddad.com#@#.afs_ads
+dramacafe.tv,online.dramacafe.in,xaddad.com#@#.afs_ads
 @@||coolkora.com^$elemhide
 !
 !----------------------- Exceptions -----------------------!
