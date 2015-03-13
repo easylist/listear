@@ -295,6 +295,7 @@
 ||multiuploaden.com/do.php?img=6603
 ||multiuploaden.com/uploads/13748786571.png
 ||mycar4ever.blogspot.com^$popup,domain=egyptladies.net
+||n4hr.org/up/uploads/n4hr_13408663851.gif
 ||nadorhoy.net/pub/
 ||nadorimg.com/photos/faniabiiiii.gif
 ||nadorimg.com/photos/kabdani.gif
@@ -517,6 +518,7 @@
 ||arablionz.com/left.jpg
 ||arablionz.com/open/
 ||arablionz.com/right.jpg
+||arabmersal.net^$popup,domain=rmoz.cc
 ||arabs-up.com/uploads/12_02_13_13606696151.gif
 ||arabs-up.com/uploads/arabs-up_13510211071.jpg
 ||arabs-up.com/uploads/arabs-up_13510222912.gif
