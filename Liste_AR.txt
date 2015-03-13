@@ -295,6 +295,12 @@
 ||multiuploaden.com/do.php?img=6603
 ||multiuploaden.com/uploads/13748786571.png
 ||mycar4ever.blogspot.com^$popup,domain=egyptladies.net
+||n4hr.com/banr/
+||n4hr.com/ups/uploads/2590fc327b.gif
+||n4hr.com/ups/uploads/546f5f6e30.gif
+||n4hr.com/ups/uploads/9c6fe0ea0b.gif
+||n4hr.com/ups/uploads/de989ca55b.gif
+||n4hr.com/ups/uploads/f4ebe53ef5.gif
 ||n4hr.org/up/uploads/n4hr_13408663851.gif
 ||nadorhoy.net/pub/
 ||nadorimg.com/photos/faniabiiiii.gif
@@ -1212,6 +1218,7 @@ fivesat.net,k1g3.com##a[href="http://www.sharing-sat.com"]
 uiraqi.com##a[href^="/ads.php?"]
 nadorcity.com##a[href^="/ads/"]
 felmedan.com##a[href^="/banners/"]
+n4hr.com##a[href^="/bnnr.php?do="]
 jordanzad.com##a[href^="ad.php?"]
 saidaonline.com##a[href^="advertising.php?"]
 ghnoh.com,l7en.com##a[href^="banner.php?id="]
