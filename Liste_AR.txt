@@ -965,6 +965,8 @@
 ||vbdar.com^$popup,domain=darseries.com
 ||vip4soft.com/draw.swf
 ||vip4soft.com/images/baneers/
+||waraqat.net/*/games-banner.gif
+||waraqat.net/*/thwalel.gif
 ||wiki-net.net/$subdocument,domain=panorama-istanbul.org
 ||xdahk.bihax.com^$popup,domain=bihax.com
 ||xtratube.net/player/*/codes.html
