@@ -42,6 +42,7 @@
 ##.panet-mars-adv-panel
 ##.pm-ad-zone
 ##.pub-730x90
+##.pub980x90
 ##.sidbar-ad1
 ##.yourcolor-ads
 ##[href*="ad2games.com/"]
@@ -1159,7 +1160,7 @@ ounousa.com##.newBanner
 now24.net##.pad5
 chat-alriyadh.com##.paner
 hao123.com##.pr
-europages.ma,menara.ma##.pub
+ennaharonline.com,europages.ma,menara.ma##.pub
 hawaaweb.com##.right-banner
 rassoulallah.info##.right_column
 swalif.net##.sab-adPlace
