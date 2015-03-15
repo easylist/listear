@@ -22,10 +22,19 @@
 /bnr468.
 !
 !----------------------- Éléments génériques -----------------!
+###ads-320x50-I1
+###ads-320x50-I2
+###ads-320x50-I3
+###ads-320x50-I4
+###ads-728x90-I2
+###ads-728x90-I3
+###ads-728x90-I4
+###ads-970x60-I1
 ###advBarMars
 ###custom-ad
 ###pub-730x90
 ##.MobAdsHeader
+##.ads-970x60
 ##.ads_box_home_box
 ##.adv-header
 ##.adv_cont
@@ -1099,6 +1108,7 @@ ashwagi.com,fll2.com,mobdi3ine.net,op-arab.com,shofha.com,swarih.com,y4yy.com,ya
 kalemaro.com##.adv2
 n4hr.com##.advactar
 mp3quran.net##.advertising
+al-jazirah.com##.advr
 gololy.com##.advrtising-colum
 roooo3.com##.advs
 arabhardware.net##.avd_display_block
