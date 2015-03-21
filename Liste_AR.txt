@@ -13,47 +13,15 @@
 !
 !----------------------- Filtres génériques -----------------!
 .ma/ads/
-/ads_90_728.
 /advStatLib.js
 /advStatSettings.js
-/antiadblockmsg.
-/ar/ads/*
-/ara/ads/*
-/bnr468.
 !
 !----------------------- Éléments génériques -----------------!
-###ads-320x50-I1
-###ads-320x50-I2
-###ads-320x50-I3
-###ads-320x50-I4
-###ads-728x90-I2
-###ads-728x90-I3
-###ads-728x90-I4
-###ads-970x60-I1
 ###advBarMars
-###custom-ad
-###pub-730x90
-##.MobAdsHeader
-##.ads-970x60
-##.ads_box_home_box
-##.adv-header
-##.adv_cont
 ##.ban-728
 ##.cubes-ads
 ##.custom-advert-banner
 ##.custom-advert-banner-frame
-##.innerpad
-##.inside_adv_section
-##.large-ad-center
-##.large-ad-center-close
-##.leftSideAds
-##.ltas_adspot
-##.panet-mars-adv-panel
-##.pm-ad-zone
-##.pub-730x90
-##.pub980x90
-##.sidbar-ad1
-##.yourcolor-ads
 ##[href*="ad2games.com/"]
 ##a[href*="/ads/ad_link.php?"]
 ##a[href*="adintop.com/outgoing/click.php?"]
@@ -393,7 +361,6 @@
 !
 !----------------------- Sites spécifiques -----------------------!
 !
-|http:$subdocument,third-party,domain=sa.ae
 |http://j.gs^$popup,domain=showsat.org
 |http://sa.ae^$popup,domain=bacdz.org
 ||0sat.net/index/
