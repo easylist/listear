@@ -731,6 +731,7 @@
 ||kashta.net^$subdocument,domain=syrcafe.net
 ||kazaroza.net^$popup,domain=arablionz.com
 ||khaleejcal.com^*/banners/
+||kitabatnews.com/images/banners/
 ||kleeja.com/static/images/e3/
 ||kora-online.tv/channellist.
 ||kora-online.tv/chat.html
