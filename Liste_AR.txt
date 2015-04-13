@@ -24,6 +24,7 @@
 ##.custom-advert-banner
 ##.custom-advert-banner-frame
 ##[href*="ad2games.com/"]
+##a[href*=".hao123.com/?tn="] > img
 ##a[href*="/ads/ad_link.php?"]
 ##a[href*="adintop.com/outgoing/click.php?"]
 ##a[href*="booraq.org"]
