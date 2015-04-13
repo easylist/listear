@@ -793,6 +793,8 @@
 ||mbc.net/dms/analytics-and-banners/
 ||melody.ma/images/300/
 ||melody.ma/images/500/
+||melody4arab.com/banner/
+||melody4arab.com/images/300X50.gif
 ||mexat.com/code/
 ||microchoix.ma/banniers/
 ||mirecal-d.com/d700.gif
