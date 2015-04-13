@@ -894,6 +894,7 @@
 ||saidaonline.com/gifs/Shubadak-Baner-600x200.jpg
 ||sat-vb.com/server.gif
 ||satna.tv/styles/*/satna-promo.gif
+||satna.tv/styles/brivium/hydrogen/xenforo/satna-promo
 ||sawt-alahrar.net/ara/themes/*/img/alimisurata3.gif
 ||sawt-alahrar.net/ara/themes/*/img/ichhar.jpg
 ||sawt-alahrar.net^*/banners/pub
