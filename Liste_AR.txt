@@ -117,7 +117,6 @@
 ||zwaar.net^$popup,third-party
 ||zwaar.net^$third-party
 ||zwaar.org^$popup,third-party
-||zwaar.org^$third-party
 !
 !----------------------- Publicités tierces ----------------------!
 !
@@ -356,7 +355,6 @@
 ||up07.net/open*.js
 ||up700.net/affiliates/
 ||upxmedia.com/$subdocument,domain=shofonline.net
-||videobam.com/this-pays-for-bandwidth/
 ||vip600.com/aaa/
 ||wadize2ab.com^$subdocument,domain=a7lahmsa.com
 ||waffarnalk.com/widget/
@@ -1277,7 +1275,6 @@ jordanzad.com##div[style="width:306px;height:63px;"]
 jordanzad.com##div[style="width:600px;height:80px;"]
 5foq.com##div[style="width:680px;height:180px;float:left;margin-left:5px;margin-top:25px"]
 echoroukonline.com##div[style="width:728px;height:90px;margin: 10px auto;"]
-showsport-tv.com##div[style^="height: 250px; left: 50%; margin-left: -150px; margin-top: -45px; position: absolute; top: 20%;"]
 darseries.com##div[style^="width:325px;height:275px;"]
 arabnet5.com##div[style^="width:728px; height:90px;"]
 ##div[style^="z-index: 99999; position: fixed; width: 100%; background-color: rgb(251, 236, 173);"]
