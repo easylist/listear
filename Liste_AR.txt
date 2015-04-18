@@ -200,6 +200,7 @@
 ||dramacafe.tv/Adblock_
 ||dubizzle.com^*/?utm_source=$popup
 ||dzautos.com/data/dzauto.swf
+||educdz.com/*/1544484_770455529632171_2442609755761839667_n.jpg
 ||egyup.com/300.png
 ||egyup.com/banner-990x90.png
 ||el-balad.com/balad.js
@@ -1033,6 +1034,7 @@ iq-vb.net###layer1
 contactcars.com###leaderBoard
 7s5.net###light[style="position: absolute; left: 9px; top: 31px; display: block;"]
 alwatannews.net###lnkMainAdver3
+educdz.com###main-header-content
 baitkebeer.com###makingdifferentpopup
 contactcars.com###mediumRectangle
 techarabi.com###mpu-in-post
