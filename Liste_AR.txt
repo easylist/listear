@@ -1133,6 +1133,7 @@ firstlady99.com##.forumline td.row1 > span > a > img
 filfan.com##.gads_MR
 almasryalyoum.com##.gam-holder
 moheet.com##.gplus
+star7arab.com##.grid[style="width: 770px; height: 69px;"]
 graaam.com##.haw
 bramj.co,qwled.com##.headerbanner
 msryh.com##.indexbnrleft
