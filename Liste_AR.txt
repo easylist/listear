@@ -1185,6 +1185,7 @@ almesryoon.com##.topad
 bokra.net##.tower
 bokra.net##.towerBanner
 bokra.net##.twoBanners
+dzjobs.net##.wiki
 arabia.com##.ykaleader
 dreambox-tunisie.com##.yourcolor-main
 2flam.net##A[href="http://shwqna.at.ua/ADs.htm"]
