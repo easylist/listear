@@ -791,6 +791,7 @@
 ||marocannonces.com^*/bannier_
 ||masrawysat.com/img/505.gif
 ||masrawysat.com/img/astra.gif
+||masrawysat.com/img/Eaj06zD.gif
 ||masrawysat.com/img/LNB.gif
 ||masrawysat.com/img/omix.gif
 ||masrawysat.com/vb/images/alsharingbanner.gif
