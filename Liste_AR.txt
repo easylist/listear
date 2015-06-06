@@ -74,6 +74,7 @@
 ||ar-ads.com^$third-party
 ||ar-ads.net^$third-party
 ||arab-ads.com^$third-party
+||arabysouq.com^$popup,third-party
 ||awsclic.com^$third-party
 ||bntags.com^$third-party
 ||booraq.org^$third-party
