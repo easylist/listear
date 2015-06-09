@@ -22,6 +22,7 @@
 .net/e3lan.
 .net/e3lan/
 /ads-bubble.
+/adv_forum-
 /advStatLib.js
 /advStatSettings.js
 /blog/ads_
