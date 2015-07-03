@@ -26,6 +26,12 @@
 /advStatLib.js
 /advStatSettings.js
 /blog/ads_
+/cdn-cgi/pe/bag2?*exponential.com
+/cdn-cgi/pe/bag2?*mobisla.com
+/cdn-cgi/pe/bag2?*oclasrv.com
+/cdn-cgi/pe/bag2?*padsdel.com
+/cdn-cgi/pe/bag2?*padstm.com
+/cdn-cgi/pe/bag2?*tribalfusion.com
 /images/al-e3lnat/*
 /images/e3lan.
 /images/e3lan/*
@@ -115,6 +121,7 @@
 ||seprovider.com^$third-party
 ||shabakti.com^$third-party
 ||trafficrevmaster.com^$third-party
+||tribalfusion.com^$popup,third-party
 ||vuiads.org^$third-party
 ||wafmedia2.com^$third-party
 ||xaddad.com^$third-party
