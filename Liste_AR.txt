@@ -39,14 +39,6 @@
 !
 !----------------------- Éléments génériques -----------------!
 ###advBarMars
-###article_add468x60
-###article_add_300x600
-###article_add_980x200
-###article_add_underarticle
-##.ad-336-280
-##.advBackground
-##.ban-728
-##.cubes-ads
 ##.custom-advert-banner
 ##.custom-advert-banner-frame
 ##[href*="ad2games.com/"]
