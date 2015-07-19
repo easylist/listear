@@ -37,6 +37,10 @@
 !
 !----------------------- Éléments génériques -----------------!
 ###advBarMars
+###article_add468x60
+###article_add_300x600
+###article_add_980x200
+###article_add_underarticle
 ##.ad-336-280
 ##.advBackground
 ##.ban-728
@@ -1010,7 +1014,10 @@ fatakat.com###ad1
 mbc.net###adSlot-inPage-300x250-left
 agarcom.com,s-oman.net###ad_global_below_navbar
 echoroukonline.com###add
+echoroukonline.com###addalbum_f
+echoroukonline.com###addpurple_f
 33sh8.com###adds
+echoroukonline.com###addtop_f
 ennaharonline.com,yakamar.com###ads
 albaladeyes.com,ninjaup.com###ads1
 ninjaup.com###ads3
@@ -1042,6 +1049,7 @@ bacdz.org###head-banner
 rb7ne.com###header2
 nuqudy.com###headeradv
 masrawy.com###hleader
+echoroukonline.com###hor_add_f
 masrawy.com###hswcase
 iq-vb.net###layer1
 contactcars.com###leaderBoard
@@ -1200,6 +1208,7 @@ dzjobs.net##.wiki
 arabia.com##.ykaleader
 dreambox-tunisie.com##.yourcolor-main
 2flam.net##A[href="http://shwqna.at.ua/ADs.htm"]
+echoroukonline.com##[class*="-ads-"]
 ounousa.com##[class^="SubBanner"]
 ounousa.com##[class^="banner"]
 korabia.com##[class^="modal"]
