@@ -39,8 +39,11 @@
 !
 !----------------------- Éléments génériques -----------------!
 ###advBarMars
+##.ads-300-300
+##.ads-468-60
 ##.custom-advert-banner
 ##.custom-advert-banner-frame
+##.facebook-twitter-ads-728-90
 ##[href*="ad2games.com/"]
 ##a[href*=".hao123.com/?tn="] > img
 ##a[href*="/ads/ad_link.php?"]
@@ -1189,6 +1192,7 @@ alayam.com##.slides1
 alayam.com##.slides76
 el3ab.com##.smallLeader
 alrealclub.com##.smallfont a[target="_blank"]
+echoroukonline.com##.soundcloud-related
 deltaclic.com,misbahinet.com##.squarebanner
 bokra.net##.strip
 alrealclub.com##.style10 img
