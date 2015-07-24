@@ -58,6 +58,8 @@
 ||ads-x.com^$third-party
 ||adscoo.com^$third-party
 ||adservingstd.com^$third-party
+||adsgridads.com^$third-party
+||adsmobile1.com^$third-party
 ||adtracking.asia^$third-party
 ||adzzone.com^$third-party
 ||aknod.com^$third-party
