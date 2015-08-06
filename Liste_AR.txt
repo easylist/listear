@@ -55,6 +55,8 @@
 !
 !----------------------- Annonceurs -----------------------!
 !
+||hla-media.com^$third-party
+||hlads.com^$third-party
 !
 !----------------------- Publicités tierces ----------------------!
 !
@@ -184,6 +186,7 @@
 ||hostgator.com^*/banners/
 ||hotelscombined.com/Affiliate/Widgets/
 ||i39.servimg.com/u/f39/17/77/85/37/691110.gif
+||i61.servimg.com/u/f61/13/31/64/02/banner10.jpg
 ||i7dollar.com/i1dollar.jpg
 ||icom-sat.net/Images/%D8%AF%D8%B9%D8%A7%D9%8A%D8%A7%D8%AA/
 ||im32.gulfup.com/ciSlt.gif
