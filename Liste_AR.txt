@@ -33,6 +33,8 @@
 |http://e3lanat.
 !
 !----------------------- Éléments génériques -----------------!
+###ads-300x250
+###ads-980x
 ###advBarMars
 ##.adsunits
 ##.special-banner
@@ -765,6 +767,7 @@
 ||mobtada.com/files/banners_days/
 ||montadaphp.net/hamada_banner.png
 ||montadaphp.net/images/banner.gif
+||mouloudia.org/files/sponsors/
 ||mp3quran.net/fr/key2islam.gif
 ||mp3quran.net/fr/womeninislam.gif
 ||mshaweer.net/images/majed.gif
