@@ -12,6 +12,8 @@
 ! ou par e-mail : liste.ar.adblock at gmail point com
 !
 !----------------------- Filtres génériques -----------------!
+.com.sa/ads/
+.com.sa/ads?$popup
 .com/e3lan/
 .com/e3lanat/
 .com/e3lans/
@@ -447,6 +449,7 @@
 ||alwafd.org/images/banners/
 ||alwafd.org/images/dubizzle_
 ||alwatannews.net/Images/*-660x90-
+||alweeam.com.sa/wp-content/themes/alweam/images/proji-banner.jpg
 ||amalh.net/images/alberekat2.gif
 ||amalh.net/images/shalwi3.gif
 ||amazonaws.com/fl/KSA-Footer/JSFiles/leader.js
@@ -1072,6 +1075,7 @@ ar-wp.com##.box
 inewsarabia.com##.box728
 bokra.net##.catsBanner
 hawamer.com##.centerBanner
+alweeam.com.sa##.content-banner
 masrawy.com,yallakora.com##.dealsoffer
 a7lahmsa.com,s-ajfan.com##.decoded
 3a2ilati.com##.eshop-list
