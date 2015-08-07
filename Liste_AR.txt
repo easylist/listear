@@ -491,6 +491,7 @@
 ||arabseed.com/open/
 ||arabseed.com/openMAZ33.js
 ||arabseed.com/redirect/open*.js
+||arabseed.com/tvgate/
 ||arabseed.com/vlc.js
 ||arabseyes.com/php1.js
 ||arabsh.com/motakalem/
