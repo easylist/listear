@@ -617,6 +617,7 @@
 ||elso9.biz/$subdocument,domain=ya3ale.com
 ||elso9.com/$subdocument,domain=ya3ale.com
 ||emaratalyoum.com^*/banners/
+||english-guide.com/images/banners/
 ||eqla3.com/if/code*.htm
 ||f3al.com/open27.js
 ||f3al.com/vb/aerowindow/
