@@ -33,9 +33,11 @@
 |http://e3lanat.
 !
 !----------------------- Éléments génériques -----------------!
+###adpubhead
 ###ads-300x250
 ###ads-980x
 ###advBarMars
+###pubsidebar
 ##.adsunits
 ##.special-banner
 ##[href*="ad2games.com/"]
@@ -743,6 +745,9 @@
 ||manga-ar.com/upload/adv/
 ||marocannonces.com/images/agency_banner.jpg
 ||marocannonces.com^*/bannier_
+||marrakechalaan.com/wp-content/uploads/2015/05/hotel-cesar-copie-sd.png
+||marrakechalaan.com/wp-content/uploads/2015/07/blach-zohair.gif
+||marrakechalaan.com/wp-content/uploads/2015/07/radio-gueliz-pub-v-2.gif
 ||marrakechalaan.com^$popup,domain=dafatiri.com
 ||masrawysat.com/img/505.gif
 ||masrawysat.com/img/astra.gif
