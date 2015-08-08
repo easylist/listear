@@ -743,6 +743,7 @@
 ||manga-ar.com/upload/adv/
 ||marocannonces.com/images/agency_banner.jpg
 ||marocannonces.com^*/bannier_
+||marrakechalaan.com^$popup,domain=dafatiri.com
 ||masrawysat.com/img/505.gif
 ||masrawysat.com/img/astra.gif
 ||masrawysat.com/img/Eaj06zD.gif
