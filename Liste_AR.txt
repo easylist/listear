@@ -1159,7 +1159,6 @@ dzjobs.net##.wiki
 arabia.com##.ykaleader
 dreambox-tunisie.com##.yourcolor-main
 2flam.net##A[href="http://shwqna.at.ua/ADs.htm"]
-echoroukonline.com##[class*="-ads-"]
 ounousa.com##[class^="SubBanner"]
 ounousa.com##[class^="banner"]
 korabia.com##[class^="modal"]
