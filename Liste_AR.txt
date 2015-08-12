@@ -982,6 +982,7 @@ kawalisse.com###bannerHead
 al-fadjr.com###banner_container
 btalah.com###banner_dsnr
 yalladrama.tv###bannerfloat22
+akhersaa-dz.com###bloc_left_pub_1
 hawaaworld.com###boxContain
 adslgate.com###boxbanner
 femme-tendance.com###carread
@@ -993,6 +994,7 @@ korabia.com###divLeaderBoard
 elaana.com,g5y.com,g5y5.com,m5zn.com###dropin
 arabia.com###dvleaderboard
 arabia.com###dvwidgetad
+akhersaa-dz.com###espace_pub_entete
 touteslesrecettes.fr###first
 elheddaf.com,ennaharonline.com###flash
 jsoftj.com###freet
