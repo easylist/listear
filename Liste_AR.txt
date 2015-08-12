@@ -422,6 +422,8 @@
 ||alfajertv.com^*/banner/
 ||algareda.com/images/takeovers.jpg
 ||algeria-dream.com/vb/sharing.gif
+||algeria-press.com/algerieannonce.jpg
+||algeria-press.com/kechkhedma.jpg
 ||algomhuria.net.eg^*/adv/
 ||algremh.com/adv.htm
 ||algremh.com/img/in-goore.gif
