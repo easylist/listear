@@ -660,7 +660,7 @@
 ||g9g.im^$subdocument,domain=algremh.com
 ||geek4arab.com^*/banner/
 ||gem-flash.com^*/banners1.php?
-||goo.gl^$popup,domain=abotlal.com|arabseed.com|mazika2day.com
+||goo.gl^$popup,domain=abotlal.com|arabseed.com|dev-point.com|mazika2day.com
 ||goo.gl^$subdocument,domain=lmseh.com
 ||google.com/url?^$popup,domain=ya3ale.com
 ||googleusercontent.com^*/mastercard.gif$domain=myalge.net
