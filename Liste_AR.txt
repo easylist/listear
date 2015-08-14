@@ -463,6 +463,7 @@
 ||amalh.net/images/alberekat2.gif
 ||amalh.net/images/shalwi3.gif
 ||amazonaws.com/fl/KSA-Footer/JSFiles/leader.js
+||anakbnet.com/video/a/banar/
 ||annoncesmall.com^$popup,domain=awwah.com
 ||aqarbook.com^$popup,domain=mothhelah.com
 ||ar-wp.com/forums-archive/images/bn1.
