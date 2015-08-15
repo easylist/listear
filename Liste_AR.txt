@@ -57,6 +57,7 @@
 !
 !----------------------- Annonceurs -----------------------!
 !
+||ergoledo.com^$third-party
 ||hla-media.com^$third-party
 ||hlads.com^$third-party
 !
@@ -792,6 +793,7 @@
 ||mshaweer.net/images/waslny.gif
 ||mtwer.com/files/14806.gif
 ||mtwer.com^*/adsmtwerclient/
+||mushahed.net/vb/storeimg/img_1389975145_674.gif
 ||mwadah.com/images/mwadahhost.swf
 ||mwlaty.com/$subdocument,domain=f3al.com
 ||myegy.com/class.Pop.php
