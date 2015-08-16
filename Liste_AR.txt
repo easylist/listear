@@ -58,10 +58,13 @@
 !
 !----------------------- Annonceurs -----------------------!
 !
+||activepop.net^$third-party
 ||ergoledo.com^$third-party
+||ex-show.com^$third-party
 ||hla-media.com^$third-party
 ||hlads.com^$third-party
 ||kingtopdeals.com^$third-party
+||popzila.com^$third-party
 !
 !----------------------- Publicités tierces ----------------------!
 !
@@ -350,6 +353,7 @@
 ||24caratksa.com^$popup,domain=syrcafe.com
 ||33sh8.com/up/styles/default2//images/adds.gif
 ||3ajaba.com^$subdocument,domain=ktaby.com
+||3aram.com/exshow2.js
 ||3asfh.net/vb/js.php
 ||3asq.com/img/uploads/13560751771.swf?
 ||3asq.com/img/uploads/13607070421.swf
