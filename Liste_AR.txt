@@ -398,6 +398,7 @@
 ||aflamex.com/forum/download-icon.jpg
 ||aflamex.com/forum/open/
 ||aflamonline.info/ads*.
+||aflamy.com/e3lanat-banner.jpg
 ||agadir24.info/flash.swf
 ||agadir24.info/khir.swf
 ||agadir24.info/minipain02.swf
@@ -590,6 +591,7 @@
 ||dreambox-tunisie.com/vb/500.gif
 ||dzecole.com/^$popup,domain=bacdz.org
 ||e-mailaat.com/banarat/
+||e3lanat.cc^$popup,domain=aflamy.com
 ||eaglepro.net^$popup,domain=bramjnet.com
 ||easycima.com^$popup,domain=el7l.co
 ||echoroukonline.com/img/aswak2.swf
@@ -1344,7 +1346,7 @@ damasgate.com##td[width="160"]
 traidnt.net##td[width="160px"]
 ! Anti-Adblock
 g9g.com#@##myAd
-dramacafe.tv,online.dramacafe.in,xaddad.com#@#.afs_ads
+aflamy.com,dramacafe.tv,online.dramacafe.in,xaddad.com#@#.afs_ads
 @@||coolkora.com^$elemhide
 !
 !----------------------- Exceptions -----------------------!
