@@ -160,6 +160,7 @@
 ||engygames.com/bnr/
 ||esdaraty.com/images/etisalat-al.jpg
 ||esdaraty.com/images/free-calls.jpg
+||f-riends.com/ads/$popup
 ||fitness-4-life.org.uk^*/Sports-160-x-600-Animation.gif
 ||foldersoft.com/holl.jpg
 ||forsangaza.net/vb/$popup,domain=a7lahmsa.com
@@ -667,7 +668,7 @@
 ||g9g.im^$subdocument,domain=algremh.com
 ||geek4arab.com^*/banner/
 ||gem-flash.com^*/banners1.php?
-||goo.gl^$popup,domain=abotlal.com|arabseed.com|dev-point.com|mazika2day.com
+||goo.gl^$popup,domain=abotlal.com|arabasma.com|arabseed.com|dev-point.com|mazika2day.com
 ||goo.gl^$subdocument,domain=lmseh.com
 ||google.com/url?^$popup,domain=ya3ale.com
 ||googleusercontent.com^*/mastercard.gif$domain=myalge.net
