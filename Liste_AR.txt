@@ -29,6 +29,7 @@
 /pop_packcpm.$popup
 /vb/e3lan/*
 /vb/e3lanat/*
+://adscdn.
 \adds\adds.
 |http://e3lanat.
 !
@@ -60,6 +61,7 @@
 ||ergoledo.com^$third-party
 ||hla-media.com^$third-party
 ||hlads.com^$third-party
+||kingtopdeals.com^$third-party
 !
 !----------------------- Publicités tierces ----------------------!
 !
