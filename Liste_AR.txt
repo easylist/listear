@@ -1116,6 +1116,7 @@ a7lahmsa.com,s-ajfan.com##.decoded
 3a2ilati.com##.eshop-list
 arabs-up.com,arabsharing.com##.extras_footer
 arabs-up.com##.extras_header
+alwatanvoice.com##.flash-top
 bokra.net##.floatBanner
 a7lahmsa.com,al3ushaq.com,algremh.com,ktaby.com,linkat.lmseh.com,panorama-istanbul.org##.floatingWindowContent
 firstlady99.com##.forumline td.row1 > a > img
