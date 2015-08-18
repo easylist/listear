@@ -762,6 +762,8 @@
 ||ma3hd.net/js.php
 ||maas1.net^$subdocument,domain=liilas.com
 ||manga-ar.com/upload/adv/
+||marmar.co.il/VIRARTICLES/FlashBannersnew/
+||marmar.co.il/VIRARTICLES/shadv/
 ||marocannonces.com/images/agency_banner.jpg
 ||marocannonces.com^*/bannier_
 ||marrakechalaan.com/wp-content/uploads/2015/05/hotel-cesar-copie-sd.png
