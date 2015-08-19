@@ -69,6 +69,7 @@
 ||hlads.com^$third-party
 ||kingtopdeals.com^$third-party
 ||popzila.com^$third-party
+||waframedia.com^$third-party
 !
 !----------------------- Publicités tierces ----------------------!
 !
@@ -1080,6 +1081,7 @@ souq.com##.ad2
 egy4up.net,gornalak.com##.ad_left
 egy4up.net,gornalak.com##.ad_right
 add-anime.net##.adblock
+arabictorrent.net##.ads
 toptwitt.com##.ads2
 elraaed.com##.ads_1
 kalemaro.com##.adsance
