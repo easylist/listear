@@ -65,10 +65,13 @@
 ||advantagz.com^$third-party
 ||ergoledo.com^$third-party
 ||ex-show.com^$third-party
+||giwcini.ru^$third-party
 ||hla-media.com^$third-party
 ||hlads.com^$third-party
 ||kingtopdeals.com^$third-party
+||nosyezhe.com^$third-party
 ||popzila.com^$third-party
+||septani.ru^$third-party
 ||waframedia.com^$third-party
 !
 !----------------------- Publicités tierces ----------------------!
