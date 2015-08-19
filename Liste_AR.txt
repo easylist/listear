@@ -304,6 +304,7 @@
 ||short5.com/2d/popup.js
 ||shorte.st/link-converter.
 ||shwqna.at.ua/pop*.js
+||shy22.com/upfilgif/eca15583.gif
 ||sinailiberties.com/1.gif$domain=kalemaro.com
 ||skauu.com/add/
 ||soft365.com^$popup,domain=arabsh.com
@@ -482,6 +483,7 @@
 ||amalh.net/images/shalwi3.gif
 ||amazonaws.com/fl/KSA-Footer/JSFiles/leader.js
 ||anakbnet.com/video/a/banar/
+||animop-mobile.blogspot.com^$popup,domain=animop.com
 ||annoncesmall.com^$popup,domain=awwah.com
 ||aqarbook.com^$popup,domain=mothhelah.com
 ||ar-wp.com/forums-archive/images/bn1.
