@@ -39,6 +39,7 @@
 ###adpubhead
 ###ads-300x250
 ###ads-980x
+###ads_block_vertical
 ###advBarMars
 ###pubsidebar
 ##.adsunits
