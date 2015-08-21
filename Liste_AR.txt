@@ -947,6 +947,7 @@
 ||travelzad.com/banner-app.gif
 ||travelzad.com/photo/files/50810.gif
 ||travelzad.com/vb/storeimg/img_1318589601_108.gif
+||travpl.com^$popup,domain=nokiagate.com
 ||tvegy.com/open17.js
 ||tvfun.ma/p.js
 ||uob-bh.com/uploadfiles/bahraindir.gif
