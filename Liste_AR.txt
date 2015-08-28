@@ -669,6 +669,7 @@
 ||fontypress.info^*/banners/
 ||foola.net/images/foola_22.png
 ||foola.net/up/styles/alhjer/images/alhjerdesign_traidnt_07.jpg
+||forex1040.blogspot.com^$popup,domain=aflmsexarab.com
 ||forum.arabseed.com/downloads.gif
 ||fragny.com/open.js
 ||free.panorama-istanbul.org^$popup,domain=panorama-istanbul.org
