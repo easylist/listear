@@ -24,6 +24,9 @@
 /ads.php?$popup
 /advStatLib.js
 /advStatSettings.js
+/banner/e3lan.
+/banner/vb/images/e3lan.
+/e3lan/e3lan.
 /images/al-e3lnat/*
 /images/e3lan.
 /images/e3lan/*
