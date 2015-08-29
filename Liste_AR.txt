@@ -481,6 +481,7 @@
 ||amalh.net/images/alberekat2.gif
 ||amalh.net/images/shalwi3.gif
 ||amazonaws.com/fl/KSA-Footer/JSFiles/leader.js
+||amronline202.blogspot.com^$domain=tfilm.ba7r.biz
 ||anakbnet.com/video/a/banar/
 ||animop-mobile.blogspot.com^$popup,domain=animop.com
 ||annoncesmall.com^$popup,domain=awwah.com
@@ -943,6 +944,7 @@
 ||ta7a.com/open.htm
 ||tabeebk.com^$popup,domain=egynt.net
 ||tangersport.com/VillArt.gif
+||tfilm.tv^$domain=tfilm.ba7r.biz
 ||top-an.com^$subdocument,domain=vb.zi-m.com
 ||tourism-review.net/banners/
 ||travelzad.com/banner-app.gif
