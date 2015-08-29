@@ -208,6 +208,7 @@
 ||hotelscombined.com/Affiliate/Widgets/
 ||i39.servimg.com/u/f39/17/77/85/37/691110.gif
 ||i61.servimg.com/u/f61/13/31/64/02/banner10.jpg
+||i65.servimg.com/u/f65/15/95/28/21/uoooo-10.gif
 ||i7dollar.com/i1dollar.jpg
 ||icom-sat.net/Images/%D8%AF%D8%B9%D8%A7%D9%8A%D8%A7%D8%AA/
 ||im32.gulfup.com/ciSlt.gif
@@ -327,6 +328,7 @@
 ||up-00.com/2015-02/1424472081151.jpg
 ||up07.net/open*.js
 ||up700.net/affiliates/
+||upload.traidnt.net/upfiles/2A883338.gif
 ||upxmedia.com/$subdocument,domain=shofonline.net
 ||vip600.com/aaa/
 ||wadize2ab.com^$subdocument,domain=a7lahmsa.com
@@ -476,6 +478,8 @@
 ||alquds.co.uk/fx3.htm
 ||alrainews.net^*/banners/
 ||alrassed.com^$popup,domain=3asfh.net
+||alresh.com/vb/elrish/images/banna.gif
+||alresh.com/vb/elrish/images/bannb.gif
 ||alriyadh.com^*/adv/
 ||alwadifa-maroc.com/flash/banniere_
 ||alwafd.org/images/albums/
@@ -1017,6 +1021,8 @@ touteslesrecettes.fr,yallashare.com###banner
 kawalisse.com###bannerHead
 al-fadjr.com###banner_container
 btalah.com###banner_dsnr
+alresh.com###bannera
+alresh.com###bannerb
 yalladrama.tv###bannerfloat22
 akhersaa-dz.com###bloc_left_pub_1
 hawaaworld.com###boxContain
