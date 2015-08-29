@@ -254,6 +254,7 @@
 ||mshaweer.net/vb//images/baner.swf
 ||mshaweer.net/vb/images/mshaweer2.gif
 ||mshkla.com/sd.html
+||mstaml.com/mstaml.htm$third-party
 ||multiuploaden.com/do.php?img=6603
 ||multiuploaden.com/uploads/13748786571.png
 ||mycar4ever.blogspot.com^$popup,domain=egyptladies.net
@@ -726,6 +727,7 @@
 ||jfranews.com^*/banners/
 ||jsoftj.com/games-folder/zTkW1_jsoftj.com.png
 ||k1br.com/vb/$subdocument,domain=s7rny.com
+||kafrsakr.com/images/alexa_site.gif
 ||kalemaro.com/dezndev*.js
 ||kashta.net^$subdocument,domain=syrcafe.net
 ||kazaroza.net^$popup,domain=arablionz.com
