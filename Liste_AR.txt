@@ -1371,6 +1371,7 @@ forums.7hob.com##td[style="border:2px #EA8610 dotted ; width:750px;height:280px;
 arfonts.net##td[style="height: 90px; padding: 0px 0px 0px 0px; text-align:center; border-bottom:1px dashed #336699;"]
 damasgate.com##td[width="160"]
 traidnt.net##td[width="160px"]
+elmoslsal.com##tr[style^="width:728px;"]
 ! Anti-Adblock
 g9g.com#@##myAd
 aflamy.com,dramacafe.tv,online.dramacafe.in,xaddad.com#@#.afs_ads
