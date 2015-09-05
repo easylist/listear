@@ -68,6 +68,8 @@
 ||acdcadz.com^$third-party
 ||activepop.net^$third-party
 ||advantagz.com^$third-party
+||delnapb.com^$popup,third-party
+||delnapb.com^$third-party
 ||ex-show.com^$third-party
 ||giwcini.ru^$third-party
 ||hla-media.com^$third-party
