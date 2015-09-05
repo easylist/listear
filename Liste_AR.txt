@@ -715,6 +715,7 @@
 ||i3z.net/styles/3iz/images/Bnr1.png
 ||i3z.net/styles/3iz/images/Bnr2.png
 ||infosoir.com/images/pub.gif
+||iranproud.com/ad$popup
 ||islamweb.net^*/OBanners
 ||ismailiaonline.com/swf_top/
 ||itahvil.com/script.js
