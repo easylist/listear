@@ -72,10 +72,12 @@
 ||delnapb.com^$third-party
 ||ex-show.com^$third-party
 ||giwcini.ru^$third-party
+||googleframe.net^$popup,third-party
 ||hla-media.com^$third-party
 ||hlads.com^$third-party
 ||kingtopdeals.com^$third-party
 ||nosyezhe.com^$third-party
+||nsfxaffiliates.com^$third-party
 ||popzila.com^$third-party
 ||septani.ru^$third-party
 ||waframedia.com^$third-party
@@ -278,6 +280,7 @@
 ||nadorimg.com/pub/
 ||neargood.com^$popup,third-party
 ||nqashalhob.com/sharing.gif
+||online-sale24.com^$script
 ||op-arab.net/images/2015/01/04/BYVMon.gif
 ||optionyard.com/l.aspx?
 ||postimg.org/7o5uqjk4z/810_80.gif
