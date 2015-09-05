@@ -552,6 +552,7 @@
 ||ashefaa.com/i3lanat/
 ||aswaqcity.com/swf/
 ||aswat-elchamal.com/ar/pub/
+||awtarmp3.com/uploads/banners/
 ||azyya.com^$popup,domain=beautymaroc.com
 ||banotacool.net^$popup,third-party
 ||barqaluae.com/vb/last-d/2.gif
