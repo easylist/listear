@@ -420,6 +420,7 @@
 ||agadir24.info/pub.gif
 ||ahdath.info/wp-content/*/Pub%20banniere%20.jpg
 ||ahram.org.eg/Media/Banners/SEO-logo.swf
+||akabernews.com/open.js
 ||akhbarelyom.com/UP/farid/
 ||akhersaa-dz.com/files/banners/
 ||aksalser.com/e/$object
@@ -568,6 +569,7 @@
 ||bramjnet.com/js1.php
 ||bramjnet.com/js1a.php
 ||bramjnet.com/js1soft.js
+||brandatvip.com^$popup,domain=akaberchat.com
 ||brg8.com/bb/
 ||brooonzyah.net/vb/js.php
 ||cairo7.com/vb/open19.js
