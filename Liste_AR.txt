@@ -312,6 +312,7 @@
 ||shorte.st/link-converter.
 ||shwqna.at.ua/pop*.js
 ||shy22.com/upfilgif/eca15583.gif
+||shy22.com/upfilgif/eou19449.gif
 ||sinailiberties.com/1.gif$domain=kalemaro.com
 ||skauu.com/add/
 ||soft365.com^$popup,domain=arabsh.com
@@ -694,6 +695,7 @@
 ||g7a.com^$popup,domain=str-ly.com
 ||g9g.im/open.js
 ||g9g.im^$subdocument,domain=algremh.com
+||games-off.com^$popup,domain=3rbup.com
 ||geek4arab.com^*/banner/
 ||gem-flash.com^*/banners1.php?
 ||giniko.com/images/banner/
@@ -1171,6 +1173,7 @@ alarab.net##.left_sqr
 bokra.net##.main_baner
 alarab.net##.mbAdImg
 mediamasr.tv##.mediumbanner
+3rbup.com##.metaRedirectWrapperTop
 hawaaweb.com##.middle-banner
 ech-chaab.net##.module.mod-line.color-black.deepest
 elcinema.com##.movie-reserve-cinema
