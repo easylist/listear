@@ -406,6 +406,7 @@
 ||adf.ly^$popup,domain=nassamat.com
 ||adslgate.com/upload/*banner
 ||adslgate.com/upload/boxhop33.gif
+||adslgate.com/upload/wadi-*-$image
 ||adv.mmnon.com^
 ||aff.kooora.com/images/aff_
 ||aflamex.com/adv2012/
