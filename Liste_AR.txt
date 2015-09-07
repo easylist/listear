@@ -976,6 +976,7 @@
 ||tvfun.ma/p.js
 ||uob-bh.com/uploadfiles/bahraindir.gif
 ||uskarmawi.com^$subdocument,domain=asalahpal.com
+||vb.eqla3.com/code/*.html
 ||vb.zi-m.com/aerowindow/
 ||vb.zi-m.com/js.php
 ||vbdar.com^$popup,domain=darseries.com
