@@ -68,6 +68,8 @@
 !
 ||acdcadz.com^$third-party
 ||activepop.net^$third-party
+||adit-media.com^$popup,third-party
+||adit-media.com^$third-party
 ||advantagz.com^$third-party
 ||delnapb.com^$popup,third-party
 ||delnapb.com^$third-party
