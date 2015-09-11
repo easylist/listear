@@ -110,6 +110,7 @@
 ||a7lahmsa.com/vb/$subdocument,domain=s-ajfan.com
 ||adv.videomega.tv^$popup
 ||af.gamepower7.com/*?aid=$popup,third-party
+||aflamonlinee.org/new/$popup
 ||agarcom.com/up/uploads/1375263039741.gif
 ||al-ghla.net/vb/$subdocument,domain=a7lahmsa.com
 ||al3ab2014.com^$popup,third-party
