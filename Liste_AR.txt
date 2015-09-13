@@ -57,6 +57,8 @@
 ##.special-banner
 ##[href*="ad2games.com/"]
 ##a[href*=".hao123.com/?tn="] > img
+##a[href*="/?track=ad:"]
+##a[href*="/ads.php?ref="]
 ##a[href*="/ads/ad_link.php?"]
 ##a[href*="adintop.com/outgoing/click.php?"]
 ##a[href*="booraq.org"]
@@ -735,6 +737,7 @@
 ||hakchouf.net/hakchouf%20affiche.swf
 ||hakchouf.net/image%20site/aff.jpg
 ||hakchouf.net/images/Banner3.png
+||hastidownload.net/pop4.js
 ||hawanaajd.com/img/b/$image
 ||hi10.net^$popup,domain=arablionz.com
 ||hibapress.com/Hanya90.jpg
