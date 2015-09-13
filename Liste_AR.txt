@@ -18,6 +18,7 @@
 .com/e3lanat/
 .com/e3lans/
 .com/i3lan/
+.ir/ads/
 .net/e3lan.
 .net/e3lan/
 .ps/adds/
@@ -26,13 +27,18 @@
 /advStatSettings.js
 /banner/e3lan.
 /banner/vb/images/e3lan.
+/clash/ads/*
+/clash/banner-
 /e3lan/e3lan.
 /images/al-e3lnat/*
 /images/e3lan.
 /images/e3lan/*
 /images/e3lan3.
+/pop.php?user=
 /pop_packcpm.$popup
+/popup.php?user=
 /pub/banniere/*
+/showads?
 /vb/e3lan/*
 /vb/e3lanat/*
 ://adscdn.
@@ -78,6 +84,8 @@
 ||googleframe.net^$popup,third-party
 ||hla-media.com^$third-party
 ||hlads.com^$third-party
+||irclick.net^$popup,third-party
+||irclick.net^$third-party
 ||kingtopdeals.com^$third-party
 ||nosyezhe.com^$third-party
 ||nsfxaffiliates.com^$third-party
@@ -143,6 +151,7 @@
 ||arblue.com/5ligi.gif
 ||arblue.com/9.gif
 ||arblue.com/flm3.gif
+||arianbco.ir^
 ||arjwana.com/468____.gif
 ||asalahpal.com/vb/$subdocument,domain=a7lahmsa.com
 ||awtad.com/www/
@@ -197,6 +206,7 @@
 ||giclub.tv/index.php?action=$image
 ||giphy.com/yoJC2BNz47Bh7Ya7Dy.gif
 ||goo.gl/2dWPk1
+||google98.ir^
 ||gulfbase.com/APopUp.
 ||gulfbase.com/Assets/css/AeroWindow
 ||gulfup.com/2012-06-04/133881477241.gif
@@ -289,6 +299,7 @@
 ||online-sale24.com^$script
 ||op-arab.net/images/2015/01/04/BYVMon.gif
 ||optionyard.com/l.aspx?
+||pop.naminews.ir^
 ||postimg.org/7o5uqjk4z/810_80.gif
 ||postimg.org/d2mqd9lmh/final_banner.gif
 ||postimg.org/g70xglyjt/banner.png
