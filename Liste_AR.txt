@@ -46,6 +46,7 @@
 |http://e3lanat.
 !
 !----------------------- Éléments génériques -----------------!
+###a_728x90_ad
 ###adpubhead
 ###ads-300x250
 ###ads-980x
