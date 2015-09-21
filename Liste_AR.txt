@@ -79,6 +79,8 @@
 ||activepop.net^$third-party
 ||adit-media.com^$popup,third-party
 ||adit-media.com^$third-party
+||adovida.com^$third-party
+||adswinner.com^$third-party
 ||advantagz.com^$third-party
 ||delnapb.com^$popup,third-party
 ||delnapb.com^$third-party
@@ -90,6 +92,7 @@
 ||irclick.net^$popup,third-party
 ||irclick.net^$third-party
 ||kingtopdeals.com^$third-party
+||mottnow.com^$third-party
 ||nosyezhe.com^$third-party
 ||nsfxaffiliates.com^$third-party
 ||popzila.com^$third-party
