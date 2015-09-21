@@ -1006,6 +1006,7 @@
 ||vip4soft.com/images/baneers/
 ||waraqat.net/*/games-banner.gif
 ||waraqat.net/*/thwalel.gif
+||wasetamazon.com/upload/2015/08/amazon.png
 ||wiki-net.net/$subdocument,domain=panorama-istanbul.org
 ||xdahk.bihax.com^$popup,domain=bihax.com
 ||xtratube.net/player/*/codes.html
