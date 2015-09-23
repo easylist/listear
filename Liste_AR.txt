@@ -41,6 +41,7 @@
 /showads?
 /vb/e3lan/*
 /vb/e3lanat/*
+/widget.advertisement.
 ://adscdn.
 \adds\adds.
 |http://e3lanat.
@@ -53,6 +54,8 @@
 ###ads_block_vertical
 ###adsground
 ###advBarMars
+###footer_728x90_ad
+###header_728x90_ad
 ###pubsidebar
 ##.adsunits
 ##.special-banner
