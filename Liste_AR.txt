@@ -750,6 +750,8 @@
 ||hoolmiz.com/tvd/
 ||i3z.net/styles/3iz/images/Bnr1.png
 ||i3z.net/styles/3iz/images/Bnr2.png
+||ibda3gate.com/vb/ebda3gate/img/banner.png
+||ibda3gate.com/vb/ebda3gate/img/banner2.png
 ||infosoir.com/images/pub.gif
 ||iranproud.com/ad$popup
 ||islamweb.net^*/OBanners
@@ -1166,7 +1168,7 @@ alhayat.com##.banner2
 egyup.com,imanschool.com,mwadah.com##.bannerBox
 m5zn.com##.banner_120_black
 elmihwar.com,felmedan.com##.banneritem
-arabsharing.com,mediamasr.tv,panorama-istanbul.org##.banners
+arabsharing.com,ibda3gate.com,mediamasr.tv,panorama-istanbul.org##.banners
 marocemploi.net##.bg_link
 bokra.net##.bigStrip
 wmuae.net##.binsaad
