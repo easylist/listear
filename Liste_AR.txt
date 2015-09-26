@@ -59,6 +59,7 @@
 ###pubsidebar
 ##.ads-l
 ##.ads-r
+##.ads_table
 ##.adsunits
 ##.fix-ad
 ##.special-banner
@@ -242,6 +243,7 @@
 ||hotelscombined.com/Affiliate/Widgets/
 ||i39.servimg.com/u/f39/17/77/85/37/691110.gif
 ||i61.servimg.com/u/f61/13/31/64/02/banner10.jpg
+||i61.tinypic.com/3343gnl.gif
 ||i65.servimg.com/u/f65/15/95/28/21/uoooo-10.gif
 ||i7dollar.com/i1dollar.jpg
 ||icom-sat.net/Images/%D8%AF%D8%B9%D8%A7%D9%8A%D8%A7%D8%AA/
@@ -311,6 +313,7 @@
 ||nadorimg.com/pub/
 ||neargood.com^$popup,third-party
 ||nqashalhob.com/sharing.gif
+||oi58.tinypic.com/28b60ev.jpg
 ||online-sale24.com^$script
 ||op-arab.net/images/2015/01/04/BYVMon.gif
 ||optionyard.com/l.aspx?
