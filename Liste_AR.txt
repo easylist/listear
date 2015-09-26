@@ -57,7 +57,10 @@
 ###footer_728x90_ad
 ###header_728x90_ad
 ###pubsidebar
+##.ads-l
+##.ads-r
 ##.adsunits
+##.fix-ad
 ##.special-banner
 ##[href*="ad2games.com/"]
 ##a[href*=".hao123.com/?tn="] > img
