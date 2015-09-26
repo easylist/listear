@@ -202,7 +202,7 @@
 ||esdaraty.com/images/etisalat-al.jpg
 ||esdaraty.com/images/free-calls.jpg
 ||f-riends.com/ads/$popup
-||famquote.com/facebooks.php
+||famquote.com/facebook$third-party
 ||fitness-4-life.org.uk^*/Sports-160-x-600-Animation.gif
 ||foldersoft.com/holl.jpg
 ||forsangaza.net/vb/$popup,domain=a7lahmsa.com
