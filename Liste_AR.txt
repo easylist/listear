@@ -154,6 +154,7 @@
 ||amazonaws.com/email/fatakat/
 ||amazonaws.com/irgames/bnrs/
 ||anota-des.com/vb/$subdocument,domain=a7lahmsa.com
+||api.yamli.com/checkin.ashx?
 ||arabdvd.net/banner/
 ||arabearpiece.com/big.png
 ||arabiawin.com^$popup
@@ -381,6 +382,7 @@
 ||wirwaar.com/$subdocument,domain=s-ajfan.com
 ||xatech.com^
 ||xuscacamusca.se/js/adsj.js
+||yamli.com/static/gam_iframe.htm?
 ||yellowpages.com.ps/search_bricks/ps_search_bricks_300X130.php
 ||ymoviez.com/yallamoviez.js
 ||yourjavascript.com/16635201220/add-url.js
