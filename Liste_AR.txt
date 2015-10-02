@@ -194,6 +194,7 @@
 ||dramacafe.tv/Adblock_
 ||dubizzle.com^*/?utm_source=$popup
 ||dzautos.com/data/dzauto.swf
+||easycima.com^$popup,domain=vidhos.com
 ||educdz.com/*/1544484_770455529632171_2442609755761839667_n.jpg
 ||egyup.com/300.png
 ||egyup.com/banner-990x90.png
