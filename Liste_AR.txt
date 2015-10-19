@@ -194,7 +194,7 @@
 ||dramacafe.tv/Adblock_
 ||dubizzle.com^*/?utm_source=$popup
 ||dzautos.com/data/dzauto.swf
-||easycima.com^$popup,domain=vidhos.com
+||easycima.com^$popup,third-party
 ||educdz.com/*/1544484_770455529632171_2442609755761839667_n.jpg
 ||egyup.com/300.png
 ||egyup.com/banner-990x90.png
@@ -225,6 +225,7 @@
 ||giphy.com/yoJC2BNz47Bh7Ya7Dy.gif
 ||goo.gl/2dWPk1
 ||google98.ir^
+||goto.astdn.ru^$popup,third-party
 ||gulfbase.com/APopUp.
 ||gulfbase.com/Assets/css/AeroWindow
 ||hanya.ma/caro
