@@ -92,6 +92,7 @@
 ||advantagz.com^$third-party
 ||delnapb.com^$popup,third-party
 ||delnapb.com^$third-party
+||eclkmpbn.com^$third-party
 ||ex-show.com^$third-party
 ||giwcini.ru^$third-party
 ||googleframe.net^$popup,third-party
@@ -1345,6 +1346,8 @@ jordanzad.com##div[style="width:306px;height:63px;"]
 jordanzad.com##div[style="width:600px;height:80px;"]
 5foq.com##div[style="width:680px;height:180px;float:left;margin-left:5px;margin-top:25px"]
 echoroukonline.com##div[style="width:728px;height:90px;margin: 10px auto;"]
+f16f.com##div[style^="background:#ffffff;width:728px;height:90px;"]
+f16f.com##div[style^="display:block;background:#ffffff;width:300px;height:250px;"]
 darseries.com##div[style^="width:325px;height:275px;"]
 arabnet5.com##div[style^="width:728px; height:90px;"]
 ##div[style^="z-index: 99999; position: fixed; width: 100%; background-color: rgb(251, 236, 173);"]
