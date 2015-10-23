@@ -86,6 +86,7 @@
 ||activepop.net^$third-party
 ||adit-media.com^$popup,third-party
 ||adit-media.com^$third-party
+||admuncher.com^$third-party
 ||adovida.com^$third-party
 ||adswinner.com^$third-party
 ||advantagz.com^$third-party
