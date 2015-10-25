@@ -897,6 +897,7 @@
 ||panet.co.il/online/images/links_blocks/
 ||panet.co.il^*/flash_banners/
 ||panorama-istanbul.org/vb/open/
+||petra.gov.jo/Public_Images/Banner
 ||popup.egyup.com^
 ||q8classroom.net/adv_
 ||q8classroom.net/banners/
