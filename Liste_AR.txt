@@ -39,6 +39,7 @@
 /popup.php?user=
 /pub/banniere/*
 /showads?
+/Temp/Ads/*
 /vb/e3lan/*
 /vb/e3lanat/*
 /widget.advertisement.
