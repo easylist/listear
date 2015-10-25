@@ -1020,6 +1020,7 @@
 ||yakamar.com/vb/open.js
 ||yalladrama.tv/js.php
 ||yalladrama.tv/player/Download-icon.gif
+||ylla.net/bun.php?
 ||youm7.com/cairodar/index2.html
 ||youtube.com/watch?v=88eJwlVi898$popup,domain=alrealclub.com
 ||zaiocity.net^*/zaiocitypub/
@@ -1175,6 +1176,9 @@ wmuae.net##.binsaad
 7s5.net##.black_overlay[style="display: block;"]
 ar-wp.com##.box
 inewsarabia.com##.box728
+ylla.net##.buntop
+ylla.net##.catbun
+ylla.net##.catbunmini
 bokra.net##.catsBanner
 hawamer.com##.centerBanner
 alweeam.com.sa##.content-banner
@@ -1203,6 +1207,7 @@ ounousa.com,z4ar.com##.leaderboard
 filbalad.com##.leaderbord
 linkat-online.com##.left_side
 alarab.net##.left_sqr
+ylla.net##.leftside_banner
 bokra.net##.main_baner
 alarab.net##.mbAdImg
 mediamasr.tv##.mediumbanner
@@ -1223,6 +1228,7 @@ hao123.com##.pr
 ennaharonline.com,europages.ma,menara.ma##.pub
 hawaaweb.com##.right-banner
 rassoulallah.info##.right_column
+ylla.net##.rightside_banner
 swalif.net##.sab-adPlace
 korabia.com##.sayingOutOfContent
 syrcafe.co##.semoo
@@ -1245,6 +1251,7 @@ almesryoon.com##.topad
 bokra.net##.tower
 bokra.net##.towerBanner
 bokra.net##.twoBanners
+ylla.net##.warpbun
 dzjobs.net##.wiki
 arabia.com##.ykaleader
 dreambox-tunisie.com##.yourcolor-main
