@@ -66,6 +66,7 @@
 ##.advert-under-hedaer2
 ##.advert-under-hedaer2-left
 ##.advert-under-hedaer2-right
+##.e3lan
 ##.fix-ad
 ##.special-banner
 ##[href*="ad2games.com/"]
