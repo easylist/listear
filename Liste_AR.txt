@@ -366,6 +366,8 @@
 ||up-00.com/2015-02/1424470761543.jpg
 ||up-00.com/2015-02/1424470761776.jpg
 ||up-00.com/2015-02/1424472081151.jpg
+||up.harajgulf.com/do.php?img=177229
+||up.harajgulf.com/do.php?img=177231
 ||up07.net/open*.js
 ||up700.net/affiliates/
 ||upload.traidnt.net/upfiles/2A883338.gif
@@ -1405,7 +1407,7 @@ fonction-publique-dz.mountada.net##img[width="364"][height="60"]
 libyan-sat.com##img[width="400"][height="60"][style="margin: 0px 0px 0px 0px;"]
 mdredclub.com##img[width="460"][height="60"]
 jo-sharing.com##img[width="468"]
-3mri-qtr.com,foxpic.com,fraise-d.com,g-3e6r.com,hwaml.com##img[width="468"][height="60"]
+3mri-qtr.com,foxpic.com,fraise-d.com,g-3e6r.com,hwaml.com,ksa-ads.info##img[width="468"][height="60"]
 k1g3.com##img[width="486"][height="60"]
 yakamar.com##img[width="494"][height="60"]
 rmadarab.com##img[width="500"][height="60"]
@@ -1425,6 +1427,7 @@ al-zin.com##table[style="width: 728px; height: 90px"]
 se-te.com##table[width="70%"][style="border-collapse: collapse"]
 arbface.co##table[width="800"][height="200"][bgcolor="#FFFFCC"]
 adslgate.com##td[style="border: 1px solid #3878FA; border-top: 0px;background:#fafafa;"]
+ksa-ads.info##td[style="border:2px #A56B2E  solid; width:728px;height:90px;"]
 7hob.com##td[style="border:2px #EA8336 dotted ; width:336px;height:280px;"]
 forums.7hob.com##td[style="border:2px #EA8610 dotted ; width:750px;height:280px;"]
 arfonts.net##td[style="height: 90px; padding: 0px 0px 0px 0px; text-align:center; border-bottom:1px dashed #336699;"]
