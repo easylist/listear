@@ -62,6 +62,10 @@
 ##.ads-r
 ##.ads_table
 ##.adsunits
+##.advert-left-slider
+##.advert-under-hedaer2
+##.advert-under-hedaer2-left
+##.advert-under-hedaer2-right
 ##.fix-ad
 ##.special-banner
 ##[href*="ad2games.com/"]
