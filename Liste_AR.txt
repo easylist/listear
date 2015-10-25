@@ -975,6 +975,7 @@
 ||skauu.com^$subdocument,domain=3mri-qtr.com
 ||souss24.com^$popup,domain=ilmaroc.org
 ||soussinfo.com/pub/
+||spa.gov.sa/images/banner/
 ||sponsor.arrahmah.net/
 ||star-cute.com/images/star-cute_10.png
 ||stardima.com/js1.php
