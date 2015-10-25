@@ -57,6 +57,7 @@
 ###footer_728x90_ad
 ###header_728x90_ad
 ###pubsidebar
+###topAdscenter
 ##.ads-l
 ##.ads-r
 ##.ads_table
