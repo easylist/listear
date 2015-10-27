@@ -23,6 +23,7 @@
 .net/e3lan/
 .ps/adds/
 /ads.php?$popup
+/adsleft.
 /advStatLib.js
 /advStatSettings.js
 /banner/e3lan.
