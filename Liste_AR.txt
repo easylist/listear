@@ -1263,6 +1263,7 @@ darendeal.com##.takeover
 ar-wp.com##.ten-banners
 al3abo.com##.topBannerBOX
 almesryoon.com##.topad
+octboot.com##.topbanner
 bokra.net##.tower
 bokra.net##.towerBanner
 bokra.net##.twoBanners
