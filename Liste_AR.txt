@@ -64,6 +64,8 @@
 ##.ads_table
 ##.adsunits
 ##.advert-left-slider
+##.advert-out-left
+##.advert-out-right
 ##.advert-under-hedaer2
 ##.advert-under-hedaer2-left
 ##.advert-under-hedaer2-right
