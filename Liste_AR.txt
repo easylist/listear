@@ -1454,6 +1454,7 @@ aflamy.com,dramacafe.tv,online.dramacafe.in,xaddad.com#@#.afs_ads
 @@||1009.ae/wp-content/plugins/wp-intern-ads/jquery.internads.js
 @@||ads.hsoub.com/$domain=hsoub.com
 @@||arabe-media.com/advertisement.js
+@@||arabemedia.tv/advertisement.js
 @@||arabhardware.net^$popup,domain=facebook.com
 @@||bawazir-tech.com/banners/
 @@||betakonline.com/advertisements/securimage/
