@@ -550,7 +550,7 @@
 ||arab4mp3.com/up/uploads/arab4mp3
 ||arab4mp3.com^*/banners/
 ||arabe-media.com/700.php
-||arabe-media.com/open18.js
+||arabe-media.com/open*.js
 ||arabemedia.tv/open*.js
 ||arabhard.co/open19.js
 ||arabhardware.net/$popup
