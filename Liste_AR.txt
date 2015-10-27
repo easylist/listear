@@ -1137,6 +1137,7 @@ mshkla.com###weblks
 s-ajfan.com###window10
 s-ajfan.com###window3
 s-ajfan.com###window9
+myegy.to##.AdContainer
 g5y.com,sedty.com##.Ads
 onothty.net,q8yatnews.com##.Ads2
 alwatannews.net##.Adv
@@ -1350,6 +1351,7 @@ elheddaf.com##a[style*="url(/data/pub/)"]
 elheddaf.com##a[style="width:100%; height:850px; display:block; background:#000 url(/data/pub/pub.jpg) no-repeat center top; position: relative;"]
 sat-vb.com##a[target="_blanck"] > img
 aliahmedali.com##a[target="_blank"] > img[width="235"][height="60"]
+myegy.to##a[target="_blank"][href^="/ad/"]
 alrealclub.com##a[title^="ينتهي في"]
 aswaqcity.com##div#vbseo_vhtml_0
 top555games.com##div[class^="adshp"]
