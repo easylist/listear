@@ -551,6 +551,7 @@
 ||arab4mp3.com^*/banners/
 ||arabe-media.com/700.php
 ||arabe-media.com/open18.js
+||arabemedia.tv/open*.js
 ||arabhard.co/open19.js
 ||arabhardware.net/$popup
 ||arablionz.com/histate/du.png
