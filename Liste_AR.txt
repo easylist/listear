@@ -1468,6 +1468,7 @@ aflamy.com,dramacafe.tv,online.dramacafe.in,xaddad.com#@#.afs_ads
 @@||echoroukonline.com/banners/half/
 @@||elhiwarnet.com/images/banners/meteo-hiwar.png
 @@||elmassar-ar.com/ara/ads/logo2010.swf
+@@||embratoria.com/advertisement.js
 @@||partner.googleadservices.com/gpt/pubads_$script,domain=forum.kooora.com
 @@||xaddad.com/advertisers/$~third-party
 !
