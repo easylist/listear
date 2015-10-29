@@ -1200,6 +1200,7 @@ marocemploi.net##.bg_link
 bokra.net##.bigStrip
 wmuae.net##.binsaad
 7s5.net##.black_overlay[style="display: block;"]
+bacdz.org##.blogroll
 ar-wp.com##.box
 inewsarabia.com##.box728
 ylla.net##.buntop
