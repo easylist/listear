@@ -838,6 +838,8 @@
 ||ma3hd.net$subdocument,domain=ma3hd.net
 ||ma3hd.net/js.php
 ||maas1.net^$subdocument,domain=liilas.com
+||madaresegypt.com/content/images/300_250
+||madaresegypt.com/content/images/720_90
 ||manga-ar.com/upload/adv/
 ||marmar.co.il/VIRARTICLES/FlashBannersnew/
 ||marmar.co.il/VIRARTICLES/shadv/
