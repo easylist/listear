@@ -104,6 +104,7 @@
 ||adsawesome.com^$popup,third-party
 ||adswinner.com^$third-party
 ||advantagz.com^$third-party
+||ato.mx^$popup,third-party
 ||delnapb.com^$popup,third-party
 ||delnapb.com^$third-party
 ||eclkmpbn.com^$third-party
@@ -889,6 +890,7 @@
 ||mwlaty.com/$subdocument,domain=f3al.com
 ||myegy.com/class.Pop.php
 ||myegy.com/RC-Killer.gif
+||myegy.to/ad/$popup
 ||mysite.ma/KHALID.js
 ||nadorcity.com/docs/imaipub.gif
 ||nadorcity.com/docs/kitra3.jpg
