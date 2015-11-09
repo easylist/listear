@@ -1105,6 +1105,7 @@ arabia.com###dvwidgetad
 akhersaa-dz.com###espace_pub_entete
 touteslesrecettes.fr###first
 elheddaf.com,ennaharonline.com###flash
+ahram.org.eg###floatit
 jsoftj.com###freet
 bacdz.org###head-banner
 rb7ne.com###header2
