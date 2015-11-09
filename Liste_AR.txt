@@ -699,9 +699,9 @@
 ||elcinema.com/images/booking-button-homepage.png
 ||eldjoumhouria.dz^*/pub/
 ||elhayatalarabiya.com^*/images/banner.gif
+||elheddaf.com/citro/
 ||elheddaf.com/data/dzauto.swf
 ||elheddaf.com/interstitiel/
-||elheddaf.com^*/pub/
 ||elhiwarnet.com^*/banners/
 ||elmaouid.com/images/stories/23-02-2012/300_a.gif
 ||elmaouid.com/images/stories/pub-twins-1.gif
