@@ -1073,7 +1073,7 @@ fatakat.com###ad1
 mbc.net###adSlot-inPage-300x250-left
 agarcom.com,s-oman.net###ad_global_below_navbar
 33sh8.com###adds
-ennaharonline.com,yakamar.com###ads
+yakamar.com###ads
 albaladeyes.com,ninjaup.com###ads1
 ninjaup.com###ads3
 moheet.com###ads_l_content
