@@ -63,6 +63,7 @@
 ###header_728x90_ad
 ###pubsidebar
 ###topAdscenter
+###topleftad
 ##.ads-l
 ##.ads-r
 ##.ads_table
@@ -76,6 +77,7 @@
 ##.e3lan
 ##.fix-ad
 ##.special-banner
+##.topleftad
 ##[href*="ad2games.com/"]
 ##a[href*=".hao123.com/?tn="] > img
 ##a[href*="/?track=ad:"]
