@@ -671,7 +671,6 @@
 ||e3lanat.cc^$popup,domain=aflamy.com
 ||eaglepro.net^$popup,domain=bramjnet.com
 ||easycima.com^$popup,domain=el7l.co
-||echoroukonline.com/img/aswak2.swf
 ||echoroukonline.com/sponsors/
 ||educ40.net/hotcourses.swf
 ||educ40.net/images/hotcourses.gif
@@ -1073,11 +1072,7 @@ ounousa.com###TopBanner
 fatakat.com###ad1
 mbc.net###adSlot-inPage-300x250-left
 agarcom.com,s-oman.net###ad_global_below_navbar
-echoroukonline.com###add
-echoroukonline.com###addalbum_f
-echoroukonline.com###addpurple_f
 33sh8.com###adds
-echoroukonline.com###addtop_f
 ennaharonline.com,yakamar.com###ads
 albaladeyes.com,ninjaup.com###ads1
 ninjaup.com###ads3
@@ -1113,7 +1108,6 @@ bacdz.org###head-banner
 rb7ne.com###header2
 nuqudy.com###headeradv
 masrawy.com###hleader
-echoroukonline.com###hor_add_f
 masrawy.com###hswcase
 iq-vb.net###layer1
 contactcars.com###leaderBoard
@@ -1383,7 +1377,6 @@ inewsarabia.com##div[style="width:300px; height:250px;"]
 jordanzad.com##div[style="width:306px;height:63px;"]
 jordanzad.com##div[style="width:600px;height:80px;"]
 5foq.com##div[style="width:680px;height:180px;float:left;margin-left:5px;margin-top:25px"]
-echoroukonline.com##div[style="width:728px;height:90px;margin: 10px auto;"]
 f16f.com##div[style^="background:#ffffff;width:728px;height:90px;"]
 f16f.com##div[style^="display:block;background:#ffffff;width:300px;height:250px;"]
 darseries.com##div[style^="width:325px;height:275px;"]
@@ -1471,7 +1464,6 @@ aflamy.com,dramacafe.tv,online.dramacafe.in,xaddad.com#@#.afs_ads
 @@||arabhardware.net^$popup,domain=facebook.com
 @@||bawazir-tech.com/banners/
 @@||betakonline.com/advertisements/securimage/
-@@||echoroukonline.com/banners/half/
 @@||elhiwarnet.com/images/banners/meteo-hiwar.png
 @@||elmassar-ar.com/ara/ads/logo2010.swf
 @@||embratoria.com/advertisement.js
