@@ -283,6 +283,7 @@
 ||l3bh.com^$popup,domain=7be.com
 ||llssll.com/vb/$subdocument,domain=a7lahmsa.com
 ||looktech.info/atsd_pop.js
+||m.worldtourisme.com^$popup
 ||m5zn.com/images/fmb_
 ||m5zn.com/open.js
 ||m5zn.com/open_
@@ -368,6 +369,7 @@
 ||soft365.com^$popup,domain=arabsh.com
 ||startdedicated.com/newbrz.gif
 ||support-ar.com^$popup,domain=friasat.com
+||swiftype.com^*/search?callback=$third-party
 ||tarfihe.com/fl/
 ||thouk.com/thouk.gif
 ||traidnt.net/link/fast_link.html?
