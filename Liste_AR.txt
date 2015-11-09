@@ -1126,6 +1126,7 @@ lakome.com###outside-left
 mazika2day.com###page_end_bans
 qalansuwa.com###pathway
 alwatannews.net###pnlAdv12
+elbilad.net###pub
 okanime.com###pubbbbbbb
 alarab.net###secncom
 arabia.com###showcase
