@@ -254,6 +254,7 @@
 ||giclub.tv/index.php?action=$image
 ||giphy.com/yoJC2BNz47Bh7Ya7Dy.gif
 ||goo.gl/2dWPk1
+||goo.gl^$popup,domain=cliprz.on.ma
 ||google.*/url?$popup,domain=rawabetvb.com
 ||google98.ir^
 ||goto.astdn.ru^$popup,third-party
@@ -1054,6 +1055,7 @@
 ||waraqat.net/*/thwalel.gif
 ||wasetamazon.com/upload/2015/08/amazon.png
 ||wiki-net.net/$subdocument,domain=panorama-istanbul.org
+||www.on.ma/banner.
 ||xdahk.bihax.com^$popup,domain=bihax.com
 ||xtratube.net/player/*/codes.html
 ||y4yy.com/la3bty.gif
