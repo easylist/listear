@@ -706,6 +706,7 @@
 ||elhayatalarabiya.com^*/images/banner.gif
 ||elheddaf.com/citro/
 ||elheddaf.com/data/dzauto.swf
+||elheddaf.com/data/pub/
 ||elheddaf.com/interstitiel/
 ||elhiwarnet.com^*/banners/
 ||elmaouid.com/images/stories/23-02-2012/300_a.gif
