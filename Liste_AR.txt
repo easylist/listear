@@ -470,6 +470,7 @@
 ||7ooobe.com^*/a3lan
 ||7rcat.com/banar/
 ||7rcat.com^*/banar/
+||98ia.com/images/Banner/
 ||a7lacartoon.com/fetees.js
 ||a7lahmsa.com/vb/aerowindow/
 ||a7lahmsa.com/vb/open/
