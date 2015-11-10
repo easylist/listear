@@ -1036,7 +1036,6 @@
 ||vb.eqla3.com/code/*.html
 ||vb.zi-m.com/aerowindow/
 ||vb.zi-m.com/js.php
-||vbdar.com^$popup,domain=darseries.com
 ||vip4soft.com/draw.swf
 ||vip4soft.com/images/baneers/
 ||waraqat.net/*/games-banner.gif
@@ -1377,7 +1376,6 @@ yalladrama.tv##div[style$="height: 250px; width: 300px;"]
 arabe-media.com##div[style="color:#ffffff; font-family:verdana; font-size:16px; padding-bottom:15px; height: 100%; width: 100%;"]
 g5y.com##div[style="height:150px;"]
 i2arabic.com##div[style="height:90px; width:728px; text-align:center; margin:5px auto 0 auto;"]
-darseries.com##div[style="padding-top:5px; font-family:tahoma;float:right;width:100%;font-size:10pt;line-height:26px;height:31px;top: 12px;z-index:9999;text-align:right"]
 el7l.co##div[style="padding-top:5px;float:right;width:100%;font-size:16px;line-height:26px;height:31px;top: 12px;z-index:9999;text-align:right"]
 2flam.org##div[style="position: fixed; bottom: 1px; border: dashed 1px; right: 1px; background-color:#000000;padding:5px;"]
 inewsarabia.com##div[style="width:300px; height:250px;"]
@@ -1386,7 +1384,6 @@ jordanzad.com##div[style="width:600px;height:80px;"]
 5foq.com##div[style="width:680px;height:180px;float:left;margin-left:5px;margin-top:25px"]
 f16f.com##div[style^="background:#ffffff;width:728px;height:90px;"]
 f16f.com##div[style^="display:block;background:#ffffff;width:300px;height:250px;"]
-darseries.com##div[style^="width:325px;height:275px;"]
 arabnet5.com##div[style^="width:728px; height:90px;"]
 ##div[style^="z-index: 99999; position: fixed; width: 100%; background-color: rgb(251, 236, 173);"]
 eqla3.com##iframe
