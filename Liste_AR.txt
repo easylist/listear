@@ -247,6 +247,7 @@
 ||giclub.tv/index.php?action=$image
 ||giphy.com/yoJC2BNz47Bh7Ya7Dy.gif
 ||goo.gl/2dWPk1
+||google.*/url?$popup,domain=rawabetvb.com
 ||google98.ir^
 ||goto.astdn.ru^$popup,third-party
 ||gulfbase.com/APopUp.
@@ -949,6 +950,7 @@
 ||r-khleeg.net/open*.js
 ||r-khleeg.net/open/
 ||r-x0.com^$popup,domain=rb7ne.com
+||rawabetvb.com/open.js
 ||realmadridarabia.com^*/bnr_
 ||right-allthie-times.blogspot.com^$popup,domain=egynt.net
 ||rmadarab.com/rmad-pro/site/header/Banner_
