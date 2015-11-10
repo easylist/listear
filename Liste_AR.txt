@@ -48,6 +48,7 @@
 /vb/e3lan/*
 /vb/e3lanat/*
 /widget.advertisement.
+/xpopunder.js
 ://adscdn.
 \adds\adds.
 |http://e3lanat.
@@ -109,10 +110,12 @@
 ||adstract.com^$popup,third-party
 ||adswinner.com^$third-party
 ||advantagz.com^$third-party
+||atadserver.com^$third-party
 ||ato.mx^$popup,third-party
 ||delnapb.com^$popup,third-party
 ||delnapb.com^$third-party
 ||eclkmpbn.com^$third-party
+||egrana.com.br^$third-party
 ||ex-show.com^$third-party
 ||giwcini.ru^$third-party
 ||googleframe.net^$popup,third-party
@@ -124,6 +127,7 @@
 ||nosyezhe.com^$third-party
 ||nsfxaffiliates.com^$third-party
 ||popzila.com^$third-party
+||qwerty1.co.pl^$third-party
 ||removeadsnow.info^$popup,third-party
 ||septani.ru^$third-party
 ||waframedia.com^$third-party
@@ -192,6 +196,7 @@
 ||arianbco.ir^
 ||arjwana.com/468____.gif
 ||asalahpal.com/vb/$subdocument,domain=a7lahmsa.com
+||assistirseries.net/al/pag*.html
 ||awtad.com/www/
 ||b8cdn.com^*/affiliate-
 ||babal.net/tools/home.php?$third-party
@@ -215,6 +220,8 @@
 ||diwanee.net/?ref=
 ||dohaup.com/up/2010-05-07/dohaup_206097194.gif
 ||dramacafe.tv/Adblock_
+||dropvideo.com/adorika/
+||dropvideo.com/adorika/$popup
 ||dubizzle.com^*/?utm_source=$popup
 ||dzautos.com/data/dzauto.swf
 ||easycima.com^$popup,third-party
