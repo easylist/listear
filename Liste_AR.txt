@@ -92,6 +92,7 @@
 ##a[href^="ads.php?id="]
 ##a[href^="http://cdn.adstract.com/adstract/tags/xdirect/xdirect.html?"]
 ##a[href^="http://drivercardusa.info/"]
+##a[href^="http://go.ad2up.com/"]
 ##a[href^="http://share.payoneer-affiliates.com/"]
 ##a[href^="http://www.fusebux.com/index.php?r="] > img
 ##a[href^="http://www.probux.com/?rh="] > img
