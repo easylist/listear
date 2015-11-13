@@ -66,6 +66,7 @@
 ###pubsidebar
 ###topAdscenter
 ###topleftad
+##.ads-728
 ##.ads-l
 ##.ads-r
 ##.ads_table
@@ -112,6 +113,7 @@
 ||advantagz.com^$third-party
 ||atadserver.com^$third-party
 ||ato.mx^$popup,third-party
+||booksuper.info^$popup,third-party
 ||delnapb.com^$popup,third-party
 ||delnapb.com^$third-party
 ||eclkmpbn.com^$third-party
@@ -130,6 +132,7 @@
 ||qwerty1.co.pl^$third-party
 ||removeadsnow.info^$popup,third-party
 ||septani.ru^$third-party
+||toolsackie.info^$third-party
 ||waframedia.com^$third-party
 !
 !----------------------- Publicités tierces ----------------------!
@@ -210,6 +213,7 @@
 ||blogspot.com^*/al3abo.png$domain=th3professional.com
 ||bothemes.com^*/popup.js
 ||casasky.com/bannerslider/
+||cinemalek.com^$popup,domain=skymiga.com
 ||cnbcarabia.com/top_banner.php
 ||cs-proton.tv/images/banner-*.
 ||ctn-abbas.com/*_ads.
