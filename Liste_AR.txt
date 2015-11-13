@@ -122,7 +122,6 @@
 ||giwcini.ru^$third-party
 ||googleframe.net^$popup,third-party
 ||hla-media.com^$third-party
-||hsoubcdn.com^$third-party
 ||irclick.net^$popup,third-party
 ||irclick.net^$third-party
 ||kingtopdeals.com^$third-party
