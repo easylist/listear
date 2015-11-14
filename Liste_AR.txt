@@ -155,6 +155,7 @@
 ||5bre.com/images/5bre.gif
 ||5jle.com^$popup,domain=maas1.com
 ||5short.com/short/autokey.php
+||7aga.top^$popup,domain=myegy.to
 ||7bbb7.com/vb/$popup,domain=s-ajfan.com
 ||7bbb7.com/vb/$subdocument,domain=s-ajfan.com
 ||a7la-games.com/b/
@@ -1356,6 +1357,7 @@ ouamer.com##a[href^="http://eepurl.com/"]
 hawahome.com##a[href^="http://forum.hawahome.com/ads.php?"]
 algareda.com,arabseed.com,cima4u.com##a[href^="http://goo.gl/"]
 mwordpress.net##a[href^="http://mwordpress.net/visit/"]
+myegy.to##a[href^="http://myegy.to/ad/"]
 ktaby.com##a[href^="http://performance.ikoo.com/"]
 alnaddy.com##a[href^="http://www.acdcads.com/tracks/"]
 almosafr.com##a[href^="http://www.almosafr.com/forum/ads.php?"]
