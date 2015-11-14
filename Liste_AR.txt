@@ -210,6 +210,7 @@
 ||bayt.com/widgets/get_jobs_widget?
 ||bdyamall.com/banner
 ||beeieg.com/bums//js.php?
+||berlintravelguide.org/tag/$third-party
 ||bit.ly/hxLEG7
 ||blogspot.com^*/al3abo.png$domain=th3professional.com
 ||bothemes.com^*/popup.js
@@ -390,6 +391,7 @@
 ||tarfihe.com/fl/
 ||thouk.com/thouk.gif
 ||traidnt.net/link/fast_link.html?
+||travel360.asia/banner/
 ||tumblr.com/$subdocument,domain=s-ajfan.com
 ||tvgate.tv/tvgate/campaign/
 ||tvmasrnet-javafiles.googlecode.com/files/Ads
