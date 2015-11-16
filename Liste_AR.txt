@@ -1061,6 +1061,7 @@
 ||vb.eqla3.com/code/*.html
 ||vb.zi-m.com/aerowindow/
 ||vb.zi-m.com/js.php
+||vb4arb.com/jorboxhost.png
 ||vip4soft.com/draw.swf
 ||vip4soft.com/images/baneers/
 ||waraqat.net/*/games-banner.gif
