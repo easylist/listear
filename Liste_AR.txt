@@ -33,6 +33,7 @@
 /banner/vb/images/e3lan.
 /clash/ads/*
 /clash/banner-
+/code-float-ad.
 /e3lan/e3lan.
 /images/al-e3lnat/*
 /images/e3lan.
@@ -140,6 +141,7 @@
 ||0sat.com/photo0sat/
 ||0zz0.com/2012/07/28/21/250712642.gif
 ||222z.biz/maged.gif
+||3liba.com/upload/$image,third-party
 ||3nwd.com/uploads/3nwd-1367442631216.gif
 ||3rabgamer.net^*/banner/
 ||3rbup.com/plugins/imageviewer/site/direct.php?s=2d82009cee6b9b33
@@ -410,6 +412,7 @@
 ||wadize2ab.com^$subdocument,domain=a7lahmsa.com
 ||waffarnalk.com/widget/
 ||wald-aden.com/mghrdon.gif
+||wasetamazon.com/upload/$image,third-party
 ||wdbook.net^$subdocument,domain=wadilarab.com
 ||web4africa.net/banners/
 ||widgipedia.com/widgets/$third-party
@@ -797,6 +800,7 @@
 ||i3z.net/styles/3iz/images/Bnr2.png
 ||ibda3gate.com/vb/ebda3gate/img/banner.png
 ||ibda3gate.com/vb/ebda3gate/img/banner2.png
+||img.zi-m.com/uploads/144484938351.gif
 ||infosoir.com/images/pub.gif
 ||iranproud.com/ad$popup
 ||islamweb.net^*/OBanners
