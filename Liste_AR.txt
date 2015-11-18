@@ -116,6 +116,7 @@
 ||atadserver.com^$third-party
 ||ato.mx^$popup,third-party
 ||booksuper.info^$popup,third-party
+||brombrombo.in^$third-party
 ||delnapb.com^$popup,third-party
 ||delnapb.com^$third-party
 ||eclkmpbn.com^$third-party
@@ -190,6 +191,7 @@
 ||api.yamli.com/checkin.ashx?
 ||arabdvd.net/banner/
 ||arabearpiece.com/big.png
+||arabianbinaryclub.com/popup.php?$popup
 ||arabiawin.com^$popup
 ||arabic-developers.com^*/bnr/
 ||arabs-up.com/adv.jpg
