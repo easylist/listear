@@ -198,6 +198,7 @@
 ||arabs-up.com/adv.jpg
 ||arabseed.com/1st/deserts*.js
 ||arabsh.com/red.php$popup,domain=nono6.com
+||arascoop.com^$popup,domain=aracinema.co
 ||arblue.com/5.gif
 ||arblue.com/5ligi.gif
 ||arblue.com/9.gif
