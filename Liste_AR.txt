@@ -1146,6 +1146,8 @@ bacdz.org###head-banner
 rb7ne.com###header2
 nuqudy.com###headeradv
 masrawy.com###hleader
+facenama.com###home-left-120
+facenama.com###home-top-468
 masrawy.com###hswcase
 iq-vb.net###layer1
 contactcars.com###leaderBoard
@@ -1175,6 +1177,7 @@ maas1.com,uskarmawi.com###topads
 mazika2day.com###topban
 alarab.net###topbanner
 a7lashare.com,iq-vb.net,sm3na.com,ultshare.com###topbar
+facenama.com###user-468
 hawaaworld.com###vacuumcleaners
 firedrive.com###ve_box
 europages.ma###vipBox
@@ -1356,6 +1359,7 @@ uiraqi.com##a[href^="/ads.php?"]
 nadorcity.com##a[href^="/ads/"]
 felmedan.com##a[href^="/banners/"]
 n4hr.com##a[href^="/bnnr.php?do="]
+facenama.com##a[href^="/click/id:"]
 jordanzad.com##a[href^="ad.php?"]
 saidaonline.com##a[href^="advertising.php?"]
 ghnoh.com,l7en.com##a[href^="banner.php?id="]
