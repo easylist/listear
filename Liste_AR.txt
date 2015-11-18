@@ -143,6 +143,7 @@
 ||0zz0.com/2012/07/28/21/250712642.gif
 ||222z.biz/maged.gif
 ||3liba.com/upload/$image,third-party
+||3liexp.com/upload/$image,third-party
 ||3nwd.com/uploads/3nwd-1367442631216.gif
 ||3rabgamer.net^*/banner/
 ||3rbup.com/plugins/imageviewer/site/direct.php?s=2d82009cee6b9b33
@@ -248,6 +249,8 @@
 ||esdaraty.com/images/etisalat-al.jpg
 ||esdaraty.com/images/free-calls.jpg
 ||f-riends.com/ads/$popup
+||facenama.com/popup.php?
+||facenama.com/popup.php?$popup
 ||famquote.com/facebook$third-party
 ||fitness-4-life.org.uk^*/Sports-160-x-600-Animation.gif
 ||foldersoft.com/holl.jpg
@@ -255,6 +258,7 @@
 ||forsangaza.net/vb/$popup,domain=a7lahmsa.com
 ||forsangaza.net/vb/$subdocument,domain=a7lahmsa.com
 ||freewebsubmission.com/images/fwsbanner
+||funtarin.ir/redirect.php?$popup
 ||g2g2.net/banars/
 ||g44g.com/g44g-games.gif
 ||galileosolutions.net^*/banners_
@@ -284,6 +288,7 @@
 ||i61.tinypic.com/3343gnl.gif
 ||i65.servimg.com/u/f65/15/95/28/21/uoooo-10.gif
 ||i7dollar.com/i1dollar.jpg
+||iareej.com/upload/$image,third-party
 ||icom-sat.net/Images/%D8%AF%D8%B9%D8%A7%D9%8A%D8%A7%D8%AA/
 ||imageshack.us/img195/9178/28906591.jpg
 ||imageshack.us/img22/7856/81950907.jpg
