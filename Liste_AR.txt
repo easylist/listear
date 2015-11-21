@@ -64,7 +64,6 @@
 ||adstract.com^$popup,third-party
 ||adswinner.com^$third-party
 ||advantagz.com^$third-party
-||atadserver.com^$third-party
 ||ato.mx^$popup,third-party
 ||booksuper.info^$popup,third-party
 ||brombrombo.in^$third-party
