@@ -42,7 +42,11 @@
 |http://e3lanat.
 !
 !----------------------- Éléments génériques -----------------!
+###advncdads-1
+###advncdads-2
+###advncdads-3
 ##.e3lan
+##.widget_advncdads
 ##[href*="ad2games.com/"]
 ##a[href*=".hao123.com/?tn="] > img
 ##a[href*="/?track=ad:"]
