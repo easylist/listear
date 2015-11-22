@@ -61,7 +61,9 @@
 !
 !----------------------- Annonceurs -----------------------!
 !
+||adbooth.com^$third-party
 ||adsrun.net^$third-party
+||erate.co.il^$third-party
 ||interadv.net^$third-party
 ||newpoptab.com^$popup,third-party
 ||prstatics.com^$third-party
