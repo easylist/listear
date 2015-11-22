@@ -187,7 +187,7 @@
 ||giclub.tv/index.php?action=$image
 ||giphy.com/yoJC2BNz47Bh7Ya7Dy.gif
 ||goo.gl/2dWPk1
-||goo.gl^$popup,domain=cliprz.on.ma
+||goo.gl^$popup,domain=cliprz.on.ma|egymotion.net
 ||google.*/url?$popup,domain=rawabetvb.com
 ||google98.ir^
 ||goto.astdn.ru^$popup,third-party
@@ -629,6 +629,7 @@
 ||educ40.net/images/kotobdz.gif
 ||egfire.com/O.js
 ||egy2day.com^$popup,domain=mazika2day.com
+||egymotion.net/pop/
 ||egynn.net/media/Vodafone_wap_push_banner.gif
 ||egypt.com/gui/images/banner.gif
 ||egyptwindow.net/Uploadedimage/dar-elbenaagdeed.gif
