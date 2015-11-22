@@ -22,11 +22,13 @@
 .ps/adds/
 /a3lan.htm$subdocument
 /adserver/iframe.$popup
+/advertisers/?utm_source=$popup
 /advStatLib.js
 /advStatSettings.js
 /banner/e3lan.
 /banner/vb/images/e3lan.
 /banner468a.
+/delivery/ifrm.
 /e3lan/e3lan.
 /images/al-e3lnat/*
 /images/e3lan.
@@ -59,6 +61,9 @@
 !
 !----------------------- Annonceurs -----------------------!
 !
+||adsrun.net^$third-party
+||interadv.net^$third-party
+||newpoptab.com^$popup,third-party
 ||prstatics.com^$third-party
 ||prwidgets.com^$popup,third-party
 !
@@ -90,6 +95,7 @@
 ||a7la-games.com/b/
 ||a7lahmsa.com/vb/$subdocument,domain=s-ajfan.com
 ||adnetechy.com/Aff/
+||adv.bokra.net^
 ||adv.videomega.tv^$popup
 ||af.gamepower7.com/*?aid=$popup,third-party
 ||aflamonlinee.org/new/$popup
