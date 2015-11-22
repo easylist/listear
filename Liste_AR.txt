@@ -21,10 +21,12 @@
 .net/e3lan/
 .ps/adds/
 /a3lan.htm$subdocument
+/adserver/iframe.$popup
 /advStatLib.js
 /advStatSettings.js
 /banner/e3lan.
 /banner/vb/images/e3lan.
+/banner468a.
 /e3lan/e3lan.
 /images/al-e3lnat/*
 /images/e3lan.
@@ -57,6 +59,8 @@
 !
 !----------------------- Annonceurs -----------------------!
 !
+||prstatics.com^$third-party
+||prwidgets.com^$popup,third-party
 !
 !----------------------- Publicités tierces ----------------------!
 !
@@ -85,6 +89,7 @@
 ||7bbb7.com/vb/$subdocument,domain=s-ajfan.com
 ||a7la-games.com/b/
 ||a7lahmsa.com/vb/$subdocument,domain=s-ajfan.com
+||adnetechy.com/Aff/
 ||adv.videomega.tv^$popup
 ||af.gamepower7.com/*?aid=$popup,third-party
 ||aflamonlinee.org/new/$popup
@@ -119,6 +124,7 @@
 ||arabs-up.com/adv.jpg
 ||arabseed.com/1st/deserts*.js
 ||arabsh.com/red.php$popup,domain=nono6.com
+||arabytech.com/iframe/
 ||arascoop.com^$popup,domain=aracinema.co
 ||arblue.com/5.gif
 ||arblue.com/5ligi.gif
