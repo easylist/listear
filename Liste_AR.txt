@@ -21,6 +21,7 @@
 .net/e3lan/
 .ps/adds/
 /a3lan.htm$subdocument
+/ad-360-280-player.
 /adserver/iframe.$popup
 /advertisers/?utm_source=$popup
 /advStatLib.js
@@ -1020,6 +1021,7 @@
 ||xtratube.net/player/*/codes.html
 ||y4yy.com/la3bty.gif
 ||ya3ale.com/aerowindow/
+||yaislam.com/menux160.html
 ||yakamar.com/vb/open.js
 ||yalladrama.tv/js.php
 ||yalladrama.tv/player/Download-icon.gif
