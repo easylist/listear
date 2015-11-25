@@ -1466,3 +1466,4 @@ risalaradio.com#@#.ad-cell
 @@.png#$image,domain=elmoslsal.com
 @@||elmoslsal.com^$elemhide
 @@||showsport-tv.com/advert.js
+!
