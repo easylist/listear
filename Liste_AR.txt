@@ -27,8 +27,6 @@
 /advStatLib.js
 /advStatSettings.js
 /banner/e3lan.
-/banner/vb/images/e3lan.
-/banner468a.
 /delivery/ifrm.
 /e3lan/e3lan.
 /images/al-e3lnat/*
