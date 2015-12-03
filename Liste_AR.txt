@@ -27,6 +27,7 @@
 /advStatLib.js
 /advStatSettings.js
 /banner/e3lan.
+/banner_show.
 /delivery/ifrm.
 /e3lan/e3lan.
 /images/al-e3lnat/*
@@ -41,9 +42,13 @@
 |http://e3lanat.
 !
 !----------------------- Éléments génériques -----------------!
+###ads46860
+###ads72890
 ###advncdads-1
 ###advncdads-2
 ###advncdads-3
+##.ads46860
+##.ads72890
 ##.e3lan
 ##.widget_advncdads
 ##[href*="ad2games.com/"]
