@@ -76,6 +76,7 @@
 !
 ||0sat.com/photo0sat/
 ||0zz0.com/2012/07/28/21/250712642.gif
+||2.mykora.net^
 ||222z.biz/maged.gif
 ||3liba.com/upload/$image,third-party
 ||3liexp.com/upload/$image,third-party
@@ -220,6 +221,7 @@
 ||host-image.net/images/91089games-banner.gif
 ||hostgator.com^*/banners/
 ||hotelscombined.com/Affiliate/Widgets/
+||i.imgur.com/7I3wwJb.gif
 ||i39.servimg.com/u/f39/17/77/85/37/691110.gif
 ||i61.servimg.com/u/f61/13/31/64/02/banner10.jpg
 ||i61.tinypic.com/14npuzs.gif
