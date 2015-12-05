@@ -649,7 +649,7 @@
 ||dostor.org/images/stories/300x150.gif
 ||dramacafe.tv/dramacafe.js
 ||dreambox-tunisie.com/vb/500.gif
-||dzecole.com/^$popup,domain=bacdz.org
+||dzecole.com^$popup,domain=bacdz.org
 ||e-mailaat.com/banarat/
 ||e3lanat.cc^$popup,domain=aflamy.com
 ||eaglepro.net^$popup,domain=bramjnet.com
