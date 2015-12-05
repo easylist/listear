@@ -178,6 +178,7 @@
 ||diwanee.net/?ref=
 ||dohaup.com/up/2010-05-07/dohaup_206097194.gif
 ||dramacafe.tv/Adblock_
+||dressupgal.com^$popup,domain=brbbi.com
 ||dropvideo.com/adorika/$popup
 ||dubizzle.com^*/?utm_source=$popup
 ||dzautos.com/data/dzauto.swf
