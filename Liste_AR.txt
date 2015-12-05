@@ -112,6 +112,8 @@
 ||aflamonlinee.org/new/$popup
 ||agarcom.com/up/uploads/1375263039741.gif
 ||al-ghla.net/vb/$subdocument,domain=a7lahmsa.com
+||al3ab.snjab.com/arabtravelers.jpg
+||al3ab.snjab.com/transit.jpg
 ||al3ab2014.com^$popup,third-party
 ||al3abcooking.com/al3abcooking.gif
 ||alal3ab.net^$popup,third-party
@@ -340,6 +342,7 @@
 ||skauu.com/add/
 ||soft365.com^$popup,domain=arabsh.com
 ||startdedicated.com/newbrz.gif
+||store2.up-00.com/2015-11/1448360624071.gif
 ||support-ar.com^$popup,domain=friasat.com
 ||swiftype.com^*/search?callback=$third-party
 ||tarfihe.com/fl/
