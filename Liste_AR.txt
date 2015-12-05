@@ -861,6 +861,7 @@
 ||misbahinet.com/blog/wp-content/uploads/125.gif
 ||misryh.com/open.js
 ||misryh.com/open/
+||mlbanners.misrlinks.com^
 ||mobihall.com/data/adv/
 ||mobtada.com/files/banners_days/
 ||montadaphp.net/hamada_banner.png
@@ -1357,7 +1358,9 @@ elheddaf.com##a[style*="url(/data/pub/)"]
 elheddaf.com##a[style="width:100%; height:850px; display:block; background:#000 url(/data/pub/pub.jpg) no-repeat center top; position: relative;"]
 sat-vb.com##a[target="_blanck"] > img
 aliahmedali.com##a[target="_blank"] > img[width="235"][height="60"]
+misrlinks.com##a[target="_blank"][href*="to-"]
 myegy.to##a[target="_blank"][href^="/ad/"]
+misrlinks.com##a[target="_blank"][href^="to-"]
 alrealclub.com##a[title^="ينتهي في"]
 aswaqcity.com##div#vbseo_vhtml_0
 top555games.com##div[class^="adshp"]
