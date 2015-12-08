@@ -30,6 +30,7 @@
 /banner_show.
 /delivery/ifrm.
 /e3lan/e3lan.
+/files/adv/*
 /images/al-e3lnat/*
 /images/e3lan.
 /images/e3lan/*
