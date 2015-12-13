@@ -2,7 +2,7 @@
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
-! Mises à jour : https://code.google.com/p/liste-ar-adblock/source/list
+! Mises à jour : https://hg.adblockplus.org/listear/shortlog
 ! Licence : http://creativecommons.org/licenses/by-nc-sa/3.0/
 ! Homepage: http://code.google.com/p/liste-ar-adblock/
 !
