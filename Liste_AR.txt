@@ -1477,6 +1477,7 @@ risalaradio.com#@#.ad-cell
 !
 /adblock-detector.js
 @@.png#$image,domain=elmoslsal.com
+@@/adv.php?xadb=$script,third-party,domain=afreesms.com
 @@||coolkora.com^$elemhide
 @@||elmoslsal.com^$elemhide
 @@||showsport-tv.com/advert.js
