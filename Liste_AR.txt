@@ -1164,7 +1164,7 @@ souq.com##.ad2
 egy4up.net,gornalak.com##.ad_left
 egy4up.net,gornalak.com##.ad_right
 add-anime.net##.adblock
-arabictorrent.net##.ads
+arabictorrent.net,proteachin.com##.ads
 toptwitt.com##.ads2
 elraaed.com##.ads_1
 kalemaro.com##.adsance
