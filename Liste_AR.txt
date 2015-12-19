@@ -144,6 +144,7 @@
 ||arabs-up.com/adv.jpg
 ||arabseed.com/1st/deserts*.js
 ||arabsh.com/red.php$popup,domain=nono6.com
+||arabtx.com^$popup,domain=myegy.to
 ||arabytech.com/iframe/
 ||arascoop.com^$popup,domain=aracinema.co
 ||arblue.com/5.gif
