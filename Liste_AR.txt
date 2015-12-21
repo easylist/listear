@@ -105,14 +105,12 @@
 ||7bbb7.com/vb/$popup,domain=s-ajfan.com
 ||7bbb7.com/vb/$subdocument,domain=s-ajfan.com
 ||a7la-games.com/b/
-||a7lahmsa.com/vb/$subdocument,domain=s-ajfan.com
 ||adnetechy.com/Aff/
 ||adv.bokra.net^
 ||adv.videomega.tv^$popup
 ||af.gamepower7.com/*?aid=$popup,third-party
 ||aflamonlinee.org/new/$popup
 ||agarcom.com/up/uploads/1375263039741.gif
-||al-ghla.net/vb/$subdocument,domain=a7lahmsa.com
 ||al3ab.snjab.com/arabtravelers.jpg
 ||al3ab.snjab.com/transit.jpg
 ||al3ab2014.com^$popup,third-party
@@ -134,7 +132,6 @@
 ||amazonaws.com/cicloudfront/js/convertmediaviewer-min.js?
 ||amazonaws.com/email/fatakat/
 ||amazonaws.com/irgames/bnrs/
-||anota-des.com/vb/$subdocument,domain=a7lahmsa.com
 ||api.yamli.com/checkin.ashx?
 ||arabdvd.net/banner/
 ||arabearpiece.com/big.png
@@ -153,7 +150,6 @@
 ||arblue.com/flm3.gif
 ||arianbco.ir^
 ||arjwana.com/468____.gif
-||asalahpal.com/vb/$subdocument,domain=a7lahmsa.com
 ||assistirseries.net/al/pag*.html
 ||awtad.com/www/
 ||b8cdn.com^*/affiliate-
@@ -204,8 +200,6 @@
 ||fitness-4-life.org.uk^*/Sports-160-x-600-Animation.gif
 ||foldersoft.com/holl.jpg
 ||forexxzx.blogspot.com.eg^$popup
-||forsangaza.net/vb/$popup,domain=a7lahmsa.com
-||forsangaza.net/vb/$subdocument,domain=a7lahmsa.com
 ||freewebsubmission.com/images/fwsbanner
 ||funtarin.ir/redirect.php?$popup
 ||g2g2.net/banars/
@@ -254,12 +248,10 @@
 ||jscsportlive.com/bzf.php
 ||kalemaro.com/open*.js
 ||karizmo.net/vb/karix.gif
-||ksa-ksa.com^$subdocument,domain=a7lahmsa.com
 ||ksadl3.com/468.gif
 ||kuwaitchat.net/750/750_150.gif
 ||l3bh.com/728.gif
 ||l3bh.com^$popup,domain=7be.com
-||llssll.com/vb/$subdocument,domain=a7lahmsa.com
 ||looktech.info/atsd_pop.js
 ||m.worldtourisme.com^$popup
 ||m5zn.com/images/fmb_
@@ -315,7 +307,7 @@
 ||postimg.org/hl6o7kygp/993966453_1.gif
 ||profvb.com/pub/
 ||ps-0.com/vb/$popup,domain=s-ajfan.com
-||ps-0.com/vb/$subdocument,domain=a7lahmsa.com|s-ajfan.com
+||ps-0.com/vb/$subdocument,domain=s-ajfan.com
 ||rackcdn.com/1114112_1114112.swf
 ||raya.ps^*/banners/
 ||realup.net/201001/1362674452.gif
@@ -325,7 +317,6 @@
 ||realup.net/201001/1374349753.gif
 ||roooo3.com^$popup,domain=arabsh.com
 ||rsbfoot.com/annonce/
-||s-ajfan.com/vb/$subdocument,domain=a7lahmsa.com
 ||saliny.com/bnr/
 ||samaup.com/uploads/1416251268231.jpg
 ||satarabia.net/v2/images/big_ar_banner.jpg
@@ -369,7 +360,6 @@
 ||upload.traidnt.net/upfiles/2A883338.gif
 ||upxmedia.com/$subdocument,domain=shofonline.net
 ||vip600.com/aaa/
-||wadize2ab.com^$subdocument,domain=a7lahmsa.com
 ||waffarnalk.com/widget/
 ||wald-aden.com/mghrdon.gif
 ||wasetamazon.com/upload/$image,third-party
@@ -442,8 +432,6 @@
 ||7rcat.com^*/banar/
 ||98ia.com/images/Banner/
 ||a7lacartoon.com/fetees.js
-||a7lahmsa.com/vb/aerowindow/
-||a7lahmsa.com/vb/open/
 ||actionha.net/stylesheets/takeover-rani/$stylesheet
 ||adf.ly^$popup,domain=nassamat.com
 ||adslgate.com/upload/*banner
@@ -1205,13 +1193,13 @@ bokra.net##.catsBanner
 hawamer.com##.centerBanner
 alweeam.com.sa##.content-banner
 masrawy.com,yallakora.com##.dealsoffer
-a7lahmsa.com,s-ajfan.com##.decoded
+s-ajfan.com##.decoded
 3a2ilati.com##.eshop-list
 arabs-up.com,arabsharing.com##.extras_footer
 arabs-up.com##.extras_header
 alwatanvoice.com##.flash-top
 bokra.net##.floatBanner
-a7lahmsa.com,al3ushaq.com,algremh.com,ktaby.com,linkat.lmseh.com,panorama-istanbul.org##.floatingWindowContent
+al3ushaq.com,algremh.com,ktaby.com,linkat.lmseh.com,panorama-istanbul.org##.floatingWindowContent
 firstlady99.com##.forumline td.row1 > a > img
 firstlady99.com##.forumline td.row1 > span > a > img
 filfan.com##.gads_MR
