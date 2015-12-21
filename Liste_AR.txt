@@ -140,7 +140,6 @@
 ||arabic-developers.com^*/bnr/
 ||arabs-up.com/adv.jpg
 ||arabseed.com/1st/deserts*.js
-||arabsh.com/red.php$popup,domain=nono6.com
 ||arabtx.com^$popup,domain=myegy.to
 ||arabytech.com/iframe/
 ||arascoop.com^$popup,domain=aracinema.co
@@ -881,7 +880,6 @@
 ||nogooom.com/open.php
 ||nogooom.com/up2/uploads/137659633062.gif
 ||nokiagate.com/bans/
-||nono6.com/open.js
 ||okanime.com/pub/
 ||oleeh.com/images/Adv
 ||op-arab.com/pro/
@@ -1137,8 +1135,6 @@ onothty.net,q8yatnews.com##.Ads2
 alwatannews.net##.Adv
 islamweb.net##.Advertising
 gulfbase.com##.AeroWindow
-nono6.com##.BannarDown
-nono6.com##.BannarTop
 ounousa.com##.HomeNewAndBanner
 yallakora.com##.Leaderboard
 m5zn.com##.LongGAds
@@ -1170,7 +1166,7 @@ roooo3.com##.advs
 arabhardware.net##.avd_display_block
 6ab5ty.com##.banar
 marocannonces.com##.baner
-3-tp.com,nono6.com,ta7a.com##.bannbox
+3-tp.com,ta7a.com##.bannbox
 akhbarona.com,alayam.com,darendeal.com##.banner
 mediamasr.tv##.banner-area
 aljazeerasport.tv##.banner-leaderboard
