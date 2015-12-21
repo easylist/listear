@@ -337,7 +337,6 @@
 ||soft365.com^$popup,domain=arabsh.com
 ||startdedicated.com/newbrz.gif
 ||store2.up-00.com/2015-11/1448360624071.gif
-||support-ar.com^$popup,domain=friasat.com
 ||swiftype.com^*/search?callback=$third-party
 ||tarfihe.com/fl/
 ||thouk.com/thouk.gif
