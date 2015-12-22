@@ -560,6 +560,7 @@
 ||arabseed.com/tvgate/
 ||arabseed.com/vlc.js
 ||arabseyes.com/php1.js
+||arabsgate.com/banners2/
 ||arabsh.com/motakalem/
 ||arabycommunity.com/babylon.gif
 ||arbface.co/httpwww-mrkz-thmel-swr-com.gif
@@ -1416,7 +1417,6 @@ k1g3.com##img[width="486"][height="60"]
 yakamar.com##img[width="494"][height="60"]
 rmadarab.com##img[width="500"][height="60"]
 rmadarab.com##img[width="600"][height="90"]
-arabsgate.com##img[width="645"][height="79"]
 jo-sharing.com##img[width="700"][height="120"]
 foxpic.com##img[width="728"][height="90"]
 chtoukapress.com##img[width="728px"][height="100px"]
