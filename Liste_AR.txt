@@ -111,6 +111,7 @@
 ||af.gamepower7.com/*?aid=$popup,third-party
 ||aflamonlinee.org/new/$popup
 ||agarcom.com/up/uploads/1375263039741.gif
+||al-wed.com/bnr/
 ||al3ab.snjab.com/arabtravelers.jpg
 ||al3ab.snjab.com/transit.jpg
 ||al3ab2014.com^$popup,third-party
@@ -355,6 +356,7 @@
 ||up.movizland.com/uploads/1438749062331.gif
 ||up07.net/open*.js
 ||up700.net/affiliates/
+||upload.al-wed.com/uploader/upload2009//765/01315078415.gif
 ||upload.traidnt.net/upfiles/2A883338.gif
 ||upxmedia.com/$subdocument,domain=shofonline.net
 ||vip600.com/aaa/
@@ -430,6 +432,7 @@
 ||7rcat.com^*/banar/
 ||98ia.com/images/Banner/
 ||a7lacartoon.com/fetees.js
+||absba.com/themes/TL4S-Absba/images/advhere*.gif
 ||actionha.net/stylesheets/takeover-rani/$stylesheet
 ||adf.ly^$popup,domain=nassamat.com
 ||adslgate.com/upload/*banner
@@ -1376,6 +1379,7 @@ arabe-media.com##iframe[width="300"][height="250"]
 el3b.sukrbnat.com##img[alt="M5znUpload"]
 bh-gn.com##img[alt="ضع إعلانك هنا"]
 algeriamax.com##img[alt="مساحة إعلانية"]
+absba.org##img[alt^="اعلان"]
 wed-alqlop.com##img[height="600"][width="160"]
 adslgate.com,wed-alqlop.com##img[height="90"][width="728"]
 lmseh.com##img[src^="http://www.up.lmseh.com/do.php?"]
@@ -1385,6 +1389,7 @@ dostor.org##img[style="width: 120px; height: 599px;"]
 k1g3.com##img[title="اعــلن مــــــعنا"]
 egynt.net,herosh.com,up-00.com##img[width="100"][height="35"]
 herosh.com##img[width="100"][height="40"]
+absba.org##img[width="100"][height="50"]
 arab-x.com##img[width="110"][height="35"]
 up-aa.com##img[width="115"][src^="templates/siti/img/"]
 sudaneseonline.com##img[width="120"][height="250"]
@@ -1412,7 +1417,7 @@ fonction-publique-dz.mountada.net##img[width="364"][height="60"]
 libyan-sat.com##img[width="400"][height="60"][style="margin: 0px 0px 0px 0px;"]
 mdredclub.com##img[width="460"][height="60"]
 jo-sharing.com##img[width="468"]
-3mri-qtr.com,foxpic.com,fraise-d.com,g-3e6r.com,hwaml.com,ksa-ads.info##img[width="468"][height="60"]
+3mri-qtr.com,absba.org,foxpic.com,fraise-d.com,g-3e6r.com,hwaml.com,ksa-ads.info##img[width="468"][height="60"]
 k1g3.com##img[width="486"][height="60"]
 yakamar.com##img[width="494"][height="60"]
 rmadarab.com##img[width="500"][height="60"]
