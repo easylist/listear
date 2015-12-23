@@ -163,6 +163,8 @@
 ||berlintravelguide.org/tag/$third-party
 ||bit.ly/hxLEG7
 ||blogspot.com^*/al3abo.png$domain=th3professional.com
+||bookingwebs.com/pop*.js
+||bookingwebs.com/redirect.php$popup
 ||bothemes.com^*/popup.js
 ||casasky.com/bannerslider/
 ||cinemalek.com^$popup,domain=skymiga.com
@@ -1286,6 +1288,7 @@ m-4u.net##a[class^="hcne_ads"]
 panorama-istanbul.org##a[href$="wiki-net.net/"]
 ksa-ksa.com##a[href*="/?adsclick=banner&id="]
 lakii.com##a[href*="ads-redirect.php?i="]
+arabictorrent.net##a[href="/dwl"]
 baitkebeer.com##a[href="http://adf.ly/O9EKG"]
 th3professional.com##a[href="http://ar.ouamer.com/"]
 egyup.com##a[href="http://bit.ly/138z4OL"]
