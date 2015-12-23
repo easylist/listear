@@ -297,6 +297,7 @@
 ||nadorimg.com/photos/kabdani.gif
 ||nadorimg.com/pub/
 ||neargood.com^$popup,third-party
+||newschuck.com/cpm/ad.php$popup
 ||nqashalhob.com/sharing.gif
 ||oi58.tinypic.com/28b60ev.jpg
 ||online-sale24.com^$script
@@ -1460,6 +1461,7 @@ elmoslsal.com##tr[style^="width:728px;"]
 @@||embratoria.com/advertisement.js
 @@||partner.googleadservices.com/gpt/pubads_$script,domain=forum.kooora.com
 @@||xaddad.com/advertisers/$~third-party
+@@||zee3rb.com/advertisement.js
 !
 !----------------------- Exceptions d'éléments -----------------------!
 !
