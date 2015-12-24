@@ -971,7 +971,6 @@
 ||shatelarab.com^*/banners/
 ||shattalarab.net/*/images/avd.png
 ||shofonline.org/megapop.js
-||site.elkhabar.com^
 ||skauu.com^$subdocument,domain=3mri-qtr.com
 ||sootwesora.com/images/bnr*.
 ||souss24.com^$popup,domain=ilmaroc.org
