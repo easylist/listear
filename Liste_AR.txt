@@ -1458,6 +1458,7 @@ elmoslsal.com##tr[style^="width:728px;"]
 @@||elhiwarnet.com/images/banners/meteo-hiwar.png
 @@||elmassar-ar.com/ara/ads/logo2010.swf
 @@||embratoria.com/advertisement.js
+@@||imbratoria.info/advertisement.js
 @@||partner.googleadservices.com/gpt/pubads_$script,domain=forum.kooora.com
 @@||xaddad.com/advertisers/$~third-party
 @@||zee3rb.com/advertisement.js
