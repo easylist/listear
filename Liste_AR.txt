@@ -1475,6 +1475,6 @@ risalaradio.com#@#.ad-cell
 @@||coolkora.com^$elemhide
 @@||elmoslsal.com^$elemhide
 @@||showsport-tv.com/advert.js
-aflamy.com,dramacafe.tv,online.dramacafe.in,xaddad.com#@#.afs_ads
+aflamy.com,dramacafe.tv,linuxarabic.com,online.dramacafe.in,xaddad.com#@#.afs_ads
 g9g.com#@##myAd
 ||howtoremoveadblock.com/js/adblock-detector.js$script
