@@ -48,6 +48,7 @@
 ###advncdads-1
 ###advncdads-2
 ###advncdads-3
+##.ad970
 ##.ads46860
 ##.ads72890
 ##.e3lan
@@ -58,6 +59,7 @@
 ##a[href*="adintop.com/outgoing/click.php?"]
 ##a[href*="booraq.org"]
 ##a[href*="dubizzle.com/ar/?utm_source="]
+##a[href^="http://arabyads.go2cloud.org/"]
 ##a[href^="http://cdn.adstract.com/adstract/tags/xdirect/xdirect.html?"]
 ##a[href^="http://drivercardusa.info/"]
 ##a[href^="http://go.ad2up.com/"]
