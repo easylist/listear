@@ -36,6 +36,7 @@
 /images/e3lan/*
 /images/e3lan3.
 /images/mrad.
+/in-ad_desktop/*
 /media/300250.
 /media/72890.
 /vb/e3lan/*
@@ -53,6 +54,12 @@
 ##.ads72890
 ##.e3lan
 ##.widget_advncdads
+##[ad-unit="160X600"]
+##[ad-unit="300X250"]
+##[ad-unit="300X600"]
+##[ad-unit="468X60"]
+##[ad-unit="728X300"]
+##[ad-unit="728X90"]
 ##[href*="ad2games.com/"]
 ##a[href*=".hao123.com/?tn="] > img
 ##a[href*="/?track=ad:"]
@@ -173,6 +180,7 @@
 ||cnbcarabia.com/top_banner.php
 ||cs-proton.tv/images/banner-*.
 ||ctn-abbas.com/*_ads.
+||d2ymkpxi1rgldj.cloudfront.net^
 ||d3b3e6340.website^
 ||d3oyytf0n6db9a.cloudfront.net^
 ||daralakhbar.com/widgetgen/$third-party
