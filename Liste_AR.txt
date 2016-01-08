@@ -81,6 +81,7 @@
 !
 ||adbooth.com^$third-party
 ||adsrun.net^$third-party
+||branchroughlend.info^$third-party
 ||erate.co.il^$third-party
 ||interadv.net^$third-party
 ||newpoptab.com^$popup,third-party
