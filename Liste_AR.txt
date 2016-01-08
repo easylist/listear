@@ -1049,6 +1049,7 @@
 ||zi-m.com/uploads/1416339632941.png
 ||zi-m.com/uploads/1417362976041.png
 ||zi-m.info/$subdocument,domain=zi-m.com
+||zyzoom.net^*/ads/
 !
 !----------------------- Éléments -----------------------!
 !
