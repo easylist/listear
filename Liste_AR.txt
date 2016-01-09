@@ -31,6 +31,9 @@
 /delivery/ifrm.
 /e3lan/e3lan.
 /files/adv/*
+/i3lan-1.
+/i3lan-2.
+/i3lan-3.
 /images/al-e3lnat/*
 /images/e3lan.
 /images/e3lan/*
