@@ -1100,6 +1100,7 @@ korabia.com###divLeaderBoard
 elaana.com,g5y.com,g5y5.com,m5zn.com###dropin
 arabia.com###dvleaderboard
 arabia.com###dvwidgetad
+echoroukonline.com###dztmp-back-link
 akhersaa-dz.com###espace_pub_entete
 touteslesrecettes.fr###first
 elheddaf.com,ennaharonline.com###flash
