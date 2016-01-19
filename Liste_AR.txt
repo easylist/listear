@@ -347,6 +347,8 @@ _arabycash.
 ||shnat.net/vb/images/14.jpg
 ||shnat.net/vb/images/bag.gif
 ||shofonline.org/open*.js
+||shor1.com/open*.js
+||shor1.com/tourisme.js
 ||short5.com/2d/popup.js
 ||shorte.st/link-converter.
 ||shwqna.at.ua/pop*.js
@@ -1468,7 +1470,6 @@ elmoslsal.com##tr[style^="width:728px;"]
 !
 @@||1009.ae/wp-content/plugins/wp-intern-ads/jquery.internads.js
 @@||ads.hsoub.com/$domain=hsoub.com
-@@||arabe-media.com/advertisement.js
 @@||arabemedia.tv/advertisement.js
 @@||arabhardware.net^$popup,domain=facebook.com
 @@||bawazir-tech.com/banners/
@@ -1490,7 +1491,7 @@ risalaradio.com#@#.ad-cell
 /adblock-detector.js
 @@.png#$image,domain=elmoslsal.com
 @@/adv.php?xadb=$script,third-party,domain=afreesms.com
-@@/advertisement.js$script,domain=akoam.com
+@@/advertisement.js$script,domain=akoam.com|arabe-media.com
 @@||coolkora.com^$elemhide
 @@||elmoslsal.com^$elemhide
 @@||showsport-tv.com/advert.js
