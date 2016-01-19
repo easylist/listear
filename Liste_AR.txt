@@ -44,6 +44,7 @@
 /media/72890.
 /vb/e3lan/*
 /vb/e3lanat/*
+_arabycash.
 |http://e3lanat.
 !
 !----------------------- Éléments génériques -----------------!
