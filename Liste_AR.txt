@@ -157,7 +157,7 @@ _arabycash.
 ||arabseed.com/1st/deserts*.js
 ||arabtx.com^$popup,domain=myegy.to
 ||arabytech.com/iframe/
-||arascoop.com^$popup,domain=aracinema.co
+||arascoop.com^$popup,domain=aracinema.co|aramosalsal.com
 ||arblue.com/5.gif
 ||arblue.com/5ligi.gif
 ||arblue.com/9.gif
