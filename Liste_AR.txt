@@ -71,6 +71,7 @@ _arabycash.
 !
 ||adbooth.com^$third-party
 ||adsrun.net^$third-party
+||arabytracking.com^$popup,third-party
 ||branchroughlend.info^$third-party
 ||erate.co.il^$third-party
 ||interadv.net^$third-party
