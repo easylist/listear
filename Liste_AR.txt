@@ -177,6 +177,7 @@ _arabycash.
 ||d3oyytf0n6db9a.cloudfront.net^
 ||daralakhbar.com/widgetgen/$third-party
 ||darendeal.com/widgets/recommendation_box?
+||dedicated-server-hosting.space^
 ||diwanee.net/?ref=
 ||dohaup.com/up/2010-05-07/dohaup_206097194.gif
 ||dramacafe.tv/Adblock_
