@@ -443,7 +443,7 @@ _arabycash.
 ||a7lacartoon.com/fetees.js
 ||absba.com/themes/TL4S-Absba/images/advhere*.gif
 ||actionha.net/stylesheets/takeover-rani/$stylesheet
-||adf.ly^$popup,domain=nassamat.com
+||adf.ly^$popup,domain=cods-gta.blogspot.com|nassamat.com
 ||adslgate.com/upload/*banner
 ||adslgate.com/upload/boxhop33.gif
 ||adslgate.com/upload/wadi-*-$image
