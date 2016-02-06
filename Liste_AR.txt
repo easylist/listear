@@ -1148,11 +1148,13 @@ onothty.net,q8yatnews.com##.Ads2
 alwatannews.net##.Adv
 islamweb.net##.Advertising
 gulfbase.com##.AeroWindow
+elwatannews.com##.HLB
 ounousa.com##.HomeNewAndBanner
 yallakora.com##.Leaderboard
 m5zn.com##.LongGAds
 filgoal.com##.MRContainer
 masrawy.com##.NewClassifieds
+elwatannews.com##.PM-ROS-MPU
 swalif.net##.ShowThreadAdplace
 physique48.org##.TOOLbarB
 alhayat.com##.TopHeaderBanner
