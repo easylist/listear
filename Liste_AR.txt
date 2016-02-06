@@ -77,10 +77,14 @@ _arabycash.
 ||arabytracking.com^$popup,third-party
 ||branchroughlend.info^$third-party
 ||erate.co.il^$third-party
+||finishclueobscure.info^$popup,third-party
+||finishclueobscure.info^$third-party
+||grouchyaccessoryrockefeller.com^$popup,third-party
 ||interadv.net^$third-party
 ||newpoptab.com^$popup,third-party
 ||prstatics.com^$third-party
 ||prwidgets.com^$popup,third-party
+||retainguaninefluorite.info^$third-party
 !
 !----------------------- Publicités tierces ----------------------!
 !
