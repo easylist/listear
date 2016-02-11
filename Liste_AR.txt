@@ -44,6 +44,7 @@ _arabycash.
 ##.ad250250
 ##.ad46860
 ##.ad970
+##.advSmall
 ##.e3lan
 ##.logoAdv
 ##.smiliar_ads
@@ -1225,6 +1226,7 @@ bokra.net##.floatBanner
 al3ushaq.com,algremh.com,ktaby.com,linkat.lmseh.com,panorama-istanbul.org##.floatingWindowContent
 firstlady99.com##.forumline td.row1 > a > img
 firstlady99.com##.forumline td.row1 > span > a > img
+youm7.com##.fullBanner
 filfan.com##.gads_MR
 almasryalyoum.com##.gam-holder
 moheet.com##.gplus
@@ -1234,7 +1236,7 @@ bramj.co,qwled.com##.headerbanner
 msryh.com##.indexbnrleft
 filgoal.com##.inner_leaderboard
 n4hr.com##.ladv
-arabia.com##.leaderBoard
+arabia.com,youm7.com##.leaderBoard
 masrawy.com##.leaderbg
 ounousa.com,z4ar.com##.leaderboard
 filbalad.com##.leaderbord
