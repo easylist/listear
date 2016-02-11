@@ -709,6 +709,7 @@ _arabycash.
 ||elso9.biz/$subdocument,domain=ya3ale.com
 ||elso9.com/$subdocument,domain=ya3ale.com
 ||emaratalyoum.com^*/banners/
+||ency-education.com/uploads/3/0/9/3/309326/3245017_orig.gif
 ||english-guide.com/images/banners/
 ||englishforarabs.com/iphone-ad.png
 ||eqla3.com/if/code*.htm
@@ -795,6 +796,7 @@ _arabycash.
 ||kalemaro.com/dezndev*.js
 ||kashta.net^$subdocument,domain=syrcafe.net
 ||kazaroza.net^$popup,domain=arablionz.com
+||kech24.com/photo/pharmacie_de_garde_marrakech.gif
 ||khaleejcal.com^*/banners/
 ||kitabatnews.com/images/banners/
 ||kleeja.com/static/images/e3/
@@ -1325,7 +1327,7 @@ s-oman.net##a[href="http://www.rennamobile.com/promotions/"]
 fivesat.net,k1g3.com##a[href="http://www.sharing-sat.com"]
 700bk.com##a[href="http://www.wasety.com/"]
 uiraqi.com##a[href^="/ads.php?"]
-nadorcity.com##a[href^="/ads/"]
+kech24.com,nadorcity.com##a[href^="/ads/"]
 felmedan.com##a[href^="/banners/"]
 n4hr.com##a[href^="/bnnr.php?do="]
 facenama.com##a[href^="/click/id:"]
