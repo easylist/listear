@@ -1237,6 +1237,7 @@ msryh.com##.indexbnrleft
 filgoal.com##.inner_leaderboard
 n4hr.com##.ladv
 arabia.com,youm7.com##.leaderBoard
+youm7.com##.leaderBoard1
 masrawy.com##.leaderbg
 ounousa.com,z4ar.com##.leaderboard
 filbalad.com##.leaderbord
