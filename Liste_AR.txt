@@ -45,6 +45,7 @@ _arabycash.
 ##.ad46860
 ##.ad970
 ##.e3lan
+##.logoAdv
 ##.smiliar_ads
 ##.widget_advncdads
 ##[ad-unit="160X600"]
