@@ -1501,11 +1501,12 @@ risalaradio.com#@#.ad-cell
 !---------------------------- Anti-Adblock ---------------------------!
 !
 /adblock-detector.js
-@@.png#$image,domain=elmoslsal.com
+@@.png#$image,domain=elmoslsal.com|up.media1fire.com
 @@/adv.php?xadb=$script,third-party,domain=afreesms.com
 @@/advertisement.js$script,domain=akoam.com|arabe-media.com
 @@||coolkora.com^$elemhide
 @@||elmoslsal.com^$elemhide
+@@||media1fire.com^$generichide
 @@||showsport-tv.com/advert.js
 aflamy.com,dramacafe.tv,linuxarabic.com,online.dramacafe.in,xaddad.com#@#.afs_ads
 g9g.com#@##myAd
