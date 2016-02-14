@@ -97,6 +97,7 @@ _arabycash.
 ||0zz0.com/2012/07/28/21/250712642.gif
 ||2.mykora.net^
 ||222z.biz/maged.gif
+||37.59.72.131^
 ||3liba.com/upload/$image,third-party
 ||3liexp.com/upload/$image,third-party
 ||3nwd.com/uploads/3nwd-1367442631216.gif
@@ -407,6 +408,8 @@ _arabycash.
 ||zupimages.net/up/2/1045181967.png
 ! http://cima4u.tv/tv/View/6502
 ||banotacool.co^$popup
+! http://mediafree.co/yawhh54rhx1r/pat.rar.html
+||cinemalek.com^$popup
 !
 !----------------------- Sites spécifiques -----------------------!
 !
