@@ -76,7 +76,10 @@ _arabycash.
 !
 ||adbooth.com^$third-party
 ||adsrun.net^$third-party
+||adzouktech.com^$popup,third-party
+||adzouktech.com^$third-party
 ||arabytracking.com^$popup,third-party
+||arabytracking.com^$third-party
 ||branchroughlend.info^$third-party
 ||erate.co.il^$third-party
 ||finishclueobscure.info^$popup,third-party
@@ -1378,7 +1381,6 @@ elheddaf.com##a[style="width:100%; height:850px; display:block; background:#000 
 sat-vb.com##a[target="_blanck"] > img
 aliahmedali.com##a[target="_blank"] > img[width="235"][height="60"]
 misrlinks.com##a[target="_blank"][href*="to-"]
-myegy.to##a[target="_blank"][href^="/ad/"]
 misrlinks.com##a[target="_blank"][href^="to-"]
 alrealclub.com##a[title^="ينتهي في"]
 aswaqcity.com##div#vbseo_vhtml_0
