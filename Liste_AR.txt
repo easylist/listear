@@ -505,6 +505,8 @@ _arabycash.
 ||albrq.net/open*.js
 ||aldjadidonline.com/files/images/bup728.jpg
 ||alfajertv.com/bedata/*_ad.jpg
+||alfajertv.com/data/banners/
+||alfajertv.com/data/flash/
 ||alfajertv.com^*/banner/
 ||algareda.com/images/takeovers.jpg
 ||algeria-dream.com/vb/sharing.gif
