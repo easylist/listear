@@ -270,6 +270,7 @@ _arabycash.
 ||kuwaitchat.net/750/750_150.gif
 ||l3bh.com/728.gif
 ||l3bh.com^$popup,domain=7be.com
+||leadpages.co/leadbox-
 ||looktech.info/atsd_pop.js
 ||m.worldtourisme.com^$popup
 ||m5zn.com/images/fmb_
@@ -1324,6 +1325,7 @@ m-4u.net##a[class^="hcne_ads"]
 panorama-istanbul.org##a[href$="wiki-net.net/"]
 ksa-ksa.com##a[href*="/?adsclick=banner&id="]
 lakii.com##a[href*="ads-redirect.php?i="]
+egyfitness.com##a[href*="leadpages.co"]
 arabictorrent.net##a[href="/dwl"]
 baitkebeer.com##a[href="http://adf.ly/O9EKG"]
 th3professional.com##a[href="http://ar.ouamer.com/"]
