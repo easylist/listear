@@ -215,6 +215,7 @@ _arabycash.
 ||facenama.com/popup.php?
 ||facenama.com/popup.php?$popup
 ||famquote.com/facebook$third-party
+||filescloud.info/pic/$third-party
 ||fitness-4-life.org.uk^*/Sports-160-x-600-Animation.gif
 ||foldersoft.com/holl.jpg
 ||forexxzx.blogspot.com.eg^$popup
