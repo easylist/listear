@@ -1005,6 +1005,7 @@ _arabycash.
 ||shababnow.com/asset/img/300.jpg
 ||shatelarab.com^*/banners/
 ||shattalarab.net/*/images/avd.png
+||shbool-sat.com/vb/traidnt/bnr.gif
 ||shofonline.org/megapop.js
 ||skauu.com^$subdocument,domain=3mri-qtr.com
 ||sootwesora.com/images/bnr*.
