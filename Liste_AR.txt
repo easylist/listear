@@ -411,6 +411,8 @@ _arabycash.
 ||banotacool.co^$popup
 ! http://mediafree.co/yawhh54rhx1r/pat.rar.html
 ||cinemalek.com^$popup
+! http://vb.zi-m.com/showthread.php?t=993198
+||mexdrama.com^$popup
 !
 !----------------------- Sites spécifiques -----------------------!
 !
@@ -784,6 +786,7 @@ _arabycash.
 ||ibda3gate.com/vb/ebda3gate/img/banner.png
 ||ibda3gate.com/vb/ebda3gate/img/banner2.png
 ||img.zi-m.com/uploads/144484938351.gif
+||img.zi-m.com/uploads/1454624052161.png
 ||infosoir.com/images/pub.gif
 ||iranproud.com/ad$popup
 ||islamweb.net^*/OBanners
