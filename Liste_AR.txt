@@ -421,6 +421,8 @@ _arabycash.
 ||cinemalek.com^$popup
 ! http://vb.zi-m.com/showthread.php?t=993198
 ||mexdrama.com^$popup
+! http://nbdkorea.com/
+||cimamix.net^$popup
 !
 !----------------------- Sites spécifiques -----------------------!
 !
