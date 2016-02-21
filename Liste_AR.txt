@@ -12,6 +12,10 @@
 ! ou par e-mail : liste.ar.adblock at gmail point com
 !
 !----------------------- Filtres génériques -----------------!
+-600x120.
+-60x480-
+-90x728.
+-delivery.js
 .com/e3lan/
 .com/e3lanat/
 .com/e3lans/
@@ -44,6 +48,9 @@ _arabycash.
 ##.ad250250
 ##.ad46860
 ##.ad970
+##.ads1post
+##.ads2post
+##.adspostsfotter
 ##.advSmall
 ##.e3lan
 ##.logoAdv
