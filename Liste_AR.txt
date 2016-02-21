@@ -188,7 +188,6 @@ _arabycash.
 ||bookingwebs.com/redirect.php$popup
 ||bothemes.com^*/popup.js
 ||casasky.com/bannerslider/
-||cinemalek.com^$popup,domain=skymiga.com
 ||cnbcarabia.com/top_banner.php
 ||cs-proton.tv/images/banner-*.
 ||ctn-abbas.com/*_ads.
@@ -417,7 +416,7 @@ _arabycash.
 ||zupimages.net/up/2/1045181967.png
 ! http://cima4u.tv/tv/View/6502
 ||banotacool.co^$popup
-! http://mediafree.co/yawhh54rhx1r/pat.rar.html
+! http://mediafree.co/yawhh54rhx1r/pat.rar.html & http://skymiga.com/jits1uqqsyd2
 ||cinemalek.com^$popup
 ! http://vb.zi-m.com/showthread.php?t=993198
 ||mexdrama.com^$popup
@@ -677,7 +676,6 @@ _arabycash.
 ||djelfa.info/ar/files/banners/
 ||djelfa.info/dj_img/temouchent.gif
 ||djelfa.info/logo/
-||djelfa.info/logo/espace-etudiant.gif
 ||dl3-r.com/dla3/images/area-in--header.png
 ||dl3-r.com/dla3/images/large-area.gif
 ||dohaup.com/up/2010-01-29/dohaup_827224532.gif
@@ -734,7 +732,6 @@ _arabycash.
 ||elso9.biz/$subdocument,domain=ya3ale.com
 ||elso9.com/$subdocument,domain=ya3ale.com
 ||emaratalyoum.com^*/banners/
-||ency-education.com/uploads/3/0/9/3/309326/3245017_orig.gif
 ||english-guide.com/images/banners/
 ||englishforarabs.com/iphone-ad.png
 ||eqla3.com/if/code*.htm
@@ -1405,7 +1402,6 @@ elheddaf.com##a[style="width:100%; height:850px; display:block; background:#000 
 sat-vb.com##a[target="_blanck"] > img
 aliahmedali.com##a[target="_blank"] > img[width="235"][height="60"]
 misrlinks.com##a[target="_blank"][href*="to-"]
-misrlinks.com##a[target="_blank"][href^="to-"]
 alrealclub.com##a[title^="ينتهي في"]
 aswaqcity.com##div#vbseo_vhtml_0
 top555games.com##div[class^="adshp"]
@@ -1495,7 +1491,6 @@ ksa-ads.info##td[style="border:2px #A56B2E  solid; width:728px;height:90px;"]
 forums.7hob.com##td[style="border:2px #EA8610 dotted ; width:750px;height:280px;"]
 arfonts.net##td[style="height: 90px; padding: 0px 0px 0px 0px; text-align:center; border-bottom:1px dashed #336699;"]
 traidnt.net##td[width="160px"]
-elmoslsal.com##tr[style^="width:728px;"]
 !
 !----------------------- Exceptions -----------------------!
 !
@@ -1531,4 +1526,3 @@ aflamy.com,dramacafe.tv,linuxarabic.com,online.dramacafe.in,xaddad.com#@#.afs_ad
 elahmad.com#@##adblock
 g9g.com#@##myAd
 minalsefr.blogspot.de##i#g207
-||howtoremoveadblock.com/js/adblock-detector.js$script
