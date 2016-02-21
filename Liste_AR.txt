@@ -1526,6 +1526,7 @@ risalaradio.com#@#.ad-cell
 @@||media1fire.com^$generichide
 @@||showsport-tv.com/advert.js
 aflamy.com,dramacafe.tv,linuxarabic.com,online.dramacafe.in,xaddad.com#@#.afs_ads
+elahmad.com#@##adblock
 g9g.com#@##myAd
 minalsefr.blogspot.de##i#g207
 ||howtoremoveadblock.com/js/adblock-detector.js$script
