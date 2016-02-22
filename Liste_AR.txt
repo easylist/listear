@@ -19,6 +19,7 @@
 .com/e3lan/
 .com/e3lanat/
 .com/e3lans/
+.com/elan/$image
 .com/i3lan/
 .net/e3lan.
 .net/e3lan/
@@ -29,6 +30,8 @@
 /banner/e3lan.
 /banner_show.
 /e3lan/e3lan.
+/elan/468.
+/elan/728.
 /files/adv/*
 /i3lan-1.
 /i3lan-2.
