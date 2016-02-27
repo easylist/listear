@@ -30,6 +30,7 @@
 /advStatSettings.js
 /banner/e3lan.
 /banner_show.
+/banners?tid=
 /e3lan/e3lan.
 /elan/468.
 /elan/728.
@@ -58,6 +59,7 @@ _arabycash.
 ##.advSmall
 ##.e3lan
 ##.logoAdv
+##.sidebar-wrapper-advert
 ##.smiliar_ads
 ##.widget_advncdads
 ##[ad-unit="160X600"]
@@ -92,15 +94,20 @@ _arabycash.
 ||arabytracking.com^$popup,third-party
 ||arabytracking.com^$third-party
 ||branchroughlend.info^$third-party
+||clksite.com^$third-party
+||eclkspbn.com^$popup,third-party
+||eclkspbn.com^$third-party
 ||erate.co.il^$third-party
 ||finishclueobscure.info^$popup,third-party
 ||finishclueobscure.info^$third-party
 ||grouchyaccessoryrockefeller.com^$popup,third-party
 ||interadv.net^$third-party
 ||newpoptab.com^$popup,third-party
+||newtab-tv.com^$popup,third-party
 ||prstatics.com^$third-party
 ||prwidgets.com^$popup,third-party
 ||retainguaninefluorite.info^$third-party
+||revdepo.com^$third-party
 !
 !----------------------- Publicités tierces ----------------------!
 !
