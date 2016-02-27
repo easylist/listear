@@ -825,6 +825,7 @@ _arabycash.
 ||kazaroza.net^$popup,domain=arablionz.com
 ||kech24.com/photo/pharmacie_de_garde_marrakech.gif
 ||khaleejcal.com^*/banners/
+||khutabaa.com/myfiles/images/banners/
 ||kitabatnews.com/images/banners/
 ||kleeja.com/static/images/e3/
 ||kora-online.tv/channellist.
