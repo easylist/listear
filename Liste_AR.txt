@@ -1289,7 +1289,7 @@ dardarkom.com##.notbar
 now24.net##.pad5
 chat-alriyadh.com##.paner
 hao123.com##.pr
-ennaharonline.com,europages.ma,menara.ma##.pub
+elbotola.com,ennaharonline.com,europages.ma,menara.ma##.pub
 hawaaweb.com##.right-banner
 rassoulallah.info##.right_column
 ylla.net##.rightside_banner
