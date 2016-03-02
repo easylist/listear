@@ -354,7 +354,7 @@ _arabycash.
 ||realup.net/201001/1362929492.gif
 ||realup.net/201001/1362929493.gif
 ||realup.net/201001/1374349753.gif
-||roooo3.com^$popup,domain=arabsh.com
+||roooo3.com^$popup,domain=arab.sh|arabsh.com
 ||rsbfoot.com/annonce/
 ||saliny.com/bnr/
 ||samaup.com/uploads/1416251268231.jpg
@@ -376,7 +376,7 @@ _arabycash.
 ||shy22.com/upfilgif/eou19449.gif
 ||sinailiberties.com/1.gif$domain=kalemaro.com
 ||skauu.com/add/
-||soft365.com^$popup,domain=arabsh.com
+||soft365.com^$popup,domain=arab.sh|arabsh.com
 ||startdedicated.com/newbrz.gif
 ||store2.up-00.com/2015-11/1448360624071.gif
 ||swiftype.com^*/search?callback=$third-party
@@ -580,6 +580,7 @@ _arabycash.
 ||aqarbook.com^$popup,domain=mothhelah.com
 ||ar-wp.com/forums-archive/images/bn1.
 ||ar-wp.com/forums-archive/images/bn2.
+||arab.sh/motakalem/
 ||arab4mp3.com/banner/
 ||arab4mp3.com/up/uploads/arab4mp3
 ||arab4mp3.com^*/banners/
