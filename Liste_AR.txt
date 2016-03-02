@@ -89,7 +89,6 @@ _arabycash.
 !
 ||adbooth.com^$third-party
 ||adsrun.net^$third-party
-||adstune.com^$third-party
 ||adzouktech.com^$popup,third-party
 ||adzouktech.com^$third-party
 ||arabytracking.com^$popup,third-party
