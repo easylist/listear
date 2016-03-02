@@ -22,12 +22,15 @@
 .com/e3lans/
 .com/elan/$image
 .com/i3lan/
+.js?pubId=
 .net/e3lan.
 .net/e3lan/
 .ps/adds/
 /a3lan.$subdocument
 /advStatLib.js
 /advStatSettings.js
+/affiliate-tools.
+/arabycash-
 /banner/e3lan.
 /banner_show.
 /banners?tid=
