@@ -1244,7 +1244,7 @@ alhayat.com##.banner2
 egyup.com,imanschool.com,mwadah.com##.bannerBox
 m5zn.com##.banner_120_black
 elmihwar.com,felmedan.com##.banneritem
-arabsharing.com,ibda3gate.com,mediamasr.tv,panorama-istanbul.org##.banners
+alfajertv.com,arabsharing.com,ibda3gate.com,mediamasr.tv,panorama-istanbul.org##.banners
 marocemploi.net##.bg_link
 bokra.net##.bigStrip
 wmuae.net##.binsaad
