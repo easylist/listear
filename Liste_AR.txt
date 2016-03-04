@@ -26,6 +26,7 @@
 .net/e3lan.
 .net/e3lan/
 .ps/adds/
+/300e.html$subdocument
 /a3lan.$subdocument
 /advStatLib.js
 /advStatSettings.js
