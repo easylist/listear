@@ -1539,6 +1539,7 @@ risalaradio.com#@#.ad-cell
 !---------------------------- Anti-Adblock ---------------------------!
 !
 /adblock-detector.js
+@@.png#$domain=dz-sat.com
 @@.png#$image,domain=elmoslsal.com|up.media1fire.com
 @@/adv.php?xadb=$script,third-party,domain=afreesms.com
 @@/advertisement.js$script,domain=akoam.com|arabe-media.com
@@ -1546,6 +1547,7 @@ risalaradio.com#@#.ad-cell
 @@||dz-sat.com^$generichide
 @@||elmoslsal.com^$elemhide
 @@||media1fire.com^$generichide
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=dz-sat.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dz-sat.com
 @@||showsport-tv.com/advert.js
 @@||streame.net/advert.js$script
