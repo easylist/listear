@@ -1218,6 +1218,7 @@ alhayat.com##.TopHeaderBanner
 3rbb.net,alarab.net,banotacool.co,bokra.net,gamesgb.com,gornalak.com##.ad
 souq.com##.ad1
 souq.com##.ad2
+online4hd.com##.adG
 egy4up.net,gornalak.com##.ad_left
 egy4up.net,gornalak.com##.ad_right
 add-anime.net##.adblock
@@ -1544,6 +1545,7 @@ risalaradio.com#@#.ad-cell
 @@||elmoslsal.com^$elemhide
 @@||media1fire.com^$generichide
 @@||showsport-tv.com/advert.js
+@@||streame.net/advert.js$script
 aflamy.com,dramacafe.tv,linuxarabic.com,online.dramacafe.in,xaddad.com#@#.afs_ads
 elahmad.com#@##adblock
 g9g.com#@##myAd
