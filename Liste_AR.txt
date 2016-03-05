@@ -1194,6 +1194,7 @@ facenama.com###user-468
 hawaaworld.com###vacuumcleaners
 firedrive.com###ve_box
 europages.ma###vipBox
+dz-sat.com###w3c5
 6ef.com,fr7.com,q8me.com###webColorsHeader2
 mshkla.com###weblks
 s-ajfan.com###window10
@@ -1542,8 +1543,10 @@ risalaradio.com#@#.ad-cell
 @@/adv.php?xadb=$script,third-party,domain=afreesms.com
 @@/advertisement.js$script,domain=akoam.com|arabe-media.com
 @@||coolkora.com^$elemhide
+@@||dz-sat.com^$generichide
 @@||elmoslsal.com^$elemhide
 @@||media1fire.com^$generichide
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dz-sat.com
 @@||showsport-tv.com/advert.js
 @@||streame.net/advert.js$script
 aflamy.com,dramacafe.tv,linuxarabic.com,online.dramacafe.in,xaddad.com#@#.afs_ads
