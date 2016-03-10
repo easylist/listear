@@ -59,10 +59,12 @@ _arabycash.
 ##.ad970
 ##.ads1post
 ##.ads2post
+##.adsagcompa
 ##.adspostsfotter
 ##.advSmall
 ##.e3lan
 ##.e3lan-top
+##.leftadsag
 ##.logoAdv
 ##.sidebar-wrapper-advert
 ##.smiliar_ads
