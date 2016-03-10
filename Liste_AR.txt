@@ -62,6 +62,7 @@ _arabycash.
 ##.adspostsfotter
 ##.advSmall
 ##.e3lan
+##.e3lan-top
 ##.logoAdv
 ##.sidebar-wrapper-advert
 ##.smiliar_ads
