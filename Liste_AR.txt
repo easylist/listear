@@ -63,12 +63,15 @@ _arabycash.
 ##.ads2post
 ##.adsagcompa
 ##.adspostsfotter
+##.advCON
 ##.advSmall
 ##.e3lan
 ##.e3lan-top
 ##.leftadsag
+##.lftBigAds
 ##.logoAdv
 ##.reyadiAdvs
+##.ritBigAds
 ##.sidebar-wrapper-advert
 ##.smiliar_ads
 ##.srapad
