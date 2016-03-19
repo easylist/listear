@@ -503,6 +503,7 @@ _arabycash.
 ||adslgate.com/upload/wadi-*-$image
 ||adv.mmnon.com^
 ||advs.akhbarelyom.com/Images/adwekala.swf
+||advs.akhbarelyom.com/OutDoor/Images/aclk.gif
 ||aff.kooora.com/images/aff_
 ||aflamex.com/adv2012/
 ||aflamex.com/forum/download-icon.jpg
