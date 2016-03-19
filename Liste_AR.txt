@@ -28,6 +28,7 @@
 .ps/adds/
 /300e.html$subdocument
 /a3lan.$subdocument
+/adver_imgs/*
 /advStatLib.js
 /advStatSettings.js
 /affiliate-tools.
@@ -39,6 +40,7 @@
 /elan/468.
 /elan/728.
 /files/adv/*
+/flash_adver_
 /i3lan-1.
 /i3lan-2.
 /i3lan-3.
@@ -532,6 +534,8 @@ _arabycash.
 ||al3ushaq.com/vb/open/
 ||al3ushaq.com^$subdocument,domain=al3ushaq.com
 ||al5aatr.com^*/banner_
+||alamelarab.com/*-banner.
+||alamelarab.com/pics/five_five.jpg
 ||alanwar.com/swif/
 ||alarab.net/data/cubes/
 ||alarab.net/fursa.php
@@ -1499,7 +1503,7 @@ yakamar.com##img[width="494"][height="60"]
 rmadarab.com##img[width="500"][height="60"]
 rmadarab.com##img[width="600"][height="90"]
 jo-sharing.com##img[width="700"][height="120"]
-foxpic.com##img[width="728"][height="90"]
+alamelarab.com,foxpic.com##img[width="728"][height="90"]
 chtoukapress.com##img[width="728px"][height="100px"]
 yakamar.com##img[width="728px"][height="90px"]
 4algeria.com##img[width="75"][height="30"]
