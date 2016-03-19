@@ -68,6 +68,7 @@ _arabycash.
 ##.e3lan-top
 ##.leftadsag
 ##.logoAdv
+##.reyadiAdvs
 ##.sidebar-wrapper-advert
 ##.smiliar_ads
 ##.srapad
