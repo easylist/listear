@@ -1349,6 +1349,7 @@ bokra.net##.tower
 bokra.net##.towerBanner
 bokra.net##.twoBanners
 ylla.net##.warpbun
+akhbarelyom.com##.widget div[style$=";top: 100px;width: 120px;"]
 dzjobs.net##.wiki
 arabia.com##.ykaleader
 dreambox-tunisie.com##.yourcolor-main
