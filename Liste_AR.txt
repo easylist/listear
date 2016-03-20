@@ -450,6 +450,8 @@ _arabycash.
 ||mexdrama.com^$popup
 ! http://nbdkorea.com/
 ||cimamix.net^$popup
+! http://lo3baty.net/
+||arabicmag.net^$popup
 !
 !----------------------- Sites spécifiques -----------------------!
 !
