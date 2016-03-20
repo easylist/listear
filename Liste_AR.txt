@@ -188,6 +188,7 @@ _arabycash.
 ||arabic-developers.com^*/bnr/
 ||arabs-up.com/adv.jpg
 ||arabseed.com/1st/deserts*.js
+||arabsharing.com^$image,domain=efa.com.eg
 ||arabtx.com^$popup,domain=myegy.to
 ||arabytech.com/iframe/
 ||arascoop.com^$popup,domain=aracinema.co|aramosalsal.com
@@ -727,6 +728,9 @@ _arabycash.
 ||educ40.net/hotcourses.swf
 ||educ40.net/images/hotcourses.gif
 ||educ40.net/images/kotobdz.gif
+||efa.com.eg/pepsi.jpg
+||efa.com.eg/pres.jpg
+||efa.com.eg/saib.jpg
 ||egfire.com/O.js
 ||egy2day.com^$popup,domain=mazika2day.com
 ||egymotion.net/pop/
@@ -1269,6 +1273,7 @@ bokra.net##.bigStrip
 wmuae.net##.binsaad
 7s5.net##.black_overlay[style="display: block;"]
 bacdz.org##.blogroll
+efa.com.eg##.body_sponsors
 ar-wp.com##.box
 inewsarabia.com##.box728
 ylla.net##.buntop
