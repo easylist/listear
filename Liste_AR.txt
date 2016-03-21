@@ -126,10 +126,12 @@ _arabycash.
 ||retainguaninefluorite.info^$third-party
 ||revdepo.com^$third-party
 ||softwarepiset.com^$third-party
+||startraint.com^$third-party
 ||teeet.net^$third-party
 !
 !----------------------- Publicités tierces ----------------------!
 !
+|http://$subdocument,third-party,domain=amvtv.net
 ||0sat.com/photo0sat/
 ||0zz0.com/2012/07/28/21/250712642.gif
 ||2.mykora.net^
@@ -1374,6 +1376,7 @@ korabia.com##[class^="modal"]
 bloggerexp.com##[href="http://up.mosw3a.com"] > img
 bloggerexp.com##[href="http://www.mybbarab.com"] > img
 bloggerexp.com##[href^="http://bit.ly/"] > img
+amvtv.net##[style*="position: absolute; z-index: 99999"]
 al3abtab5.com##a > img[width="100"][height="35"]
 al3abtab5.com##a > img[width="100"][height="40"]
 sat-dz.com##a > img[width="150"][height="60"]
