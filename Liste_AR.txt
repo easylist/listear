@@ -39,6 +39,7 @@
 /e3lan/e3lan.
 /elan/468.
 /elan/728.
+/EmbedPartner.
 /files/adv/*
 /flash_adver_
 /i3lan-1.
@@ -119,10 +120,13 @@ _arabycash.
 ||interadv.net^$third-party
 ||newpoptab.com^$popup,third-party
 ||newtab-tv.com^$popup,third-party
+||ornaki.com^$third-party
 ||prstatics.com^$third-party
 ||prwidgets.com^$popup,third-party
 ||retainguaninefluorite.info^$third-party
 ||revdepo.com^$third-party
+||softwarepiset.com^$third-party
+||teeet.net^$third-party
 !
 !----------------------- Publicités tierces ----------------------!
 !
@@ -187,7 +191,6 @@ _arabycash.
 ||arabiawin.com^$popup
 ||arabic-developers.com^*/bnr/
 ||arabs-up.com/adv.jpg
-||arabseed.com/1st/deserts*.js
 ||arabsharing.com^$image,domain=efa.com.eg
 ||arabtx.com^$popup,domain=myegy.to
 ||arabytech.com/iframe/
@@ -374,6 +377,7 @@ _arabycash.
 ||realup.net/201001/1374349753.gif
 ||roooo3.com^$popup,domain=arab.sh|arabsh.com
 ||rsbfoot.com/annonce/
+||s3.amazonaws.com^$domain=arabseed.com
 ||saliny.com/bnr/
 ||samaup.com/uploads/1416251268231.jpg
 ||satarabia.net/v2/images/big_ar_banner.jpg
@@ -453,6 +457,9 @@ _arabycash.
 ||cimamix.net^$popup
 ! http://lo3baty.net/
 ||arabicmag.net^$popup
+! cloudfront.net
+||cloudfront.net^$domain=arabseed.com
+||d1zwpjtdh4bi8u.cloudfront.net^
 !
 !----------------------- Sites spécifiques -----------------------!
 !
@@ -633,10 +640,9 @@ _arabycash.
 ||arabseed.com/install33.js
 ||arabseed.com/ioption.html
 ||arabseed.com/open/
-||arabseed.com/openMAZ33.js
-||arabseed.com/redirect/open*.js
 ||arabseed.com/tvgate/
 ||arabseed.com/vlc.js
+||arabseed.com^*/open*.js
 ||arabseyes.com/php1.js
 ||arabsgate.com/banners2/
 ||arabsh.com/motakalem/
@@ -1092,6 +1098,7 @@ _arabycash.
 ||travpl.com^$popup,domain=nokiagate.com
 ||tvegy.com/open17.js
 ||tvfun.ma/p.js
+||tvgate.tv^$subdocument
 ||uob-bh.com/uploadfiles/bahraindir.gif
 ||uskarmawi.com^$subdocument,domain=asalahpal.com
 ||vb.eqla3.com/code/*.html
