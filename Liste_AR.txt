@@ -131,7 +131,6 @@ _arabycash.
 !
 !----------------------- Publicités tierces ----------------------!
 !
-|http://$subdocument,third-party,domain=amvtv.net
 ||0sat.com/photo0sat/
 ||0zz0.com/2012/07/28/21/250712642.gif
 ||2.mykora.net^
