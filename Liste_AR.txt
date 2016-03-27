@@ -17,12 +17,14 @@
 -60x480-
 -90x728.
 -delivery.js
+.com/bnr/
 .com/e3lan/
 .com/e3lanat/
 .com/e3lans/
 .com/elan/$image
 .com/i3lan/
 .js?pubId=
+.net/bnr/
 .net/e3lan.
 .net/e3lan/
 .ps/adds/
@@ -36,6 +38,9 @@
 /banner/e3lan.
 /banner_show.
 /banners?tid=
+/bnr_300.
+/bnr_460.
+/bnr_728.
 /e3lan/e3lan.
 /elan/468.
 /elan/728.
@@ -46,6 +51,7 @@
 /i3lan-2.
 /i3lan-3.
 /images/al-e3lnat/*
+/images/bnr_
 /images/e3lan.
 /images/e3lan/*
 /images/e3lan3.
@@ -149,7 +155,6 @@ _arabycash.
 ||46.151.209.69^
 ||4arabsex.net/Banner1.jpg
 ||4halal.co/*.htm$subdocument,domain=4halal.co|4helal.co
-||4uploading.com/bnr/
 ||5bre.com/images/5bre.gif
 ||5jle.com^$popup,domain=maas1.com
 ||5short.com/short/autokey.php
@@ -163,7 +168,6 @@ _arabycash.
 ||af.gamepower7.com/*?aid=$popup,third-party
 ||aflamonlinee.org/new/$popup
 ||agarcom.com/up/uploads/1375263039741.gif
-||al-wed.com/bnr/
 ||al3ab.snjab.com/arabtravelers.jpg
 ||al3ab.snjab.com/transit.jpg
 ||al3ab2014.com^$popup,third-party
@@ -246,7 +250,6 @@ _arabycash.
 ||elmal.us/banner
 ||ency-education.com/uploads/3/0/9/3/309326/3245017_orig.gif
 ||englishforarabs.com/english.gif
-||engygames.com/bnr/
 ||esdaraty.com/images/etisalat-al.jpg
 ||esdaraty.com/images/free-calls.jpg
 ||f-riends.com/ads/$popup
@@ -305,6 +308,7 @@ _arabycash.
 ||kalemaro.com/open*.js
 ||karizmo.net/vb/karix.gif
 ||ksadl3.com/468.gif
+||ksatec.com.sa/ksatec.gif
 ||kuwaitchat.net/750/750_150.gif
 ||l3bh.com/728.gif
 ||l3bh.com^$popup,domain=7be.com
@@ -379,7 +383,6 @@ _arabycash.
 ||roooo3.com^$popup,domain=arab.sh|arabsh.com
 ||rsbfoot.com/annonce/
 ||s3.amazonaws.com^$domain=arabseed.com
-||saliny.com/bnr/
 ||samaup.com/uploads/1416251268231.jpg
 ||satarabia.net/v2/images/big_ar_banner.jpg
 ||servimg.com/*/5souq_10.gif
@@ -405,6 +408,7 @@ _arabycash.
 ||swiftype.com^*/search?callback=$third-party
 ||tarfihe.com/fl/
 ||thouk.com/thouk.gif
+||tore1.up-00.com/2016-03/145803347227431.gif
 ||traidnt.net/link/fast_link.html?
 ||travel360.asia/banner/
 ||tumblr.com/$subdocument,domain=s-ajfan.com
