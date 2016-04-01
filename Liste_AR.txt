@@ -403,6 +403,7 @@ _arabycash.
 ||sinailiberties.com/1.gif$domain=kalemaro.com
 ||skauu.com/add/
 ||soft365.com^$popup,domain=arab.sh|arabsh.com
+||souqasr.com/images/index_02.gif
 ||startdedicated.com/newbrz.gif
 ||store2.up-00.com/2015-11/1448360624071.gif
 ||swiftype.com^*/search?callback=$third-party
