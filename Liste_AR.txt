@@ -35,6 +35,7 @@
 /advStatSettings.js
 /affiliate-tools.
 /arabycash-
+/banner-990x90.
 /banner/e3lan.
 /banner_show.
 /banners?tid=
@@ -242,8 +243,6 @@ _arabycash.
 ||dzautos.com/data/dzauto.swf
 ||easycima.com^$popup,third-party
 ||educdz.com/*/1544484_770455529632171_2442609755761839667_n.jpg
-||egyup.com/300.png
-||egyup.com/banner-990x90.png
 ||el-balad.com/balad.js
 ||elaana.com/open.js
 ||elastec.info/$popup,domain=s-ajfan.com
@@ -491,7 +490,6 @@ _arabycash.
 ||3at3ot.com/pop.js
 ||3ayezakol.com/juhaynalrec.jpg
 ||3ayezakol.com/mcturkey.jpg
-||3ayezakol.com^$popup,domain=egyup.com
 ||3ikarat.com/App_Images/BannerImages/
 ||3mri-qtr.com/vb/aerowindow/
 ||3rabgames.com/signup/?utm_source=$popup
@@ -751,9 +749,6 @@ _arabycash.
 ||egyptwindow.net/Uploadedimage/dar-elbenaagdeed.gif
 ||egyptwindow.net/Uploadedimage/ren2t.gif
 ||egyrace.com^$popup,domain=ya3ale.com
-||egyup.com/adv.
-||egyup.com/popup.js
-||egyup.com^*/banner
 ||egyup.tv/images/left_dubizzle.png
 ||egyup.tv/images/right_dubizzle.png
 ||el-massa.com^*/banners/
@@ -989,7 +984,6 @@ _arabycash.
 ||panet.co.il^*/flash_banners/
 ||panorama-istanbul.org/vb/open/
 ||petra.gov.jo/Public_Images/Banner
-||popup.egyup.com^
 ||q8classroom.net/adv_
 ||q8classroom.net/banners/
 ||q8classroom.net/bbn.gif
@@ -1279,7 +1273,7 @@ akhbarona.com,alayam.com,darendeal.com##.banner
 mediamasr.tv##.banner-area
 aljazeerasport.tv##.banner-leaderboard
 alhayat.com##.banner2
-egyup.com,imanschool.com,mwadah.com##.bannerBox
+imanschool.com,mwadah.com##.bannerBox
 m5zn.com##.banner_120_black
 elmihwar.com,felmedan.com##.banneritem
 alfajertv.com,arabsharing.com,ibda3gate.com,mediamasr.tv,panorama-istanbul.org##.banners
@@ -1400,7 +1394,6 @@ egyfitness.com##a[href*="leadpages.co"]
 arabictorrent.net##a[href="/dwl"]
 baitkebeer.com##a[href="http://adf.ly/O9EKG"]
 th3professional.com##a[href="http://ar.ouamer.com/"]
-egyup.com##a[href="http://bit.ly/138z4OL"]
 kalemaro.com##a[href="http://bit.ly/14I2rw3"]
 ce4arab.com##a[href="http://bit.ly/YZXjhI"]
 ce4arab.com##a[href="http://bit.ly/YZYRIp"]
