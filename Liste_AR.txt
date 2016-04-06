@@ -78,6 +78,7 @@ _arabycash.
 ##.leftadsag
 ##.lftBigAds
 ##.logoAdv
+##.newads
 ##.reyadiAdvs
 ##.ritBigAds
 ##.sidebar-wrapper-advert
@@ -422,6 +423,10 @@ _arabycash.
 ||up.harajgulf.com/do.php?img=177229
 ||up.harajgulf.com/do.php?img=177231
 ||up.movizland.com/uploads/1438749062331.gif
+||up.nileup.com/do.php?img=181
+||up.nileup.com/do.php?img=262
+||up.nileup.com/do.php?img=263
+||up.nileup.com/do.php?img=91
 ||up07.net/open*.js
 ||up700.net/affiliates/
 ||upload.al-wed.com/uploader/upload2009//765/01315078415.gif
@@ -1206,6 +1211,8 @@ qalansuwa.com###pathway
 alwatannews.net###pnlAdv12
 elbilad.net###pub
 okanime.com###pubbbbbbb
+nilemotors.net###register + center > p > a > img
+nilemotors.net###register + script + center > p > a > img
 alarab.net###secncom
 arabia.com###showcase
 ninjaup.com###spons
@@ -1251,7 +1258,7 @@ online4hd.com##.adG
 egy4up.net,gornalak.com##.ad_left
 egy4up.net,gornalak.com##.ad_right
 add-anime.net##.adblock
-arabictorrent.net,mrabuali.com,proteachin.com##.ads
+arabictorrent.net,mrabuali.com,nilemotors.net,proteachin.com##.ads
 toptwitt.com##.ads2
 elraaed.com##.ads_1
 kalemaro.com##.adsance
@@ -1370,6 +1377,7 @@ dzjobs.net##.wiki
 arabia.com##.ykaleader
 dreambox-tunisie.com##.yourcolor-main
 2flam.net##A[href="http://shwqna.at.ua/ADs.htm"]
+nilemotors.net##[align="left"][style="width:0%"] a > img
 ounousa.com##[class^="SubBanner"]
 ounousa.com##[class^="banner"]
 korabia.com##[class^="modal"]
@@ -1483,6 +1491,7 @@ el3b.sukrbnat.com##img[alt="M5znUpload"]
 bh-gn.com##img[alt="ضع إعلانك هنا"]
 algeriamax.com##img[alt="مساحة إعلانية"]
 absba.org##img[alt^="اعلان"]
+nilemotors.net##img[height="60"][width\"468\"]
 wed-alqlop.com##img[height="600"][width="160"]
 adslgate.com,wed-alqlop.com##img[height="90"][width="728"]
 lmseh.com##img[src^="http://www.up.lmseh.com/do.php?"]
