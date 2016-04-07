@@ -380,6 +380,7 @@ _arabycash.
 ||realup.net/201001/1362929492.gif
 ||realup.net/201001/1362929493.gif
 ||realup.net/201001/1374349753.gif
+||reporters.tn/pub/
 ||roooo3.com^$popup,domain=arab.sh|arabsh.com
 ||rsbfoot.com/annonce/
 ||s3.amazonaws.com^$domain=arabseed.com
@@ -409,6 +410,7 @@ _arabycash.
 ||swiftype.com^*/search?callback=$third-party
 ||tarfihe.com/fl/
 ||thouk.com/thouk.gif
+||topnet.tn/wp-content/$third-party
 ||tore1.up-00.com/2016-03/145803347227431.gif
 ||traidnt.net/link/fast_link.html?
 ||travel360.asia/banner/
@@ -774,6 +776,7 @@ _arabycash.
 ||elheddaf.com/data/pub/
 ||elheddaf.com/interstitiel/
 ||elhiwarnet.com^*/banners/
+||elkhabar.com.tn/images/banners/
 ||elmaouid.com/images/stories/23-02-2012/300_a.gif
 ||elmaouid.com/images/stories/pub-twins-1.gif
 ||elmassar-ar.com/*/img/pub.jpg
@@ -1252,6 +1255,7 @@ swalif.net##.ShowThreadAdplace
 physique48.org##.TOOLbarB
 alhayat.com##.TopHeaderBanner
 3rbb.net,alarab.net,banotacool.co,bokra.net,gamesgb.com,gornalak.com##.ad
+elkhabar.com.tn##.ad-image
 souq.com##.ad1
 souq.com##.ad2
 online4hd.com##.adG
