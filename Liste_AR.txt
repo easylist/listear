@@ -79,6 +79,7 @@ _arabycash.
 ##.lftBigAds
 ##.logoAdv
 ##.newads
+##.popupads
 ##.reyadiAdvs
 ##.ritBigAds
 ##.sidebar-wrapper-advert
@@ -881,6 +882,7 @@ _arabycash.
 ||khutabaa.com/myfiles/images/banners/
 ||kitabatnews.com/images/banners/
 ||kleeja.com/static/images/e3/
+||klmty.net/message.php?
 ||kora-online.tv/channellist.
 ||kora-online.tv/chat.html
 ||kora-online.tv/user.html
@@ -1212,6 +1214,7 @@ techarabi.com###mpu-in-post
 dwayir.com###nav
 s-ajfan.com###navbar_notice_8
 lakome.com###outside-left
+klmty.net###overlay
 mazika2day.com###page_end_bans
 qalansuwa.com###pathway
 alwatannews.net###pnlAdv12
