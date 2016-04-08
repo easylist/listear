@@ -139,6 +139,7 @@ _arabycash.
 !
 !----------------------- Publicités tierces ----------------------!
 !
+|http://$image,third-party,domain=mrfile.co
 ||0sat.com/photo0sat/
 ||0zz0.com/2012/07/28/21/250712642.gif
 ||2.mykora.net^
@@ -169,6 +170,7 @@ _arabycash.
 ||adv.videomega.tv^$popup
 ||af.gamepower7.com/*?aid=$popup,third-party
 ||aflamonlinee.org/new/$popup
+||aflamy.tv^$popup,domain=mrfile.co
 ||agarcom.com/up/uploads/1375263039741.gif
 ||al3ab.snjab.com/arabtravelers.jpg
 ||al3ab.snjab.com/transit.jpg
@@ -383,6 +385,7 @@ _arabycash.
 ||reporters.tn/pub/
 ||roooo3.com^$popup,domain=arab.sh|arabsh.com
 ||rsbfoot.com/annonce/
+||s21.postimg.org/sdwex12bb/animated_banner.gif
 ||s3.amazonaws.com^$domain=arabseed.com
 ||samaup.com/uploads/1416251268231.jpg
 ||satarabia.net/v2/images/big_ar_banner.jpg
