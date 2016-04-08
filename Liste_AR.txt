@@ -853,7 +853,7 @@ _arabycash.
 ||img.zi-m.com/uploads/1454624052161.png
 ||infosoir.com/images/pub.gif
 ||iranproud.com/ad$popup
-||islamweb.net^*/OBanners
+||islamweb.net^*flashfiles/
 ||ismailiaonline.com/swf_top/
 ||itahvil.com/script.js
 ||itahvil.com/text.html
@@ -1245,7 +1245,6 @@ myegy.to##.AdContainer
 g5y.com,sedty.com##.Ads
 onothty.net,q8yatnews.com##.Ads2
 alwatannews.net##.Adv
-islamweb.net##.Advertising
 gulfbase.com##.AeroWindow
 elwatannews.com##.HLB
 ounousa.com##.HomeNewAndBanner
