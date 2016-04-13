@@ -1603,3 +1603,4 @@ aflamy.com,dramacafe.tv,linuxarabic.com,online.dramacafe.in,xaddad.com#@#.afs_ad
 elahmad.com#@##adblock
 g9g.com#@##myAd
 minalsefr.blogspot.de##i#g207
+tvono.com#@#.adsbox
