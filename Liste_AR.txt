@@ -1127,6 +1127,7 @@ _arabycash.
 ||wasetamazon.com/upload/2015/08/amazon.png
 ||wiki-net.net/$subdocument,domain=panorama-istanbul.org
 ||www.on.ma/banner.
+||xaddad.com/img/sponsor-
 ||xdahk.bihax.com^$popup,domain=bihax.com
 ||xtratube.net/player/*/codes.html
 ||y4yy.com/la3bty.gif
