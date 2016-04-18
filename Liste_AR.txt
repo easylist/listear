@@ -116,6 +116,8 @@ _arabycash.
 ||adsrun.net^$third-party
 ||adzouktech.com^$popup,third-party
 ||adzouktech.com^$third-party
+||ampxchange.com^$popup,third-party
+||ampxchange.com^$third-party
 ||arabytracking.com^$popup,third-party
 ||arabytracking.com^$third-party
 ||branchroughlend.info^$third-party
@@ -137,6 +139,7 @@ _arabycash.
 ||softwarepiset.com^$third-party
 ||startraint.com^$third-party
 ||teeet.net^$third-party
+||theclickcheck.com^$popup,third-party
 !
 !----------------------- Publicités tierces ----------------------!
 !
