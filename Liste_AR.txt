@@ -326,6 +326,7 @@ _arabycash.
 ||ma3lomh.com^$subdocument,third-party
 ||mark4you.com/mark.gif
 ||marocfraja.com/bzf.php
+||marwa.meximas.com/uploads/*.swf$domain=fannansatsoka.com
 ||masatv.com^$popup,domain=2flam.org
 ||mazikadrama.com/vidads2.php
 ||menacircle.com/goggog.gif
