@@ -1605,8 +1605,8 @@ risalaradio.com#@#.ad-cell
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dz-sat.com
 @@||showsport-tv.com/advert.js
 @@||streame.net/advert.js$script
+@@||tvono.com^$generichide
 aflamy.com,dramacafe.tv,linuxarabic.com,online.dramacafe.in,xaddad.com#@#.afs_ads
 elahmad.com#@##adblock
 g9g.com#@##myAd
 minalsefr.blogspot.de##i#g207
-tvono.com#@#.adsbox
