@@ -761,6 +761,10 @@ _arabycash.
 ||egyptwindow.net/Uploadedimage/dar-elbenaagdeed.gif
 ||egyptwindow.net/Uploadedimage/ren2t.gif
 ||egyrace.com^$popup,domain=ya3ale.com
+||egyup.com/300.png
+||egyup.com/adv.
+||egyup.com/popup.js
+||egyup.com^*/banner
 ||egyup.tv/images/left_dubizzle.png
 ||egyup.tv/images/right_dubizzle.png
 ||el-massa.com^*/banners/
@@ -998,6 +1002,7 @@ _arabycash.
 ||panet.co.il^*/flash_banners/
 ||panorama-istanbul.org/vb/open/
 ||petra.gov.jo/Public_Images/Banner
+||popup.egyup.com^
 ||q8classroom.net/adv_
 ||q8classroom.net/banners/
 ||q8classroom.net/bbn.gif
@@ -1292,7 +1297,7 @@ akhbarona.com,alayam.com,darendeal.com##.banner
 mediamasr.tv##.banner-area
 aljazeerasport.tv##.banner-leaderboard
 alhayat.com##.banner2
-imanschool.com,mwadah.com##.bannerBox
+egyup.com,imanschool.com,mwadah.com##.bannerBox
 m5zn.com##.banner_120_black
 elmihwar.com,felmedan.com##.banneritem
 alfajertv.com,arabsharing.com,ibda3gate.com,mediamasr.tv,panorama-istanbul.org##.banners
