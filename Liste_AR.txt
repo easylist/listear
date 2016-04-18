@@ -1596,6 +1596,7 @@ risalaradio.com#@#.ad-cell
 @@.png#$image,domain=elmoslsal.com|up.media1fire.com
 @@/adv.php?xadb=$script,third-party,domain=afreesms.com
 @@/advertisement.js$script,domain=akoam.com|arabe-media.com
+@@||ashams.com^$generichide
 @@||coolkora.com^$elemhide
 @@||dz-sat.com^$generichide
 @@||elmoslsal.com^$elemhide
