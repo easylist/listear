@@ -1171,6 +1171,7 @@ jeddahbikers.com###Main_MPU
 ounousa.com###TopBanner
 fatakat.com###ad1
 mbc.net###adSlot-inPage-300x250-left
+masr140.com###ad_20
 agarcom.com,s-oman.net###ad_global_below_navbar
 33sh8.com###adds
 yakamar.com###ads
@@ -1362,6 +1363,7 @@ msryh.com##.navbnr
 ar-wp.com##.nbanners
 ounousa.com##.newBanner
 dardarkom.com##.notbar
+masr140.com##.om_ad
 now24.net##.pad5
 chat-alriyadh.com##.paner
 hao123.com##.pr
