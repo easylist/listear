@@ -64,6 +64,7 @@ _arabycash.
 |http://e3lanat.
 !
 !----------------------- Éléments génériques -----------------!
+###om_ads-7
 ##.ad250250
 ##.ad46860
 ##.ad970
@@ -87,6 +88,7 @@ _arabycash.
 ##.srapad
 ##.srapad_bg
 ##.widget_advncdads
+##.widget_om_ads
 ##[ad-unit="160X600"]
 ##[ad-unit="300X250"]
 ##[ad-unit="300X600"]
