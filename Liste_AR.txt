@@ -144,6 +144,7 @@ _arabycash.
 ||startraint.com^$third-party
 ||teeet.net^$third-party
 ||theclickcheck.com^$popup,third-party
+||yakiyo.club^$third-party
 !
 !----------------------- Publicités tierces ----------------------!
 !
