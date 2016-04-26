@@ -1596,7 +1596,6 @@ traidnt.net##td[width="160px"]
 !
 @@||1009.ae/wp-content/plugins/wp-intern-ads/jquery.internads.js
 @@||ads.hsoub.com/$domain=hsoub.com
-@@||arabhardware.net^$popup,domain=facebook.com
 @@||bawazir-tech.com/banners/
 @@||betakonline.com/advertisements/securimage/
 @@||elhiwarnet.com/images/banners/meteo-hiwar.png
