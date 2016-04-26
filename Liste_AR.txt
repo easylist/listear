@@ -1606,6 +1606,21 @@ traidnt.net##td[width="160px"]
 !
 risalaradio.com#@#.ad-cell
 !
-!---------------------- Publicité Anti-Adblock -----------------------!
-! Exceptions pour supprimer la publicité affichier au utilisaterurs d'adblockers
+!---------------------------- Anti-Adblock ---------------------------!
 !
+@@.png#$image,domain=dz-sat.com|elmoslsal.com|up.media1fire.com
+@@/advertisement.js$script,domain=akoam.com|arabe-media.com|embratoria.com|imbratoria.info|zee3rb.com
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=dz-sat.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dz-sat.com
+@@||partner.googleadservices.com/gpt/pubads_$script,domain=forum.kooora.com
+!
+elahmad.com#@##adblock
+g9g.com#@##myAd
+aflamy.com,dramacafe.tv,linuxarabic.com,online.dramacafe.in,xaddad.com#@#.afs_ads
+!
+@@||ashams.com^$generichide
+@@||coolkora.com^$elemhide
+@@||dz-sat.com^$generichide
+@@||elmoslsal.com^$elemhide
+@@||media1fire.com^$generichide
+@@||tvono.com^$generichide
