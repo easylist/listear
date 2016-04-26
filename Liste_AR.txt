@@ -64,6 +64,7 @@ _arabycash.
 |http://e3lanat.
 !
 !----------------------- Éléments génériques -----------------!
+###it-ad-header
 ###om_ads-7
 ##.Ad160-left
 ##.Ad160-right
@@ -491,6 +492,7 @@ _arabycash.
 ||cloudfront.net^$domain=arabseed.com
 ||d1zwpjtdh4bi8u.cloudfront.net^
 ! images hosting
+||i.imgur.com/3tAhgla.gif
 ||i64.tinypic.com/34pc7e8.gif
 ||i64.tinypic.com/t6yr69.gif
 ||oi68.tinypic.com/358dx00.jpg
@@ -651,8 +653,7 @@ _arabycash.
 ||arabe-media.com/700.php
 ||arabe-media.com/open*.js
 ||arabemedia.tv/open*.js
-||arabhard.co/open19.js
-||arabhardware.net/$popup
+||arabhard.co/open*.js
 ||arablionz.com/histate/du.png
 ||arablionz.com/histate/open*.
 ||arablionz.com/left.jpg
@@ -1306,7 +1307,6 @@ mp3quran.net##.advertising
 al-jazirah.com##.advr
 gololy.com##.advrtising-colum
 roooo3.com##.advs
-arabhardware.net##.avd_display_block
 6ab5ty.com##.banar
 marocannonces.com##.baner
 games-flash.be##.bann
@@ -1598,7 +1598,6 @@ traidnt.net##td[width="160px"]
 @@||ads.hsoub.com/$domain=hsoub.com
 @@||animestarz.com/animeonline/templates/starz/js/advertisement.js
 @@||arabemedia.tv/advertisement.js
-@@||arabhardware.net^$popup,domain=facebook.com
 @@||bawazir-tech.com/banners/
 @@||betakonline.com/advertisements/securimage/
 @@||elhiwarnet.com/images/banners/meteo-hiwar.png
