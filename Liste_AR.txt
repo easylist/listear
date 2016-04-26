@@ -1596,40 +1596,17 @@ traidnt.net##td[width="160px"]
 !
 @@||1009.ae/wp-content/plugins/wp-intern-ads/jquery.internads.js
 @@||ads.hsoub.com/$domain=hsoub.com
-@@||animestarz.com/animeonline/templates/starz/js/advertisement.js
-@@||arabemedia.tv/advertisement.js
+@@||arabhardware.net^$popup,domain=facebook.com
 @@||bawazir-tech.com/banners/
 @@||betakonline.com/advertisements/securimage/
 @@||elhiwarnet.com/images/banners/meteo-hiwar.png
 @@||elmassar-ar.com/ara/ads/logo2010.swf
-@@||embratoria.com/advertisement.js
-@@||imbratoria.info/advertisement.js
-@@||partner.googleadservices.com/gpt/pubads_$script,domain=forum.kooora.com
 @@||xaddad.com/advertisers/$~third-party
-@@||zee3rb.com/advertisement.js
 !
 !----------------------- Exceptions d'éléments -----------------------!
 !
 risalaradio.com#@#.ad-cell
 !
-!---------------------------- Anti-Adblock ---------------------------!
+!---------------------- Publicité Anti-Adblock -----------------------!
+! Exceptions pour supprimer la publicité affichier au utilisaterurs d'adblockers
 !
-/adblock-detector.js
-@@.png#$domain=dz-sat.com
-@@.png#$image,domain=elmoslsal.com|up.media1fire.com
-@@/adv.php?xadb=$script,third-party,domain=afreesms.com
-@@/advertisement.js$script,domain=akoam.com|arabe-media.com
-@@||ashams.com^$generichide
-@@||coolkora.com^$elemhide
-@@||dz-sat.com^$generichide
-@@||elmoslsal.com^$elemhide
-@@||media1fire.com^$generichide
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=dz-sat.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dz-sat.com
-@@||showsport-tv.com/advert.js
-@@||streame.net/advert.js$script
-@@||tvono.com^$generichide
-aflamy.com,dramacafe.tv,linuxarabic.com,online.dramacafe.in,xaddad.com#@#.afs_ads
-elahmad.com#@##adblock
-g9g.com#@##myAd
-minalsefr.blogspot.de##i#g207
