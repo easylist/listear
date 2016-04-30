@@ -1204,6 +1204,7 @@ btalah.com###banner_dsnr
 alresh.com###bannera
 alresh.com###bannerb
 yalladrama.tv###bannerfloat22
+badil.info###bglink
 akhersaa-dz.com###bloc_left_pub_1
 hawaaworld.com###boxContain
 adslgate.com###boxbanner
