@@ -751,7 +751,7 @@ _arabycash.
 ||daralkotob.com^*/banners/
 ||dawshagya.org/vb/open.js
 ||djelfa.info/ar/files/banners/
-||djelfa.info/dj_img/temouchent.gif
+||djelfa.info/dj_img/*.gif
 ||djelfa.info/logo/
 ||dl3-r.com/dla3/images/area-in--header.png
 ||dl3-r.com/dla3/images/large-area.gif
@@ -1600,6 +1600,7 @@ traidnt.net##td[width="160px"]
 @@||ads.hsoub.com/$domain=hsoub.com
 @@||bawazir-tech.com/banners/
 @@||betakonline.com/advertisements/securimage/
+@@||djelfa.info/dj_img/logo.gif
 @@||elhiwarnet.com/images/banners/meteo-hiwar.png
 @@||elmassar-ar.com/ara/ads/logo2010.swf
 @@||xaddad.com/advertisers/$~third-party
