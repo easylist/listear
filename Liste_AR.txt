@@ -1076,8 +1076,8 @@ _arabycash.
 ||saidaonline.com/gifs/image5464df131311.jpg
 ||saidaonline.com/gifs/Shubadak-Baner-600x200.jpg
 ||sat-vb.com/server.gif
-||satna.tv/iptvsat.gif
-||satna.tv/promo2015.gif
+||satna.tv/iptvsatna.gif
+||satna.tv/promo*.gif
 ||satna.tv/styles/*/satna-promo.gif
 ||satna.tv/styles/brivium/hydrogen/xenforo/satna-promo
 ||sawt-alahrar.net/ara/themes/*/img/alimisurata3.gif
