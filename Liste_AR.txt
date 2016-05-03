@@ -401,7 +401,6 @@ _arabycash.
 ||rsbfoot.com/annonce/
 ||s21.postimg.org/sdwex12bb/animated_banner.gif
 ||s3.amazonaws.com^$domain=arabseed.com
-||samaup.com/uploads/1416251268231.jpg
 ||satarabia.net/v2/images/big_ar_banner.jpg
 ||servimg.com/*/5souq_10.gif
 ||servimg.com/u/f30/15/50/53/07/0802.jpg
@@ -1076,6 +1075,9 @@ _arabycash.
 ||saidaonline.com/gifs/bsatad2013.jpg
 ||saidaonline.com/gifs/image5464df131311.jpg
 ||saidaonline.com/gifs/Shubadak-Baner-600x200.jpg
+||samaup.com/images/banner.png
+||samaup.com/images/bannner
+||samaup.com/uploads/1416251268231.jpg
 ||sat-vb.com/server.gif
 ||satna.tv/iptvsatna.gif
 ||satna.tv/promo*.gif
@@ -1320,7 +1322,10 @@ alhayat.com##.banner2
 egyup.com,imanschool.com,mwadah.com##.bannerBox
 m5zn.com##.banner_120_black
 elmihwar.com,felmedan.com##.banneritem
+samaup.com##.bannernone
 alfajertv.com,arabsharing.com,ibda3gate.com,mediamasr.tv,panorama-istanbul.org##.banners
+samaup.com##.bannerssmall
+samaup.com##.bannner
 marocemploi.net##.bg_link
 bokra.net##.bigStrip
 wmuae.net##.binsaad
