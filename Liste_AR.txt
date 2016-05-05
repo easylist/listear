@@ -505,6 +505,7 @@ _arabycash.
 ||0zz0.com/e/luna20120131_2.swf
 ||0zz0.com/js.php
 ||0zz0.com/template/js/e.min.js
+||1009.ae/wp-content/uploads/*/skin.png
 ||1sw1r.com^$popup,domain=arablionz.com
 ||202020.net/abahi/
 ||202020.net/ratteb/asd/
@@ -1311,6 +1312,7 @@ mp3quran.net##.advertising
 al-jazirah.com##.advr
 gololy.com##.advrtising-colum
 roooo3.com##.advs
+1009.ae##.background-cover
 6ab5ty.com##.banar
 marocannonces.com##.baner
 games-flash.be##.bann
