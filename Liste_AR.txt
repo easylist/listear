@@ -1610,6 +1610,7 @@ traidnt.net##td[width="160px"]
 @@||djelfa.info/dj_img/logo.gif
 @@||elhiwarnet.com/images/banners/meteo-hiwar.png
 @@||elmassar-ar.com/ara/ads/logo2010.swf
+@@||partner.googleadservices.com/gpt/pubads_$script,domain=forum.kooora.com
 @@||xaddad.com/advertisers/$~third-party
 !
 !----------------------- Exceptions d'éléments -----------------------!
@@ -1622,7 +1623,6 @@ risalaradio.com#@#.ad-cell
 @@/advertisement.js$script,domain=akoam.com|arabe-media.com|embratoria.com|imbratoria.info|zee3rb.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=dz-sat.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dz-sat.com
-@@||partner.googleadservices.com/gpt/pubads_$script,domain=forum.kooora.com
 !
 elahmad.com#@##adblock
 g9g.com#@##myAd
