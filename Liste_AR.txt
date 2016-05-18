@@ -641,6 +641,7 @@ _arabycash.
 ||amazonaws.com/fl/KSA-Footer/JSFiles/leader.js
 ||amronline202.blogspot.com^$domain=tfilm.ba7r.biz
 ||anakbnet.com/video/a/banar/
+||animestarz.com/files/sponsors/
 ||animop-mobile.blogspot.com^$popup,domain=animop.com
 ||annoncesmall.com^$popup,domain=awwah.com
 ||aqarbook.com^$popup,domain=mothhelah.com
@@ -1620,7 +1621,7 @@ risalaradio.com#@#.ad-cell
 !---------------------------- Anti-Adblock ---------------------------!
 !
 @@.png#$image,domain=dz-sat.com|elmoslsal.com|up.media1fire.com
-@@/advertisement.js$script,domain=akoam.com|arabe-media.com|embratoria.com|imbratoria.info|zee3rb.com
+@@/advertisement.js$script,domain=akoam.com|animestarz.com|arabe-media.com|embratoria.com|imbratoria.info|zee3rb.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=dz-sat.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dz-sat.com
 !
