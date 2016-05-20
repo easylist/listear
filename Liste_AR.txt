@@ -1611,7 +1611,6 @@ traidnt.net##td[width="160px"]
 @@||djelfa.info/dj_img/logo.gif
 @@||elhiwarnet.com/images/banners/meteo-hiwar.png
 @@||elmassar-ar.com/ara/ads/logo2010.swf
-@@||partner.googleadservices.com/gpt/pubads_$script,domain=forum.kooora.com
 @@||xaddad.com/advertisers/$~third-party
 !
 !----------------------- Exceptions d'éléments -----------------------!
