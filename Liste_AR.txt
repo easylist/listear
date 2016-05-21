@@ -800,6 +800,7 @@ _arabycash.
 ||elcinema.com/images/booking-button-homepage.png
 ||eldjoumhouria.dz^*/pub/
 ||elhayatalarabiya.com^*/images/banner.gif
+||elhayatonline.net/IMG/300x600.gif
 ||elheddaf.com/citro/
 ||elheddaf.com/data/dzauto.swf
 ||elheddaf.com/data/pub/
@@ -1313,6 +1314,7 @@ mp3quran.net##.advertising
 al-jazirah.com##.advr
 gololy.com##.advrtising-colum
 roooo3.com##.advs
+elhayatonline.net##.article-body + div[style*="width: 336px;"]
 1009.ae##.background-cover
 6ab5ty.com##.banar
 marocannonces.com##.baner
@@ -1363,6 +1365,7 @@ bramj.co,qwled.com##.headerbanner
 msryh.com##.indexbnrleft
 filgoal.com##.inner_leaderboard
 n4hr.com##.ladv
+elhayatonline.net##.last-news-wrapper > a[target="_blank"] > img
 arabia.com,youm7.com##.leaderBoard
 youm7.com##.leaderBoard1
 masrawy.com##.leaderbg
