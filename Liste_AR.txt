@@ -66,6 +66,7 @@ _arabycash.
 !----------------------- Éléments génériques -----------------!
 ###it-ad-header
 ###om_ads-7
+###pub-970x90
 ##.Ad160-left
 ##.Ad160-right
 ##.ad250250
@@ -84,6 +85,7 @@ _arabycash.
 ##.logoAdv
 ##.newads
 ##.popupads
+##.pub-970x90
 ##.reyadiAdvs
 ##.ritBigAds
 ##.sidebar-wrapper-advert
@@ -630,6 +632,7 @@ _arabycash.
 ||alresh.com/vb/elrish/images/banna.gif
 ||alresh.com/vb/elrish/images/bannb.gif
 ||alriyadh.com^*/adv/
+||alseyassi-dz.com/ara/pup01.png
 ||alwadifa-maroc.com/flash/banniere_
 ||alwafd.org/images/albums/
 ||alwafd.org/images/banners/
