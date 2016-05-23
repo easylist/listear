@@ -66,11 +66,9 @@ _arabycash.
 !----------------------- Éléments génériques -----------------!
 ###it-ad-header
 ###om_ads-7
-###pub-970x90
 ##.Ad160-left
 ##.Ad160-right
 ##.ad250250
-##.ad46860
 ##.ad970
 ##.ads1post
 ##.ads2post
@@ -86,10 +84,8 @@ _arabycash.
 ##.logoAdv
 ##.newads
 ##.popupads
-##.pub-970x90
 ##.reyadiAdvs
 ##.ritBigAds
-##.sidebar-wrapper-advert
 ##.smiliar_ads
 ##.srapad
 ##.srapad_bg
@@ -505,7 +501,6 @@ _arabycash.
 |http://j.gs^$popup,domain=showsat.org
 |http://sa.ae^$popup,domain=bacdz.org
 ||0sat.net/index/
-||0zz0.com/e/$image
 ||0zz0.com/e/luna20120131_2.swf
 ||0zz0.com/js.php
 ||0zz0.com/template/js/e.min.js
@@ -758,7 +753,6 @@ _arabycash.
 ||dawshagya.org/vb/open.js
 ||djelfa.info/ar/files/banners/
 ||djelfa.info/dj_img/*.gif
-||djelfa.info/logo/
 ||dl3-r.com/dla3/images/area-in--header.png
 ||dl3-r.com/dla3/images/large-area.gif
 ||dohaup.com/up/2010-01-29/dohaup_827224532.gif
@@ -805,17 +799,14 @@ _arabycash.
 ||elcinema.com/images/booking-button-homepage.png
 ||eldjoumhouria.dz^*/pub/
 ||elhayatalarabiya.com^*/images/banner.gif
-||elhayatonline.net/IMG/300x600.gif
 ||elheddaf.com/citro/
 ||elheddaf.com/data/dzauto.swf
-||elheddaf.com/data/pub/
 ||elheddaf.com/interstitiel/
 ||elhiwarnet.com^*/banners/
 ||elkhabar.com.tn/images/banners/
 ||elmaouid.com/images/stories/23-02-2012/300_a.gif
 ||elmaouid.com/images/stories/pub-twins-1.gif
 ||elmassar-ar.com/*/img/pub.jpg
-||elmihwar.com^*/banners/
 ||elmokhalestv.com/banner_images/
 ||elraaed.com^*/banners/
 ||elso9.biz/$subdocument,domain=ya3ale.com
@@ -1042,7 +1033,6 @@ _arabycash.
 ||qalansuwa.com/online/images/stories/flash/
 ||qalansuwa.com/online/images/stories/spots/
 ||qaradawi.net^*/banners/
-||qariya.info/adv/
 ||qatar2.net^$popup,domain=qatarw.com
 ||qatarw.com/get-11-2008-1.gif
 ||qatarw.com/images/88.gif
@@ -1256,7 +1246,6 @@ klmty.net###overlay
 mazika2day.com###page_end_bans
 qalansuwa.com###pathway
 alwatannews.net###pnlAdv12
-elbilad.net###pub
 okanime.com###pubbbbbbb
 nilemotors.net###register + center > p > a > img
 nilemotors.net###register + script + center > p > a > img
@@ -1319,7 +1308,6 @@ mp3quran.net##.advertising
 al-jazirah.com##.advr
 gololy.com##.advrtising-colum
 roooo3.com##.advs
-elhayatonline.net##.article-body + div[style*="width: 336px;"]
 1009.ae##.background-cover
 6ab5ty.com##.banar
 marocannonces.com##.baner
@@ -1364,7 +1352,6 @@ youm7.com##.fullBanner
 filfan.com##.gads_MR
 almasryalyoum.com##.gam-holder
 moheet.com##.gplus
-star7arab.com##.grid[style="width: 770px; height: 69px;"]
 graaam.com##.haw
 bramj.co,qwled.com##.headerbanner
 msryh.com##.indexbnrleft
@@ -1399,7 +1386,6 @@ masr140.com##.om_ad
 now24.net##.pad5
 chat-alriyadh.com##.paner
 hao123.com##.pr
-elbotola.com,elhayatonline.net,ennaharonline.com,europages.ma,menara.ma##.pub
 hawaaweb.com##.right-banner
 rassoulallah.info##.right_column
 ylla.net##.rightside_banner
@@ -1414,7 +1400,6 @@ alayam.com##.slides1
 alayam.com##.slides76
 el3ab.com##.smallLeader
 alrealclub.com##.smallfont a[target="_blank"]
-echoroukonline.com##.soundcloud-related
 deltaclic.com,misbahinet.com##.squarebanner
 bokra.net##.strip
 alrealclub.com##.style10 img
@@ -1440,7 +1425,6 @@ korabia.com##[class^="modal"]
 bloggerexp.com##[href="http://up.mosw3a.com"] > img
 bloggerexp.com##[href="http://www.mybbarab.com"] > img
 bloggerexp.com##[href^="http://bit.ly/"] > img
-amvtv.net##[style*="position: absolute; z-index: 99999"]
 al3abtab5.com##a > img[width="100"][height="35"]
 al3abtab5.com##a > img[width="100"][height="40"]
 sat-dz.com##a > img[width="150"][height="60"]
@@ -1498,7 +1482,6 @@ blogspot.com##a[href^="http://www.arb-ex.com/?ref="]
 arabycommunity.com##a[href^="http://www.babylon.com/redirects/download.cgi?"]
 almosafr.com##a[href^="http://www.booking.com/index.html?aid="]
 lakii.com##a[href^="http://www.deraah.com.sa/default.aspx?"]
-djelfa.info##a[href^="http://www.djelfa.info/ar/click/"]
 sedty.com##a[href^="http://www.drsrv.com/adv/"]
 ya3ale.com##a[href^="http://www.google.com/url?"]
 abotlal.com##a[href^="http://www.izhra.com/?utm_source="]
