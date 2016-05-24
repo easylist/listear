@@ -77,6 +77,7 @@ _arabycash.
 ##.adspostsfotter
 ##.advCON
 ##.advSmall
+##.adv_outer
 ##.e3lan
 ##.e3lan-top
 ##.i3lan
@@ -1279,6 +1280,7 @@ myegy.to##.AdContainer
 g5y.com,sedty.com##.Ads
 onothty.net,q8yatnews.com##.Ads2
 alwatannews.net##.Adv
+oleeh.com##.Advinner
 gulfbase.com##.AeroWindow
 elwatannews.com##.HLB
 ounousa.com##.HomeNewAndBanner
@@ -1525,6 +1527,7 @@ jordanzad.com##div[style="width:600px;height:80px;"]
 5foq.com##div[style="width:680px;height:180px;float:left;margin-left:5px;margin-top:25px"]
 f16f.com##div[style^="background:#ffffff;width:728px;height:90px;"]
 f16f.com##div[style^="display:block;background:#ffffff;width:300px;height:250px;"]
+oleeh.com##div[style^="width:336px;height:280px;"]
 arabnet5.com##div[style^="width:728px; height:90px;"]
 ##div[style^="z-index: 99999; position: fixed; width: 100%; background-color: rgb(251, 236, 173);"]
 eqla3.com##iframe
