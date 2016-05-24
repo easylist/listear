@@ -118,6 +118,7 @@ _arabycash.
 !
 ||adbooth.com^$third-party
 ||adsrun.net^$third-party
+||adsvee.com^$third-party
 ||adzouktech.com^$popup,third-party
 ||adzouktech.com^$third-party
 ||ampxchange.com^$popup,third-party
@@ -246,6 +247,8 @@ _arabycash.
 ||d3oyytf0n6db9a.cloudfront.net^
 ||daralakhbar.com/widgetgen/$third-party
 ||darendeal.com/widgets/recommendation_box?
+||deals.souq.com^$subdocument
+||deals.souq.com^*&pubref=$popup
 ||dedicated-server-hosting.space^
 ||diwanee.net/?ref=
 ||dohaup.com/up/2010-05-07/dohaup_206097194.gif
