@@ -181,7 +181,7 @@ _arabycash.
 ||adv.videomega.tv^$popup
 ||af.gamepower7.com/*?aid=$popup,third-party
 ||aflamonlinee.org/new/$popup
-||aflamy.tv^$popup,domain=mrfile.co
+||aflamy.tv^$popup,domain=mrfile.co|spikyup.com
 ||agarcom.com/up/uploads/1375263039741.gif
 ||al3ab.snjab.com/arabtravelers.jpg
 ||al3ab.snjab.com/transit.jpg
