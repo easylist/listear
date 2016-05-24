@@ -64,6 +64,7 @@ _arabycash.
 |http://e3lanat.
 !
 !----------------------- Éléments génériques -----------------!
+###ad_global_below_navbar
 ###it-ad-header
 ###om_ads-7
 ##.Ad160-left
@@ -761,6 +762,7 @@ _arabycash.
 ||dramacafe.tv/dramacafe.js
 ||dreambox-tunisie.com/vb/500.gif
 ||dzecole.com^$popup,domain=bacdz.org
+||dzgsm.com/vb/pub/
 ||e-mailaat.com/banarat/
 ||e3lanat.cc^$popup,domain=aflamy.com
 ||eaglepro.net^$popup,domain=bramjnet.com
