@@ -108,7 +108,6 @@ _arabycash.
 ##a[href^="http://cdn.adstract.com/adstract/tags/xdirect/xdirect.html?"]
 ##a[href^="http://drivercardusa.info/"]
 ##a[href^="http://go.ad2up.com/"]
-##a[href^="http://share.payoneer-affiliates.com/"]
 ##a[href^="http://www.fusebux.com/index.php?r="] > img
 ##a[href^="http://www.probux.com/?rh="] > img
 ##a[href^="http://www.sotmasr.com/announcements/"]
@@ -123,8 +122,6 @@ _arabycash.
 ||adzouktech.com^$third-party
 ||ampxchange.com^$popup,third-party
 ||ampxchange.com^$third-party
-||arabytracking.com^$popup,third-party
-||arabytracking.com^$third-party
 ||branchroughlend.info^$third-party
 ||clksite.com^$third-party
 ||eclkspbn.com^$popup,third-party
