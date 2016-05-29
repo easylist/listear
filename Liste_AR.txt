@@ -24,7 +24,6 @@
 .com/elan/$image
 .com/i3lan/
 .js?pubId=
-.net/bnr/
 .net/e3lan.
 .net/e3lan/
 .ps/adds/
@@ -118,12 +117,9 @@ _arabycash.
 !----------------------- Annonceurs -----------------------!
 !
 ||adbooth.com^$third-party
-||adsrun.net^$third-party
 ||adsvee.com^$third-party
 ||adzouktech.com^$popup,third-party
 ||adzouktech.com^$third-party
-||ampxchange.com^$popup,third-party
-||ampxchange.com^$third-party
 ||branchroughlend.info^$third-party
 ||clksite.com^$third-party
 ||eclkspbn.com^$popup,third-party
@@ -131,7 +127,6 @@ _arabycash.
 ||erate.co.il^$third-party
 ||finishclueobscure.info^$popup,third-party
 ||finishclueobscure.info^$third-party
-||grouchyaccessoryrockefeller.com^$popup,third-party
 ||interadv.net^$third-party
 ||newpoptab.com^$popup,third-party
 ||newtab-tv.com^$popup,third-party
@@ -139,10 +134,8 @@ _arabycash.
 ||prstatics.com^$third-party
 ||prwidgets.com^$popup,third-party
 ||q6rweb.com^$popup,third-party
-||retainguaninefluorite.info^$third-party
 ||revdepo.com^$third-party
 ||softwarepiset.com^$third-party
-||startraint.com^$third-party
 ||teeet.net^$third-party
 ||theclickcheck.com^$popup,third-party
 ||yakiyo.club^$third-party
@@ -447,7 +440,6 @@ _arabycash.
 ||up.nileup.com/do.php?img=262
 ||up.nileup.com/do.php?img=263
 ||up.nileup.com/do.php?img=91
-||up07.net/open*.js
 ||up700.net/affiliates/
 ||upload.al-wed.com/uploader/upload2009//765/01315078415.gif
 ||upload.traidnt.net/upfiles/2A883338.gif
@@ -1635,5 +1627,4 @@ aflamy.com,dramacafe.tv,linuxarabic.com,online.dramacafe.in,xaddad.com#@#.afs_ad
 @@||coolkora.com^$elemhide
 @@||dz-sat.com^$generichide
 @@||elmoslsal.com^$elemhide
-@@||media1fire.com^$generichide
 @@||tvono.com^$generichide
