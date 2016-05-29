@@ -106,6 +106,7 @@ _arabycash.
 ##a[href*="dubizzle.com/ar/?utm_source="]
 ##a[href^="http://arabyads.go2cloud.org/"]
 ##a[href^="http://cdn.adstract.com/adstract/tags/xdirect/xdirect.html?"]
+##a[href^="http://clicks.pipaffiliates.com/"] > img
 ##a[href^="http://drivercardusa.info/"]
 ##a[href^="http://go.ad2up.com/"]
 ##a[href^="http://www.fusebux.com/index.php?r="] > img
@@ -227,6 +228,7 @@ _arabycash.
 ||berlintravelguide.org/tag/$third-party
 ||bit.ly/hxLEG7
 ||blogspot.com^*/al3abo.png$domain=th3professional.com
+||blogspot.com^*/s1600/*.gif$domain=mikrotikarabs.com
 ||bookingwebs.com/pop*.js
 ||bookingwebs.com/redirect.php$popup
 ||bothemes.com^*/popup.js
