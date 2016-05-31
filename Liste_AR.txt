@@ -1313,7 +1313,7 @@ roooo3.com##.advs
 marocannonces.com##.baner
 games-flash.be##.bann
 3-tp.com,ta7a.com##.bannbox
-akhbarona.com,alayam.com,darendeal.com##.banner
+akhbarona.com,alayam.com,app-6taat.com,darendeal.com##.banner
 mediamasr.tv##.banner-area
 aljazeerasport.tv##.banner-leaderboard
 alhayat.com##.banner2
