@@ -1629,4 +1629,5 @@ aflamy.com,dramacafe.tv,linuxarabic.com,online.dramacafe.in,xaddad.com#@#.afs_ad
 @@||coolkora.com^$elemhide
 @@||dz-sat.com^$generichide
 @@||elmoslsal.com^$elemhide
+@@||sumeronline.com^$generichide
 @@||tvono.com^$generichide
