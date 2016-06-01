@@ -41,6 +41,8 @@
 /bnr_300.
 /bnr_460.
 /bnr_728.
+/Criteo.ADBLOK.
+/Criteo.Left.
 /e3lan/e3lan.
 /elan/468.
 /elan/728.
@@ -820,6 +822,7 @@ _arabycash.
 ||fannannsat.com/vb/images/0000.gif
 ||farep.org/styles/helion/espace1.jpg
 ||farep.org/styles/helion/pener-2.png
+||farfesh.com^*/Banners/
 ||fatafeeet.com^$popup,domain=egyptladies.net
 ||fatakat.com/ads/
 ||fbrka.net/open*.js
