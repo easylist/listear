@@ -475,8 +475,8 @@ _arabycash.
 ||zupimages.net/up/2/1045181967.png
 ! http://mediamasr.net/
 ||hendka.com^$popup
-! http://cima4u.tv/tv/View/6502
-||banotacool.co^$popup
+! http://cima4u.tv/pdep20.html
+||sec-urity.org^$popup
 ! http://mediafree.co/yawhh54rhx1r/pat.rar.html & http://skymiga.com/jits1uqqsyd2
 ||cinemalek.com^$popup
 ! http://vb.zi-m.com/showthread.php?t=993198
@@ -731,6 +731,7 @@ _arabycash.
 ||chadafm.net/images/stories/ban-605x106.gif
 ||christian-dogma.com^*/banners/
 ||cima4u.com/open/
+||cima4u.tv/temp/open*.js
 ||clasicooo.com/pic/bd1.gif
 ||clasicooo.com/pic/bd2.gif
 ||coolkora.com/p/cool-kora-f.html
@@ -852,7 +853,7 @@ _arabycash.
 ||geek4arab.com^*/banner/
 ||gem-flash.com^*/banners1.php?
 ||giniko.com/images/banner/
-||goo.gl^$popup,domain=abotlal.com|arabasma.com|arabseed.com|dev-point.com|mazika2day.com
+||goo.gl^$popup,domain=abotlal.com|arabasma.com|arabseed.com|cima4u.tv|dev-point.com|mazika2day.com
 ||goo.gl^$subdocument,domain=lmseh.com
 ||google.com/url?^$popup,domain=ya3ale.com
 ||googleusercontent.com^*/mastercard.gif$domain=myalge.net
