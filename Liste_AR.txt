@@ -477,6 +477,7 @@ _arabycash.
 ||hendka.com^$popup
 ! http://cima4u.tv/pdep20.html
 ||sec-urity.org^$popup
+||snbso.com^$popup
 ! http://mediafree.co/yawhh54rhx1r/pat.rar.html & http://skymiga.com/jits1uqqsyd2
 ||cinemalek.com^$popup
 ! http://vb.zi-m.com/showthread.php?t=993198
