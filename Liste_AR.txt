@@ -141,6 +141,7 @@ _arabycash.
 ||softwarepiset.com^$third-party
 ||teeet.net^$third-party
 ||theclickcheck.com^$popup,third-party
+||windailyprizes.info^$third-party
 ||yakiyo.club^$third-party
 !
 !----------------------- Publicités tierces ----------------------!
@@ -171,6 +172,7 @@ _arabycash.
 ||7bbb7.com/vb/$popup,domain=s-ajfan.com
 ||7bbb7.com/vb/$subdocument,domain=s-ajfan.com
 ||a7la-games.com/b/
+||add-friendso.blogspot.com^$popup
 ||adnetechy.com/Aff/
 ||adv.bokra.net^
 ||adv.videomega.tv^$popup
@@ -206,6 +208,7 @@ _arabycash.
 ||arabianbinaryclub.com/popup.php?$popup
 ||arabiawin.com^$popup
 ||arabic-developers.com^*/bnr/
+||arabnewscom.ipage.com^$popup
 ||arabs-up.com/adv.jpg
 ||arabsharing.com^$image,domain=efa.com.eg
 ||arabtx.com^$popup,domain=myegy.to
