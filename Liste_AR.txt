@@ -485,8 +485,6 @@ _arabycash.
 |https://$script,third-party,xmlhttprequest,domain=akoam.com
 ! http://mediamasr.net/
 ||hendka.com^$popup
-! http://cima4u.tv/pdep20.html
-||sec-urity.org^$popup
 ||snbso.com^$popup
 ! http://mediafree.co/yawhh54rhx1r/pat.rar.html & http://skymiga.com/jits1uqqsyd2
 ||cinemalek.com^$popup
@@ -716,9 +714,9 @@ _arabycash.
 ||bdr130.net^*/bnr1/
 ||bentvip.com/up/20120511032813.gif
 ||bit.ly^$popup,domain=arbcinema.com|ultshare.com
-||blogspot.ae^$popup,domain=cima4u.com
+||blogspot.ae^$popup,domain=cima4u.tv
 ||blogspot.com/-ZGaEt5qQ2Sw/*/*D8%A7%D8%B4%2B160%2B600.png
-||blogspot.com^$popup,domain=cima4u.com|el7l.co|el7l.com|mountada.net|uiraqi.com|yallamoviez.com
+||blogspot.com^$popup,domain=cima4u.tv|el7l.co|el7l.com|mountada.net|uiraqi.com|yallamoviez.com
 ||blogspot.com^*/banusr.jpg$domain=juste4femme.blogspot.com
 ||blogspot.com^*/download_little.jpg$domain=shofonline.net
 ||bnanit.com^$popup,domain=nghmat.com
@@ -741,8 +739,7 @@ _arabycash.
 ||chadafm.net/images/pub/
 ||chadafm.net/images/stories/ban-605x106.gif
 ||christian-dogma.com^*/banners/
-||cima4u.com/open/
-||cima4u.tv/temp/open*.js
+||cima4u.tv^*/open*.js
 ||clasicooo.com/pic/bd1.gif
 ||clasicooo.com/pic/bd2.gif
 ||coolkora.com/p/cool-kora-f.html
@@ -1483,7 +1480,7 @@ almesryoon.com,tvegy.com##a[href^="http://ar.hao123.com/?tn="]
 arbcinema.com##a[href^="http://bit.ly/"]
 ouamer.com##a[href^="http://eepurl.com/"]
 hawahome.com##a[href^="http://forum.hawahome.com/ads.php?"]
-algareda.com,arabseed.com,cima4u.com##a[href^="http://goo.gl/"]
+algareda.com,arabseed.com,cima4u.tv##a[href^="http://goo.gl/"]
 mwordpress.net##a[href^="http://mwordpress.net/visit/"]
 ktaby.com##a[href^="http://performance.ikoo.com/"]
 alnaddy.com##a[href^="http://www.acdcads.com/tracks/"]
