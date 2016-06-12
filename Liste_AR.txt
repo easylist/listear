@@ -29,6 +29,7 @@
 .ps/adds/
 /300e.html$subdocument
 /a3lan.$subdocument
+/ads700.
 /adver_imgs/*
 /advStatLib.js
 /advStatSettings.js
@@ -211,6 +212,7 @@ _arabycash.
 ||arabianbinaryclub.com/popup.php?$popup
 ||arabiawin.com^$popup
 ||arabic-developers.com^*/bnr/
+||arabicmag.net^$subdocument
 ||arabnewscom.ipage.com^$popup
 ||arabs-up.com/adv.jpg
 ||arabsharing.com^$image,domain=efa.com.eg
@@ -486,8 +488,6 @@ _arabycash.
 |https://$script,third-party,xmlhttprequest,domain=akoam.com
 ! http://nbdkorea.com/
 ||cimamix.net^$popup
-! http://lo3baty.net/
-||arabicmag.net^$popup
 ! cloudfront.net
 ||cloudfront.net^$domain=arabseed.com
 ||d1zwpjtdh4bi8u.cloudfront.net^
@@ -579,6 +579,8 @@ _arabycash.
 ||al-zin.com/up/uploads/13557545631.jpg
 ||al-zin.com/up/uploads/13600111111.gif
 ||al-zin.com^$popup,domain=al-zin.com|syrcafe.com
+||al3ab4kids.com/*ads.js
+||al3ab4kids.com/test*.php
 ||al3boshi.com^$subdocument,domain=aflamex.com
 ||al3ushaq.com/t7mel/uploads/13505054691.gif
 ||al3ushaq.com/t7mel/uploads/13515103911.gif
