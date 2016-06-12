@@ -486,7 +486,7 @@ _arabycash.
 ||zimabdk.com/uploads/1385612495381.gif
 ||zupimages.net/up/2/1045181967.png
 ! akoam.com
-@@/cdn-cgi/pe/bag2?*jquery.pietimer.js$xmlhttprequest,domain=akoam.com
+@@/cdn-cgi/pe/bag2?*jquery.$xmlhttprequest,domain=akoam.com
 |http://$script,third-party,xmlhttprequest,domain=akoam.com
 |https://$script,third-party,xmlhttprequest,domain=akoam.com
 ! http://nbdkorea.com/
