@@ -124,6 +124,7 @@ _arabycash.
 ||adzouktech.com^$popup,third-party
 ||adzouktech.com^$third-party
 ||branchroughlend.info^$third-party
+||celebritypranky.com^$popup,third-party
 ||clksite.com^$third-party
 ||eclkspbn.com^$popup,third-party
 ||eclkspbn.com^$third-party
@@ -142,6 +143,8 @@ _arabycash.
 ||teeet.net^$third-party
 ||theclickcheck.com^$popup,third-party
 ||windailyprizes.info^$third-party
+||wordgetboo.com^$popup,third-party
+||wordgetboo.com^$third-party
 ||yakiyo.club^$third-party
 !
 !----------------------- Publicités tierces ----------------------!
@@ -476,6 +479,10 @@ _arabycash.
 ||zimabdk.com/uploads/13739970081.png
 ||zimabdk.com/uploads/1385612495381.gif
 ||zupimages.net/up/2/1045181967.png
+! akoam.com
+@@/cdn-cgi/pe/bag2?*jquery.pietimer.js$xmlhttprequest,domain=akoam.com
+|http://$script,third-party,xmlhttprequest,domain=akoam.com
+|https://$script,third-party,xmlhttprequest,domain=akoam.com
 ! http://mediamasr.net/
 ||hendka.com^$popup
 ! http://cima4u.tv/pdep20.html
@@ -1617,7 +1624,7 @@ risalaradio.com#@#.ad-cell
 !---------------------------- Anti-Adblock ---------------------------!
 !
 @@.png#$image,domain=dz-sat.com|elmoslsal.com|up.media1fire.com
-@@/advertisement.js$script,domain=akoam.com|animestarz.com|arabe-media.com|embratoria.com|imbratoria.info|zee3rb.com
+@@/advertisement.js$script,domain=animestarz.com|arabe-media.com|embratoria.com|imbratoria.info|zee3rb.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=dz-sat.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dz-sat.com
 !
