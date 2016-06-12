@@ -66,6 +66,8 @@ _arabycash.
 |http://e3lanat.
 !
 !----------------------- Éléments génériques -----------------!
+###adSlot-inPage-300x250-left
+###adSlot-inPage-728x90-top
 ###ad_global_below_navbar
 ###it-ad-header
 ###om_ads-7
