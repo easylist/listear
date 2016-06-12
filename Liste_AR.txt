@@ -483,8 +483,6 @@ _arabycash.
 @@/cdn-cgi/pe/bag2?*jquery.pietimer.js$xmlhttprequest,domain=akoam.com
 |http://$script,third-party,xmlhttprequest,domain=akoam.com
 |https://$script,third-party,xmlhttprequest,domain=akoam.com
-! http://mediamasr.net/
-||hendka.com^$popup
 ||snbso.com^$popup
 ! http://mediafree.co/yawhh54rhx1r/pat.rar.html & http://skymiga.com/jits1uqqsyd2
 ||cinemalek.com^$popup
