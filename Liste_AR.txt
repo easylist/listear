@@ -153,6 +153,7 @@ _arabycash.
 !----------------------- Publicités tierces ----------------------!
 !
 |http://$image,third-party,domain=mrfile.co
+|http://$popup,third-party,domain=nbdkorea.com
 ||0sat.com/photo0sat/
 ||0zz0.com/2012/07/28/21/250712642.gif
 ||2.mykora.net^
@@ -489,7 +490,7 @@ _arabycash.
 |http://$script,third-party,xmlhttprequest,domain=akoam.com
 |https://$script,third-party,xmlhttprequest,domain=akoam.com
 ! http://nbdkorea.com/
-||cimamix.net^$popup
+|http://el7l.*/$popup
 ! cloudfront.net
 ||cloudfront.net^$domain=arabseed.com
 ||d1zwpjtdh4bi8u.cloudfront.net^
