@@ -34,6 +34,8 @@
 /advStatLib.js
 /advStatSettings.js
 /affiliate-tools.
+/ar/ads/*
+/ara/ads/*
 /arabycash-
 /banner-990x90.
 /banner/e3lan.
