@@ -492,8 +492,8 @@ _arabycash.
 ||zupimages.net/up/2/1045181967.png
 ! akoam.com
 @@||akoam.com/cdn-cgi/pe/bag2?$xmlhttprequest,domain=akoam.com
-|http://$popup,~third-party,domain=akoam.com
 |http://$script,third-party,xmlhttprequest,domain=akoam.com
+|http://*:$popup,~third-party,domain=akoam.com
 |https://$script,third-party,xmlhttprequest,domain=akoam.com
 ! http://nbdkorea.com/
 |http://el7l.*/$popup
