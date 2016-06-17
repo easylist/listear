@@ -147,6 +147,8 @@ _arabycash.
 ||softwarepiset.com^$third-party
 ||teeet.net^$third-party
 ||theclickcheck.com^$popup,third-party
+||versionall.net^$popup,third-party
+||vertoz.com^$popup,third-party
 ||windailyprizes.info^$third-party
 ||wordgetboo.com^$popup,third-party
 ||wordgetboo.com^$third-party
@@ -489,7 +491,8 @@ _arabycash.
 ||zimabdk.com/uploads/1385612495381.gif
 ||zupimages.net/up/2/1045181967.png
 ! akoam.com
-@@/cdn-cgi/pe/bag2?*jquery.$xmlhttprequest,domain=akoam.com
+@@||akoam.com/cdn-cgi/pe/bag2?$xmlhttprequest,domain=akoam.com
+|http://$popup,~third-party,domain=akoam.com
 |http://$script,third-party,xmlhttprequest,domain=akoam.com
 |https://$script,third-party,xmlhttprequest,domain=akoam.com
 ! http://nbdkorea.com/
@@ -1437,6 +1440,7 @@ korabia.com##[class^="modal"]
 bloggerexp.com##[href="http://up.mosw3a.com"] > img
 bloggerexp.com##[href="http://www.mybbarab.com"] > img
 bloggerexp.com##[href^="http://bit.ly/"] > img
+akoam.com##[id^="banner-"]
 3rbx.net##a > img[height="50"]
 3rbx.net##a > img[height="60"]
 al3abtab5.com##a > img[width="100"][height="35"]
