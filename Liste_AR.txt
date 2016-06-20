@@ -84,6 +84,7 @@ _arabycash.
 ##.advCON
 ##.advSmall
 ##.adv_outer
+##.angular_advertisement
 ##.e3lan
 ##.e3lan-top
 ##.i3lan
@@ -1345,6 +1346,7 @@ wmuae.net##.binsaad
 7s5.net##.black_overlay[style="display: block;"]
 bacdz.org##.blogroll
 efa.com.eg##.body_sponsors
+forum.tariqallah.net##.bodyline > #fa_ticker_block
 ar-wp.com##.box
 inewsarabia.com##.box728
 ylla.net##.buntop
@@ -1492,6 +1494,7 @@ arbcinema.com##a[href^="http://bit.ly/"]
 ouamer.com##a[href^="http://eepurl.com/"]
 hawahome.com##a[href^="http://forum.hawahome.com/ads.php?"]
 algareda.com,arabseed.com,cima4u.tv##a[href^="http://goo.gl/"]
+tariqallah.net##a[href^="http://goo.gl/"] > img
 mwordpress.net##a[href^="http://mwordpress.net/visit/"]
 ktaby.com##a[href^="http://performance.ikoo.com/"]
 alnaddy.com##a[href^="http://www.acdcads.com/tracks/"]
