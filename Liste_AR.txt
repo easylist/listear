@@ -13,6 +13,7 @@
 ! e-mail : liste.ar.adblock at gmail.com
 !
 !----------------------- Filtres génériques -----------------!
+&tid=*&ref=$popup
 -600x120.
 -60x480-
 -90x728.
@@ -126,6 +127,7 @@ _arabycash.
 !----------------------- Annonceurs -----------------------!
 !
 ||adbooth.com^$third-party
+||adoptim.com^$popup,third-party
 ||adsvee.com^$third-party
 ||adzouktech.com^$popup,third-party
 ||adzouktech.com^$third-party
@@ -138,6 +140,7 @@ _arabycash.
 ||finishclueobscure.info^$popup,third-party
 ||finishclueobscure.info^$third-party
 ||interadv.net^$third-party
+||large-format.net^$popup,third-party
 ||newpoptab.com^$popup,third-party
 ||newtab-tv.com^$popup,third-party
 ||ornaki.com^$third-party
