@@ -499,6 +499,11 @@ _arabycash.
 |http://$script,third-party,xmlhttprequest,domain=akoam.com
 |http://*:$popup,~third-party,domain=akoam.com
 |https://$script,third-party,xmlhttprequest,domain=akoam.com
+! toofy.tv
+@@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=toofy.tv
+|http://$script,third-party,xmlhttprequest,domain=toofy.tv
+|https://$script,third-party,xmlhttprequest,domain=toofy.tv
+||toofy.tv^$popup,~third-party
 ! http://nbdkorea.com/
 |http://el7l.*/$popup
 ! http://www.3rbx.net/vb/
@@ -1150,6 +1155,7 @@ _arabycash.
 ||tabeebk.com^$popup,domain=egynt.net
 ||tangersport.com/VillArt.gif
 ||tfilm.tv^$domain=tfilm.ba7r.biz
+||toofy.tv/design/js/mv.js
 ||top-an.com^$subdocument,domain=vb.zi-m.com
 ||tourism-review.net/banners/
 ||travelzad.com/banner-app.gif
