@@ -675,6 +675,7 @@ _arabycash.
 ||animop-mobile.blogspot.com^$popup,domain=animop.com
 ||annoncesmall.com^$popup,domain=awwah.com
 ||aqarbook.com^$popup,domain=mothhelah.com
+||ar-tr.com/wp-content/uploads/Download
 ||ar-wp.com/forums-archive/images/bn1.
 ||ar-wp.com/forums-archive/images/bn2.
 ||arab.sh/motakalem/
