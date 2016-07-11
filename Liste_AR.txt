@@ -507,6 +507,9 @@ _arabycash.
 |http://$script,third-party,xmlhttprequest,domain=toofy.tv
 |https://$script,third-party,xmlhttprequest,domain=toofy.tv
 ||toofy.tv^$popup,~third-party
+! arabseed.com
+|http://$script,third-party,xmlhttprequest,domain=arabseed.com
+|https://$script,third-party,xmlhttprequest,domain=arabseed.com
 ! http://nbdkorea.com/
 |http://el7l.*/$popup
 ! http://www.3rbx.net/vb/
@@ -703,6 +706,7 @@ _arabycash.
 ||arabseed.com/install33.js
 ||arabseed.com/ioption.html
 ||arabseed.com/open/
+||arabseed.com/pop/
 ||arabseed.com/tvgate/
 ||arabseed.com/vlc.js
 ||arabseed.com^*/open*.js
@@ -1290,7 +1294,7 @@ ninjaup.com###spons
 europages.ma###sponsor
 7be.com###table2805
 liilas.com###tickermain
-ar-tr.com,arablionz.com###top-banner
+ar-tr.com,arablionz.com,arabseed.com###top-banner
 hawamer.com###topBanner
 maas1.com,uskarmawi.com###topads
 mazika2day.com###topban
@@ -1534,6 +1538,7 @@ almosafr.com##a[href^="http://www.rentalcars.com/Home.do?affiliateCode="]
 sedty.com##a[href^="http://www.sedty.com/adv/"]
 travelzad.com##a[href^="http://www.travelzad.com/vb/ads.php?id="]
 hona24.com##a[href^="https://docs.google.com/"]
+arabseed.com##a[href^="https://goo.gl/"]
 mothhelah.com##a[href^="index.php?op=ad_click"]
 3rbx.net##a[onclick*="'Outgoing',"]
 mtwer.com##a[onclick^="_gaq.push(['_trackEvent', 'Outgoing',"]
@@ -1544,6 +1549,7 @@ aliahmedali.com##a[target="_blank"] > img[width="235"][height="60"]
 misrlinks.com##a[target="_blank"][href*="to-"]
 alrealclub.com##a[title^="ينتهي في"]
 aswaqcity.com##div#vbseo_vhtml_0
+arabseed.com##div[align="center"] + iframe[frameborder="0"] + div[class]:last-child
 top555games.com##div[class^="adshp"]
 mexat.com##div[class^="banner"]
 alqabas.com.kw##div[id^="azk"]
@@ -1637,6 +1643,8 @@ ksa-ads.info##td[style="border:2px #A56B2E  solid; width:728px;height:90px;"]
 forums.7hob.com##td[style="border:2px #EA8610 dotted ; width:750px;height:280px;"]
 arfonts.net##td[style="height: 90px; padding: 0px 0px 0px 0px; text-align:center; border-bottom:1px dashed #336699;"]
 traidnt.net##td[width="160px"]
+! Filtres de propriété CSS pour Adblock Plus
+arabseed.com##[-abp-properties='z-index: 999999 !important;']
 !
 !----------------------- Exceptions -----------------------!
 !
