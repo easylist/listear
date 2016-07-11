@@ -1287,6 +1287,7 @@ mazika2day.com###page_end_bans
 qalansuwa.com###pathway
 alwatannews.net###pnlAdv12
 okanime.com###pubbbbbbb
+assayyarat.com###push_lightbox
 nilemotors.net###register + center > p > a > img
 nilemotors.net###register + script + center > p > a > img
 alarab.net###secncom
@@ -1408,6 +1409,7 @@ ylla.net##.leftside_banner
 games-flash.be##.main-banner
 bokra.net##.main_baner
 alarab.net##.mbAdImg
+assayyarat.com##.md-overlay
 mediamasr.tv##.mediumbanner
 3rbup.com##.metaRedirectWrapperTop
 hawaaweb.com##.middle-banner
