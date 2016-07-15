@@ -53,6 +53,7 @@
 /EmbedPartner.
 /files/adv/*
 /flash_adver_
+/get/iad/*$popup
 /i3lan-1.
 /i3lan-2.
 /i3lan-3.
@@ -140,7 +141,11 @@ _arabycash.
 ||finishclueobscure.info^$popup,third-party
 ||finishclueobscure.info^$third-party
 ||interadv.net^$third-party
+||kimia.es^$popup,third-party
+||kimia.es^$third-party
 ||large-format.net^$popup,third-party
+||licantrum.com^$popup,third-party
+||licantrum.com^$third-party
 ||newpoptab.com^$popup,third-party
 ||newtab-tv.com^$popup,third-party
 ||ornaki.com^$third-party
@@ -148,15 +153,21 @@ _arabycash.
 ||prwidgets.com^$popup,third-party
 ||q6rweb.com^$popup,third-party
 ||revdepo.com^$third-party
+||smintmouse.com^$popup,third-party
+||smintmouse.com^$third-party
 ||softwarepiset.com^$third-party
 ||teeet.net^$third-party
 ||theclickcheck.com^$popup,third-party
+||trinylium.com^$popup,third-party
+||trinylium.com^$third-party
 ||versionall.net^$popup,third-party
 ||vertoz.com^$popup,third-party
 ||windailyprizes.info^$third-party
 ||wordgetboo.com^$popup,third-party
 ||wordgetboo.com^$third-party
 ||yakiyo.club^$third-party
+||zermeo.com^$popup,third-party
+||zermeo.com^$third-party
 !
 !----------------------- Publicités tierces ----------------------!
 !
@@ -510,6 +521,11 @@ _arabycash.
 ! arabseed.com
 |http://$script,third-party,xmlhttprequest,domain=arabseed.com
 |https://$script,third-party,xmlhttprequest,domain=arabseed.com
+! tvfun.ma
+@@||code.jquery.com/jquery.min.js$script,domain=tvfun.ma
+@@||www.sonara.net/mediaplayera/$script,third-party,domain=tvfun.ma
+|http://$script,third-party,domain=tvfun.ma
+|https://$script,third-party,domain=tvfun.ma
 ! http://nbdkorea.com/
 |http://el7l.*/$popup
 ! http://www.3rbx.net/vb/
