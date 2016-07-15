@@ -1151,6 +1151,7 @@ _arabycash.
 ||shbool-sat.com/vb/traidnt/bnr.gif
 ||shofonline.org/megapop.js
 ||skauu.com^$subdocument,domain=3mri-qtr.com
+||sonara.net/banners/
 ||sootwesora.com/images/bnr*.
 ||souss24.com^$popup,domain=ilmaroc.org
 ||soussinfo.com/pub/
