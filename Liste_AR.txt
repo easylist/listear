@@ -64,6 +64,7 @@
 /images/e3lan3.
 /images/mrad.
 /in-ad_desktop/*
+/redirect?tid=$popup
 /vb/e3lan/*
 /vb/e3lanat/*
 _arabycash.
@@ -77,6 +78,8 @@ _arabycash.
 ###om_ads-7
 ##.Ad160-left
 ##.Ad160-right
+##.ad160left
+##.ad160right
 ##.ad250250
 ##.ad970
 ##.ads1post
