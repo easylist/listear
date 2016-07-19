@@ -220,6 +220,7 @@ _arabycash.
 ||aleqt.com/s/new/HP_
 ||alforat.org^*/banners/
 ||algrbh.com^*/bnr-
+||aljazayr.com^$subdocument
 ||allomani.com/js_banners
 ||alquds.co.uk/zaaptv.gif
 ||amalh.net/images/addsapcem.gif
