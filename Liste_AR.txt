@@ -176,6 +176,8 @@ _arabycash.
 !
 |http://$image,third-party,domain=mrfile.co
 |http://$popup,third-party,domain=nbdkorea.com
+|http://$third-party,domain=4shared.com
+|ws://$domain=4shared.com
 ||0sat.com/photo0sat/
 ||0zz0.com/2012/07/28/21/250712642.gif
 ||2.mykora.net^
