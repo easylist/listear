@@ -1189,6 +1189,7 @@ _arabycash.
 ||tangersport.com/VillArt.gif
 ||tfilm.tv^$domain=tfilm.ba7r.biz
 ||toofy.tv/design/js/mv.js
+||toofy.tv/design/js/towofy.js
 ||top-an.com^$subdocument,domain=vb.zi-m.com
 ||tourism-review.net/banners/
 ||travelzad.com/banner-app.gif
