@@ -1071,6 +1071,7 @@ _arabycash.
 ||op-arab.com/pro/
 ||othaimmarkets.com/themes/*/BannerRotator.swf?
 ||ouestribune-dz.com/boutons/Pub-louer.swf
+||paldf.net/banner/
 ||panet.co.il/Ext/js/auadsx.js
 ||panet.co.il/online/images/links_blocks/
 ||panet.co.il^*/flash_banners/
