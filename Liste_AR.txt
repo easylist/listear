@@ -234,6 +234,7 @@ _arabycash.
 ||amazonaws.com/cicloudfront/js/convertmediaviewer-min.js?
 ||amazonaws.com/email/fatakat/
 ||amazonaws.com/irgames/bnrs/
+||animobe.com/open*.js
 ||api.yamli.com/checkin.ashx?
 ||arabdvd.net/banner/
 ||arabearpiece.com/big.png
