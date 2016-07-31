@@ -40,7 +40,6 @@
 /arabycash-
 /banner-990x90.
 /banner/e3lan.
-/banner_show.
 /banners?tid=
 /bnr_300.
 /bnr_460.
