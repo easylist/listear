@@ -1,4 +1,6 @@
 [Adblock Plus 2.0]
+! Checksum: yqGofMyqv+Gsi53F/oweAQ
+! Version: 201608080740
 ! Title: Liste AR
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
@@ -63,7 +65,6 @@
 /images/e3lan3.
 /images/mrad.
 /in-ad_desktop/*
-/redirect?tid=$popup
 /vb/e3lan/*
 /vb/e3lanat/*
 _arabycash.
@@ -146,7 +147,6 @@ _arabycash.
 ||interadv.net^$third-party
 ||kimia.es^$popup,third-party
 ||kimia.es^$third-party
-||large-format.net^$popup,third-party
 ||licantrum.com^$popup,third-party
 ||licantrum.com^$third-party
 ||newpoptab.com^$popup,third-party
@@ -163,11 +163,9 @@ _arabycash.
 ||theclickcheck.com^$popup,third-party
 ||trinylium.com^$popup,third-party
 ||trinylium.com^$third-party
-||versionall.net^$popup,third-party
 ||vertoz.com^$popup,third-party
 ||windailyprizes.info^$third-party
 ||wordgetboo.com^$popup,third-party
-||wordgetboo.com^$third-party
 ||yakiyo.club^$third-party
 ||zermeo.com^$popup,third-party
 ||zermeo.com^$third-party
@@ -1255,9 +1253,7 @@ ounousa.com###LeftBannerContainer
 jeddahbikers.com###Main_MPU
 ounousa.com###TopBanner
 fatakat.com###ad1
-mbc.net###adSlot-inPage-300x250-left
 masr140.com###ad_20
-agarcom.com,s-oman.net###ad_global_below_navbar
 33sh8.com###adds
 yakamar.com###ads
 albaladeyes.com,ninjaup.com###ads1
