@@ -551,6 +551,8 @@ _arabycash.
 ||i64.tinypic.com/34pc7e8.gif
 ||i64.tinypic.com/t6yr69.gif
 ||oi68.tinypic.com/358dx00.jpg
+||store1.up-00.com/2015-12/145097551855441.png
+||store2.up-00.com/2016-01/14520262735761.png
 ||ta3lime.com/up/uploads/14597609769341.jpg
 !
 !----------------------- Sites spécifiques -----------------------!
@@ -1427,6 +1429,7 @@ graaam.com##.haw
 bramj.co,qwled.com##.headerbanner
 msryh.com##.indexbnrleft
 filgoal.com##.inner_leaderboard
+bwabaa.blogspot.com##.kotak_iklan2
 n4hr.com##.ladv
 elhayatonline.net##.last-news-wrapper > a[target="_blank"] > img
 arabia.com,youm7.com##.leaderBoard
