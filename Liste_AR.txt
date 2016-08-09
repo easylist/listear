@@ -540,6 +540,9 @@ _arabycash.
 @@||www.sonara.net/mediaplayera/$script,third-party,domain=tvfun.ma
 |http://$script,third-party,domain=tvfun.ma
 |https://$script,third-party,domain=tvfun.ma
+! hd-arab.com
+|http://$script,third-party,domain=hd-arab.com
+|https://$script,third-party,domain=hd-arab.com
 ! http://nbdkorea.com/
 |http://el7l.*/$popup
 ! http://www.3rbx.net/vb/
