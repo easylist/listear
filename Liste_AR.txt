@@ -33,6 +33,7 @@
 /300e.html$subdocument
 /a3lan.$subdocument
 /ads700.
+/ads_hao123.
 /adver_imgs/*
 /advStatLib.js
 /advStatSettings.js
@@ -84,6 +85,9 @@ _arabycash.
 ##.ad970
 ##.ads1post
 ##.ads2post
+##.ads_ar_wid
+##.ads_en_wid
+##.ads_sq
 ##.adsagcompa
 ##.adspostsfotter
 ##.advCON
@@ -483,6 +487,8 @@ _arabycash.
 ||up.nileup.com/do.php?img=262
 ||up.nileup.com/do.php?img=263
 ||up.nileup.com/do.php?img=91
+||up2drives.com^$popup,domain=cartoon3rbi.net
+||up2drives.com^$subdocument
 ||up700.net/affiliates/
 ||upload.al-wed.com/uploader/upload2009//765/01315078415.gif
 ||upload.traidnt.net/upfiles/2A883338.gif
