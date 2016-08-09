@@ -153,6 +153,7 @@ _arabycash.
 ||kimia.es^$third-party
 ||licantrum.com^$popup,third-party
 ||licantrum.com^$third-party
+||newartspy.link^$popup,third-party
 ||newpoptab.com^$popup,third-party
 ||newtab-tv.com^$popup,third-party
 ||ornaki.com^$third-party
@@ -179,6 +180,8 @@ _arabycash.
 |http://$image,third-party,domain=mrfile.co
 |http://$popup,third-party,domain=nbdkorea.com
 |http://$third-party,domain=4shared.com
+|http://*=|$popup,third-party,domain=animestarz.com
+|https://*=|$popup,third-party,domain=animestarz.com
 |ws://$domain=4shared.com
 ||0sat.com/photo0sat/
 ||0zz0.com/2012/07/28/21/250712642.gif
@@ -280,9 +283,7 @@ _arabycash.
 ||cnbcarabia.com/top_banner.php
 ||cs-proton.tv/images/banner-*.
 ||ctn-abbas.com/*_ads.
-||d2ymkpxi1rgldj.cloudfront.net^
 ||d3b3e6340.website^
-||d3oyytf0n6db9a.cloudfront.net^
 ||daralakhbar.com/widgetgen/$third-party
 ||darendeal.com/widgets/recommendation_box?
 ||deals.souq.com^$subdocument
@@ -544,8 +545,10 @@ _arabycash.
 ! http://www.3rbx.net/vb/
 ||moltqh.com^$popup
 ! cloudfront.net
-||cloudfront.net^$domain=arabseed.com
+||cloudfront.net^$domain=animestarz.com|arabseed.com
 ||d1zwpjtdh4bi8u.cloudfront.net^
+||d2ymkpxi1rgldj.cloudfront.net^
+||d3oyytf0n6db9a.cloudfront.net^
 ! images hosting
 ||i.imgur.com/3tAhgla.gif
 ||i64.tinypic.com/34pc7e8.gif
