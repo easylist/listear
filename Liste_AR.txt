@@ -32,9 +32,6 @@
 .ps/adds/
 /300e.html$subdocument
 /a3lan.$subdocument
-/ads700.
-/ads_hao123.
-/adver_imgs/*
 /advStatLib.js
 /advStatSettings.js
 /affiliate-tools.
@@ -43,13 +40,9 @@
 /arabycash-
 /banner-990x90.
 /banner/e3lan.
-/banners?tid=
 /bnr_300.
 /bnr_460.
 /bnr_728.
-/cdn-cgi/pe/bag2?*xpopunder.js
-/Criteo.ADBLOK.
-/Criteo.Left.
 /e3lan/e3lan.
 /elan/468.
 /elan/728.
@@ -66,7 +59,6 @@
 /images/e3lan/*
 /images/e3lan3.
 /images/mrad.
-/in-ad_desktop/*
 /vb/e3lan/*
 /vb/e3lanat/*
 _arabycash.
@@ -77,7 +69,6 @@ _arabycash.
 ###adSlot-inPage-728x90-top
 ###ad_global_below_navbar
 ###it-ad-header
-###om_ads-7
 ##.Ad160-left
 ##.Ad160-right
 ##.ad160left
@@ -99,17 +90,10 @@ _arabycash.
 ##.e3lan-top
 ##.i3lan
 ##.leftadsag
-##.lftBigAds
 ##.logoAdv
-##.newads
-##.popupads
 ##.reyadiAdvs
-##.ritBigAds
-##.smiliar_ads
 ##.srapad
 ##.srapad_bg
-##.widget_advncdads
-##.widget_om_ads
 ##[ad-unit="160X600"]
 ##[ad-unit="300X250"]
 ##[ad-unit="300X600"]
@@ -126,7 +110,6 @@ _arabycash.
 ##a[href^="http://cdn.adstract.com/adstract/tags/xdirect/xdirect.html?"]
 ##a[href^="http://clicks.pipaffiliates.com/"] > img
 ##a[href^="http://drivercardusa.info/"]
-##a[href^="http://go.ad2up.com/"]
 ##a[href^="http://www.fusebux.com/index.php?r="] > img
 ##a[href^="http://www.probux.com/?rh="] > img
 ##a[href^="http://www.sotmasr.com/announcements/"]
@@ -170,7 +153,6 @@ _arabycash.
 ||trinylium.com^$popup,third-party
 ||trinylium.com^$third-party
 ||vertoz.com^$popup,third-party
-||waframedia9.com^$third-party
 ||windailyprizes.info^$third-party
 ||wordgetboo.com^$popup,third-party
 ||yakiyo.club^$third-party
