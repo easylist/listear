@@ -47,6 +47,7 @@
 /bnr_300.
 /bnr_460.
 /bnr_728.
+/cdn-cgi/pe/bag2?*xpopunder.js
 /Criteo.ADBLOK.
 /Criteo.Left.
 /e3lan/e3lan.
@@ -169,6 +170,7 @@ _arabycash.
 ||trinylium.com^$popup,third-party
 ||trinylium.com^$third-party
 ||vertoz.com^$popup,third-party
+||waframedia9.com^$third-party
 ||windailyprizes.info^$third-party
 ||wordgetboo.com^$popup,third-party
 ||yakiyo.club^$third-party
