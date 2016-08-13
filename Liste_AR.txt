@@ -507,7 +507,7 @@ _arabycash.
 ||yamli.com/static/gam_iframe.htm?
 ||yellowpages.com.ps/search_bricks/ps_search_bricks_300X130.php
 ||ymoviez.com/yallamoviez.js
-||yourjavascript.com/16635201220/add-url.js
+||yourjavascript.com^*/add-url.js
 ||yourjavascript.com^*/pp-kora.js
 ||youtube.com^*_gOXf63AAJg$domain=qatarbike.com
 ||youtube.com^*_gOXf63AAJg$popup
@@ -803,7 +803,6 @@ _arabycash.
 ||cima4u.tv^*/open*.js
 ||clasicooo.com/pic/bd1.gif
 ||clasicooo.com/pic/bd2.gif
-||coolkora.com/p/cool-kora-f.html
 ||cools4u.com/abcd/
 ||cools4u.com/chatfiles/
 ||cools4u.com/hemlat/
@@ -1719,7 +1718,6 @@ g9g.com#@##myAd
 aflamy.com,dramacafe.tv,linuxarabic.com,online.dramacafe.in,xaddad.com#@#.afs_ads
 !
 @@||ashams.com^$generichide
-@@||coolkora.com^$elemhide
 @@||dz-sat.com^$generichide
 @@||elmoslsal.com^$elemhide
 @@||sumeronline.com^$generichide
