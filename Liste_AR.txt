@@ -123,6 +123,7 @@ _arabycash.
 ||adbooth.com^$third-party
 ||adsvee.com^$third-party
 ||adzouktech.com^$third-party
+||apanet.net^$third-party
 ||branchroughlend.info^$third-party
 ||clksite.com^$third-party
 ||eclkspbn.com^$third-party
@@ -256,6 +257,7 @@ _arabycash.
 ||bdyamall.com/banner
 ||beeieg.com/bums//js.php?
 ||berlintravelguide.org/tag/$third-party
+||bistscript.ir/banner/
 ||bit.ly/hxLEG7
 ||blogspot.com^*/al3abo.png$domain=th3professional.com
 ||blogspot.com^*/s1600/*.gif$domain=mikrotikarabs.com
