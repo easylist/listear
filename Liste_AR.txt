@@ -89,6 +89,7 @@ _arabycash.
 ##.angular_advertisement
 ##.e3lan
 ##.e3lan-top
+##.hidden_pub
 ##.i3lan
 ##.leftadsag
 ##.logoAdv
@@ -1613,6 +1614,7 @@ qariya.info##img[height="100"][width="480"]
 nilemotors.net##img[height="60"][width\"468\"]
 wed-alqlop.com##img[height="600"][width="160"]
 adslgate.com,wed-alqlop.com##img[height="90"][width="728"]
+annahar.ma##img[src^="data:image/jpeg;base64,"]
 lmseh.com##img[src^="http://www.up.lmseh.com/do.php?"]
 bramjnet.com##img[style="WIDTH: 468px; HEIGHT: 60px"][title*="الإعلان "]
 teckni-sat.com##img[style="height: 90px; width: 728px; border-width: 0px"]
