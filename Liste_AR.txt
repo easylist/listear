@@ -1313,6 +1313,7 @@ klmty.net###overlay
 mazika2day.com###page_end_bans
 qalansuwa.com###pathway
 alwatannews.net###pnlAdv12
+alittihad.press.ma###pub
 okanime.com###pubbbbbbb
 assayyarat.com###push_lightbox
 nilemotors.net###register + center > p > a > img
