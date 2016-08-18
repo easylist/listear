@@ -1710,6 +1710,6 @@ aflamy.com,dramacafe.tv,linuxarabic.com,online.dramacafe.in,xaddad.com#@#.afs_ad
 !
 @@||ashams.com^$generichide
 @@||dz-sat.com^$generichide
-@@||elmoslsal.com^$elemhide
+@@||elmoslsal.com^$generichide
 @@||sumeronline.com^$generichide
 @@||tvono.com^$generichide
