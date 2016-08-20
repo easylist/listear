@@ -508,6 +508,7 @@ _arabycash.
 ||yamli.com/static/gam_iframe.htm?
 ||yellowpages.com.ps/search_bricks/ps_search_bricks_300X130.php
 ||ymoviez.com/yallamoviez.js
+||yourjavascript.com^$domain=animop.net
 ||yourjavascript.com^*/add-url.js
 ||yourjavascript.com^*/pp-kora.js
 ||youtube.com^*_gOXf63AAJg$domain=qatarbike.com
@@ -1542,6 +1543,7 @@ str-ly.com##a[href="http://games.str-ly.com/"]
 ta7a.com##a[href="http://www.adamahospital.com/ar/"]
 panorama-istanbul.org##a[href="http://www.alexa.com/toolbar"]
 baitkebeer.com##a[href="http://www.arabawe.com/"]
+animop.net##a[href="http://www.b3lok.com"]
 masrawysat.com##a[href="http://www.c1000000.com"]
 s-oman.net##a[href="http://www.rennamobile.com/promotions/"]
 fivesat.net,k1g3.com##a[href="http://www.sharing-sat.com"]
@@ -1562,7 +1564,7 @@ syrcafe.com##a[href^="http://24caratksa.com/"]
 anorinfo.com##a[href^="http://adf.ly/"]
 zi-m.com##a[href^="http://af.gamepower7.com/"]
 almesryoon.com,tvegy.com##a[href^="http://ar.hao123.com/?tn="]
-arbcinema.com##a[href^="http://bit.ly/"]
+animop.net,arbcinema.com##a[href^="http://bit.ly/"]
 ouamer.com##a[href^="http://eepurl.com/"]
 hawahome.com##a[href^="http://forum.hawahome.com/ads.php?"]
 algareda.com,arabseed.com,cima4u.tv,sawasport.com##a[href^="http://goo.gl/"]
