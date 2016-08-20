@@ -69,6 +69,7 @@ _arabycash.
 ###adSlot-inPage-300x250-left
 ###adSlot-inPage-728x90-top
 ###ad_global_below_navbar
+###adpost2
 ###it-ad-header
 ###zwaar_ad_id
 ###zwaar_float_ad_area
@@ -78,6 +79,7 @@ _arabycash.
 ##.ad160right
 ##.ad250250
 ##.ad970
+##.ad_banner728
 ##.ads1post
 ##.ads2post
 ##.ads_ar_wid
@@ -397,6 +399,7 @@ _arabycash.
 ||mshaweer.net/vb/images/mshaweer2.gif
 ||mshkla.com/sd.html
 ||mstaml.com/mstaml.htm$third-party
+||mudiafire.tk^$popup
 ||multiuploaden.com/do.php?img=6603
 ||multiuploaden.com/uploads/13748786571.png
 ||mycar4ever.blogspot.com^$popup,domain=egyptladies.net
@@ -1556,6 +1559,7 @@ retag4.com##a[href^="bnnr.php?"]
 mothhelah.com##a[href^="code,banner,"]
 arabs-up.com##a[href^="go.php?"]
 syrcafe.com##a[href^="http://24caratksa.com/"]
+anorinfo.com##a[href^="http://adf.ly/"]
 zi-m.com##a[href^="http://af.gamepower7.com/"]
 almesryoon.com,tvegy.com##a[href^="http://ar.hao123.com/?tn="]
 arbcinema.com##a[href^="http://bit.ly/"]
