@@ -123,6 +123,7 @@ _arabycash.
 ||91.210.165.104^$third-party
 ||adbooth.com^$third-party
 ||adsvee.com^$third-party
+||adtube.ir^$third-party
 ||adzouktech.com^$third-party
 ||apanet.net^$third-party
 ||branchroughlend.info^$third-party
@@ -174,6 +175,7 @@ _arabycash.
 ||0sat.com/photo0sat/
 ||0zz0.com/2012/07/28/21/250712642.gif
 ||2.mykora.net^
+||20script.ir/banner/
 ||222z.biz/maged.gif
 ||37.59.72.131^
 ||3liba.com/upload/$image,third-party
@@ -1356,7 +1358,7 @@ elwatannews.com##.PM-ROS-MPU
 swalif.net##.ShowThreadAdplace
 physique48.org##.TOOLbarB
 alhayat.com##.TopHeaderBanner
-3rbb.net,alarab.net,banotacool.co,bokra.net,gamesgb.com,gornalak.com##.ad
+3rbb.net,alarab.net,banotacool.co,bokra.net,gamesgb.com,gornalak.com,shahid4u.com##.ad
 elkhabar.com.tn##.ad-image
 souq.com##.ad1
 souq.com##.ad2
