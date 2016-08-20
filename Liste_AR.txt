@@ -124,6 +124,7 @@ _arabycash.
 !
 ||91.210.165.104^$third-party
 ||adbooth.com^$third-party
+||adrife.net^$third-party
 ||adsvee.com^$third-party
 ||adtube.ir^$third-party
 ||adzouktech.com^$third-party
@@ -301,6 +302,7 @@ _arabycash.
 ||esdaraty.com/images/free-calls.jpg
 ||etibyan.com/credit
 ||f-riends.com/ads/$popup
+||facebook.com^$popup,domain=mazika2day.com
 ||facenama.com/popup.php?
 ||facenama.com/popup.php?$popup
 ||famquote.com/facebook$third-party
@@ -1031,6 +1033,7 @@ _arabycash.
 ||mazajcool.net/300.html
 ||mazajcool.net/728.gif
 ||mazajcool.net/up-2.png
+||mazika2day.com/images/bg
 ||mazika2day.com/popup.
 ||mazika2day.com/unnamed1.png
 ||mbc.net/?utm_source=$popup,domain=arabseed.com
