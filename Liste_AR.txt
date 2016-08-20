@@ -1147,6 +1147,8 @@ _arabycash.
 ||satna.tv/promo*.gif
 ||satna.tv/styles/*/satna-promo.gif
 ||satna.tv/styles/brivium/hydrogen/xenforo/satna-promo
+||sawasport.com/wp-content/themes/*-100X600.
+||sawasport.com/wp-content/themes/*_banner.
 ||sawt-alahrar.net/ara/themes/*/img/alimisurata3.gif
 ||sawt-alahrar.net/ara/themes/*/img/ichhar.jpg
 ||sawt-alahrar.net^*/banners/pub
@@ -1420,6 +1422,7 @@ bokra.net##.floatBanner
 al3ushaq.com,algremh.com,ktaby.com,linkat.lmseh.com,panorama-istanbul.org##.floatingWindowContent
 firstlady99.com##.forumline td.row1 > a > img
 firstlady99.com##.forumline td.row1 > span > a > img
+sawasport.com##.full-width-banner
 youm7.com##.fullBanner
 filfan.com##.gads_MR
 almasryalyoum.com##.gam-holder
@@ -1550,7 +1553,7 @@ almesryoon.com,tvegy.com##a[href^="http://ar.hao123.com/?tn="]
 arbcinema.com##a[href^="http://bit.ly/"]
 ouamer.com##a[href^="http://eepurl.com/"]
 hawahome.com##a[href^="http://forum.hawahome.com/ads.php?"]
-algareda.com,arabseed.com,cima4u.tv##a[href^="http://goo.gl/"]
+algareda.com,arabseed.com,cima4u.tv,sawasport.com##a[href^="http://goo.gl/"]
 tariqallah.net##a[href^="http://goo.gl/"] > img
 mwordpress.net##a[href^="http://mwordpress.net/visit/"]
 ktaby.com##a[href^="http://performance.ikoo.com/"]
