@@ -317,6 +317,7 @@ _arabycash.
 ||giclub.tv/index.php?action=$image
 ||giphy.com/yoJC2BNz47Bh7Ya7Dy.gif
 ||goo.gl/2dWPk1
+||goo.gl^$domain=elahmad.com
 ||goo.gl^$popup,domain=cliprz.on.ma|egymotion.net
 ||google.*/url?$popup,domain=rawabetvb.com
 ||google98.ir^
@@ -850,6 +851,7 @@ _arabycash.
 ||el7l.co^*/banner/
 ||eladjwaaonline.com^*/pub/
 ||elahdath.net/themes/ahdath_tm/img/pub.jpg
+||elahmad.com/browser.php
 ||elbashayer.com/images/chevrolet1.swf
 ||elbashayer.com/images/eskanandtammer.jpg
 ||elbashayer.com/images/ferrari.swf
