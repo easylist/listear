@@ -70,6 +70,8 @@ _arabycash.
 ###adSlot-inPage-728x90-top
 ###ad_global_below_navbar
 ###it-ad-header
+###zwaar_ad_id
+###zwaar_float_ad_area
 ##.Ad160-left
 ##.Ad160-right
 ##.ad160left
