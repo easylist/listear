@@ -70,6 +70,7 @@ _arabycash.
 ###adSlot-inPage-728x90-top
 ###ad_global_below_navbar
 ###adpost2
+###deskads
 ###it-ad-header
 ###readmoreads
 ###zwaar_ad_id
@@ -1481,6 +1482,7 @@ dardarkom.com##.notbar
 masr140.com##.om_ad
 now24.net##.pad5
 chat-alriyadh.com##.paner
+tech-wd.com##.partners
 hao123.com##.pr
 hawaaweb.com##.right-banner
 rassoulallah.info##.right_column
