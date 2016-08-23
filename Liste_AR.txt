@@ -71,6 +71,7 @@ _arabycash.
 ###ad_global_below_navbar
 ###adpost2
 ###it-ad-header
+###readmoreads
 ###zwaar_ad_id
 ###zwaar_float_ad_area
 ##.Ad160-left
@@ -754,6 +755,8 @@ _arabycash.
 ||arabseyes.com/php1.js
 ||arabsgate.com/banners2/
 ||arabsh.com/motakalem/
+||arabstoday.net/images/250.jpg
+||arabstoday.net/images/babyad.gif
 ||arabycommunity.com/babylon.gif
 ||arbface.co/httpwww-mrkz-thmel-swr-com.gif
 ||arblue.com/17802.gif
@@ -1188,6 +1191,9 @@ _arabycash.
 ||sponsor.arrahmah.net/
 ||star-cute.com/images/star-cute_10.png
 ||stardima.com/js1.php
+||stat.arabstoday.net/images/alpharooms.jpg
+||stat.arabstoday.net/images/pizza.jpg
+||stat.arabstoday.net/images/weather-ad.png
 ||str-ly.com/open*.js
 ||support-ar.com^*/support-adv/
 ||swalif.com/banner/
@@ -1290,6 +1296,7 @@ btalah.com###banner_dsnr
 alresh.com###bannera
 alresh.com###bannerb
 yalladrama.tv###bannerfloat22
+arabstoday.net###barca
 badil.info###bglink
 akhersaa-dz.com###bloc_left_pub_1
 hawaaworld.com###boxContain
