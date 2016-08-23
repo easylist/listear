@@ -86,6 +86,7 @@ _arabycash.
 ##.ads_en_wid
 ##.ads_sq
 ##.adsagcompa
+##.adsheadmu
 ##.adspostsfotter
 ##.advCON
 ##.advSmall
