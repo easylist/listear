@@ -825,6 +825,8 @@ _arabycash.
 ||damasgate.com/vb/*x*.php
 ||daralkotob.com/images/photos/niledesign.jpg
 ||daralkotob.com^*/banners/
+||dardarkom.com/templates/V5/js/darscript.js
+||dardarkom.com/templates/V5/js/license6.js
 ||dawshagya.org/vb/open.js
 ||djelfa.info/ar/files/banners/
 ||djelfa.info/dj_img/*.gif
