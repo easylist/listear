@@ -350,6 +350,7 @@ _arabycash.
 ||i7dollar.com/i1dollar.jpg
 ||iareej.com/upload/$image,third-party
 ||icom-sat.net/Images/%D8%AF%D8%B9%D8%A7%D9%8A%D8%A7%D8%AA/
+||imageshack.com^$domain=adyou.me
 ||imageshack.us/img195/9178/28906591.jpg
 ||imageshack.us/img22/7856/81950907.jpg
 ||imageshack.us/img687/748/83145832.jpg
@@ -1714,6 +1715,7 @@ arabseed.com##[-abp-properties='z-index: 999999 !important;']
 !
 @@||1009.ae/wp-content/plugins/wp-intern-ads/jquery.internads.js
 @@||ads.hsoub.com/$domain=hsoub.com
+@@||adyou.me/cdn-cgi/pe/bag2?*ajax.googleapis.com$xmlhttprequest
 @@||bawazir-tech.com/banners/
 @@||betakonline.com/advertisements/securimage/
 @@||djelfa.info/dj_img/logo.gif
