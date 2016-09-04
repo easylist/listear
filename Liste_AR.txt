@@ -95,11 +95,16 @@ _arabycash.
 ##.adv_outer
 ##.angular_advertisement
 ##.e3lan
+##.e3lan-code
 ##.e3lan-top
 ##.hidden_pub
 ##.i3lan
 ##.leftadsag
 ##.logoAdv
+##.mom-e3lan
+##.mom-e3lanat
+##.mom-e3lanat-inner
+##.mom-e3lanat-wrap
 ##.reyadiAdvs
 ##.srapad
 ##.srapad_bg
@@ -730,6 +735,7 @@ _arabycash.
 ||arabe-media.com/tourisme.js
 ||arabemedia.tv/open*.js
 ||arabhard.co/open*.js
+||arabicbroker.com/wordpress/wp-content/uploads/banner1.swf
 ||arablionz.com/histate/du.png
 ||arablionz.com/histate/open*.
 ||arablionz.com/left.jpg
