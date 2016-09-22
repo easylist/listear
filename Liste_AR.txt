@@ -25,6 +25,8 @@
 .com/e3lans/
 .com/elan/$image
 .com/i3lan/
+.ir/ads.
+.ir/ads/
 .js?pubId=
 .net/e3lan.
 .net/e3lan/
@@ -57,6 +59,7 @@
 /images/e3lan/*
 /images/e3lan3.
 /images/mrad.
+/ir/ads/*
 /vb/e3lan/*
 /vb/e3lanat/*
 _arabycash.
