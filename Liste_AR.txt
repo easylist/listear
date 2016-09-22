@@ -537,7 +537,6 @@ _arabycash.
 ! akoam.com
 @@||akoam.com/cdn-cgi/pe/bag2?$xmlhttprequest,domain=akoam.com
 |http://$script,third-party,xmlhttprequest,domain=akoam.com
-|http://*:$popup,~third-party,domain=akoam.com
 |https://$script,third-party,xmlhttprequest,domain=akoam.com
 ! toofy.tv
 @@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=toofy.tv
