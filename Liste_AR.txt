@@ -1239,6 +1239,7 @@ _arabycash.
 ||tvfun.ma/p.js
 ||tvgate.tv^$subdocument
 ||uob-bh.com/uploadfiles/bahraindir.gif
+||uploadboy.com/banner/
 ||uskarmawi.com^$subdocument,domain=asalahpal.com
 ||vb.eqla3.com/code/*.html
 ||vb.zi-m.com/aerowindow/
@@ -1745,7 +1746,7 @@ risalaradio.com#@#.ad-cell
 !
 elahmad.com#@##adblock
 g9g.com#@##myAd
-aflamy.com,dramacafe.tv,linuxarabic.com,online.dramacafe.in,xaddad.com#@#.afs_ads
+aflamy.com,dramacafe.tv,el-oued.info,linuxarabic.com,online.dramacafe.in,xaddad.com#@#.afs_ads
 !
 @@||ashams.com^$generichide
 @@||dz-sat.com^$generichide
