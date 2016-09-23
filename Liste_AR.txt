@@ -550,9 +550,6 @@ _arabycash.
 ||moltqh.com^$popup
 ! cloudfront.net
 ||cloudfront.net^$domain=animestarz.com|arabseed.com
-||d1zwpjtdh4bi8u.cloudfront.net^
-||d2ymkpxi1rgldj.cloudfront.net^
-||d3oyytf0n6db9a.cloudfront.net^
 ! images hosting
 ||i.imgur.com/3tAhgla.gif
 ||i64.tinypic.com/34pc7e8.gif
