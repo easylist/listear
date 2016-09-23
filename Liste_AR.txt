@@ -25,8 +25,6 @@
 .com/e3lans/
 .com/elan/$image
 .com/i3lan/
-.ir/ads.
-.ir/ads/
 .js?pubId=
 .net/e3lan.
 .net/e3lan/
@@ -151,7 +149,6 @@ _arabycash.
 ||licantrum.com^$third-party
 ||ornaki.com^$third-party
 ||prstatics.com^$third-party
-||revdepo.com^$third-party
 ||smintmouse.com^$third-party
 ||softwarepiset.com^$third-party
 ||teeet.net^$third-party
@@ -167,7 +164,6 @@ _arabycash.
 ||finishclueobscure.info^$popup,third-party
 ||kimia.es^$popup,third-party
 ||licantrum.com^$popup,third-party
-||newartspy.link^$popup,third-party
 ||newpoptab.com^$popup,third-party
 ||newtab-tv.com^$popup,third-party
 ||prwidgets.com^$popup,third-party
@@ -175,18 +171,11 @@ _arabycash.
 ||smintmouse.com^$popup,third-party
 ||theclickcheck.com^$popup,third-party
 ||trinylium.com^$popup,third-party
-||vertoz.com^$popup,third-party
 ||wordgetboo.com^$popup,third-party
 ||zermeo.com^$popup,third-party
 !
 !----------------------- Publicités tierces ----------------------!
 !
-|http://$image,third-party,domain=mrfile.co
-|http://$popup,third-party,domain=nbdkorea.com
-|http://$third-party,domain=4shared.com
-|http://*=|$popup,third-party,domain=animestarz.com
-|https://*=|$popup,third-party,domain=animestarz.com
-|ws://$domain=4shared.com
 ||0sat.com/photo0sat/
 ||0zz0.com/2012/07/28/21/250712642.gif
 ||2.mykora.net^
