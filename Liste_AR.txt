@@ -95,6 +95,8 @@ _arabycash.
 ##.advSmall
 ##.adv_outer
 ##.angular_advertisement
+##.boxLeftAd
+##.boxRightAd
 ##.e3lan
 ##.e3lan-code
 ##.e3lan-top
