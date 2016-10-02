@@ -818,7 +818,6 @@ _arabycash.
 ||dafatir.ma/do.php?img=441
 ||dafatiri.com/vb/open.js
 ||dailymedicalinfo.com/uploads/sponsors/
-||damasgate.com/vb/*x*.php
 ||daralkotob.com/images/photos/niledesign.jpg
 ||daralkotob.com^*/banners/
 ||dardarkom.com/templates/demo/
