@@ -72,6 +72,7 @@ _arabycash.
 ###ad_global_below_navbar
 ###adpost2
 ###deskads
+###headads
 ###it-ad-header
 ###readmoreads
 ###zwaar_ad_id
