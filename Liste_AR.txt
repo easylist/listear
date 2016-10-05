@@ -1631,6 +1631,7 @@ f16f.com##div[style^="display:block;background:#ffffff;width:300px;height:250px;
 oleeh.com##div[style^="width:336px;height:280px;"]
 arabnet5.com##div[style^="width:728px; height:90px;"]
 ##div[style^="z-index: 99999; position: fixed; width: 100%; background-color: rgb(251, 236, 173);"]
+cinq-bem-bac.blogspot.com##font[id]
 eqla3.com##iframe
 fibladi.com##iframe[id^="google_ads"]
 arabe-media.com##iframe[width="300"][height="250"]
