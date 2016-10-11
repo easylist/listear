@@ -1737,6 +1737,7 @@ risalaradio.com#@#.ad-cell
 elahmad.com#@##adblock
 g9g.com#@##myAd
 aflamy.com,dramacafe.tv,el-oued.info,linuxarabic.com,online.dramacafe.in,xaddad.com#@#.afs_ads
+soft4sat.net#@#.e3lan
 !
 @@||ashams.com^$generichide
 @@||dz-sat.com^$generichide
