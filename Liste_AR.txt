@@ -79,6 +79,7 @@ _arabycash.
 ###zwaar_float_ad_area
 ##.Ad160-left
 ##.Ad160-right
+##.Ads-PostTop
 ##.ad160left
 ##.ad160right
 ##.ad250250
