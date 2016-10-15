@@ -822,8 +822,6 @@ _arabycash.
 ||dailymedicalinfo.com/uploads/sponsors/
 ||daralkotob.com/images/photos/niledesign.jpg
 ||daralkotob.com^*/banners/
-||dardarkom.com/templates/demo/
-||dardarkom.com^$popup,~third-party
 ||dawshagya.org/vb/open.js
 ||djelfa.info/ar/files/banners/
 ||djelfa.info/dj_img/*.gif
