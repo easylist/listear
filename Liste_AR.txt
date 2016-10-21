@@ -686,6 +686,7 @@ _arabycash.
 ||almountakhab.com/img/bg_image.jpg
 ||almountakhab.com/img/cote_bas.swf
 ||almountakhab.com/img/cote_top.swf
+||almountakhab.com^*/img/pub/
 ||almstba.com/Pic/Alexa.gif
 ||alnaddy.com^*.php?$popup
 ||alnda.com/13.gif
@@ -1508,6 +1509,7 @@ octboot.com##.topbanner
 bokra.net##.tower
 bokra.net##.towerBanner
 bokra.net##.twoBanners
+almountakhab.com##.wallpaper-link
 ylla.net##.warpbun
 akhbarelyom.com##.widget div[style$=";top: 100px;width: 120px;"]
 dzjobs.net##.wiki
