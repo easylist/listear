@@ -547,6 +547,11 @@ _arabycash.
 ! hd-arab.com
 |http://$script,third-party,domain=hd-arab.com
 |https://$script,third-party,domain=hd-arab.com
+! cimaclub.com
+@@||ajax.googleapis.com/ajax/libs/$script,domain=cimaclub.com
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=cimaclub.com
+|http://$script,third-party,xmlhttprequest,domain=cimaclub.com
+|https://$script,third-party,xmlhttprequest,domain=cimaclub.com
 ! http://nbdkorea.com/
 |http://el7l.*/$popup
 ! http://www.3rbx.net/vb/
