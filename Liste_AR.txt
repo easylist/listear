@@ -26,6 +26,7 @@
 .com/elan/$image
 .com/i3lan/
 .js?pubId=
+.net.ar/ads/
 .net/e3lan.
 .net/e3lan/
 .ps/adds/
@@ -60,10 +61,9 @@
 /ir/ads/*
 /vb/e3lan/*
 /vb/e3lanat/*
+://e3lanat.
 _arabycash.
-|http://e3lanat.
 !
-&tid=*&ref=$popup
 /get/iad/*$popup
 !
 !----------------------- Éléments génériques -----------------!
