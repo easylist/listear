@@ -552,6 +552,11 @@ _arabycash.
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=cimaclub.com
 |http://$script,third-party,xmlhttprequest,domain=cimaclub.com
 |https://$script,third-party,xmlhttprequest,domain=cimaclub.com
+! cima4up.tv
+@@||ajax.googleapis.com/ajax/libs/$script,domain=cima4up.tv
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=cima4up.tv
+|http://$script,third-party,domain=cima4up.tv
+|https://$script,third-party,domain=cima4up.tv
 ! http://nbdkorea.com/
 |http://el7l.*/$popup
 ! http://www.3rbx.net/vb/
