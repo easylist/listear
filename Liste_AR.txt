@@ -4,7 +4,7 @@
 ! Title: Liste AR
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
-! Expires: 4 days
+! Expires: 2 days
 ! Homepage: http://code.google.com/p/liste-ar-adblock/
 ! Licence : http://creativecommons.org/licenses/by-nc-sa/3.0/
 ! Mises à jour : https://hg.adblockplus.org/listear/shortlog
