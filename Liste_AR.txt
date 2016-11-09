@@ -194,7 +194,7 @@ _arabycash.
 ||3rabgamer.net^*/banner/
 ||3rbup.com/plugins/imageviewer/site/direct.php?s=2d82009cee6b9b33
 ||3rbup.com^*/direct.php?s=5670b66b3011a18f&/zi-m1.gif
-||3rby.net/$popup,domain=s-ajfan.com
+||3rby.net^$popup,domain=s-ajfan.com
 ||3support.com/wp-content/uploads/*/support.gif
 ||4040.cc/images/fakhr.gif
 ||44aa.com/image/nesba.swf
@@ -205,8 +205,7 @@ _arabycash.
 ||5jle.com^$popup,domain=maas1.com
 ||5short.com/short/autokey.php
 ||7aga.top^$popup,domain=myegy.to
-||7bbb7.com/vb/$popup,domain=s-ajfan.com
-||7bbb7.com/vb/$subdocument,domain=s-ajfan.com
+||7bbb7.com^$popup,domain=s-ajfan.com
 ||a7la-games.com/b/
 ||add-friendso.blogspot.com^$popup
 ||adnetechy.com/Aff/
@@ -222,7 +221,6 @@ _arabycash.
 ||al3ab2014.com^$popup,third-party
 ||al3abcooking.com/al3abcooking.gif
 ||alal3ab.net^$popup,third-party
-||aldam3h.com/vb/$subdocument,domain=s-ajfan.com
 ||aldlall.com/aldlall.gif
 ||aleqt.com/s/new/HP_
 ||alforat.org^*/banners/
@@ -279,6 +277,7 @@ _arabycash.
 ||bothemes.com^*/popup.js
 ||bp.blogspot.com^*/250-250-green.png$domain=abu-iyad.com
 ||c.top4top.net/i_7a2e7b89c71.png
+||c99.eu^$popup,domain=s-ajfan.com
 ||campaign-uploads.s3.amazonaws.com^
 ||casasky.com/bannerslider/
 ||cinemalek.com/*.gif
@@ -302,7 +301,7 @@ _arabycash.
 ||educdz.com/*/1544484_770455529632171_2442609755761839667_n.jpg
 ||el-balad.com/balad.js
 ||elaana.com/open.js
-||elastec.info/$popup,domain=s-ajfan.com
+||elastec.info^$popup,domain=s-ajfan.com
 ||elmal.us/banner
 ||ency-education.com/uploads/3/0/9/3/309326/3245017_orig.gif
 ||englishforarabs.com/english.gif
@@ -435,8 +434,7 @@ _arabycash.
 ||postimg.org/g70xglyjt/banner.png
 ||postimg.org/hl6o7kygp/993966453_1.gif
 ||profvb.com/pub/
-||ps-0.com/vb/$popup,domain=s-ajfan.com
-||ps-0.com/vb/$subdocument,domain=s-ajfan.com
+||ps-0.com^$popup,domain=s-ajfan.com
 ||rackcdn.com/1114112_1114112.swf
 ||raya.ps^*/banners/
 ||realup.net/201001/1362674452.gif
@@ -480,7 +478,6 @@ _arabycash.
 ||tore1.up-00.com/2016-03/145803347227431.gif
 ||traidnt.net/link/fast_link.html?
 ||travel360.asia/banner/
-||tumblr.com/$subdocument,domain=s-ajfan.com
 ||tvgate.tv/tvgate/campaign/
 ||tvmasrnet-javafiles.googlecode.com/files/Ads
 ||tvquran.com/banr/
@@ -508,7 +505,6 @@ _arabycash.
 ||wdbook.net^$subdocument,domain=wadilarab.com
 ||web4africa.net/banners/
 ||widgipedia.com/widgets/$third-party
-||wirwaar.com/$subdocument,domain=s-ajfan.com
 ||xatech.com^
 ||xuscacamusca.se/js/adsj.js
 ||yamli.com/static/gam_iframe.htm?
@@ -520,6 +516,7 @@ _arabycash.
 ||youtube.com^*_gOXf63AAJg$domain=qatarbike.com
 ||youtube.com^*_gOXf63AAJg$popup
 ||z4ar.com/banner/bsh.gif
+||zain.biz^$popup,domain=s-ajfan.com
 ||zee3rb.com/tourisme.js
 ||zi-m.com/uploads/1421349783282.jpg
 ||zi-m.com/uploads/1424183257331.png
@@ -529,6 +526,14 @@ _arabycash.
 ||zimabdk.com/uploads/13739970081.png
 ||zimabdk.com/uploads/1385612495381.gif
 ||zupimages.net/up/2/1045181967.png
+! IFRAME
+|http://$subdocument,third-party,domain=s-ajfan.com
+|https://$subdocument,third-party,domain=s-ajfan.com
+||7bbb7.com^$subdocument,third-party
+||aldam3h.com^$subdocument,third-party
+||kuwaitold.com^$subdocument,third-party
+||ps-0.com^$subdocument,third-party
+||wirwaar.com^$subdocument,third-party
 ! akoam.com
 @@||akoam.com/cdn-cgi/pe/bag2?$xmlhttprequest,domain=akoam.com
 |http://$script,third-party,xmlhttprequest,domain=akoam.com
@@ -1144,8 +1149,7 @@ _arabycash.
 ||roro44.com/girls-games-banner.jpg
 ||rumonline.net^*/banners/
 ||runnersleader.com/wp-content/uploads/Bnr-
-||s-ajfan.com/vb/aerowindow/
-||s-ajfan.com/vb/open/
+||s-ajfan.com^*/open/
 ||s-oman.net/bangkok3.swf
 ||s-oman.net/banner
 ||s-oman.net/bVp9Ju.gif
@@ -1339,7 +1343,6 @@ baitkebeer.com###makingdifferentpopup
 contactcars.com###mediumRectangle
 techarabi.com###mpu-in-post
 dwayir.com###nav
-s-ajfan.com###navbar_notice_8
 lakome.com###outside-left
 klmty.net###overlay
 mazika2day.com###page_end_bans
@@ -1369,9 +1372,6 @@ europages.ma###vipBox
 dz-sat.com###w3c5
 6ef.com,fr7.com,q8me.com###webColorsHeader2
 mshkla.com###weblks
-s-ajfan.com###window10
-s-ajfan.com###window3
-s-ajfan.com###window9
 jeddahbikers.com###x-728
 myegy.to##.AdContainer
 g5y.com,sedty.com##.Ads
@@ -1440,13 +1440,12 @@ bokra.net##.catsBanner
 hawamer.com##.centerBanner
 alweeam.com.sa##.content-banner
 masrawy.com,yallakora.com##.dealsoffer
-s-ajfan.com##.decoded
 3a2ilati.com##.eshop-list
 arabs-up.com,arabsharing.com##.extras_footer
 arabs-up.com##.extras_header
 alwatanvoice.com##.flash-top
 bokra.net##.floatBanner
-al3ushaq.com,algremh.com,ktaby.com,linkat.lmseh.com,panorama-istanbul.org##.floatingWindowContent
+al3ushaq.com,algremh.com,ktaby.com,linkat.lmseh.com,panorama-istanbul.org,s-ajfan.com##.floatingWindowContent
 firstlady99.com##.forumline td.row1 > a > img
 firstlady99.com##.forumline td.row1 > span > a > img
 sawasport.com##.full-width-banner
