@@ -572,6 +572,7 @@ _arabycash.
 ! cloudfront.net
 ||cloudfront.net^$domain=animestarz.com|arabseed.com
 ! images hosting
+||d16.net/up/uploads/1478118841381.gif
 ||i.imgur.com/3tAhgla.gif
 ||i64.tinypic.com/34pc7e8.gif
 ||i64.tinypic.com/t6yr69.gif
