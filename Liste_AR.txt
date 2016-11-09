@@ -59,6 +59,9 @@
 /images/e3lan3.
 /images/mrad.
 /ir/ads/*
+/mobilead300.
+/mpu_dfp.
+/sb_dfp.
 /vb/e3lan/*
 /vb/e3lanat/*
 ://e3lanat.
@@ -973,12 +976,6 @@ _arabycash.
 ||jawaley.com/advs.php
 ||jawaley.com/banar/
 ||jawaley.net/banar/
-||jeddahbikers.com/LB.php
-||jeddahbikers.com/LB_DFP.php
-||jeddahbikers.com/mobilead300.php
-||jeddahbikers.com/MPU.php
-||jeddahbikers.com/MPU_DFP.php
-||jeddahbikers.com/SB_DFP.php
 ||jfranews.com^*/banners/
 ||jsoftj.com/games-folder/zTkW1_jsoftj.com.png
 ||k1br.com/vb/$subdocument,domain=s7rny.com
@@ -1287,7 +1284,6 @@ i-share-ads.com###ContentPlaceHolder1_Pnl_ShowAds
 alarab.net###FloatBanner
 arabnet5.com###GoogleDivUnderNews
 ounousa.com###LeftBannerContainer
-jeddahbikers.com###Main_MPU
 ounousa.com###TopBanner
 fatakat.com###ad1
 masr140.com###ad_20
@@ -1376,6 +1372,7 @@ mshkla.com###weblks
 s-ajfan.com###window10
 s-ajfan.com###window3
 s-ajfan.com###window9
+jeddahbikers.com###x-728
 myegy.to##.AdContainer
 g5y.com,sedty.com##.Ads
 onothty.net,q8yatnews.com##.Ads2
@@ -1739,6 +1736,7 @@ risalaradio.com#@#.ad-cell
 !
 @@.png#$image,domain=dz-sat.com|elmoslsal.com|up.media1fire.com
 @@/advertisement.js$script,domain=animestarz.com|arabe-media.com|embratoria.com|imbratoria.info|zee3rb.com
+@@||jeddahbikers.com/templates/js/adframe.js|$script,~third-party
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=dz-sat.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dz-sat.com
 !
