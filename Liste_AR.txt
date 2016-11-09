@@ -19,6 +19,7 @@
 -60x480-
 -90x728.
 -delivery.js
+-e3lnat/
 .com/bnr/
 .com/e3lan/
 .com/e3lanat/
@@ -52,7 +53,6 @@
 /i3lan-1.
 /i3lan-2.
 /i3lan-3.
-/images/al-e3lnat/*
 /images/bnr_
 /images/e3lan.
 /images/e3lan/*
@@ -570,6 +570,7 @@ _arabycash.
 ||oi68.tinypic.com/358dx00.jpg
 ||store1.up-00.com/2015-12/145097551855441.png
 ||store2.up-00.com/2016-01/14520262735761.png
+||swishschool.com/up/uploads/1469722778271.jpg
 ||ta3lime.com/up/uploads/14597609769341.jpg
 !
 !----------------------- Sites spécifiques -----------------------!
@@ -1700,7 +1701,6 @@ jo-sharing.com##img[width="700"][height="120"]
 alamelarab.com,foxpic.com,zi-m.com##img[width="728"][height="90"]
 chtoukapress.com##img[width="728px"][height="100px"]
 yakamar.com##img[width="728px"][height="90px"]
-4algeria.com##img[width="75"][height="30"]
 ech-chaab.net##img[width="820"][height="159"]
 jo-sharing.com##img[width="940"][height="80"]
 bloggerexp.com##p[style="padding-right:5px;width:290px;height:60px;"]
@@ -1747,7 +1747,7 @@ risalaradio.com#@#.ad-cell
 !
 elahmad.com#@##adblock
 g9g.com#@##myAd
-aflamy.com,dramacafe.tv,el-oued.info,linuxarabic.com,online.dramacafe.in,xaddad.com#@#.afs_ads
+4algeria.com,aflamy.com,dramacafe.tv,el-oued.info,linuxarabic.com,online.dramacafe.in,xaddad.com#@#.afs_ads
 soft4sat.net#@#.e3lan
 !
 @@||ashams.com^$generichide
