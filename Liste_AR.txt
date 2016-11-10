@@ -36,6 +36,7 @@
 /advStatLib.js
 /advStatSettings.js
 /affiliate-tools.
+/afu.php?id=$subdocument
 /ar/ads/*
 /ara/ads/*
 /arabycash-
@@ -62,9 +63,11 @@
 /mobilead300.
 /mpu_dfp.
 /sb_dfp.
+/show_i.php?b=$subdocument,third-party
 /vb/e3lan/*
 /vb/e3lanat/*
 ://e3lanat.
+://go.*/afu.
 _arabycash.
 !
 /get/iad/*$popup
@@ -141,13 +144,16 @@ _arabycash.
 !----------------------- Annonceurs -----------------------!
 !
 ||91.210.165.104^$third-party
+||ad2upapp.com^$third-party
 ||adbooth.com^$third-party
 ||adsvee.com^$third-party
 ||adtube.ir^$third-party
+||adv0.com^$third-party
 ||adzouktech.com^$third-party
 ||apanet.net^$third-party
 ||branchroughlend.info^$third-party
 ||clksite.com^$third-party
+||deliverymodo.com^$third-party
 ||eclkspbn.com^$third-party
 ||erate.co.il^$third-party
 ||finishclueobscure.info^$third-party
@@ -164,6 +170,7 @@ _arabycash.
 ||yakiyo.club^$third-party
 ||zermeo.com^$third-party
 !
+||adintop.com^$popup,third-party
 ||adoptim.com^$popup,third-party
 ||adzouktech.com^$popup,third-party
 ||celebritypranky.com^$popup,third-party
@@ -271,6 +278,7 @@ _arabycash.
 ||berlintravelguide.org/tag/$third-party
 ||bistscript.ir/banner/
 ||bit.ly/hxLEG7
+||bit.ly^$popup,domain=ktaby.com
 ||blogspot.com^*/al3abo.png$domain=th3professional.com
 ||blogspot.com^*/s1600/*.gif$domain=mikrotikarabs.com
 ||bookingwebs.com/pop*.js
@@ -528,8 +536,8 @@ _arabycash.
 ||zimabdk.com/uploads/1385612495381.gif
 ||zupimages.net/up/2/1045181967.png
 ! subdocument
-|http://$subdocument,third-party,domain=s-ajfan.com
-|https://$subdocument,third-party,domain=s-ajfan.com
+|http://$subdocument,third-party,domain=ktaby.com|s-ajfan.com
+|https://$subdocument,third-party,domain=ktaby.com|s-ajfan.com
 ||7bbb7.com^$subdocument,third-party
 ||al3boshi.com^$subdocument,third-party
 ||aldam3h.com^$subdocument,third-party
@@ -601,7 +609,6 @@ _arabycash.
 ||222z.net/banners/
 ||24caratksa.com^$popup,domain=syrcafe.com
 ||33sh8.com/up/styles/default2//images/adds.gif
-||3ajaba.com^$subdocument,domain=ktaby.com
 ||3aram.com/exshow2.js
 ||3asfh.net/vb/js.php
 ||3asq.com/img/uploads/13560751771.swf?
@@ -988,9 +995,9 @@ _arabycash.
 ||kora.me/$subdocument,domain=zi-m.com
 ||kora.me^$subdocument,domain=vb.zi-m.com
 ||korabia.com/Content/img/Cocacola.jpg
+||ktaby.com/bunner/
+||ktaby.com/open.js
 ||ktaby.com/vb/open/
-||ktaby.com/wzayef^$subdocument,domain=ktaby.com
-||ktaby.com^*/open.js
 ||kuwait1.co^$subdocument,domain=syrcafe.co
 ||l7en.com/javascript/main.js
 ||l7en.com/ps/new/$script
@@ -1566,7 +1573,7 @@ arabs-up.com##a[href^="go.php?"]
 syrcafe.com##a[href^="http://24caratksa.com/"]
 zi-m.com##a[href^="http://af.gamepower7.com/"]
 almesryoon.com,tvegy.com##a[href^="http://ar.hao123.com/?tn="]
-animop.net,arbcinema.com##a[href^="http://bit.ly/"]
+animop.net,arbcinema.com,ktaby.com##a[href^="http://bit.ly/"]
 ouamer.com##a[href^="http://eepurl.com/"]
 hawahome.com##a[href^="http://forum.hawahome.com/ads.php?"]
 algareda.com,arabseed.com,cima4u.tv,sawasport.com##a[href^="http://goo.gl/"]
