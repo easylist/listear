@@ -533,6 +533,7 @@ _arabycash.
 ||7bbb7.com^$subdocument,third-party
 ||al3boshi.com^$subdocument,third-party
 ||aldam3h.com^$subdocument,third-party
+||ktaby.com^$subdocumentt,third-party
 ||kuwaitold.com^$subdocument,third-party
 ||ps-0.com^$subdocument,third-party
 ||wirwaar.com^$subdocument,third-party
@@ -682,10 +683,6 @@ _arabycash.
 ||algeria-press.com/algerieannonce.jpg
 ||algeria-press.com/kechkhedma.jpg
 ||algomhuria.net.eg^*/adv/
-||algremh.com/adv.htm
-||algremh.com/img/in-goore.gif
-||algremh.com/open.js
-||algremh.com/open/
 ||aliahmedali.com/almohasben.js
 ||alkhabar.tv/pub/
 ||allofusoman.com^*/mybener/
@@ -933,8 +930,6 @@ _arabycash.
 ||fx-dz.com^*/banner01300250.jpg
 ||fx-dz.com^*/banner0270090.jpg
 ||g7a.com^$popup,domain=str-ly.com
-||g9g.im/open.js
-||g9g.im^$subdocument,domain=algremh.com
 ||games-off.com^$popup,domain=3rbup.com
 ||geek4arab.com^*/banner/
 ||gem-flash.com^*/banners1.php?
@@ -995,7 +990,6 @@ _arabycash.
 ||korabia.com/Content/img/Cocacola.jpg
 ||ktaby.com/vb/open/
 ||ktaby.com/wzayef^$subdocument,domain=ktaby.com
-||ktaby.com^$subdocument,domain=algremh.com
 ||ktaby.com^*/open.js
 ||kuwait1.co^$subdocument,domain=syrcafe.co
 ||l7en.com/javascript/main.js
@@ -1438,7 +1432,7 @@ arabs-up.com,arabsharing.com##.extras_footer
 arabs-up.com##.extras_header
 alwatanvoice.com##.flash-top
 bokra.net##.floatBanner
-algremh.com,ktaby.com,linkat.lmseh.com,panorama-istanbul.org,s-ajfan.com##.floatingWindowContent
+ktaby.com,linkat.lmseh.com,panorama-istanbul.org,s-ajfan.com##.floatingWindowContent
 firstlady99.com##.forumline td.row1 > a > img
 firstlady99.com##.forumline td.row1 > span > a > img
 sawasport.com##.full-width-banner
