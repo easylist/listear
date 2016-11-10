@@ -527,7 +527,7 @@ _arabycash.
 ||zimabdk.com/uploads/13739970081.png
 ||zimabdk.com/uploads/1385612495381.gif
 ||zupimages.net/up/2/1045181967.png
-! IFRAME
+! subdocument
 |http://$subdocument,third-party,domain=s-ajfan.com
 |https://$subdocument,third-party,domain=s-ajfan.com
 ||7bbb7.com^$subdocument,third-party
@@ -668,11 +668,6 @@ _arabycash.
 ||al3ab4kids.com/*ads.js
 ||al3ab4kids.com/test*.php
 ||al3boshi.com^$subdocument,domain=aflamex.com
-||al3ushaq.com/t7mel/uploads/13505054691.gif
-||al3ushaq.com/t7mel/uploads/13515103911.gif
-||al3ushaq.com/vb/open.js
-||al3ushaq.com/vb/open/
-||al3ushaq.com^$subdocument,domain=al3ushaq.com
 ||al5aatr.com^*/banner_
 ||alamelarab.com/*-banner.
 ||alamelarab.com/pics/five_five.jpg
@@ -1447,7 +1442,7 @@ arabs-up.com,arabsharing.com##.extras_footer
 arabs-up.com##.extras_header
 alwatanvoice.com##.flash-top
 bokra.net##.floatBanner
-al3ushaq.com,algremh.com,ktaby.com,linkat.lmseh.com,panorama-istanbul.org,s-ajfan.com##.floatingWindowContent
+algremh.com,ktaby.com,linkat.lmseh.com,panorama-istanbul.org,s-ajfan.com##.floatingWindowContent
 firstlady99.com##.forumline td.row1 > a > img
 firstlady99.com##.forumline td.row1 > span > a > img
 sawasport.com##.full-width-banner
