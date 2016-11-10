@@ -531,6 +531,7 @@ _arabycash.
 |http://$subdocument,third-party,domain=s-ajfan.com
 |https://$subdocument,third-party,domain=s-ajfan.com
 ||7bbb7.com^$subdocument,third-party
+||al3boshi.com^$subdocument,third-party
 ||aldam3h.com^$subdocument,third-party
 ||kuwaitold.com^$subdocument,third-party
 ||ps-0.com^$subdocument,third-party
@@ -641,10 +642,6 @@ _arabycash.
 ||advs.akhbarelyom.com/Images/adwekala.swf
 ||advs.akhbarelyom.com/OutDoor/Images/aclk.gif
 ||aff.kooora.com/images/aff_
-||aflamex.com/adv2012/
-||aflamex.com/forum/download-icon.jpg
-||aflamex.com/forum/open/
-||aflamonline.info/ads*.
 ||aflamy.com/e3lanat-banner.jpg
 ||agadir24.info/flash.swf
 ||agadir24.info/khir.swf
@@ -667,7 +664,6 @@ _arabycash.
 ||al-zin.com^$popup,domain=al-zin.com|syrcafe.com
 ||al3ab4kids.com/*ads.js
 ||al3ab4kids.com/test*.php
-||al3boshi.com^$subdocument,domain=aflamex.com
 ||al5aatr.com^*/banner_
 ||alamelarab.com/*-banner.
 ||alamelarab.com/pics/five_five.jpg
