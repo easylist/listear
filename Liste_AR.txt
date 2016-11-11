@@ -542,7 +542,7 @@ _arabycash.
 ||7bbb7.com^$subdocument,third-party
 ||al3boshi.com^$subdocument,third-party
 ||aldam3h.com^$subdocument,third-party
-||ktaby.com^$subdocumentt,third-party
+||ktaby.com^$subdocument,third-party
 ||kuwaitold.com^$subdocument,third-party
 ||ps-0.com^$subdocument,third-party
 ||wirwaar.com^$subdocument,third-party
