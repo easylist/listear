@@ -67,6 +67,8 @@
 ://go.*/afu.
 _arabycash.
 !
+/afstrack.*?affid=$popup
+/clicks.*/afs/$popup
 /get/iad/*$popup
 !
 !----------------------- Éléments génériques -----------------!
@@ -177,6 +179,8 @@ _arabycash.
 ||licantrum.com^$popup,third-party
 ||newpoptab.com^$popup,third-party
 ||newtab-tv.com^$popup,third-party
+||partners.xm.com^$popup,third-party
+||pipaffiliates.com^$popup,third-party
 ||prwidgets.com^$popup,third-party
 ||q6rweb.com^$popup,third-party
 ||smintmouse.com^$popup,third-party
