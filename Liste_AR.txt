@@ -457,7 +457,6 @@ _arabycash.
 ||roooo3.com^$popup,domain=arab.sh|arabsh.com
 ||rsbfoot.com/annonce/
 ||s21.postimg.org/sdwex12bb/animated_banner.gif
-||s3.amazonaws.com^$domain=arabseed.com
 ||satarabia.net/v2/images/big_ar_banner.jpg
 ||servimg.com/*/5souq_10.gif
 ||servimg.com/u/f30/15/50/53/07/0802.jpg
@@ -592,7 +591,7 @@ _arabycash.
 ! http://www.3rbx.net/vb/
 ||moltqh.com^$popup
 ! cloudfront.net
-||cloudfront.net^$domain=1short.us|animestarz.com|arabseed.com|filmey.tv
+||cloudfront.net^$domain=1short.us|animestarz.com|filmey.tv
 ! amazonaws
 ||amazonaws.com^$domain=1short.us|animestarz.com|filmey.tv
 ! images hosting
@@ -769,17 +768,11 @@ _arabycash.
 ||arabs-up.com/uploads/arabs-up_13555968491.gif
 ||arabs-up.com/uploads/arabs-up_13580021531.gif
 ||arabsbook.com^*/banners/
-||arabseed.com/1st/mhgames2.js
-||arabseed.com/2nd/forsans*.js
-||arabseed.com/ffx/forsan728.jpg
+||arabseed.com/*.html
 ||arabseed.com/foo.php
-||arabseed.com/image/goplayer
-||arabseed.com/install33.js
-||arabseed.com/ioption.html
 ||arabseed.com/open/
 ||arabseed.com/pop/
 ||arabseed.com/tvgate/
-||arabseed.com/vlc.js
 ||arabseed.com^*/open*.js
 ||arabseyes.com/php1.js
 ||arabsgate.com/banners2/
@@ -1064,7 +1057,6 @@ _arabycash.
 ||mazika2day.com/images/bg
 ||mazika2day.com/popup.
 ||mazika2day.com/unnamed1.png
-||mbc.net/?utm_source=$popup,domain=arabseed.com
 ||mbc.net/dms/analytics-and-banners/
 ||melody.ma/images/300/
 ||melody.ma/images/500/
@@ -1551,6 +1543,7 @@ masrawysat.com##a > img[width="728"][height="90"]
 m-4u.net##a[class^="hcne_ads"]
 panorama-istanbul.org##a[href$="wiki-net.net/"]
 ksa-ksa.com##a[href*="/?adsclick=banner&id="]
+202020.net,algareda.com,arabseed.com,cima4u.tv,sawasport.com##a[href*="://goo.gl/"]
 lakii.com##a[href*="ads-redirect.php?i="]
 egyfitness.com##a[href*="leadpages.co"]
 arabictorrent.net##a[href="/dwl"]
@@ -1588,7 +1581,6 @@ almesryoon.com,tvegy.com##a[href^="http://ar.hao123.com/?tn="]
 animop.net,arbcinema.com,ktaby.com##a[href^="http://bit.ly/"]
 ouamer.com##a[href^="http://eepurl.com/"]
 hawahome.com##a[href^="http://forum.hawahome.com/ads.php?"]
-algareda.com,arabseed.com,cima4u.tv,sawasport.com##a[href^="http://goo.gl/"]
 tariqallah.net##a[href^="http://goo.gl/"] > img
 mwordpress.net##a[href^="http://mwordpress.net/visit/"]
 ktaby.com##a[href^="http://performance.ikoo.com/"]
@@ -1612,7 +1604,6 @@ almosafr.com##a[href^="http://www.rentalcars.com/Home.do?affiliateCode="]
 sedty.com##a[href^="http://www.sedty.com/adv/"]
 travelzad.com##a[href^="http://www.travelzad.com/vb/ads.php?id="]
 hona24.com##a[href^="https://docs.google.com/"]
-202020.net,arabseed.com##a[href^="https://goo.gl/"]
 mothhelah.com##a[href^="index.php?op=ad_click"]
 3rbx.net##a[onclick*="'Outgoing',"]
 mtwer.com##a[onclick^="_gaq.push(['_trackEvent', 'Outgoing',"]
@@ -1623,7 +1614,6 @@ aliahmedali.com##a[target="_blank"] > img[width="235"][height="60"]
 misrlinks.com##a[target="_blank"][href*="to-"]
 alrealclub.com##a[title^="ينتهي في"]
 aswaqcity.com##div#vbseo_vhtml_0
-arabseed.com##div[align="center"] + iframe[frameborder="0"] + div[class]:last-child
 top555games.com##div[class^="adshp"]
 mexat.com##div[class^="banner"]
 alqabas.com.kw##div[id^="azk"]
@@ -1719,7 +1709,7 @@ forums.7hob.com##td[style="border:2px #EA8610 dotted ; width:750px;height:280px;
 arfonts.net##td[style="height: 90px; padding: 0px 0px 0px 0px; text-align:center; border-bottom:1px dashed #336699;"]
 traidnt.net##td[width="160px"]
 ! Filtres de propriété CSS pour Adblock Plus
-arabseed.com##[-abp-properties='z-index: 999999 !important;']
+!
 !
 !----------------------- Exceptions -----------------------!
 !
