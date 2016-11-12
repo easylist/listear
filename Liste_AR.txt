@@ -577,6 +577,10 @@ _arabycash.
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=cima4up.tv
 |http://$script,third-party,domain=cima4up.tv
 |https://$script,third-party,domain=cima4up.tv
+! arabictorrent.net
+@@||ajax.googleapis.com/ajax/libs/$script,domain=arabictorrent.net
+|http://$script,third-party,xmlhttprequest,domain=arabictorrent.net
+|https://$script,third-party,xmlhttprequest,domain=arabictorrent.net
 ! http://nbdkorea.com/
 |http://el7l.*/$popup
 ! http://www.3rbx.net/vb/
