@@ -594,7 +594,7 @@ _arabycash.
 ! cloudfront.net
 ||cloudfront.net^$domain=1short.us|animestarz.com|arabseed.com|filmey.tv
 ! amazonaws
-||amazonaws.com^$domain=1short.us|filmey.tv
+||amazonaws.com^$domain=1short.us|animestarz.com|filmey.tv
 ! images hosting
 ||d16.net/up/uploads/1478118841381.gif
 ||i.imgur.com/3tAhgla.gif
