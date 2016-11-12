@@ -550,11 +550,11 @@ _arabycash.
 |http://$script,third-party,xmlhttprequest,domain=akoam.com
 |https://$script,third-party,xmlhttprequest,domain=akoam.com
 ! toofy.tv
-@@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=toofy.tv
-@@||maxcdn.bootstrapcdn.com^$script,third-party,domain=toofy.tv
-|http://$script,third-party,xmlhttprequest,domain=toofy.tv
-|https://$script,third-party,xmlhttprequest,domain=toofy.tv
-||toofy.tv^$popup,~third-party
+@@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=toofy.co|toofy.tv
+@@||maxcdn.bootstrapcdn.com^$script,third-party,domain=toofy.co|toofy.tv
+|http://$script,third-party,xmlhttprequest,domain=toofy.co|toofy.tv
+|https://$script,third-party,xmlhttprequest,domain=toofy.co|toofy.tv
+||toofy.co^$popup,~third-party
 ! arabseed.com
 |http://$script,third-party,xmlhttprequest,domain=arabseed.com
 |https://$script,third-party,xmlhttprequest,domain=arabseed.com
@@ -1225,8 +1225,7 @@ _arabycash.
 ||tabeebk.com^$popup,domain=egynt.net
 ||tangersport.com/VillArt.gif
 ||tfilm.tv^$domain=tfilm.ba7r.biz
-||toofy.tv/design/js/mv.js
-||toofy.tv/design/js/towofy.js
+||toofy.co/design/js/
 ||top-an.com^$subdocument,domain=vb.zi-m.com
 ||tourism-review.net/banners/
 ||travelzad.com/banner-app.gif
