@@ -308,6 +308,7 @@ _arabycash.
 ||dropvideo.com/adorika/$popup
 ||dubizzle.com^*/?utm_source=$popup
 ||dzautos.com/data/dzauto.swf
+||dzschools.com/wp-content/uploads/$third-party
 ||easycima.com^$popup,third-party
 ||educdz.com/*/1544484_770455529632171_2442609755761839667_n.jpg
 ||el-balad.com/balad.js
