@@ -281,6 +281,7 @@ _arabycash.
 ||bistscript.ir/banner/
 ||bit.ly/hxLEG7
 ||bit.ly^$popup,domain=ktaby.com
+||blogspot.com/*/Ld_kUAzSv8o5_Bqf3Pcn_KKHqNFfQkFzACLcB/s1600/2.gif
 ||blogspot.com^*/al3abo.png$domain=th3professional.com
 ||blogspot.com^*/s1600/*.gif$domain=mikrotikarabs.com
 ||bookingwebs.com/pop*.js
