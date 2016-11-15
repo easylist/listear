@@ -984,7 +984,6 @@ _arabycash.
 ||jawaley.net/banar/
 ||jfranews.com^*/banners/
 ||jsoftj.com/games-folder/zTkW1_jsoftj.com.png
-||k1br.com/vb/$subdocument,domain=s7rny.com
 ||kafrsakr.com/images/alexa_site.gif
 ||kalemaro.com/dezndev*.js
 ||kashta.net^$subdocument,domain=syrcafe.net
@@ -1156,9 +1155,6 @@ _arabycash.
 ||s-oman.net/OPYzAHGn.gif
 ||s7days.com^$subdocument,domain=gornalak.com
 ||s7o.net/drn.gif
-||s7rny.com/vb/open/
-||s7rny.com/vb/s/150.png
-||s7rny.com/vb/s/400.png
 ||saidaonline.com/flash/di3ayaad.swf
 ||saidaonline.com/gifs/alassaadlogo21.jpg
 ||saidaonline.com/gifs/bsatad2013.jpg
