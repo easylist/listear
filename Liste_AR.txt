@@ -790,7 +790,6 @@ _arabycash.
 ||arblue.com/open.js
 ||as7apcool.com/ads/
 ||as7apcool.com/pic/$image
-||asalahpal.com/vb/open/
 ||ashefaa.com/i3lanat/
 ||aswaqcity.com/swf/
 ||aswat-elchamal.com/ar/pub/
@@ -1234,7 +1233,6 @@ _arabycash.
 ||tvgate.tv^$subdocument
 ||uob-bh.com/uploadfiles/bahraindir.gif
 ||uploadboy.com/banner/
-||uskarmawi.com^$subdocument,domain=asalahpal.com
 ||vb.eqla3.com/code/*.html
 ||vb.zi-m.com/aerowindow/
 ||vb.zi-m.com/js.php
@@ -1352,7 +1350,7 @@ europages.ma###sponsor
 liilas.com###tickermain
 ar-tr.com,arablionz.com,arabseed.com###top-banner
 hawamer.com###topBanner
-maas1.com,uskarmawi.com###topads
+maas1.com###topads
 mazika2day.com###topban
 alarab.net###topbanner
 a7lashare.com,iq-vb.net,sm3na.com,ultshare.com###topbar
