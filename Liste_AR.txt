@@ -947,7 +947,6 @@ _arabycash.
 ||gem-flash.com^*/banners1.php?
 ||giniko.com/images/banner/
 ||goo.gl^$popup,domain=abotlal.com|arabasma.com|arabseed.com|cima4u.tv|dev-point.com|mazika2day.com
-||goo.gl^$subdocument,domain=lmseh.com
 ||google.com/url?^$popup,domain=ya3ale.com
 ||googleusercontent.com^*/mastercard.gif$domain=myalge.net
 ||googlna.com^*/bnar.swf
@@ -1020,7 +1019,6 @@ _arabycash.
 ||liilas.com/vb3/z.js
 ||llssll.com/uploads/viewimages/
 ||llssll.com/vb/2.jpg
-||lmseh.com/vb/open/
 ||losha.net/themes/portal/js/popup.js
 ||lovely0smile.com/b-b1.php
 ||lovely0smile.com/b-b5.php
@@ -1213,8 +1211,6 @@ _arabycash.
 ||syrcafe.net/vb/download.gif
 ||syrcafe.net/vb/forex99.jpg
 ||syria-news.com/adsbar.
-||t3bqlbe.net/Untitled-100.gif
-||t3bqlbe.net^$subdocument,domain=lmseh.com
 ||t555t.com/uploads/13586252371.gif
 ||ta7a.com/mnfz-
 ||ta7a.com/open.htm
@@ -1434,7 +1430,7 @@ arabs-up.com,arabsharing.com##.extras_footer
 arabs-up.com##.extras_header
 alwatanvoice.com##.flash-top
 bokra.net##.floatBanner
-ktaby.com,linkat.lmseh.com,panorama-istanbul.org,s-ajfan.com##.floatingWindowContent
+ktaby.com,linkat.panorama-istanbul.org,s-ajfan.com##.floatingWindowContent
 firstlady99.com##.forumline td.row1 > a > img
 firstlady99.com##.forumline td.row1 > span > a > img
 sawasport.com##.full-width-banner
@@ -1641,7 +1637,6 @@ nilemotors.net##img[height="60"][width\"468\"]
 wed-alqlop.com##img[height="600"][width="160"]
 adslgate.com,wed-alqlop.com##img[height="90"][width="728"]
 annahar.ma##img[src^="data:image/jpeg;base64,"]
-lmseh.com##img[src^="http://www.up.lmseh.com/do.php?"]
 bramjnet.com##img[style="WIDTH: 468px; HEIGHT: 60px"][title*="الإعلان "]
 teckni-sat.com##img[style="height: 90px; width: 728px; border-width: 0px"]
 dostor.org##img[style="width: 120px; height: 599px;"]
