@@ -937,7 +937,6 @@ _arabycash.
 ||forex1040.blogspot.com^$popup,domain=aflmsexarab.com
 ||forum.arabseed.com/downloads.gif
 ||fragny.com/open.js
-||free.panorama-istanbul.org^$popup,domain=panorama-istanbul.org
 ||fx-dz.com^*/_12304210421772.gif
 ||fx-dz.com^*/banner01300250.jpg
 ||fx-dz.com^*/banner0270090.jpg
@@ -1005,7 +1004,6 @@ _arabycash.
 ||l7en.com/javascript/main.js
 ||l7en.com/ps/new/$script
 ||lahbabi.ma//home/code-widjet.html
-||learn.wiki-net.net^$popup,domain=panorama-istanbul.org
 ||lhzro.com^$popup,domain=lhzro.com
 ||liilas.com/*/am.js
 ||liilas.com/300.htm
@@ -1103,7 +1101,6 @@ _arabycash.
 ||panet.co.il/Ext/js/auadsx.js
 ||panet.co.il/online/images/links_blocks/
 ||panet.co.il^*/flash_banners/
-||panorama-istanbul.org/vb/open/
 ||petra.gov.jo/Public_Images/Banner
 ||popup.egyup.com^
 ||q8classroom.net/adv_
@@ -1239,7 +1236,6 @@ _arabycash.
 ||waraqat.net/*/thwalel.gif
 ||waseet-dz.com/wp-content/uploads/2016/05/affiche5-185x300.png
 ||wasetamazon.com/upload/2015/08/amazon.png
-||wiki-net.net/$subdocument,domain=panorama-istanbul.org
 ||www.on.ma/banner.
 ||xaddad.com/img/sponsor-
 ||xdahk.bihax.com^$popup,domain=bihax.com
@@ -1408,7 +1404,7 @@ alhayat.com##.banner2
 egyup.com,imanschool.com,mwadah.com##.bannerBox
 m5zn.com##.banner_120_black
 elmihwar.com,felmedan.com##.banneritem
-alfajertv.com,arabsharing.com,ibda3gate.com,mediamasr.tv,panorama-istanbul.org##.banners
+alfajertv.com,arabsharing.com,ibda3gate.com,mediamasr.tv##.banners
 marocemploi.net##.bg_link
 bokra.net##.bigStrip
 wmuae.net##.binsaad
@@ -1430,7 +1426,7 @@ arabs-up.com,arabsharing.com##.extras_footer
 arabs-up.com##.extras_header
 alwatanvoice.com##.flash-top
 bokra.net##.floatBanner
-ktaby.com,linkat.panorama-istanbul.org,s-ajfan.com##.floatingWindowContent
+ktaby.com,s-ajfan.com##.floatingWindowContent
 firstlady99.com##.forumline td.row1 > a > img
 firstlady99.com##.forumline td.row1 > span > a > img
 sawasport.com##.full-width-banner
@@ -1529,7 +1525,6 @@ al3abtab5.com##a > img[width="70"][height="35"]
 masrawysat.com##a > img[width="728"][height="90"]
 2lboo.com##a[class^="banner"]
 m-4u.net##a[class^="hcne_ads"]
-panorama-istanbul.org##a[href$="wiki-net.net/"]
 ksa-ksa.com##a[href*="/?adsclick=banner&id="]
 202020.net,algareda.com,arabseed.com,cima4u.tv,sawasport.com##a[href*="://goo.gl/"]
 lakii.com##a[href*="ads-redirect.php?i="]
@@ -1544,7 +1539,6 @@ shofonline.net##a[href="http://games.mega-team.net/"]
 str-ly.com##a[href="http://games.str-ly.com/"]
 2flam.net##a[href="http://shwqna.at.ua/Free.htm"]
 ta7a.com##a[href="http://www.adamahospital.com/ar/"]
-panorama-istanbul.org##a[href="http://www.alexa.com/toolbar"]
 baitkebeer.com##a[href="http://www.arabawe.com/"]
 animop.net##a[href="http://www.b3lok.com"]
 masrawysat.com##a[href="http://www.c1000000.com"]
