@@ -471,7 +471,6 @@ _arabycash.
 ||shor1.com/open*.js
 ||shor1.com/tourisme.js
 ||short5.com/2d/popup.js
-||shorte.st/link-converter.
 ||shwqna.at.ua/pop*.js
 ||shy22.com/upfilgif/eca15583.gif
 ||shy22.com/upfilgif/eou19449.gif
