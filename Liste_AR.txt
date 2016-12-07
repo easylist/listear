@@ -593,9 +593,9 @@ _arabycash.
 ! http://www.3rbx.net/vb/
 ||moltqh.com^$popup
 ! cloudfront.net
-||cloudfront.net^$domain=1short.us|animestarz.com|filmey.tv
-! amazonaws
-||amazonaws.com^$domain=1short.us|animestarz.com|filmey.tv
+||cloudfront.net^$domain=1short.us|animestarz.com|filmey.tv|kooralive.tv
+! amazonaws.com
+||amazonaws.com^$domain=1short.us|animestarz.com|channel.kooralive.tv|filmey.tv
 ! images hosting
 ||d16.net/up/uploads/1478118841381.gif
 ||i.imgur.com/3tAhgla.gif
@@ -1730,6 +1730,7 @@ soft4sat.net#@#.e3lan
 @@||ashams.com^$generichide
 @@||dz-sat.com^$generichide
 @@||elmoslsal.com^$generichide
+@@||kooralive.tv^$generichide
 @@||kora-star.com^$generichide
 @@||sumeronline.com^$generichide
 @@||tvono.com^$generichide
