@@ -15,6 +15,7 @@
 ! e-mail : liste.ar.adblock at gmail.com
 !
 !----------------------- Filtres génériques -----------------!
+-300-250-
 -600x120.
 -60x480-
 -90x728.
@@ -90,6 +91,7 @@ _arabycash.
 ##.ad250250
 ##.ad970
 ##.ad_banner728
+##.adblock
 ##.ads1post
 ##.ads2post
 ##.ads_ar_wid
@@ -599,6 +601,7 @@ _arabycash.
 ||i.imgur.com/3tAhgla.gif
 ||i64.tinypic.com/34pc7e8.gif
 ||i64.tinypic.com/t6yr69.gif
+||img15.hostingpics.net/pics/554573Howtotravelforfree.png
 ||oi68.tinypic.com/358dx00.jpg
 ||store1.up-00.com/2015-12/145097551855441.png
 ||store2.up-00.com/2016-01/14520262735761.png
@@ -1314,6 +1317,7 @@ masrawy.com###hleader
 facenama.com###home-left-120
 facenama.com###home-top-468
 masrawy.com###hswcase
+zony.tv###impo_overlay
 iq-vb.net###layer1
 contactcars.com###leaderBoard
 7s5.net###light[style="position: absolute; left: 9px; top: 31px; display: block;"]
@@ -1348,6 +1352,7 @@ a7lashare.com,iq-vb.net,sm3na.com,ultshare.com###topbar
 facenama.com###user-468
 hawaaworld.com###vacuumcleaners
 firedrive.com###ve_box
+embedezcast.com###video_ads_overdiv
 europages.ma###vipBox
 dz-sat.com###w3c5
 6ef.com,fr7.com,q8me.com###webColorsHeader2
@@ -1369,14 +1374,13 @@ elwatannews.com##.PM-ROS-MPU
 swalif.net##.ShowThreadAdplace
 physique48.org##.TOOLbarB
 alhayat.com##.TopHeaderBanner
-3rbb.net,alarab.net,banotacool.co,bokra.net,gamesgb.com,gornalak.com,shahid4u.com##.ad
+3rbb.net,alarab.net,banotacool.co,bokra.net,gamesgb.com,gornalak.com,shahid4u.com,showsport-tv.com##.ad
 elkhabar.com.tn##.ad-image
 souq.com##.ad1
 souq.com##.ad2
 online4hd.com##.adG
 egy4up.net,gornalak.com##.ad_left
 egy4up.net,gornalak.com##.ad_right
-add-anime.net##.adblock
 arabictorrent.net,mrabuali.com,nilemotors.net,proteachin.com##.ads
 toptwitt.com##.ads2
 elraaed.com##.ads_1
@@ -1563,6 +1567,7 @@ animop.net,arbcinema.com,ktaby.com##a[href^="http://bit.ly/"]
 ouamer.com##a[href^="http://eepurl.com/"]
 hawahome.com##a[href^="http://forum.hawahome.com/ads.php?"]
 tariqallah.net##a[href^="http://goo.gl/"] > img
+arabe-media.com##a[href^="http://m.worldtourisme.com/"]
 mwordpress.net##a[href^="http://mwordpress.net/visit/"]
 ktaby.com##a[href^="http://performance.ikoo.com/"]
 alnaddy.com##a[href^="http://www.acdcads.com/tracks/"]
@@ -1603,7 +1608,6 @@ fatakat.com##div[onclick*="window.open('http://xads.zedo.com/')"]
 yalladrama.tv##div[style$="height: 250px; width: 300px;"]
 cartoon3rbi.net##div[style*="width: 336px; height: 280px;"]
 cartoon3rbi.net##div[style*="width: 728px; height: 90px;"]
-arabe-media.com##div[style="color:#ffffff; font-family:verdana; font-size:16px; padding-bottom:15px; height: 100%; width: 100%;"]
 g5y.com##div[style="height:150px;"]
 i2arabic.com##div[style="height:90px; width:728px; text-align:center; margin:5px auto 0 auto;"]
 el7l.co##div[style="padding-top:5px;float:right;width:100%;font-size:16px;line-height:26px;height:31px;top: 12px;z-index:9999;text-align:right"]
