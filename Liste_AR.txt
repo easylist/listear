@@ -1728,5 +1728,6 @@ soft4sat.net#@#.e3lan
 @@||ashams.com^$generichide
 @@||dz-sat.com^$generichide
 @@||elmoslsal.com^$generichide
+@@||kora-star.com^$generichide
 @@||sumeronline.com^$generichide
 @@||tvono.com^$generichide
