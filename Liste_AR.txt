@@ -1276,6 +1276,7 @@ ounousa.com###TopBanner
 fatakat.com###ad1
 masr140.com###ad_20
 33sh8.com###adds
+kora-live.tv###ads
 albaladeyes.com,ninjaup.com###ads1
 ninjaup.com###ads3
 moheet.com###ads_l_content
@@ -1692,6 +1693,7 @@ arfonts.net##td[style="height: 90px; padding: 0px 0px 0px 0px; text-align:center
 traidnt.net##td[width="160px"]
 ! Filtres de propriété CSS pour Adblock Plus
 !
+kora-live.tv##[-abp-properties='opacity:']
 !
 !----------------------- Exceptions -----------------------!
 !
