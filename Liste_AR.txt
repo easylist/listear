@@ -28,6 +28,7 @@
 .ps/adds/
 /300e.html$subdocument
 /a3lan.$subdocument
+/adss.gif
 /advStatLib.js
 /advStatSettings.js
 /affiliate-tools.
@@ -332,6 +333,11 @@ _arabycash.
 ||fitness-4-life.org.uk^*/Sports-160-x-600-Animation.gif
 ||foldersoft.com/holl.jpg
 ||forexxzx.blogspot.com.eg^$popup
+||forum.sat98.date/93814052205092409103.gif
+||forum.sat98.date/banner
+||forum.sat98.date/gs
+||forum.sat98.date/iptv4.jpg
+||forum.sat98.date/popup.js
 ||freewebsubmission.com/images/fwsbanner
 ||funtarin.ir/redirect.php?$popup
 ||g2g2.net/banars/
