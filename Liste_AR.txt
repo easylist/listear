@@ -145,7 +145,6 @@ _arabycash.
 !
 !----------------------- Annonceurs -----------------------!
 !
-||91.210.165.104^$third-party
 ||ad2upapp.com^$third-party
 ||adbooth.com^$third-party
 ||adsvee.com^$third-party
