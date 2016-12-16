@@ -597,6 +597,9 @@ _arabycash.
 @@||ajax.googleapis.com/ajax/libs/$script,domain=arabictorrent.net
 |http://$script,third-party,xmlhttprequest,domain=arabictorrent.net
 |https://$script,third-party,xmlhttprequest,domain=arabictorrent.net
+! myegy.tv
+|http://$script,third-party,xmlhttprequest,domain=myegy.tv
+|https://$script,third-party,xmlhttprequest,domain=myegy.tv
 ! http://nbdkorea.com/
 |http://el7l.*/$popup
 ! http://www.3rbx.net/vb/
@@ -1435,6 +1438,7 @@ bokra.net##.catsBanner
 hawamer.com##.centerBanner
 alweeam.com.sa##.content-banner
 masrawy.com,yallakora.com##.dealsoffer
+myegy.tv##.disclaimer
 3a2ilati.com##.eshop-list
 arabs-up.com,arabsharing.com##.extras_footer
 arabs-up.com##.extras_header
@@ -1684,7 +1688,7 @@ k1g3.com##img[width="486"][height="60"]
 rmadarab.com##img[width="500"][height="60"]
 rmadarab.com##img[width="600"][height="90"]
 jo-sharing.com##img[width="700"][height="120"]
-alamelarab.com,foxpic.com,zi-m.com##img[width="728"][height="90"]
+alamelarab.com,foxpic.com,myegy.tv,zi-m.com##img[width="728"][height="90"]
 chtoukapress.com##img[width="728px"][height="100px"]
 ech-chaab.net##img[width="820"][height="159"]
 jo-sharing.com##img[width="940"][height="80"]
@@ -1742,5 +1746,6 @@ soft4sat.net#@#.e3lan
 @@||elmoslsal.com^$generichide
 @@||kooralive.tv^$generichide
 @@||kora-star.com^$generichide
+@@||myegy.tv^$generichide
 @@||sumeronline.com^$generichide
 @@||tvono.com^$generichide
