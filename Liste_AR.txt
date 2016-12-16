@@ -241,6 +241,7 @@ _arabycash.
 ||aljazayr.com^$subdocument
 ||allomani.com/js_banners
 ||alquds.co.uk/zaaptv.gif
+||alsharing.com/images/header.gif
 ||amalh.net/images/addsapcem.gif
 ||amalh.net/images/amalh.gif
 ||amalh.net/images/amalh2.gif
@@ -346,6 +347,8 @@ _arabycash.
 ||gamepower7.com/forum/banner.swf
 ||gamezek.com/img.png
 ||geek4arab.net/banner/
+||ghawyakhbar.com/img/$third-party
+||ghawyakhbar.com/img/sky-doo.gif
 ||giclub.tv/index.php?action=$image
 ||giphy.com/yoJC2BNz47Bh7Ya7Dy.gif
 ||goo.gl/2dWPk1
@@ -544,6 +547,7 @@ _arabycash.
 ||zimabdk.com/uploads/13739970081.png
 ||zimabdk.com/uploads/1385612495381.gif
 ||zupimages.net/up/2/1045181967.png
+||||ghawyakhbar.com/img/$third-party
 ! subdocument
 |http://$subdocument,third-party,domain=ktaby.com|s-ajfan.com
 |https://$subdocument,third-party,domain=ktaby.com|s-ajfan.com
@@ -1044,6 +1048,7 @@ _arabycash.
 ||marrakechalaan.com/wp-content/uploads/2015/05/hotel-cesar-copie-sd.png
 ||marrakechalaan.com/wp-content/uploads/2015/07/blach-zohair.gif
 ||marrakechalaan.com/wp-content/uploads/2015/07/radio-gueliz-pub-v-2.gif
+||masrawysat.com/cdn-cgi/pe/bag2?$xmlhttprequest
 ||masrawysat.com/img/505.gif
 ||masrawysat.com/img/astra.gif
 ||masrawysat.com/img/Baaanner.gif
