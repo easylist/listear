@@ -607,10 +607,10 @@ _arabycash.
 ! cloudfront.net
 ||cloudfront.net^$domain=1short.us|animestarz.com|cimaflash.tv|filmey.tv|kooralive.tv
 ! amazonaws.com
-||amazonaws.com^$domain=1short.us|animestarz.com|channel.kooralive.tv|cimaflash.tv|filmey.tv
+||amazonaws.com^$domain=1short.us|animestarz.com|cimaflash.tv|filmey.tv|kooralive.tv
 !
-|http://*,$script,third-party,domain=cimaflash.tv
-|https://*,$script,third-party,domain=cimaflash.tv
+|http://*,$script,third-party,domain=1short.us|animestarz.com|cimaflash.tv|filmey.tv|kooralive.tv
+|https://*,$script,third-party,domain=1short.us|animestarz.com|cimaflash.tv|filmey.tv|kooralive.tv
 !
 ! images hosting
 ||d16.net/up/uploads/1478118841381.gif
