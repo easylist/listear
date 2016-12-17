@@ -330,6 +330,7 @@ _arabycash.
 ||facenama.com/popup.php?$popup
 ||famquote.com/facebook$third-party
 ||filescloud.info/pic/$third-party
+||fistfast.com/images/$third-party
 ||fitness-4-life.org.uk^*/Sports-160-x-600-Animation.gif
 ||foldersoft.com/holl.jpg
 ||forexxzx.blogspot.com.eg^$popup
@@ -1698,7 +1699,7 @@ k1g3.com##img[width="486"][height="60"]
 rmadarab.com##img[width="500"][height="60"]
 rmadarab.com##img[width="600"][height="90"]
 jo-sharing.com##img[width="700"][height="120"]
-alamelarab.com,foxpic.com,myegy.tv,zi-m.com##img[width="728"][height="90"]
+alamelarab.com,arabseed.com,foxpic.com,myegy.tv,zi-m.com##img[width="728"][height="90"]
 chtoukapress.com##img[width="728px"][height="100px"]
 ech-chaab.net##img[width="820"][height="159"]
 jo-sharing.com##img[width="940"][height="80"]
