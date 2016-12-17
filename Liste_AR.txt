@@ -597,6 +597,9 @@ _arabycash.
 @@||ajax.googleapis.com/ajax/libs/$script,domain=arabictorrent.net
 |http://$script,third-party,xmlhttprequest,domain=arabictorrent.net
 |https://$script,third-party,xmlhttprequest,domain=arabictorrent.net
+! anyanime.com
+|http://$script,third-party,domain=anyanime.com
+|https://$script,third-party,domain=anyanime.com
 ! myegy.tv
 |http://$script,third-party,xmlhttprequest,domain=myegy.tv
 |https://$script,third-party,xmlhttprequest,domain=myegy.tv
