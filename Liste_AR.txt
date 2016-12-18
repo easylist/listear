@@ -302,6 +302,7 @@ _arabycash.
 ||d3b3e6340.website^
 ||daralakhbar.com/widgetgen/$third-party
 ||darendeal.com/widgets/recommendation_box?
+||darkomplayer.com/palavro/
 ||deals.souq.com^$subdocument
 ||deals.souq.com^*&pubref=$popup
 ||dedicated-server-hosting.space^
