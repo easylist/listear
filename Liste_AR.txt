@@ -869,6 +869,7 @@ _arabycash.
 ||dailymedicalinfo.com/uploads/sponsors/
 ||daralkotob.com/images/photos/niledesign.jpg
 ||daralkotob.com^*/banners/
+||dardarkom.com/templates/demo/
 ||djelfa.info/ar/files/articles/rus/
 ||djelfa.info/ar/files/banners/
 ||djelfa.info/dj_img/*.gif
