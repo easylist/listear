@@ -612,13 +612,13 @@ _arabycash.
 |http://el7l.*/$popup
 ! http://www.3rbx.net/vb/
 ||moltqh.com^$popup
-! cloudfront.net
-||cloudfront.net^$domain=1short.us|animelek.com|animestarz.com|cimaflash.tv|filmey.tv|kooralive.tv
 ! amazonaws.com
-||amazonaws.com^$domain=1short.us|animelek.com|animestarz.com|cimaflash.tv|filmey.tv|kooralive.tv
+||amazonaws.com^$domain=1short.us|animelek.com|animestarz.com|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|kooralive.tv
+! cloudfront.net
+||cloudfront.net^$domain=1short.us|animelek.com|animestarz.com|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|kooralive.tv
 !
-|http://*,$script,third-party,domain=1short.us|animelek.com|animestarz.com|cimaflash.tv|filmey.tv|kooralive.tv
-|https://*,$script,third-party,domain=1short.us|animelek.com|animestarz.com|cimaflash.tv|filmey.tv|kooralive.tv
+|http://*,$script,third-party,domain=1short.us|animelek.com|animestarz.com|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|kooralive.tv
+|https://*,$script,third-party,domain=1short.us|animelek.com|animestarz.com|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|kooralive.tv
 !
 ! images hosting
 ||d16.net/up/uploads/1478118841381.gif
