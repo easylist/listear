@@ -193,8 +193,7 @@ _arabycash.
 !
 !----------------------- Publicités tierces ----------------------!
 !
-|blob:$domain=el7l.tv
-|blob:cera.online
+|blob:$domain=cera.online|el7l.tv
 ||0sat.com/photo0sat/
 ||0zz0.com/2012/07/28/21/250712642.gif
 ||2.mykora.net^
@@ -591,11 +590,6 @@ _arabycash.
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=cima4up.tv
 |http://$script,third-party,domain=cima4up.tv
 |https://$script,third-party,domain=cima4up.tv
-! cera.online
-@@||ajax.googleapis.com/ajax/libs/$script,domain=cera.online
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=cera.online
-|http://$script,third-party,xmlhttprequest,domain=cera.online
-|https://$script,third-party,xmlhttprequest,domain=cera.online
 ! arabictorrent.net
 @@||ajax.googleapis.com/ajax/libs/$script,domain=arabictorrent.net
 |http://$script,third-party,xmlhttprequest,domain=arabictorrent.net
@@ -614,12 +608,12 @@ _arabycash.
 ! http://www.3rbx.net/vb/
 ||moltqh.com^$popup
 ! amazonaws.com
-||amazonaws.com^$domain=1short.us|animelek.com|animestarz.com|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|kooralive.tv
+||amazonaws.com^$domain=1short.us|animelek.com|animestarz.com|cera.online|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|kooralive.tv
 ! cloudfront.net
-||cloudfront.net^$domain=1short.us|animelek.com|animestarz.com|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|kooralive.tv
+||cloudfront.net^$domain=1short.us|animelek.com|animestarz.com|cera.online|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|kooralive.tv
 !
-|http://*,$script,third-party,domain=1short.us|animelek.com|animestarz.com|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|kooralive.tv
-|https://*,$script,third-party,domain=1short.us|animelek.com|animestarz.com|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|kooralive.tv
+|http://*,$script,third-party,domain=1short.us|animelek.com|animestarz.com|cera.online|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|kooralive.tv
+|https://*,$script,third-party,domain=1short.us|animelek.com|animestarz.com|cera.online|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|kooralive.tv
 !
 ! images hosting
 ||d16.net/up/uploads/1478118841381.gif
