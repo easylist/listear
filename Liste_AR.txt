@@ -618,8 +618,11 @@ _arabycash.
 ! images hosting
 ||d16.net/up/uploads/1478118841381.gif
 ||i.imgur.com/3tAhgla.gif
+||i21.servimg.com/u/f21/11/55/73/09/20023610.gif
+||i21.servimg.com/u/f21/11/55/73/09/oie_ro10.gif
 ||i64.tinypic.com/34pc7e8.gif
 ||i64.tinypic.com/t6yr69.gif
+||i68.servimg.com/u/f68/11/55/73/09/oie_ld10.png
 ||img15.hostingpics.net/pics/554573Howtotravelforfree.png
 ||oi68.tinypic.com/358dx00.jpg
 ||store1.up-00.com/2015-12/145097551855441.png
@@ -1552,6 +1555,7 @@ masrawysat.com##a > img[width="728"][height="90"]
 2lboo.com##a[class^="banner"]
 m-4u.net##a[class^="hcne_ads"]
 ksa-ksa.com##a[href*="/?adsclick=banner&id="]
+arbcinema.com##a[href*="://bit.ly/"]
 202020.net,algareda.com,arabseed.com,cima4u.tv,sawasport.com##a[href*="://goo.gl/"]
 lakii.com##a[href*="ads-redirect.php?i="]
 egyfitness.com##a[href*="leadpages.co"]
