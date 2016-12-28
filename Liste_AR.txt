@@ -32,7 +32,6 @@
 /advStatLib.js
 /advStatSettings.js
 /affiliate-tools.
-/afu.php?id=$subdocument
 /ar/ads/*
 /ara/ads/*
 /arabycash-
