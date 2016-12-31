@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: yqGofMyqv+Gsi53F/oweAQ
-! Version: 201608080740
+! Checksum: UpdnpERFP2hO5UiKBgi2MQ
+! Version: 201612312050
 ! Title: Liste AR
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
@@ -550,7 +550,6 @@ _arabycash.
 ||zimabdk.com/uploads/13739970081.png
 ||zimabdk.com/uploads/1385612495381.gif
 ||zupimages.net/up/2/1045181967.png
-||||ghawyakhbar.com/img/$third-party
 ! subdocument
 |http://$subdocument,third-party,domain=ktaby.com|s-ajfan.com
 |https://$subdocument,third-party,domain=ktaby.com|s-ajfan.com
