@@ -1298,8 +1298,6 @@ i-share-ads.com###ContentPlaceHolder1_MPE_AdsShow_backgroundElement
 i-share-ads.com###ContentPlaceHolder1_Pnl_ShowAds
 alarab.net###FloatBanner
 arabnet5.com###GoogleDivUnderNews
-ounousa.com###LeftBannerContainer
-ounousa.com###TopBanner
 fatakat.com###ad1
 masr140.com###ad_20
 33sh8.com###adds
@@ -1391,7 +1389,6 @@ alwatannews.net##.Adv
 oleeh.com##.Advinner
 gulfbase.com##.AeroWindow
 elwatannews.com##.HLB
-ounousa.com##.HomeNewAndBanner
 yallakora.com##.Leaderboard
 m5zn.com##.LongGAds
 filgoal.com##.MRContainer
@@ -1426,7 +1423,7 @@ roooo3.com,silkroad4arab.com##.advs
 marocannonces.com##.baner
 games-flash.be##.bann
 3-tp.com,ta7a.com##.bannbox
-7chaterz.com,akhbarona.com,alayam.com,app-6taat.com,arabchaterz.com,darendeal.com##.banner
+7chaterz.com,akhbarona.com,alayam.com,app-6taat.com,arabchaterz.com,darendeal.com,ounousa.com##.banner
 mediamasr.tv##.banner-area
 aljazeerasport.tv##.banner-leaderboard
 alhayat.com##.banner2
@@ -1474,7 +1471,7 @@ elhayatonline.net##.last-news-wrapper > a[target="_blank"] > img
 arabia.com,youm7.com##.leaderBoard
 youm7.com##.leaderBoard1
 masrawy.com##.leaderbg
-ounousa.com,z4ar.com##.leaderboard
+z4ar.com##.leaderboard
 filbalad.com##.leaderbord
 linkat-online.com##.left_side
 alarab.net##.left_sqr
@@ -1494,7 +1491,6 @@ rassoulallah.info##.narrow_column
 brooonzyah.net##.navbar_notice
 msryh.com##.navbnr
 ar-wp.com##.nbanners
-ounousa.com##.newBanner
 dardarkom.com##.notbar
 masr140.com##.om_ad
 now24.net##.pad5
@@ -1534,8 +1530,6 @@ akhbarelyom.com##.widget div[style$=";top: 100px;width: 120px;"]
 dzjobs.net##.wiki
 arabia.com##.ykaleader
 dreambox-tunisie.com##.yourcolor-main
-ounousa.com##[class^="SubBanner"]
-ounousa.com##[class^="banner"]
 korabia.com##[class^="modal"]
 bloggerexp.com##[href="http://up.mosw3a.com"] > img
 bloggerexp.com##[href="http://www.mybbarab.com"] > img
