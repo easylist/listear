@@ -253,6 +253,7 @@ _arabycash.
 ||api.yamli.com/checkin.ashx?
 ||arabdvd.net/banner/
 ||arabearpiece.com/big.png
+||arabhosters.com/logo_$third-party
 ||arabianbinaryclub.com/popup.php?$popup
 ||arabiawin.com^$popup
 ||arabic-developers.com^*/bnr/
@@ -1362,8 +1363,6 @@ alwatannews.net###pnlAdv12
 alittihad.press.ma###pub
 okanime.com###pubbbbbbb
 assayyarat.com###push_lightbox
-nilemotors.net###register + center > p > a > img
-nilemotors.net###register + script + center > p > a > img
 alarab.net###secncom
 arabia.com###showcase
 ninjaup.com###spons
@@ -1536,7 +1535,6 @@ dzjobs.net##.wiki
 arabia.com##.ykaleader
 dreambox-tunisie.com##.yourcolor-main
 2flam.net##A[href="http://shwqna.at.ua/ADs.htm"]
-nilemotors.net##[align="left"][style="width:0%"] a > img
 ounousa.com##[class^="SubBanner"]
 ounousa.com##[class^="banner"]
 korabia.com##[class^="modal"]
