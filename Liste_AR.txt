@@ -919,7 +919,8 @@ _arabycash.
 ||elbashayer.com/images/orientalweavers.jpg
 ||elbashayer.com/newahly100.swf
 ||elcinema.com/images/booking-button-homepage.png
-||eldjoumhouria.dz^*/pub/
+||eldjoumhouria.dz/*/img/pub/
+||eldjoumhouria.dz/flash/
 ||electroarb.com/images/cccam-1.gif
 ||electroarb.com/images/pub/
 ||elhayatalarabiya.com^*/images/banner.gif
@@ -1623,6 +1624,7 @@ top555games.com##div[class^="adshp"]
 mexat.com##div[class^="banner"]
 alqabas.com.kw##div[id^="azk"]
 masrytube.com##div[id^="bannerfloat"]
+eldjoumhouria.dz##div[id^="floating_"]
 fatakat.com##div[onclick*="window.open('http://xads.zedo.com/')"]
 yalladrama.tv##div[style$="height: 250px; width: 300px;"]
 cartoon3rbi.net##div[style*="width: 336px; height: 280px;"]
