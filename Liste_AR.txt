@@ -920,6 +920,8 @@ _arabycash.
 ||elbashayer.com/newahly100.swf
 ||elcinema.com/images/booking-button-homepage.png
 ||eldjoumhouria.dz^*/pub/
+||electroarb.com/images/cccam-1.gif
+||electroarb.com/images/pub/
 ||elhayatalarabiya.com^*/images/banner.gif
 ||elheddaf.com/citro/
 ||elheddaf.com/data/dzauto.swf
