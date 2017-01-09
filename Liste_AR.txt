@@ -359,8 +359,7 @@ _arabycash.
 ||google.*/url?$popup,domain=rawabetvb.com
 ||google98.ir^
 ||goto.astdn.ru^$popup,third-party
-||gulfbase.com/APopUp.
-||gulfbase.com/Assets/css/AeroWindow
+||gulfbase.com/APopUp.aspx
 ||hanya.ma/caro
 ||hao123.com/partnertopbar/
 ||hao123.com^*/ar-banner.
@@ -1390,7 +1389,6 @@ g5y.com,sedty.com##.Ads
 onothty.net,q8yatnews.com##.Ads2
 alwatannews.net##.Adv
 oleeh.com##.Advinner
-gulfbase.com##.AeroWindow
 elwatannews.com##.HLB
 yallakora.com##.Leaderboard
 m5zn.com##.LongGAds
