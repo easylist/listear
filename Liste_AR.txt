@@ -780,6 +780,8 @@ _arabycash.
 ||arabe-media.com/open*.js
 ||arabe-media.com/tourisme.js
 ||arabemedia.tv/open*.js
+||arabeteam.com/vb/images/000.png
+||arabeteam.com/vb/images/1234.png
 ||arabhard.co/open*.js
 ||arabicbroker.com/wordpress/wp-content/uploads/banner1.swf
 ||arablionz.com/histate/du.png
@@ -1696,6 +1698,7 @@ jo-sharing.com,silkroad4arab.com##img[width="468"]
 k1g3.com##img[width="486"][height="60"]
 rmadarab.com##img[width="500"][height="60"]
 rmadarab.com##img[width="600"][height="90"]
+badrsat.com##img[width="620"][height="300"]
 silkroad4arab.com##img[width="625"]
 jo-sharing.com##img[width="700"][height="120"]
 silkroad4arab.com##img[width="720"]
