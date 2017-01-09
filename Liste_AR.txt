@@ -605,8 +605,6 @@ _arabycash.
 |https://$script,third-party,xmlhttprequest,domain=myegy.tv
 ! http://nbdkorea.com/
 |http://el7l.*/$popup
-! http://www.3rbx.net/vb/
-||moltqh.com^$popup
 ! amazonaws.com
 ||amazonaws.com^$domain=1short.us|animelek.com|animestarz.com|cera.online|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|goodalot.tv|kooralive.tv
 ! cloudfront.net
@@ -1543,8 +1541,9 @@ bloggerexp.com##[href="http://www.mybbarab.com"] > img
 bloggerexp.com##[href^="http://bit.ly/"] > img
 akoam.com##[id^="banner-"]
 abuzersat.com##[id^="jcorner"]
-3rbx.net##a > img[height="50"]
-3rbx.net##a > img[height="60"]
+x3rb.com##a > img[height="46"]
+x3rb.com##a > img[height="50"]
+x3rb.com##a > img[height="60"]
 al3abtab5.com##a > img[width="100"][height="35"]
 al3abtab5.com##a > img[width="100"][height="40"]
 sat-dz.com##a > img[width="150"][height="60"]
@@ -1618,7 +1617,7 @@ sedty.com##a[href^="http://www.sedty.com/adv/"]
 travelzad.com##a[href^="http://www.travelzad.com/vb/ads.php?id="]
 hona24.com##a[href^="https://docs.google.com/"]
 mothhelah.com##a[href^="index.php?op=ad_click"]
-3rbx.net##a[onclick*="'Outgoing',"]
+x3rb.com##a[onclick*="'Outgoing',"]
 mtwer.com##a[onclick^="_gaq.push(['_trackEvent', 'Outgoing',"]
 elheddaf.com##a[style*="url(/data/pub/)"]
 elheddaf.com##a[style="width:100%; height:850px; display:block; background:#000 url(/data/pub/pub.jpg) no-repeat center top; position: relative;"]
