@@ -141,6 +141,9 @@ _arabycash.
 ##a[href^="http://www.sotmasr.com/announcements/"]
 ##a[href^="http://xat.com/"]
 ##a[href^="https://khamsat.com/?r="] > img
+##img[alt="إعلان"][height="60"]
+##img[alt="إعلان"][width="150"]
+##img[src*="/adv/"][alt="إعلان"]
 !
 !----------------------- Annonceurs -----------------------!
 !
@@ -730,6 +733,7 @@ _arabycash.
 ||algeria-dream.com/vb/sharing.gif
 ||algeria-press.com/algerieannonce.jpg
 ||algeria-press.com/kechkhedma.jpg
+||algerianhome.com/mountada/adv/
 ||algomhuria.net.eg^*/adv/
 ||aliahmedali.com/almohasben.js
 ||alkhabar.tv/pub/
