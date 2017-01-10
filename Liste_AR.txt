@@ -165,6 +165,7 @@ _arabycash.
 ||licantrum.com^$third-party
 ||ornaki.com^$third-party
 ||prstatics.com^$third-party
+||replase.ml^$third-party
 ||smintmouse.com^$third-party
 ||softwarepiset.com^$third-party
 ||teeet.net^$third-party
