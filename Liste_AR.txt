@@ -154,8 +154,10 @@ _arabycash.
 ||adv0.com^$third-party
 ||adzouktech.com^$third-party
 ||apanet.net^$third-party
+||bitadspool.com^$third-party
 ||branchroughlend.info^$third-party
 ||clksite.com^$third-party
+||coinmedia.co^$third-party
 ||deliverymodo.com^$third-party
 ||eclkspbn.com^$third-party
 ||erate.co.il^$third-party
@@ -229,6 +231,7 @@ _arabycash.
 ||af.gamepower7.com/*?aid=$popup,third-party
 ||aflamonlinee.org/new/$popup
 ||aflamy.tv^$popup,domain=mrfile.co|spikyup.com
+||afrecano.ml^$subdocument
 ||agarcom.com/up/uploads/1375263039741.gif
 ||akhbaari.com/?r=$popup
 ||al3ab.snjab.com/arabtravelers.jpg
