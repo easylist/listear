@@ -352,6 +352,7 @@ _arabycash.
 ||gamepower7.com/forum/banner.swf
 ||gamezek.com/img.png
 ||geek4arab.net/banner/
+||getsurl.com^$script,third-party
 ||ghawyakhbar.com/img/$third-party
 ||ghawyakhbar.com/img/sky-doo.gif
 ||giclub.tv/index.php?action=$image
@@ -537,7 +538,7 @@ _arabycash.
 ||yamli.com/static/gam_iframe.htm?
 ||yellowpages.com.ps/search_bricks/ps_search_bricks_300X130.php
 ||ymoviez.com/yallamoviez.js
-||yourjavascript.com^$domain=animop.net
+||yourjavascript.com^$domain=aflam2you.com|animop.net
 ||yourjavascript.com^*/add-url.js
 ||yourjavascript.com^*/pp-kora.js
 ||youtube.com^*_gOXf63AAJg$domain=qatarbike.com
@@ -610,12 +611,12 @@ _arabycash.
 ! http://nbdkorea.com/
 |http://el7l.*/$popup
 ! amazonaws.com
-||amazonaws.com^$domain=1short.us|animelek.com|animestarz.com|cera.online|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|goodalot.tv|kooralive.tv
+||amazonaws.com^$domain=1short.us|aflam2you.com|animelek.com|animestarz.com|cera.online|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|goodalot.tv|kooralive.tv
 ! cloudfront.net
-||cloudfront.net^$domain=1short.us|animelek.com|animestarz.com|cera.online|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|goodalot.tv|kooralive.tv
+||cloudfront.net^$domain=1short.us|aflam2you.com|animelek.com|animestarz.com|cera.online|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|goodalot.tv|kooralive.tv
 !
-|http://*,$script,third-party,domain=1short.us|animelek.com|animestarz.com|cera.online|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|goodalot.tv|kooralive.tv
-|https://*,$script,third-party,domain=1short.us|animelek.com|animestarz.com|cera.online|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|goodalot.tv|kooralive.tv
+|http://*,$script,third-party,domain=1short.us|aflam2you.com|animelek.com|animestarz.com|cera.online|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|goodalot.tv|kooralive.tv
+|https://*,$script,third-party,domain=1short.us|aflam2you.com|animelek.com|animestarz.com|cera.online|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|goodalot.tv|kooralive.tv
 !
 ! images hosting
 ||d16.net/up/uploads/1478118841381.gif
