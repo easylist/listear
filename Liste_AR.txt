@@ -362,7 +362,6 @@ _arabycash.
 ||giclub.tv/index.php?action=$image
 ||giphy.com/yoJC2BNz47Bh7Ya7Dy.gif
 ||giphy.com^$domain=silkroad4arab.com
-||goo.gl/2dWPk1
 ||goo.gl^$domain=elahmad.com
 ||goo.gl^$popup,domain=cliprz.on.ma|egymotion.net
 ||google.*/url?$popup,domain=rawabetvb.com
