@@ -614,12 +614,12 @@ _arabycash.
 ! http://nbdkorea.com/
 |http://el7l.*/$popup
 ! amazonaws.com
-||amazonaws.com^$domain=1short.us|aflam2you.com|animelek.com|animestarz.com|cera.online|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|goodalot.tv|kooralive.tv
+||amazonaws.com^$domain=1short.us|aflam2you.com|animelek.com|animestarz.com|cera.online|cima4u.tv|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|goodalot.tv|kooralive.tv
 ! cloudfront.net
-||cloudfront.net^$domain=1short.us|aflam2you.com|animelek.com|animestarz.com|cera.online|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|goodalot.tv|kooralive.tv
+||cloudfront.net^$domain=1short.us|aflam2you.com|animelek.com|animestarz.com|cera.online|cima4u.tv|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|goodalot.tv|kooralive.tv
 !
-|http://*,$script,third-party,domain=1short.us|aflam2you.com|animelek.com|animestarz.com|cera.online|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|goodalot.tv|kooralive.tv
-|https://*,$script,third-party,domain=1short.us|aflam2you.com|animelek.com|animestarz.com|cera.online|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|goodalot.tv|kooralive.tv
+|http://*,$script,third-party,domain=1short.us|aflam2you.com|animelek.com|animestarz.com|cera.online|cima4u.tv|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|goodalot.tv|kooralive.tv
+|https://*,$script,third-party,domain=1short.us|aflam2you.com|animelek.com|animestarz.com|cera.online|cima4u.tv|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|goodalot.tv|kooralive.tv
 !
 ! images hosting
 ||d16.net/up/uploads/1478118841381.gif
