@@ -1272,6 +1272,7 @@ _arabycash.
 ||tvfun.ma/p.js
 ||tvgate.tv^$subdocument
 ||uob-bh.com/uploadfiles/bahraindir.gif
+||upload.aflamhq.com/14642607811239_AflamHQ.com.gif
 ||uploadboy.com/banner/
 ||vb.eqla3.com/code/*.html
 ||vb.zi-m.com/aerowindow/
@@ -1646,6 +1647,9 @@ fatakat.com##div[onclick*="window.open('http://xads.zedo.com/')"]
 yalladrama.tv##div[style$="height: 250px; width: 300px;"]
 cartoon3rbi.net##div[style*="width: 336px; height: 280px;"]
 cartoon3rbi.net##div[style*="width: 728px; height: 90px;"]
+aflamhq.com##div[style*="width:300px;height:250px;"]
+aflamhq.com##div[style*="width:600px;height:300px;"]
+aflamhq.com##div[style*="width:728px;height:90px;"]
 g5y.com##div[style="height:150px;"]
 i2arabic.com##div[style="height:90px; width:728px; text-align:center; margin:5px auto 0 auto;"]
 el7l.co##div[style="padding-top:5px;float:right;width:100%;font-size:16px;line-height:26px;height:31px;top: 12px;z-index:9999;text-align:right"]
