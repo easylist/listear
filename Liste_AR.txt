@@ -26,6 +26,7 @@
 .js?pubId=
 .net.ar/ads/
 .ps/adds/
+/280x336.
 /300e.html$subdocument
 /a3lan.$subdocument
 /adss.gif
@@ -775,6 +776,7 @@ _arabycash.
 ||alwafd.org/images/albums/
 ||alwafd.org/images/banners/
 ||alwafd.org/images/dubizzle_
+||alwafd.org/images/images/
 ||alwatannews.net/Images/*-660x90-
 ||alweeam.com.sa/wp-content/themes/alweam/images/proji-banner.jpg
 ||amalh.net/images/alberekat2.gif
@@ -1443,7 +1445,7 @@ roooo3.com,silkroad4arab.com##.advs
 marocannonces.com##.baner
 games-flash.be##.bann
 3-tp.com,ta7a.com##.bannbox
-7chaterz.com,akhbarona.com,alayam.com,app-6taat.com,arabchaterz.com,darendeal.com,ounousa.com##.banner
+7chaterz.com,akhbarona.com,alayam.com,alwafd.org,app-6taat.com,arabchaterz.com,darendeal.com,ounousa.com##.banner
 mediamasr.tv##.banner-area
 aljazeerasport.tv##.banner-leaderboard
 alhayat.com##.banner2
