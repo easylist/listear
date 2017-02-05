@@ -73,6 +73,8 @@ _arabycash.
 /get/iad/*$popup
 !
 !----------------------- Éléments génériques -----------------!
+###adLeftHolder
+###adRightHolder
 ###adSlot-inPage-300x250-left
 ###adSlot-inPage-728x90-top
 ###ad_global_below_navbar
@@ -1415,7 +1417,7 @@ elwatannews.com##.PM-ROS-MPU
 swalif.net##.ShowThreadAdplace
 physique48.org##.TOOLbarB
 alhayat.com##.TopHeaderBanner
-3rbb.net,alarab.net,banotacool.co,bokra.net,gamesgb.com,gornalak.com,shahid4u.com,showsport-tv.com##.ad
+3rbb.net,alarab.net,banotacool.co,bokra.net,elfagr.org,gamesgb.com,gornalak.com,shahid4u.com,showsport-tv.com##.ad
 elkhabar.com.tn##.ad-image
 souq.com##.ad1
 souq.com##.ad2
