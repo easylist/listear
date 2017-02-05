@@ -114,6 +114,7 @@ _arabycash.
 ##.label-ads
 ##.leftadsag
 ##.logoAdv
+##.midAdv-cont
 ##.mom-e3lan
 ##.mom-e3lanat
 ##.mom-e3lanat-inner
