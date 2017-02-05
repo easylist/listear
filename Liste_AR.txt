@@ -202,6 +202,7 @@ _arabycash.
 !
 !----------------------- Publicités tierces ----------------------!
 !
+$websocket,domain=cera.online
 |blob:$domain=cera.online|el7l.tv
 ||0sat.com/photo0sat/
 ||0zz0.com/2012/07/28/21/250712642.gif
@@ -628,6 +629,7 @@ _arabycash.
 ! images hosting
 ||d16.net/up/uploads/1478118841381.gif
 ||i.imgur.com/3tAhgla.gif
+||i.imgur.com/Juz1zWm.jpg
 ||i21.servimg.com/u/f21/11/55/73/09/20023610.gif
 ||i21.servimg.com/u/f21/11/55/73/09/63591911.jpg
 ||i21.servimg.com/u/f21/11/55/73/09/oie_ro10.gif
