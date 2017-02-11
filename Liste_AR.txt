@@ -619,12 +619,12 @@ $websocket,domain=cera.online
 ! http://nbdkorea.com/
 |http://el7l.*/$popup
 ! amazonaws.com
-||amazonaws.com^$domain=1short.us|aflam2you.com|animelek.com|animestarz.com|cera.online|cima4u.tv|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|goodalot.tv|kooralive.tv
+||amazonaws.com^$domain=1short.us|aflam2you.com|animelek.com|animestarz.com|cera.online|cima4u.tv|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|goodalot.tv|kooralive.tv|okanime.com
 ! cloudfront.net
-||cloudfront.net^$domain=1short.us|aflam2you.com|animelek.com|animestarz.com|cera.online|cima4u.tv|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|goodalot.tv|kooralive.tv
+||cloudfront.net^$domain=1short.us|aflam2you.com|animelek.com|animestarz.com|cera.online|cima4u.tv|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|goodalot.tv|kooralive.tv|okanime.com
 !
-|http://*,$script,third-party,domain=1short.us|aflam2you.com|animelek.com|animestarz.com|cera.online|cima4u.tv|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|goodalot.tv|kooralive.tv
-|https://*,$script,third-party,domain=1short.us|aflam2you.com|animelek.com|animestarz.com|cera.online|cima4u.tv|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|goodalot.tv|kooralive.tv
+|http://*,$script,third-party,domain=1short.us|aflam2you.com|animelek.com|animestarz.com|cera.online|cima4u.tv|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|goodalot.tv|kooralive.tv|okanime.com
+|https://*,$script,third-party,domain=1short.us|aflam2you.com|animelek.com|animestarz.com|cera.online|cima4u.tv|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|goodalot.tv|kooralive.tv|okanime.com
 !
 ! images hosting
 ||d16.net/up/uploads/1478118841381.gif
@@ -1145,6 +1145,8 @@ $websocket,domain=cera.online
 ||nogooom.com/open.php
 ||nogooom.com/up2/uploads/137659633062.gif
 ||nokiagate.com/bans/
+||okanime.com/cdn-cgi/pe/bag2?*cloudfront.net
+||okanime.com/cdn-cgi/pe/bag2?*getsitecontrol.com
 ||okanime.com/pub/
 ||oleeh.com/images/Adv
 ||op-arab.com/pro/
