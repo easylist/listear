@@ -573,9 +573,10 @@ $websocket,domain=cera.online
 ||ps-0.com^$subdocument,third-party
 ||wirwaar.com^$subdocument,third-party
 ! akoam.com
-@@||akoam.com/cdn-cgi/pe/bag2?$xmlhttprequest,domain=akoam.com
+@@||akoam.com/cdn-cgi/pe/bag2?*akoam.com$xmlhttprequest,domain=akoam.com
 |http://$script,third-party,xmlhttprequest,domain=akoam.com
 |https://$script,third-party,xmlhttprequest,domain=akoam.com
+||akoam.com/cdn-cgi/pe/bag2?
 ! toofy.tv
 @@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=toofy.co|toofy.tv
 @@||maxcdn.bootstrapcdn.com^$script,third-party,domain=toofy.co|toofy.tv
