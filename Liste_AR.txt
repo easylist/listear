@@ -230,9 +230,11 @@ $websocket,domain=cera.online
 ||7bbb7.com^$popup,domain=s-ajfan.com
 ||a7la-games.com/b/
 ||add-friendso.blogspot.com^$popup
+||adf.ly^$domain=bein-koora.net
 ||adnetechy.com/Aff/
 ||adv.bokra.net^
 ||adv.videomega.tv^$popup
+||adyou.me^$domain=bein-koora.net
 ||af.gamepower7.com/*?aid=$popup,third-party
 ||aflamonlinee.org/new/$popup
 ||aflamy.tv^$popup,domain=mrfile.co|spikyup.com
@@ -334,6 +336,7 @@ $websocket,domain=cera.online
 ||elmal.us/banner
 ||ency-education.com/uploads/3/0/9/3/309326/3245017_orig.gif
 ||englishforarabs.com/english.gif
+||error404.000webhost.com/?$subdocument
 ||esdaraty.com/images/etisalat-al.jpg
 ||esdaraty.com/images/free-calls.jpg
 ||etibyan.com/credit
@@ -342,6 +345,7 @@ $websocket,domain=cera.online
 ||facenama.com/popup.php?
 ||facenama.com/popup.php?$popup
 ||famquote.com/facebook$third-party
+||fbcdn.net^$image,domain=bein-koora.net
 ||filescloud.info/pic/$third-party
 ||fistfast.com/images/$third-party
 ||fitness-4-life.org.uk^*/Sports-160-x-600-Animation.gif
@@ -410,6 +414,7 @@ $websocket,domain=cera.online
 ||l3bh.com/728.gif
 ||l3bh.com^$popup,domain=7be.com
 ||leadpages.co/leadbox-
+||lenovofirmware.com^$subdocument
 ||looktech.info/atsd_pop.js
 ||m.worldtourisme.com^$popup
 ||m5zn.com/images/fmb_
@@ -1431,7 +1436,7 @@ souq.com##.ad2
 online4hd.com##.adG
 egy4up.net,gornalak.com##.ad_left
 egy4up.net,gornalak.com##.ad_right
-arabictorrent.net,mrabuali.com,nilemotors.net,proteachin.com##.ads
+arabictorrent.net,bein-koora.net,mrabuali.com,nilemotors.net,proteachin.com##.ads
 toptwitt.com##.ads2
 elraaed.com##.ads_1
 kalemaro.com##.adsance
