@@ -569,6 +569,7 @@ $websocket,domain=cera.online
 ||zimabdk.com/uploads/13739105611.gif
 ||zimabdk.com/uploads/13739970081.png
 ||zimabdk.com/uploads/1385612495381.gif
+||zotabox.com^*/widgets.js$third-party
 ||zupimages.net/up/2/1045181967.png
 ! subdocument
 |http://$subdocument,third-party,domain=ktaby.com|s-ajfan.com
@@ -622,6 +623,10 @@ $websocket,domain=cera.online
 ! cinemalek.com
 |http://$script,third-party,domain=cinemalek.com
 |https://$script,third-party,domain=cinemalek.com
+! arablionz.tv
+@@||ajax.googleapis.com/ajax/libs/$script,domain=arablionz.tv
+|http://$script,third-party,xmlhttprequest,domain=arablionz.tv
+|https://$script,third-party,xmlhttprequest,domain=arablionz.tv
 ! myegy.tv
 |http://$script,third-party,xmlhttprequest,domain=myegy.tv
 |https://$script,third-party,xmlhttprequest,domain=myegy.tv
@@ -669,7 +674,6 @@ $websocket,domain=cera.online
 ||0zz0.com/js.php
 ||0zz0.com/template/js/e.min.js
 ||1009.ae/wp-content/uploads/*/skin.png
-||1sw1r.com^$popup,domain=arablionz.com
 ||202020.net/abahi/
 ||202020.net/ratteb/all/banner.png
 ||202020.net/ratteb/asd/
@@ -814,11 +818,6 @@ $websocket,domain=cera.online
 ||arabeteam.com/vb/images/1234.png
 ||arabhard.co/open*.js
 ||arabicbroker.com/wordpress/wp-content/uploads/banner1.swf
-||arablionz.com/histate/du.png
-||arablionz.com/histate/open*.
-||arablionz.com/left.jpg
-||arablionz.com/open/
-||arablionz.com/right.jpg
 ||arabmersal.net^$popup,domain=rmoz.cc
 ||arabs-up.com/uploads/12_02_13_13606696151.gif
 ||arabs-up.com/uploads/arabs-up_13510211071.jpg
@@ -1018,7 +1017,6 @@ $websocket,domain=cera.online
 ||hakchouf.net/images/Banner3.png
 ||hastidownload.net/pop4.js
 ||hawanaajd.com/img/b/$image
-||hi10.net^$popup,domain=arablionz.com
 ||hibapress.com/Hanya90.jpg
 ||hibasport.com/pubip/
 ||hoolmiz.com/tvd/
@@ -1045,7 +1043,6 @@ $websocket,domain=cera.online
 ||kafrsakr.com/images/alexa_site.gif
 ||kalemaro.com/dezndev*.js
 ||kashta.net^$subdocument,domain=syrcafe.net
-||kazaroza.net^$popup,domain=arablionz.com
 ||kech24.com/photo/pharmacie_de_garde_marrakech.gif
 ||khaleejcal.com^*/banners/
 ||khutabaa.com/myfiles/images/banners/
@@ -1403,7 +1400,7 @@ ninjaup.com###spons
 europages.ma###sponsor
 7be.com###table2805
 liilas.com###tickermain
-ar-tr.com,arablionz.com,arabseed.com###top-banner
+ar-tr.com,arabseed.com###top-banner
 hawamer.com###topBanner
 maas1.com###topads
 mazika2day.com###topban
