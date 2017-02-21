@@ -1785,8 +1785,8 @@ risalaradio.com#@#.ad-cell
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=dz-sat.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dz-sat.com
 !
-###blockblockA
-###blockblockB
+!###blockblockA
+!###blockblockB
 !
 elahmad.com#@##adblock
 g9g.com#@##myAd
