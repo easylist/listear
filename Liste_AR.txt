@@ -381,6 +381,7 @@ $websocket,domain=cera.online
 ||gulfbase.com/APopUp.aspx
 ||hanya.ma/caro
 ||hao123.com/partnertopbar/
+||hao123.com^$subdocument,third-party
 ||hao123.com^*/ar-banner.
 ||homekw.com/temp/jahrawi_150_167.gif
 ||host-image.net/images/56070naja7host.png
@@ -967,6 +968,7 @@ $websocket,domain=cera.online
 ||elraaed.com^*/banners/
 ||elso9.biz/$subdocument,domain=ya3ale.com
 ||elso9.com/$subdocument,domain=ya3ale.com
+||elwatannews.com/hoa/
 ||emaratalyoum.com^*/banners/
 ||english-guide.com/images/banners/
 ||englishforarabs.com/iphone-ad.png
