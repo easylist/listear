@@ -265,6 +265,7 @@ $websocket,domain=cera.online
 ||amazonaws.com/irgames/bnrs/
 ||animobe.com/open*.js
 ||api.yamli.com/checkin.ashx?
+||arabcpe.com^$popup,domain=7-jo.com
 ||arabdvd.net/banner/
 ||arabearpiece.com/big.png
 ||arabhosters.com/logo_$third-party
