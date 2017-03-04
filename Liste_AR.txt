@@ -980,6 +980,7 @@ $websocket,domain=cera.online
 ||fannannsat.com/vb/images/00.gif
 ||fannannsat.com/vb/images/000.gif
 ||fannannsat.com/vb/images/0000.gif
+||fannansat10.org/vb/fayez/redlain1.gif
 ||farep.org/styles/helion/espace1.jpg
 ||farep.org/styles/helion/pener-2.png
 ||farfesh.com^*/Banners/
