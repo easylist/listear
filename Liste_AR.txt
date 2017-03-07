@@ -111,8 +111,13 @@ _arabycash.
 ##.boxLeftAd
 ##.boxRightAd
 ##.e3lan
+##.e3lan-cell
 ##.e3lan-code
+##.e3lan-post
 ##.e3lan-top
+##.e3lan-widget-content
+##.e3lan300-600
+##.e3lan300_600-widget
 ##.hidden_pub
 ##.i3lan
 ##.label-ads
@@ -133,6 +138,7 @@ _arabycash.
 ##[ad-unit="728X300"]
 ##[ad-unit="728X90"]
 ##[href*="ad2games.com/"]
+##[id^="ads300_600-widget-"]
 ##a[href*=".hao123.com/?tn="] > img
 ##a[href*="/?track=ad:"]
 ##a[href*="adintop.com/outgoing/click.php?"]
