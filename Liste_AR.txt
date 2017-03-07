@@ -75,6 +75,9 @@ _arabycash.
 /get/iad/*$popup
 !
 !----------------------- Éléments génériques -----------------!
+###AdDivUnderNews
+###AdPlacementBetweenNews
+###AdvContainerTopRightAds
 ###adLeftHolder
 ###adRightHolder
 ###adSlot-inPage-300x250-left
@@ -103,6 +106,7 @@ _arabycash.
 ##.ads_sq
 ##.adsagcompa
 ##.adsheadmu
+##.adsonadsbox
 ##.adspostsfotter
 ##.advCON
 ##.advSmall
@@ -1333,8 +1337,6 @@ $websocket,domain=cera.online
 !
 !----------------------- Éléments -----------------------!
 !
-arabnet5.com###AdDivUnderNews
-arabnet5.com###Addiv
 i-share-ads.com###Ads1
 i-share-ads.com###Ads4
 ahram.org.eg###AdvShowCase1_divShowcase
@@ -1342,7 +1344,6 @@ arabseyes.com###Banner
 i-share-ads.com###ContentPlaceHolder1_MPE_AdsShow_backgroundElement
 i-share-ads.com###ContentPlaceHolder1_Pnl_ShowAds
 alarab.net###FloatBanner
-arabnet5.com###GoogleDivUnderNews
 fatakat.com###ad1
 masr140.com###ad_20
 33sh8.com###adds
@@ -1690,7 +1691,6 @@ jordanzad.com##div[style="width:600px;height:80px;"]
 f16f.com##div[style^="background:#ffffff;width:728px;height:90px;"]
 f16f.com##div[style^="display:block;background:#ffffff;width:300px;height:250px;"]
 oleeh.com##div[style^="width:336px;height:280px;"]
-arabnet5.com##div[style^="width:728px; height:90px;"]
 ##div[style^="z-index: 99999; position: fixed; width: 100%; background-color: rgb(251, 236, 173);"]
 cinq-bem-bac.blogspot.com##font[id]
 eqla3.com##iframe
