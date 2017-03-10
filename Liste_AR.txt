@@ -1791,6 +1791,7 @@ kora-live.tv##[-abp-properties='opacity:']
 !----------------------- Exceptions d'éléments -----------------------!
 !
 risalaradio.com#@#.ad-cell
+independent.co.uk#@#.adblock
 !
 !---------------------------- Anti-Adblock ---------------------------!
 !
