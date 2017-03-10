@@ -1787,6 +1787,7 @@ kora-live.tv##[-abp-properties='opacity:']
 @@||djelfa.info/dj_img/logo.gif
 @@||elhiwarnet.com/images/banners/meteo-hiwar.png
 @@||elmassar-ar.com/ara/ads/logo2010.swf
+@@||sogarab.com/ads/js/$script,stylesheet,domain=sogarab.com
 @@||xaddad.com/advertisers/$~third-party
 !
 !----------------------- Exceptions d'éléments -----------------------!
