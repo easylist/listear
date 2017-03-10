@@ -1670,6 +1670,7 @@ alrealclub.com##a[title^="ينتهي في"]
 aswaqcity.com##div#vbseo_vhtml_0
 top555games.com##div[class^="adshp"]
 mexat.com##div[class^="banner"]
+dardarkom.com##div[id*="ScriptRootC"]
 alqabas.com.kw##div[id^="azk"]
 masrytube.com##div[id^="bannerfloat"]
 eldjoumhouria.dz##div[id^="floating_"]
