@@ -681,6 +681,8 @@ $websocket,domain=cera.online
 !
 !----------------------- Sites spécifiques -----------------------!
 !
+/nexp/dok3v=*/cloudflare/rocket.js$script,domain=masrawysat.com
+!
 |http://j.gs^$popup,domain=showsat.org
 |http://sa.ae^$popup,domain=bacdz.org
 ||0sat.net/index/
@@ -1110,7 +1112,6 @@ $websocket,domain=cera.online
 ||marrakechalaan.com/wp-content/uploads/2015/05/hotel-cesar-copie-sd.png
 ||marrakechalaan.com/wp-content/uploads/2015/07/blach-zohair.gif
 ||marrakechalaan.com/wp-content/uploads/2015/07/radio-gueliz-pub-v-2.gif
-||masrawysat.com/cdn-cgi/pe/bag2?$xmlhttprequest
 ||masrawysat.com/img/505.gif
 ||masrawysat.com/img/astra.gif
 ||masrawysat.com/img/Baaanner.gif
