@@ -1389,6 +1389,7 @@ facenama.com###home-left-120
 facenama.com###home-top-468
 masrawy.com###hswcase
 zony.tv###impo_overlay
+imovie-time.com###invideo_wrapper
 iq-vb.net###layer1
 contactcars.com###leaderBoard
 7s5.net###light[style="position: absolute; left: 9px; top: 31px; display: block;"]
