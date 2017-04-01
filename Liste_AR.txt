@@ -34,6 +34,7 @@
 /advStatLib.js
 /advStatSettings.js
 /affiliate-tools.
+/affiliate_base/*
 /ar/ads/*
 /ara/ads/*
 /arabycash-
@@ -247,6 +248,7 @@ $websocket,domain=cera.online
 ||adv.videomega.tv^$popup
 ||adyou.me^$domain=bein-koora.net
 ||af.gamepower7.com/*?aid=$popup,third-party
+||aff.bstatic.com^
 ||aflamonlinee.org/new/$popup
 ||aflamy.tv^$popup,domain=mrfile.co|spikyup.com
 ||afrecano.ml^$subdocument
