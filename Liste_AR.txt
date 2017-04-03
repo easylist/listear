@@ -678,6 +678,7 @@ $websocket,domain=cera.online
 ||ta3lime.com/up/uploads/14597609769341.jpg
 ||up.arabseyes.com/uploads2013/03_11_16147815736026541.jpg
 ||up.star7arab.com/file/2016/10/400800109.gif
+||up.star7arab.com/file/2017/04/54432151.gif
 !
 !----------------------- Sites spécifiques -----------------------!
 !
