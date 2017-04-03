@@ -1272,7 +1272,6 @@ $websocket,domain=cera.online
 ||stat.arabstoday.net/images/alpharooms.jpg
 ||stat.arabstoday.net/images/pizza.jpg
 ||stat.arabstoday.net/images/weather-ad.png
-||store*.up-00.com^
 ||str-ly.com/open*.js
 ||support-ar.com^*/support-adv/
 ||swalif.com/banner/
