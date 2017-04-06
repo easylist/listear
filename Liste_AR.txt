@@ -418,6 +418,7 @@ $websocket,domain=cera.online
 ||imageshack.us/img687/748/83145832.jpg
 ||imageshack.us/img831/6584/69953352.jpg
 ||imageshack.us/img856/4224/64119518.jpg
+||img.soft98.ir/0_$image
 ||imgur.com/9VzIEw9.gif
 ||islamiy.com^$subdocument,domain=wadilarab.com
 ||jazora.com/banner/
@@ -981,6 +982,7 @@ $websocket,domain=cera.online
 ||elmaouid.com/images/stories/pub-twins-1.gif
 ||elmassar-ar.com/*/img/pub.jpg
 ||elmokhalestv.com/banner_images/
+||elmstba.net/wp-content/uploads/love.jpg
 ||elraaed.com^*/banners/
 ||elso9.biz/$subdocument,domain=ya3ale.com
 ||elso9.com/$subdocument,domain=ya3ale.com
@@ -1307,6 +1309,7 @@ $websocket,domain=cera.online
 ||uob-bh.com/uploadfiles/bahraindir.gif
 ||upload.aflamhq.com/14642607811239_AflamHQ.com.gif
 ||uploadboy.com/banner/
+||vb.elmstaba.com/girls.jpg
 ||vb.eqla3.com/code/*.html
 ||vb.zi-m.com/aerowindow/
 ||vb.zi-m.com/js.php
