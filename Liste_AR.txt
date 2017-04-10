@@ -56,6 +56,7 @@
 /files/adv/*
 /flash_adver_
 /floating_window_with_tabs.
+/hosein/ads/*
 /i3lan-1.
 /i3lan-2.
 /i3lan-3.
@@ -339,6 +340,7 @@ $websocket,domain=cera.online
 ||diwanee.net/?ref=
 ||dohaup.com/up/2010-05-07/dohaup_206097194.gif
 ||dowerly.com^$image,third-party
+||downloadha.com/shop/
 ||dramacafe.tv/Adblock_
 ||dressupgal.com^$popup,domain=brbbi.com
 ||dropvideo.com/adorika/$popup
