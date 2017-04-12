@@ -242,6 +242,7 @@ $websocket,domain=cera.online
 ||7aga.top^$popup,domain=myegy.to
 ||7bbb7.com^$popup,domain=s-ajfan.com
 ||a7la-games.com/b/
+||abowman.com/widgets/
 ||add-friendso.blogspot.com^$popup
 ||adf.ly^$domain=bein-koora.net
 ||adnetechy.com/Aff/
