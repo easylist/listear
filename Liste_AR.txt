@@ -361,6 +361,7 @@ $websocket,domain=cera.online
 ||esdaraty.com/images/free-calls.jpg
 ||etibyan.com/credit
 ||f-riends.com/ads/$popup
+||facebook.com/Best-iptv2016-$popup,domain=3gyptsat.net
 ||facebook.com^$popup,domain=mazika2day.com
 ||facenama.com/popup.php?
 ||facenama.com/popup.php?$popup
