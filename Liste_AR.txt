@@ -613,11 +613,6 @@ $websocket,domain=cera.online
 |http://$script,third-party,xmlhttprequest,domain=toofy.co|toofy.tv
 |https://$script,third-party,xmlhttprequest,domain=toofy.co|toofy.tv
 ||toofy.co^$popup,~third-party
-! tvfun.ma
-@@||code.jquery.com/jquery.min.js$script,domain=tvfun.ma
-@@||www.sonara.net/mediaplayera/$script,third-party,domain=tvfun.ma
-|http://$script,third-party,domain=tvfun.ma
-|https://$script,third-party,domain=tvfun.ma
 ! hd-arab.com
 |http://$script,third-party,domain=hd-arab.com
 |https://$script,third-party,domain=hd-arab.com
@@ -1312,7 +1307,6 @@ $websocket,domain=cera.online
 ||travelzad.com/vb/storeimg/img_1318589601_108.gif
 ||travpl.com^$popup,domain=nokiagate.com
 ||tvegy.com/open17.js
-||tvfun.ma/p.js
 ||tvgate.tv^$subdocument
 ||uob-bh.com/uploadfiles/bahraindir.gif
 ||upload.aflamhq.com/14642607811239_AflamHQ.com.gif
