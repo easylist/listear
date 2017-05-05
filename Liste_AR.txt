@@ -627,8 +627,8 @@ $websocket,domain=cera.online
 ! cima4up.tv
 @@||ajax.googleapis.com/ajax/libs/$script,domain=cima4up.tv
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=cima4up.tv
-|http://$script,third-party,domain=cima4up.tv
-|https://$script,third-party,domain=cima4up.tv
+|http://$script,third-party,xmlhttprequest,domain=cima4up.tv
+|https://$script,third-party,xmlhttprequest,domain=cima4up.tv
 ! arabictorrent.net
 @@||ajax.googleapis.com/ajax/libs/$script,domain=arabictorrent.net
 |http://$script,third-party,xmlhttprequest,domain=arabictorrent.net
@@ -658,7 +658,8 @@ $websocket,domain=cera.online
 !
 |http://*,$script,third-party,domain=1short.us|aflam2you.com|animelek.com|animestarz.com|arabseed.com|as2tv.com|cera.online|cima4u.tv|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|goodalot.tv|kooralive.tv|okanime.com|series4watch.tv
 |https://*,$script,third-party,domain=1short.us|aflam2you.com|animelek.com|animestarz.com|arabseed.com|as2tv.com|cera.online|cima4u.tv|cimaflash.tv|egy.best|egybest.co|egybest.com|egybest.net|filmey.tv|goodalot.tv|kooralive.tv|okanime.com|series4watch.tv
-!
+! popup & popunder
+$popup,domain=cima4up.tv
 ! images hosting
 ||d16.net/up/uploads/1478118841381.gif
 ||i.imgur.com/3tAhgla.gif
