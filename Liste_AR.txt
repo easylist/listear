@@ -215,8 +215,12 @@ _arabycash.
 !
 !----------------------- Publicités tierces ----------------------!
 !
+$webrtc,domain=akoam.com
+!
 $websocket,domain=cera.online
+!
 |blob:$domain=cera.online|el7l.tv
+!
 ||0sat.com/photo0sat/
 ||0zz0.com/2012/07/28/21/250712642.gif
 ||2.mykora.net^
@@ -606,7 +610,6 @@ $websocket,domain=cera.online
 @@||akoam.com/cdn-cgi/pe/bag2?*akoam.com$xmlhttprequest,domain=akoam.com
 |http://$script,third-party,xmlhttprequest,domain=akoam.com
 |https://$script,third-party,xmlhttprequest,domain=akoam.com
-||akoam.com/cdn-cgi/pe/bag2?
 ! toofy.tv
 @@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=toofy.co|toofy.tv
 @@||maxcdn.bootstrapcdn.com^$script,third-party,domain=toofy.co|toofy.tv
@@ -686,7 +689,7 @@ $websocket,domain=cera.online
 !
 !----------------------- Sites spécifiques -----------------------!
 !
-/nexp/dok3v=*/cloudflare/rocket.js$script,domain=masrawysat.com
+/nexp/dok3v=*/cloudflare/rocket.js$script,domain=akoam.com|masrawysat.com
 !
 |http://j.gs^$popup,domain=showsat.org
 |http://sa.ae^$popup,domain=bacdz.org
