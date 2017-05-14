@@ -607,9 +607,10 @@ $websocket,domain=cera.online
 ||ps-0.com^$subdocument,third-party
 ||wirwaar.com^$subdocument,third-party
 ! akoam.com
-@@||akoam.com/cdn-cgi/pe/bag2?*akoam.com$xmlhttprequest,domain=akoam.com
+@@||akoam.com/cdn-cgi/pe/bag2?*akoam.com%2Fscripts%2Fsite%2Fjs%2Fjquery.js&$xmlhttprequest,domain=akoam.com
 |http://$script,third-party,xmlhttprequest,domain=akoam.com
 |https://$script,third-party,xmlhttprequest,domain=akoam.com
+||akoam.com/cdn-cgi/pe/bag2?
 ! toofy.tv
 @@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=toofy.co|toofy.tv
 @@||maxcdn.bootstrapcdn.com^$script,third-party,domain=toofy.co|toofy.tv
@@ -693,7 +694,7 @@ $popup,domain=cima4up.tv
 !
 !----------------------- Sites spécifiques -----------------------!
 !
-/nexp/dok3v=*/cloudflare/rocket.js$script,domain=akoam.com|masrawysat.com
+/nexp/dok3v=*/cloudflare/rocket.js$script,domain=masrawysat.com
 !
 |http://j.gs^$popup,domain=showsat.org
 |http://sa.ae^$popup,domain=bacdz.org
