@@ -70,6 +70,8 @@
 /show_i.php?b=$subdocument,third-party
 /vb/open.js
 ://go.*/afu.
+=openx&aid=
+_990x100.
 _arabycash.
 !
 /afstrack.*?affid=$popup
@@ -1834,6 +1836,7 @@ soft4sat.net#@#.e3lan
 @@||farescd.com^$generichide
 @@||kooralive.tv^$generichide
 @@||kora-star.com^$generichide
+@@||mohamedovic.com^$generichide
 @@||myegy.tv^$generichide
 @@||sumeronline.com^$generichide
 @@||tvono.com^$generichide
