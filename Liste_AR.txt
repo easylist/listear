@@ -26,6 +26,8 @@
 .js?pubId=
 .net.ar/ads/
 .ps/adds/
+/%D8%A7%D8%B9%D9%84%D8%A7%D9%86-
+/%D8%A7%D8%B9%D9%84%D8%A7%D9%86.
 /280x336.
 /300e.html$subdocument
 /a3lan.$subdocument
@@ -1815,7 +1817,7 @@ chess.com,independent.co.uk#@#.adblock
 !
 !---------------------------- Anti-Adblock ---------------------------!
 !
-@@.png#$image,domain=dz-sat.com|elmoslsal.com|farescd.com|up.media1fire.com
+@@.png#$image,domain=dz-sat.com|elmoslsal.com|farescd.com|sigma4pc.com|up.media1fire.com
 @@/advertisement.js$script,domain=animestarz.com|arabe-media.com|embratoria.com|imbratoria.info|zee3rb.com
 @@||jeddahbikers.com/templates/js/adframe.js|$script,~third-party
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=dz-sat.com
@@ -1838,5 +1840,6 @@ soft4sat.net#@#.e3lan
 @@||kora-star.com^$generichide
 @@||mohamedovic.com^$generichide
 @@||myegy.tv^$generichide
+@@||sigma4pc.com^$generichide
 @@||sumeronline.com^$generichide
 @@||tvono.com^$generichide
