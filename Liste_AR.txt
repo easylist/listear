@@ -1446,7 +1446,6 @@ hawaaworld.com###vacuumcleaners
 firedrive.com###ve_box
 embedezcast.com###video_ads_overdiv
 europages.ma###vipBox
-dz-sat.com###w3c5
 6ef.com,fr7.com,q8me.com###webColorsHeader2
 mshkla.com###weblks
 jeddahbikers.com###x-728
@@ -1817,11 +1816,9 @@ chess.com,independent.co.uk#@#.adblock
 !
 !---------------------------- Anti-Adblock ---------------------------!
 !
-@@.png#$image,domain=dz-sat.com|elmoslsal.com|farescd.com|sigma4pc.com|up.media1fire.com
+@@.png#$image,domain=elmoslsal.com|farescd.com|sigma4pc.com|up.media1fire.com
 @@/advertisement.js$script,domain=animestarz.com|arabe-media.com|embratoria.com|imbratoria.info|zee3rb.com
 @@||jeddahbikers.com/templates/js/adframe.js|$script,~third-party
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=dz-sat.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dz-sat.com
 !
 !###blockblockA
 !###blockblockB
@@ -1833,7 +1830,6 @@ direct-radio.fr#@#.adblock
 soft4sat.net#@#.e3lan
 !
 @@||ashams.com^$generichide
-@@||dz-sat.com^$generichide
 @@||elmoslsal.com^$generichide
 @@||farescd.com^$generichide
 @@||kooralive.tv^$generichide
