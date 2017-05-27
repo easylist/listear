@@ -123,8 +123,6 @@ _arabycash.
 ##.e3lan
 ##.e3lan-cell
 ##.e3lan-code
-##.e3lan-post
-##.e3lan-top
 ##.e3lan-widget-content
 ##.e3lan300-600
 ##.e3lan300_600-widget
@@ -168,28 +166,20 @@ _arabycash.
 !
 !----------------------- Annonceurs -----------------------!
 !
-||ad2upapp.com^$third-party
-||adbooth.com^$third-party
 ||adsvee.com^$third-party
 ||adtube.ir^$third-party
 ||adv0.com^$third-party
 ||adzouktech.com^$third-party
 ||apanet.net^$third-party
-||bitadspool.com^$third-party
 ||branchroughlend.info^$third-party
-||clksite.com^$third-party
-||coinmedia.co^$third-party
 ||deliverymodo.com^$third-party
 ||eclkspbn.com^$third-party
 ||erate.co.il^$third-party
 ||finishclueobscure.info^$third-party
 ||interadv.net^$third-party
 ||kimia.es^$third-party
-||licantrum.com^$third-party
 ||ornaki.com^$third-party
 ||prstatics.com^$third-party
-||replase.ml^$third-party
-||smintmouse.com^$third-party
 ||softwarepiset.com^$third-party
 ||teeet.net^$third-party
 ||trinylium.com^$third-party
@@ -250,7 +240,6 @@ $websocket,domain=cera.online
 ||7aga.top^$popup,domain=myegy.to
 ||7bbb7.com^$popup,domain=s-ajfan.com
 ||a7la-games.com/b/
-||abowman.com/widgets/
 ||add-friendso.blogspot.com^$popup
 ||adf.ly^$domain=bein-koora.net
 ||adnetechy.com/Aff/
@@ -314,7 +303,6 @@ $websocket,domain=cera.online
 ||b8cdn.com^*/affiliate-
 ||babal.net/tools/home.php?$third-party
 ||banathi.com/banathi*.
-||bandeiracorp.biz/images/$third-party
 ||bayt.com/referred?
 ||bayt.com/scripts/associates_latest_jobs.js
 ||bayt.com/widgets/get_jobs_widget?
@@ -393,8 +381,6 @@ $websocket,domain=cera.online
 ||gamepower7.com/forum/banner.swf
 ||gamezek.com/img.png
 ||geek4arab.net/banner/
-||getcpm.com/devpoint.png
-||getsurl.com^$script,third-party
 ||ghawyakhbar.com/img/$third-party
 ||ghawyakhbar.com/img/sky-doo.gif
 ||giclub.tv/index.php?action=$image
@@ -1590,7 +1576,6 @@ octboot.com##.topbanner
 bokra.net##.tower
 bokra.net##.towerBanner
 bokra.net##.twoBanners
-openload.co##.vjs-modal-dialog-content
 almountakhab.com##.wallpaper-link
 ylla.net##.warpbun
 akhbarelyom.com##.widget div[style$=";top: 100px;width: 120px;"]
