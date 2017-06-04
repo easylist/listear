@@ -18,6 +18,8 @@
 -300-250-
 -600x120.
 -60x480-
+-866x120.
+-866x120_
 -90x728.
 -delivery.js
 -e3lnat/
@@ -1801,6 +1803,7 @@ chess.com,independent.co.uk#@#.adblock
 !
 @@.png#$image,domain=elmoslsal.com|farescd.com|sigma4pc.com|up.media1fire.com
 @@/advertisement.js$script,domain=animestarz.com|arabe-media.com|embratoria.com|imbratoria.info|zee3rb.com
+@@||cdn.vidyomani.com^*/showads.js$script,domain=vidyomani.com
 @@||jeddahbikers.com/templates/js/adframe.js|$script,~third-party
 !
 !###blockblockA
