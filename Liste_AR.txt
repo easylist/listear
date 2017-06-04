@@ -33,6 +33,10 @@
 /280x336.
 /300e.html$subdocument
 /a3lan.$subdocument
+/ad120.
+/ad125.
+/ad250.
+/ad600.
 /adss.gif
 /adsvideos.
 /advStatLib.js
