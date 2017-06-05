@@ -50,6 +50,7 @@
 /bnr_300.
 /bnr_460.
 /bnr_728.
+/code/?pid=
 /e3lan.
 /e3lan/*
 /e3lan2.
@@ -83,6 +84,7 @@
 _990x100.
 _arabycash.
 !
+.cash/?clickid=$popup
 /afstrack.*?affid=$popup
 /clicks.*/afs/$popup
 /get/iad/*$popup
@@ -194,6 +196,7 @@ _arabycash.
 ||yakiyo.club^$third-party
 ||zermeo.com^$third-party
 !
+||adfoc.us^$popup,third-party
 ||adintop.com^$popup,third-party
 ||adoptim.com^$popup,third-party
 ||adzouktech.com^$popup,third-party
@@ -521,6 +524,7 @@ $websocket,domain=cera.online
 ||servimg.com/u/f30/15/50/53/07/0879.jpg
 ||servimg.com/u/f65/11/55/73/09/downlo10.gif
 ||sh-arab.com^$popup,domain=zi-m.com
+||shein.com/?aff_id=$popup
 ||shnat.net/vb/images/14.jpg
 ||shnat.net/vb/images/bag.gif
 ||shofonline.org/open*.js
