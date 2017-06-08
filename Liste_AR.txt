@@ -435,6 +435,8 @@ $websocket,domain=cera.online
 ||jscsportlive.com/bzf.php
 ||kalemaro.com/open*.js
 ||karizmo.net/vb/karix.gif
+||keeload.com/mare$popup
+||keeload.com^$subdocument,third-party
 ||ksadl3.com/468.gif
 ||ksatec.com.sa/ksatec.gif
 ||kuwaitchat.net/750/750_150.gif
@@ -519,6 +521,7 @@ $websocket,domain=cera.online
 ||rsbfoot.com/annonce/
 ||s21.postimg.org/sdwex12bb/animated_banner.gif
 ||satarabia.net/v2/images/big_ar_banner.jpg
+||senditcloud.com^$popup
 ||servimg.com/*/5souq_10.gif
 ||servimg.com/u/f30/15/50/53/07/0802.jpg
 ||servimg.com/u/f30/15/50/53/07/0879.jpg
