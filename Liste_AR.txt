@@ -662,12 +662,15 @@ $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.s
 ! yalla-shoot.com
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=yalla-shoot.com
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=yalla-shoot.com
+! 1short.us
+|http://$script,third-party,xmlhttprequest,domain=1short.us
+|https://$script,third-party,xmlhttprequest,domain=1short.us
 ! amazonaws.com
-||amazonaws.com^$domain=1short.us|aflam2you.com|animelek.com|animestarz.com|arabseed.com|as2tv.com|cera.online|cima4u.tv|cimaflash.tv|elmoslsal.com|filmey.tv|goodalot.tv|kooralive.tv|okanime.com|series4watch.tv
+||amazonaws.com^$domain=aflam2you.com|animelek.com|animestarz.com|arabseed.com|as2tv.com|cera.online|cima4u.tv|cimaflash.tv|elmoslsal.com|filmey.tv|goodalot.tv|kooralive.tv|okanime.com|series4watch.tv
 ! cloudfront.net
-||cloudfront.net^$domain=1short.us|aflam2you.com|animelek.com|animestarz.com|arabseed.com|as2tv.com|cera.online|cima4u.tv|cimaflash.tv|elmoslsal.com|filmey.tv|goodalot.tv|kooralive.tv|okanime.com|series4watch.tv
+||cloudfront.net^$domain=aflam2you.com|animelek.com|animestarz.com|arabseed.com|as2tv.com|cera.online|cima4u.tv|cimaflash.tv|elmoslsal.com|filmey.tv|goodalot.tv|kooralive.tv|okanime.com|series4watch.tv
 !
-||com^*=*,*,$script,third-party,domain=1short.us|aflam2you.com|animelek.com|animestarz.com|arabseed.com|as2tv.com|cera.online|cima4u.tv|cimaflash.tv|elmoslsal.com|filmey.tv|goodalot.tv|kooralive.tv|okanime.com|series4watch.tv
+||com^*=*,*,$script,third-party,domain=aflam2you.com|animelek.com|animestarz.com|arabseed.com|as2tv.com|cera.online|cima4u.tv|cimaflash.tv|elmoslsal.com|filmey.tv|goodalot.tv|kooralive.tv|okanime.com|series4watch.tv
 ! popup & popunder
 $popup,domain=cima4up.tv
 ! images hosting
