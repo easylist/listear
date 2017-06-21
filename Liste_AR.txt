@@ -155,6 +155,7 @@ _arabycash.
 ##[ad-unit="468X60"]
 ##[ad-unit="728X300"]
 ##[ad-unit="728X90"]
+##[class$="125ads"]
 ##[href*="ad2games.com/"]
 ##[id^="ads300_600-widget-"]
 ##a[href*=".hao123.com/?tn="] > img
