@@ -188,6 +188,7 @@ _arabycash.
 ||eclkspbn.com^$third-party
 ||erate.co.il^$third-party
 ||finishclueobscure.info^$third-party
+||ilovemobi.com^$third-party
 ||interadv.net^$third-party
 ||kimia.es^$third-party
 ||ornaki.com^$third-party
@@ -207,8 +208,10 @@ _arabycash.
 ||celebritypranky.com^$popup,third-party
 ||eclkspbn.com^$popup,third-party
 ||finishclueobscure.info^$popup,third-party
+||ilovemobi.com^$popup,third-party
 ||kimia.es^$popup,third-party
 ||licantrum.com^$popup,third-party
+||mobyetrafmsmt.com^$popup,third-party
 ||newpoptab.com^$popup,third-party
 ||newtab-tv.com^$popup,third-party
 ||partners.xm.com^$popup,third-party
