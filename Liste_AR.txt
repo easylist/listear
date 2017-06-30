@@ -199,6 +199,7 @@ _arabycash.
 ||yakiyo.club^$third-party
 ||zermeo.com^$third-party
 !
+||5.135.12.64^$popup,third-party
 ||adfoc.us^$popup,third-party
 ||adintop.com^$popup,third-party
 ||adoptim.com^$popup,third-party
@@ -620,6 +621,7 @@ $websocket,domain=cera.online
 ||akoam.com/cdn-cgi/pe/bag2?
 ! egybest
 $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.site
+@@||cdn.egy.best/sc/$stylesheet,domain=egybest.site
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.site
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.site
 ! toofy.tv
