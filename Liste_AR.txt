@@ -666,6 +666,10 @@ $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.s
 |https://$script,third-party,xmlhttprequest,domain=myegy.tv
 ! http://nbdkorea.com/
 |http://el7l.*/$popup
+! add-anime.net
+@@||code.jquery.com^$script,domain=add-anime.net
+|http://$script,stylesheet,third-party,xmlhttprequest,domain=add-anime.net
+|https://$script,stylesheet,third-party,xmlhttprequest,domain=add-anime.net
 ! aflam.io
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=aflam.io
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=aflam.io
