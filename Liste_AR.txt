@@ -178,6 +178,7 @@ _arabycash.
 !----------------------- Annonceurs -----------------------!
 !
 ||0.13.75.226^$third-party
+||100v.biz^$third-party
 ||adsvee.com^$third-party
 ||adtube.ir^$third-party
 ||adv0.com^$third-party
@@ -665,6 +666,9 @@ $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.s
 |https://$script,third-party,xmlhttprequest,domain=myegy.tv
 ! http://nbdkorea.com/
 |http://el7l.*/$popup
+! aflam.io
+|http://$script,stylesheet,third-party,xmlhttprequest,domain=aflam.io
+|https://$script,stylesheet,third-party,xmlhttprequest,domain=aflam.io
 ! yalla-shoot.com
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=yalla-shoot.com
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=yalla-shoot.com
