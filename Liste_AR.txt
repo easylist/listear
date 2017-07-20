@@ -109,6 +109,8 @@ _arabycash.
 ##.Ad160-left
 ##.Ad160-right
 ##.Ads-PostTop
+##.ad-lft
+##.ad-rt
 ##.ad160left
 ##.ad160right
 ##.ad250250
@@ -1609,6 +1611,7 @@ alrealclub.com##.style10 img
 darendeal.com##.takeover
 ar-wp.com##.ten-banners
 games-flash.be##.thumb-banner
+d7ika.ma##.top-banner
 al3abo.com##.topBannerBOX
 almesryoon.com##.topad
 octboot.com##.topbanner
