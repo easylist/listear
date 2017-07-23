@@ -37,6 +37,8 @@
 /ad125.
 /ad250.
 /ad600.
+/adfuel-
+/adfuel/*
 /ads/box3.
 /adss.gif
 /adsvideos.
