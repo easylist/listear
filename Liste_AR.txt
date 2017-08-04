@@ -173,6 +173,7 @@ _arabycash.
 ##a[href^="http://www.fusebux.com/index.php?r="] > img
 ##a[href^="http://www.probux.com/?rh="] > img
 ##a[href^="http://www.sotmasr.com/announcements/"]
+##a[href^="http://www.superadexchange.com/script/preurl.php?r="]
 ##a[href^="http://xat.com/"]
 ##a[href^="https://khamsat.com/?r="] > img
 ##img[alt="إعلان"][height="60"]
