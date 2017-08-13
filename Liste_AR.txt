@@ -198,6 +198,7 @@ _arabycash.
 ||interadv.net^$third-party
 ||kimia.es^$third-party
 ||ornaki.com^$third-party
+||piguiqproxy.com^$third-party
 ||prstatics.com^$third-party
 ||softwarepiset.com^$third-party
 ||teeet.net^$third-party
@@ -684,15 +685,18 @@ $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.s
 ! yalla-shoot.com
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=yalla-shoot.com
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=yalla-shoot.com
+! cera.online
+|http://$script,third-party,xmlhttprequest,domain=cera.online
+|https://$script,third-party,xmlhttprequest,domain=cera.online
 ! 1short.us
 |http://$script,third-party,xmlhttprequest,domain=1short.us
 |https://$script,third-party,xmlhttprequest,domain=1short.us
 ! amazonaws.com
-||amazonaws.com^$domain=aflam2you.com|an-online.com|animestarz.com|arabseed.com|as2tv.com|cera.online|cima4u.tv|cimaflash.tv|elmoslsal.com|faselhd.com|filmey.tv|goodalot.tv|kooralive.tv|okanime.com|series4watch.tv
+||amazonaws.com^$domain=aflam2you.com|an-online.com|animestarz.com|arabseed.com|as2tv.com|cima4u.tv|cimaflash.tv|elmoslsal.com|faselhd.com|filmey.tv|goodalot.tv|kooralive.tv|okanime.com|series4watch.tv
 ! cloudfront.net
-||cloudfront.net^$domain=aflam2you.com|an-online.com|animestarz.com|arabseed.com|as2tv.com|cera.online|cima4u.tv|cimaflash.tv|elmoslsal.com|faselhd.com|filmey.tv|goodalot.tv|kooralive.tv|okanime.com|series4watch.tv
+||cloudfront.net^$domain=aflam2you.com|an-online.com|animestarz.com|arabseed.com|as2tv.com|cima4u.tv|cimaflash.tv|elmoslsal.com|faselhd.com|filmey.tv|goodalot.tv|kooralive.tv|okanime.com|series4watch.tv
 ! popads
-/^https?:\/\/www\.[a-z]{8,12}\.com\/[a-z]{1,6}\.\js$/$script,domain=aflam2you.com|an-online.com|animestarz.com|arabseed.com|as2tv.com|cera.online|cima4u.tv|cimaflash.tv|elmoslsal.com|faselhd.com|filmey.tv|goodalot.tv|kooralive.tv|okanime.com|series4watch.tv
+/^https?:\/\/www\.[a-z]{8,12}\.com\/[a-z]{1,6}\.\js$/$script,domain=aflam2you.com|an-online.com|animestarz.com|arabseed.com|as2tv.com|cima4u.tv|cimaflash.tv|elmoslsal.com|faselhd.com|filmey.tv|goodalot.tv|kooralive.tv|okanime.com|series4watch.tv
 ! popup & popunder
 $popup,domain=an-online.com|cima4up.tv
 ! images hosting
