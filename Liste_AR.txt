@@ -631,7 +631,7 @@ $websocket,domain=arawatch.tv|cera.online
 ||akoam.com/cdn-cgi/pe/bag2?
 ! egybest
 $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.site
-@@||cdn.egy.best/sc/$stylesheet,domain=egybest.site
+@@||cdn.egy.best/sc/$script,stylesheet,domain=egybest.site
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.site
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.site
 ! toofy.tv
