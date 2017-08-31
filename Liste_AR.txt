@@ -23,6 +23,7 @@
 -90x728.
 -delivery.js
 -e3lnat/
+.affilist-$third-party
 .com/bnr/
 .com/elan/$image
 .js?pubId=
@@ -30,6 +31,7 @@
 .ps/adds/
 /%D8%A7%D8%B9%D9%84%D8%A7%D9%86-
 /%D8%A7%D8%B9%D9%84%D8%A7%D9%86.
+//affilist-$third-party
 /280x336.
 /300e.html$subdocument
 /a3lan.$subdocument
@@ -50,6 +52,8 @@
 /ara/ads/*
 /arabycash-
 /banner-990x90.
+/banner_*&pub=
+/bnr_*&pub=
 /bnr_300.
 /bnr_460.
 /bnr_728.
@@ -81,6 +85,7 @@
 /pvtads/*
 /sb_dfp.
 /show_i.php?b=$subdocument,third-party
+/slider.*&pub=
 /vb/open.js
 ://go.*/afu.
 =openx&aid=
@@ -187,7 +192,10 @@ _arabycash.
 ||adsvee.com^$third-party
 ||adtube.ir^$third-party
 ||adv0.com^$third-party
+||advertica-cdn.com^$third-party,domain=~advertica.ae
+||advertica.ae^$third-party
 ||adzouktech.com^$third-party
+||affili.st^$third-party
 ||apanet.net^$third-party
 ||branchroughlend.info^$third-party
 ||deliverymodo.com^$third-party
@@ -197,6 +205,7 @@ _arabycash.
 ||ilovemobi.com^$third-party
 ||interadv.net^$third-party
 ||kimia.es^$third-party
+||nurno.com^$third-party
 ||ornaki.com^$third-party
 ||piguiqproxy.com^$third-party
 ||prstatics.com^$third-party
