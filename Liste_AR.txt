@@ -1485,6 +1485,7 @@ europages.ma###sponsor
 liilas.com###tickermain
 ar-tr.com,arabseed.com###top-banner
 hawamer.com###topBanner
+elheddaf.com###top_pub + a[style]
 maas1.com###topads
 mazika2day.com###topban
 alarab.net###topbanner
