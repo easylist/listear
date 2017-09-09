@@ -85,6 +85,10 @@
 /ir/ads/*
 /mobilead300.
 /mpu_dfp.
+/pub1.php
+/pub2.php
+/pub3.php
+/pub4.php
 /pvtads/*
 /sb_dfp.
 /show_i.php?b=$subdocument,third-party
@@ -1415,6 +1419,7 @@ arabseyes.com###Banner
 i-share-ads.com###ContentPlaceHolder1_MPE_AdsShow_backgroundElement
 i-share-ads.com###ContentPlaceHolder1_Pnl_ShowAds
 alarab.net###FloatBanner
+arabe-media.com###a[style]
 fatakat.com###ad1
 masr140.com###ad_20
 33sh8.com###adds
@@ -1868,7 +1873,7 @@ chess.com,independent.co.uk#@#.adblock
 !---------------------------- Anti-Adblock ---------------------------!
 !
 @@.png#$image,domain=elmoslsal.com|farescd.com|sigma4pc.com|up.media1fire.com
-@@/advertisement.js$script,domain=animestarz.com|arabe-media.com|embratoria.com|imbratoria.info|zee3rb.com
+@@/advertisement.js$script,domain=animestarz.com|embratoria.com|imbratoria.info|zee3rb.com
 @@||cdn.vidyomani.com^*/showads.js$script,domain=vidyomani.com
 @@||jeddahbikers.com/templates/js/adframe.js|$script,~third-party
 !
