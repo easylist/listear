@@ -30,6 +30,7 @@
 .com/elan/$image
 .js?pubId=
 .net.ar/ads/
+.org.eg/ads/
 .ps/adds/
 /%D8%A7%D8%B9%D9%84%D8%A7%D9%86-
 /%D8%A7%D8%B9%D9%84%D8%A7%D9%86.
@@ -806,7 +807,7 @@ $popup,domain=an-online.com|cima4up.tv
 ||agadir24.info/minipain02.swf
 ||agadir24.info/pub.gif
 ||ahdath.info/wp-content/*/Pub%20banniere%20.jpg
-||ahram.org.eg/Media/Banners/SEO-logo.swf
+||ahram.org.eg/Media/Banners/
 ||akabernews.com/open.js
 ||akhbarelyom.com/UP/farid/
 ||akhersaa-dz.com/files/banners/
