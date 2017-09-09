@@ -1021,7 +1021,7 @@ $popup,domain=an-online.com|cima4up.tv
 ||el-massa.com^*/banners/
 ||el7l.co^*/banner/
 ||eladjwaaonline.com^*/pub/
-||elahdath.net/themes/ahdath_tm/img/pub.jpg
+||elahdath.net/images/pub/
 ||elahmad.com/browser.php
 ||elbashayer.com/images/chevrolet1.swf
 ||elbashayer.com/images/eskanandtammer.jpg
