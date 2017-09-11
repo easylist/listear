@@ -80,6 +80,7 @@
 /i3lan-2.
 /i3lan-3.
 /i3lan/*
+/images/468-
 /images/bnr_
 /images/mrad.
 /ir/ads/*
@@ -960,6 +961,7 @@ $popup,domain=an-online.com|cima4up.tv
 ||blogspot.com^*/banusr.jpg$domain=juste4femme.blogspot.com
 ||blogspot.com^*/download_little.jpg$domain=shofonline.net
 ||bnanit.com^$popup,domain=nghmat.com
+||bou-saada.info^*/banar/
 ||bramj.co/womens.js
 ||bramjnet.com/images/upload/bramj.jpg
 ||bramjnet.com/images/upload/bramjnet-2012.gif
