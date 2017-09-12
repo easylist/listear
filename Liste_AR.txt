@@ -551,6 +551,8 @@ $websocket,domain=arawatch.tv|cera.online
 ||realup.net/201001/1362929493.gif
 ||realup.net/201001/1374349753.gif
 ||reporters.tn/pub/
+||rimmedia.net/images/pub1.gif
+||rimmedia.net/images/pub2.gif
 ||roooo3.com^$popup,domain=arab.sh|arabsh.com
 ||rsbfoot.com/annonce/
 ||s21.postimg.org/sdwex12bb/animated_banner.gif
