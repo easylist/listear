@@ -655,6 +655,9 @@ $websocket,domain=arawatch.tv|cera.online
 ! egybest
 $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.site
 @@||cdn.egy.best/sc/$script,stylesheet,domain=egybest.site
+@@||cdnjs.cloudflare.com/ajax/libs/$script,stylesheet,domain=egy.best
+@@||openload.co/assets/*/video$script,stylesheet,domain=egy.best
+@@||openload.co/assets/js/jquery.$script,domain=egy.best
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.site
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.site
 ! toofy.tv
@@ -1751,6 +1754,7 @@ x3rb.com##a[onclick*="'Outgoing',"]
 mtwer.com##a[onclick^="_gaq.push(['_trackEvent', 'Outgoing',"]
 elheddaf.com##a[style*="url(/data/pub/)"]
 elheddaf.com##a[style="width:100%; height:850px; display:block; background:#000 url(/data/pub/pub.jpg) no-repeat center top; position: relative;"]
+egy.best##a[style]
 sat-vb.com##a[target="_blanck"] > img
 gulf-up.com##a[target="_blank"] > img
 aliahmedali.com##a[target="_blank"] > img[width="235"][height="60"]
@@ -1887,6 +1891,7 @@ chess.com,independent.co.uk#@#.adblock
 !
 @@.png#$image,domain=elmoslsal.com|farescd.com|sigma4pc.com|up.media1fire.com
 @@/advertisement.js$script,domain=animestarz.com|embratoria.com|imbratoria.info|zee3rb.com
+@@|https://openload.co/assets/js/script.222.js|$script
 @@||cdn.vidyomani.com^*/showads.js$script,domain=vidyomani.com
 @@||jeddahbikers.com/templates/js/adframe.js|$script,~third-party
 !
