@@ -544,6 +544,7 @@ $websocket,domain=arawatch.tv|cera.online
 ||profvb.com/pub/
 ||ps-0.com^$popup,domain=s-ajfan.com
 ||rackcdn.com/1114112_1114112.swf
+||rawgit.com^$domain=animop.net
 ||raya.ps^*/banners/
 ||realup.net/201001/1362674452.gif
 ||realup.net/201001/1362765520.gif
