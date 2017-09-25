@@ -60,6 +60,7 @@
 /bnr_300.
 /bnr_460.
 /bnr_728.
+/cdn-cgi/apps/head/*$script,domain=akoam.com
 /code/?pid=
 /e3lan.
 /e3lan/*
@@ -652,10 +653,8 @@ $websocket,domain=arawatch.tv|cera.online
 ||ps-0.com^$subdocument,third-party
 ||wirwaar.com^$subdocument,third-party
 ! akoam.com
-@@||akoam.com/cdn-cgi/pe/bag2?*akoam.com%2Fscripts%2Fsite%2Fjs%2Fjquery.js&$xmlhttprequest,domain=akoam.com
 |http://$script,third-party,xmlhttprequest,domain=akoam.com
 |https://$script,third-party,xmlhttprequest,domain=akoam.com
-||akoam.com/cdn-cgi/pe/bag2?
 ! egybest
 $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.site
 @@||cdn.egy.best/sc/$script,stylesheet,domain=egybest.site
