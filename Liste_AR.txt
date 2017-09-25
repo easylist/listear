@@ -105,6 +105,7 @@ _arabycash.
 /afstrack.*?affid=$popup
 /clicks.*/afs/$popup
 /get/iad/*$popup
+/imp/*?scontext_b=$popup
 !
 !----------------------- Éléments génériques -----------------!
 ###AdDivUnderNews
@@ -207,6 +208,7 @@ _arabycash.
 ||affili.st^$third-party
 ||apanet.net^$third-party
 ||branchroughlend.info^$third-party
+||cashinme.com^$third-party
 ||deliverymodo.com^$third-party
 ||eclkspbn.com^$third-party
 ||erate.co.il^$third-party
@@ -233,6 +235,7 @@ _arabycash.
 ||celebritypranky.com^$popup,third-party
 ||eclkspbn.com^$popup,third-party
 ||finishclueobscure.info^$popup,third-party
+||fullspeeddownload.com^$popup,third-party
 ||ilovemobi.com^$popup,third-party
 ||kimia.es^$popup,third-party
 ||licantrum.com^$popup,third-party
