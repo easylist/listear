@@ -119,6 +119,7 @@ _arabycash.
 ###ad_global_below_navbar
 ###adpost2
 ###deskads
+###fixed-ads
 ###headads
 ###it-ad-header
 ###readmoreads
@@ -135,6 +136,8 @@ _arabycash.
 ##.ad970
 ##.ad_banner728
 ##.adblock
+##.ads-under-data
+##.ads-under-data__main
 ##.ads1post
 ##.ads2post
 ##.ads_ar_wid
@@ -148,8 +151,15 @@ _arabycash.
 ##.advSmall
 ##.adv_outer
 ##.angular_advertisement
+##.article__ads
+##.article__ads-side
+##.article__article-ads
+##.article__article-mobile-ads
+##.article__mobile-ads
 ##.boxLeftAd
 ##.boxRightAd
+##.desktop-ff-ads
+##.desktop-ff-ads__main
 ##.e3lan
 ##.e3lan-cell
 ##.e3lan-code
@@ -162,6 +172,9 @@ _arabycash.
 ##.leftadsag
 ##.logoAdv
 ##.midAdv-cont
+##.mobile-ads
+##.mobile-ads__close
+##.mobile-ads__main
 ##.mom-e3lan
 ##.mom-e3lanat
 ##.mom-e3lanat-inner
@@ -1651,6 +1664,7 @@ alayam.com##.slides1
 alayam.com##.slides76
 el3ab.com##.smallLeader
 alrealclub.com##.smallfont a[target="_blank"]
+tsa-arabi.com##.sponsored-by
 deltaclic.com,misbahinet.com##.squarebanner
 as2tv.com##.store
 bokra.net##.strip
