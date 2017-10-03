@@ -136,8 +136,13 @@ _arabycash.
 ##.ad970
 ##.ad_banner728
 ##.adblock
+##.ads-desktop
+##.ads-desktop__wrap
+##.ads-mobile
+##.ads-mobile__wrap
 ##.ads-under-data
 ##.ads-under-data__main
+##.ads-under-header
 ##.ads1post
 ##.ads2post
 ##.ads_ar_wid
@@ -1664,6 +1669,7 @@ alayam.com##.slides1
 alayam.com##.slides76
 el3ab.com##.smallLeader
 alrealclub.com##.smallfont a[target="_blank"]
+ennaharonline.com##.souq
 tsa-arabi.com##.sponsored-by
 deltaclic.com,misbahinet.com##.squarebanner
 as2tv.com##.store
