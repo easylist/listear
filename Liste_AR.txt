@@ -91,6 +91,7 @@
 /pub2.php
 /pub3.php
 /pub4.php
+/pub_header_
 /pvtads/*
 /sb_dfp.
 /show_i.php?b=$subdocument,third-party
