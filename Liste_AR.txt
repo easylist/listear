@@ -137,6 +137,7 @@ _arabycash.
 ##.ad970
 ##.ad_banner728
 ##.adblock
+##.add_banner
 ##.ads-desktop
 ##.ads-desktop__wrap
 ##.ads-mobile
