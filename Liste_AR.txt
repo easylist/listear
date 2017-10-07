@@ -214,6 +214,7 @@ _arabycash.
 ##a[href^="https://khamsat.com/?r="] > img
 ##img[alt="إعلان"][height="60"]
 ##img[alt="إعلان"][width="150"]
+##img[alt^="مساحة اعلانية"]
 ##img[src*="/adv/"][alt="إعلان"]
 !
 !----------------------- Annonceurs -----------------------!
@@ -760,6 +761,7 @@ $popup,domain=an-online.com|cima4up.tv|kora-online.tv
 ||i21.servimg.com/u/f21/11/55/73/09/63591911.jpg
 ||i21.servimg.com/u/f21/11/55/73/09/oie_ro10.gif
 ||i37.servimg.com/u/f37/11/55/73/09/oie_d110.gif
+||i37.servimg.com/u/f37/17/37/43/87/74802310.gif
 ||i64.tinypic.com/34pc7e8.gif
 ||i64.tinypic.com/t6yr69.gif
 ||i68.servimg.com/u/f68/11/55/73/09/oie_ld10.png
