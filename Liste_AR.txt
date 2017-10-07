@@ -236,7 +236,6 @@ _arabycash.
 ||finishclueobscure.info^$third-party
 ||ilovemobi.com^$third-party
 ||interadv.net^$third-party
-||jubna.com^$third-party
 ||kimia.es^$third-party
 ||nurno.com^$third-party
 ||ornaki.com^$third-party
