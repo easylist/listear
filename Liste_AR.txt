@@ -87,6 +87,7 @@
 /ir/ads/*
 /mobilead300.
 /mpu_dfp.
+/pub/pubahd.
 /pub1.php
 /pub2.php
 /pub3.php
@@ -138,6 +139,7 @@ _arabycash.
 ##.ad_banner728
 ##.adblock
 ##.add_banner
+##.add_banner2
 ##.ads-desktop
 ##.ads-desktop__wrap
 ##.ads-mobile
@@ -189,6 +191,8 @@ _arabycash.
 ##.reyadiAdvs
 ##.srapad
 ##.srapad_bg
+##.to-ad-text
+##.top_small_ad
 ##[ad-unit="160X600"]
 ##[ad-unit="300X250"]
 ##[ad-unit="300X600"]
