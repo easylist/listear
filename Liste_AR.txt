@@ -1916,6 +1916,9 @@ kora-live.tv##[-abp-properties='opacity:']
 !
 risalaradio.com#@#.ad-cell
 chess.com,independent.co.uk#@#.adblock
+eldjoumhouria.dz#@#.add_banner2
+eldjoumhouria.dz#@#.to-ad-text
+eldjoumhouria.dz#@#.top_small_ad
 !
 !---------------------------- Anti-Adblock ---------------------------!
 !
