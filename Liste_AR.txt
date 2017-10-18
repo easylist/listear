@@ -407,6 +407,7 @@ $websocket,domain=arawatch.tv|cera.online
 ||deals.souq.com^$subdocument
 ||deals.souq.com^*&pubref=$popup
 ||dedicated-server-hosting.space^
+||dirlaffaire.net/souq/files/$third-party
 ||diwanee.net/?ref=
 ||dohaup.com/up/2010-05-07/dohaup_206097194.gif
 ||dowerly.com^$image,third-party
