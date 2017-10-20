@@ -762,7 +762,10 @@ $popup,domain=an-online.com|cima4up.tv|kora-online.tv
 ||cache.gametracker.com/server_info/148.251.92.28:27015/b_560_95_1.png
 ||d16.net/up/uploads/1478118841381.gif
 ||i.imgur.com/3tAhgla.gif
+||i.imgur.com/bocvxij.jpg
 ||i.imgur.com/Juz1zWm.jpg
+||i.imgur.com/nfrPZFV.png
+||i.imgur.com/tR3XORs.jpg
 ||i21.servimg.com/u/f21/11/55/73/09/20023610.gif
 ||i21.servimg.com/u/f21/11/55/73/09/63591911.jpg
 ||i21.servimg.com/u/f21/11/55/73/09/oie_ro10.gif
