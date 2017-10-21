@@ -125,6 +125,7 @@ _arabycash.
 ###headads
 ###it-ad-header
 ###readmoreads
+###region-pub-top-wrapper
 ###zwaar_ad_id
 ###zwaar_float_ad_area
 ##.Ad160-left
@@ -188,11 +189,16 @@ _arabycash.
 ##.mom-e3lanat
 ##.mom-e3lanat-inner
 ##.mom-e3lanat-wrap
+##.pub-980x90
+##.pub-here
+##.pub-wrapper
+##.region-pub-widget
 ##.reyadiAdvs
 ##.srapad
 ##.srapad_bg
 ##.to-ad-text
 ##.top_small_ad
+##.widget_widget_pub
 ##[ad-unit="160X600"]
 ##[ad-unit="300X250"]
 ##[ad-unit="300X600"]
@@ -220,6 +226,7 @@ _arabycash.
 ##img[alt="إعلان"][width="150"]
 ##img[alt^="مساحة اعلانية"]
 ##img[src*="/adv/"][alt="إعلان"]
+##region-pub-top
 !
 !----------------------- Annonceurs -----------------------!
 !
@@ -1669,6 +1676,7 @@ now24.net##.pad5
 chat-alriyadh.com##.paner
 tech-wd.com##.partners
 hao123.com##.pr
+aljazair1.com##.pub
 hawaaweb.com##.right-banner
 rassoulallah.info##.right_column
 ylla.net##.rightside_banner
