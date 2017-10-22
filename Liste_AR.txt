@@ -32,6 +32,7 @@
 .net.ar/ads/
 .org.eg/ads/
 .ps/adds/
+/%d8%a5%d8%b9%d9%84%d8%a7%d9%86-
 /%D8%A7%D8%B9%D9%84%D8%A7%D9%86-
 /%D8%A7%D8%B9%D9%84%D8%A7%D9%86.
 //affilist-$third-party
@@ -1234,6 +1235,12 @@ $popup,domain=an-online.com|cima4up.tv|kora-online.tv
 ||maas1.net^$subdocument,domain=liilas.com
 ||madaresegypt.com/content/images/300_250
 ||madaresegypt.com/content/images/720_90
+||makkahnews.net/wp-content/uploads/*/%D8%A5%D8%B9%D9%84%D8%A7*%D9%86-
+||makkahnews.net/wp-content/uploads/2015/11/44444.jpg
+||makkahnews.net/wp-content/uploads/2016/06/saudiafkar.jpg
+||makkahnews.net/wp-content/uploads/2017/02/%D8%B4%D8%B1%D8%AD%D8%A8%D9%8A%D9%84.jpg
+||makkahnews.net/wp-content/uploads/2017/02/rQnGqAPE.jpg
+||makkahnews.net/wp-content/uploads/2017/04/685478-1.jpg
 ||manga-ar.com/upload/adv/
 ||marmar.co.il/VIRARTICLES/FlashBannersnew/
 ||marmar.co.il/VIRARTICLES/shadv/
@@ -1641,6 +1648,7 @@ filfan.com##.gads_MR
 almasryalyoum.com##.gam-holder
 moheet.com##.gplus
 graaam.com##.haw
+makkahnews.net##.header_banner
 bramj.co,qwled.com##.headerbanner
 msryh.com##.indexbnrleft
 filgoal.com##.inner_leaderboard
@@ -1657,6 +1665,7 @@ alarab.net##.left_sqr
 ylla.net##.leftside_banner
 games-flash.be##.main-banner
 bokra.net##.main_baner
+makkahnews.net##.main_banners
 alarab.net##.mbAdImg
 assayyarat.com##.md-overlay
 mediamasr.tv##.mediumbanner
