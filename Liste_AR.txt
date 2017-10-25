@@ -125,6 +125,7 @@ _arabycash.
 ###fixed-ads
 ###headads
 ###it-ad-header
+###mpuAfter
 ###readmoreads
 ###region-pub-top-wrapper
 ###zwaar_ad_id
@@ -177,6 +178,7 @@ _arabycash.
 ##.e3lan-widget-content
 ##.e3lan300-600
 ##.e3lan300_600-widget
+##.fixedMpu
 ##.hidden_pub
 ##.i3lan
 ##.label-ads
