@@ -1031,6 +1031,7 @@ $popup,domain=an-online.com|cima4up.tv|kora-online.tv
 ||brooonzyah.net/vb/js.php
 ||cairo7.com/vb/open19.js
 ||cdn.binpress.com/binpress-250-250.png
+||ce4arab.com/images/amazon1.gif
 ||ce4arab.com/images/myus-banner
 ||ce4arab.com/vb7/images/*/963081.jpg
 ||chadafm.net/images/banner_
@@ -1751,7 +1752,7 @@ masrawysat.com##a > img[width="728"][height="90"]
 2lboo.com##a[class^="banner"]
 m-4u.net##a[class^="hcne_ads"]
 ksa-ksa.com##a[href*="/?adsclick=banner&id="]
-arbcinema.com,edlibre.com##a[href*="://bit.ly/"]
+arbcinema.com,ce4arab.com,edlibre.com##a[href*="://bit.ly/"]
 202020.net,algareda.com,arabseed.com,cima4u.tv,sawasport.com##a[href*="://goo.gl/"]
 lakii.com##a[href*="ads-redirect.php?i="]
 egyfitness.com##a[href*="leadpages.co"]
@@ -1759,8 +1760,6 @@ arabictorrent.net##a[href="/dwl"]
 baitkebeer.com##a[href="http://adf.ly/O9EKG"]
 th3professional.com##a[href="http://ar.ouamer.com/"]
 kalemaro.com##a[href="http://bit.ly/14I2rw3"]
-ce4arab.com##a[href="http://bit.ly/YZXjhI"]
-ce4arab.com##a[href="http://bit.ly/YZYRIp"]
 shofonline.net##a[href="http://games.mega-team.net/"]
 str-ly.com##a[href="http://games.str-ly.com/"]
 ta7a.com##a[href="http://www.adamahospital.com/ar/"]
@@ -1930,7 +1929,7 @@ forums.7hob.com##td[style="border:2px #EA8610 dotted ; width:750px;height:280px;
 arfonts.net##td[style="height: 90px; padding: 0px 0px 0px 0px; text-align:center; border-bottom:1px dashed #336699;"]
 traidnt.net##td[width="160px"]
 ! Filtres de propriété CSS pour Adblock Plus
-!
+ce4arab.com#?#.vbmenu_popup + br + [id^="post"]:-abp-has(.thead:-abp-contains(اعلان))
 kora-live.tv##[-abp-properties='opacity:']
 !
 !----------------------- Exceptions -----------------------!
