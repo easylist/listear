@@ -776,6 +776,11 @@ $popup,domain=an-online.com|cima4up.tv|kora-online.tv
 ||i.imgur.com/Juz1zWm.jpg
 ||i.imgur.com/nfrPZFV.png
 ||i.imgur.com/tR3XORs.jpg
+||i0.wp.com/edlibre.com/wp-content/uploads/1200x400.png
+||i0.wp.com/edlibre.com/wp-content/uploads/320x480.jpg
+||i1.wp.com/edlibre.com/wp-content/uploads/300kh300_copy.png
+||i2.wp.com/edlibre.com/wp-content/uploads/SOLARBANKERS4v2.gif
+||i2.wp.com/edlibre.com/wp-content/uploads/TriForce-Tokens-Edlibre-300x300.jpg
 ||i21.servimg.com/u/f21/11/55/73/09/20023610.gif
 ||i21.servimg.com/u/f21/11/55/73/09/63591911.jpg
 ||i21.servimg.com/u/f21/11/55/73/09/oie_ro10.gif
@@ -1697,7 +1702,7 @@ syrcafe.co##.semoo
 alaan.tv##.show-specificimg1
 kol7agh.com##.show_left_left_google
 el3ab.com##.showcase
-aljazairalyoum.com##.sidebar a[target="_blank"] > img
+aljazairalyoum.com,edlibre.com##.sidebar a[target="_blank"] > img
 souqa3mal.com##.slid-topmaxtech-costom-ads
 alayam.com##.slides1
 alayam.com##.slides76
@@ -1746,7 +1751,7 @@ masrawysat.com##a > img[width="728"][height="90"]
 2lboo.com##a[class^="banner"]
 m-4u.net##a[class^="hcne_ads"]
 ksa-ksa.com##a[href*="/?adsclick=banner&id="]
-arbcinema.com##a[href*="://bit.ly/"]
+arbcinema.com,edlibre.com##a[href*="://bit.ly/"]
 202020.net,algareda.com,arabseed.com,cima4u.tv,sawasport.com##a[href*="://goo.gl/"]
 lakii.com##a[href*="ads-redirect.php?i="]
 egyfitness.com##a[href*="leadpages.co"]
