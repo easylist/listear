@@ -1705,6 +1705,7 @@ el3ab.com##.smallLeader
 alrealclub.com##.smallfont a[target="_blank"]
 ennaharonline.com##.souq
 tsa-arabi.com##.sponsored-by
+dev-point.com##.sponsors
 deltaclic.com,misbahinet.com##.squarebanner
 as2tv.com##.store
 bokra.net##.strip
