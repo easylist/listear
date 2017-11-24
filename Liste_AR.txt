@@ -292,9 +292,9 @@ _arabycash.
 !
 $webrtc,domain=akoam.com|egy.best|egybest.co|egybest.com|egybest.net|egybest.site
 !
-$websocket,domain=arawatch.tv|cera.online
+$websocket,domain=arawatch.tv|cera.online|cera.video
 !
-|blob:$domain=arawatch.tv|cera.online|el7l.tv
+|blob:$domain=arawatch.tv|cera.online|cera.video|el7l.tv
 !
 ||0sat.com/photo0sat/
 ||0zz0.com/2012/07/28/21/250712642.gif
@@ -751,8 +751,8 @@ $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.s
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=yalla-shoot.com
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=yalla-shoot.com
 ! cera.online
-|http://$script,third-party,xmlhttprequest,domain=arawatch.tv|cera.online
-|https://$script,third-party,xmlhttprequest,domain=arawatch.tv|cera.online
+|http://$script,third-party,xmlhttprequest,domain=arawatch.tv|cera.online|cera.video
+|https://$script,third-party,xmlhttprequest,domain=arawatch.tv|cera.online|cera.video
 ! freecccamnew.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=freecccamnew.com
 |http://$script,third-party,xmlhttprequest,domain=freecccamnew.com
