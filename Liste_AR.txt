@@ -128,6 +128,7 @@ _arabycash.
 ###mpuAfter
 ###readmoreads
 ###region-pub-top-wrapper
+###thebbead
 ###zwaar_ad_id
 ###zwaar_float_ad_area
 ##.Ad160-left
