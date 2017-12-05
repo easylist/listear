@@ -221,6 +221,7 @@ _arabycash.
 ##a[href^="http://arabyads.go2cloud.org/"]
 ##a[href^="http://clicks.pipaffiliates.com/"] > img
 ##a[href^="http://drivercardusa.info/"]
+##a[href^="http://www.bluehost.com/track/"] > img
 ##a[href^="http://www.fusebux.com/index.php?r="] > img
 ##a[href^="http://www.probux.com/?rh="] > img
 ##a[href^="http://www.sotmasr.com/announcements/"]
@@ -1933,8 +1934,8 @@ forums.7hob.com##td[style="border:2px #EA8610 dotted ; width:750px;height:280px;
 arfonts.net##td[style="height: 90px; padding: 0px 0px 0px 0px; text-align:center; border-bottom:1px dashed #336699;"]
 traidnt.net##td[width="160px"]
 ! Filtres de propriété CSS pour Adblock Plus
+amni8.com,kora-live.tv#?#:-abp-properties(opacity:)
 ce4arab.com#?#.vbmenu_popup + br + [id^="post"]:-abp-has(.thead:-abp-contains(اعلان))
-kora-live.tv##[-abp-properties='opacity:']
 !
 !----------------------- Exceptions -----------------------!
 !
