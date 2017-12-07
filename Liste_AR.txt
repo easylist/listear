@@ -63,6 +63,7 @@
 /bnr_728.
 /cdn-cgi/apps/head/*$script,domain=akoam.com
 /code/?pid=
+/delivery/*.php?zone=
 /e3lan.
 /e3lan/*
 /e3lan2.
@@ -77,6 +78,7 @@
 /files/adv/*
 /flash_adver_
 /floating_window_with_tabs.
+/fortvision-fb-web.
 /hosein/ads/*
 /i3lan-1.
 /i3lan-2.
@@ -252,6 +254,7 @@ _arabycash.
 ||eclkspbn.com^$third-party
 ||erate.co.il^$third-party
 ||finishclueobscure.info^$third-party
+||fortvision.com^$third-party
 ||ilovemobi.com^$third-party
 ||interadv.net^$third-party
 ||kimia.es^$third-party
@@ -1615,6 +1618,7 @@ mp3quran.net##.advertising
 al-jazirah.com##.advr
 gololy.com##.advrtising-colum
 roooo3.com,silkroad4arab.com##.advs
+bokra.net##.aside-banner
 1009.ae##.background-cover
 6ab5ty.com##.banar
 marocannonces.com##.baner
@@ -1622,6 +1626,7 @@ games-flash.be##.bann
 3-tp.com,ta7a.com##.bannbox
 7chaterz.com,akhbarona.com,alayam.com,alwafd.org,app-6taat.com,arabchaterz.com,darendeal.com,ounousa.com##.banner
 mediamasr.tv##.banner-area
+bokra.net##.banner-desktop
 aljazeerasport.tv##.banner-leaderboard
 alhayat.com##.banner2
 egyup.com,imanschool.com,mwadah.com##.bannerBox
@@ -1629,6 +1634,7 @@ m5zn.com##.banner_120_black
 elmihwar.com,felmedan.com##.banneritem
 alfajertv.com,arabsharing.com,ibda3gate.com,mediamasr.tv##.banners
 marocemploi.net##.bg_link
+bokra.net##.big-banner
 bokra.net##.bigStrip
 wmuae.net##.binsaad
 7s5.net##.black_overlay[style="display: block;"]
@@ -1661,6 +1667,7 @@ moheet.com##.gplus
 graaam.com##.haw
 makkahnews.net##.header_banner
 bramj.co,qwled.com##.headerbanner
+bokra.net##.hidden-xxs
 tabuk-news.net##.img_thumb_banner
 msryh.com##.indexbnrleft
 filgoal.com##.inner_leaderboard
