@@ -294,6 +294,7 @@ _arabycash.
 ||smintmouse.com^$popup,third-party
 ||theclickcheck.com^$popup,third-party
 ||trinylium.com^$popup,third-party
+||ublockerext.com^$popup,third-party
 ||wordgetboo.com^$popup,third-party
 ||zermeo.com^$popup,third-party
 !
@@ -702,7 +703,7 @@ $websocket,domain=arawatch.tv|cera.online|cera.video
 |https://$script,third-party,xmlhttprequest,domain=akoam.com
 ! egybest
 $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.site
-@@||cdn.egy.best/sc/$script,stylesheet,domain=egybest.site
+@@||cdn.egy.best/sc/$stylesheet,domain=egybest.site
 @@||cdnjs.cloudflare.com/ajax/libs/$script,stylesheet,domain=egy.best
 @@||openload.co/assets/*/video$script,stylesheet,domain=egy.best
 @@||openload.co/assets/js/jquery.$script,domain=egy.best
