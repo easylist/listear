@@ -1959,7 +1959,7 @@ ce4arab.com#?#.vbmenu_popup + br + [id^="post"]:-abp-has(.thead:-abp-contains(ا
 !----------------------- Exceptions d'éléments -----------------------!
 !
 risalaradio.com#@#.ad-cell
-chess.com,independent.co.uk#@#.adblock
+chess.com,depositfiles.com,independent.co.uk#@#.adblock
 eldjoumhouria.dz#@#.add_banner2
 eldjoumhouria.dz#@#.to-ad-text
 eldjoumhouria.dz#@#.top_small_ad
