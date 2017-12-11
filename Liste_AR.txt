@@ -771,9 +771,9 @@ $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.s
 |http://$script,third-party,xmlhttprequest,domain=1short.us
 |https://$script,third-party,xmlhttprequest,domain=1short.us
 ! amazonaws.com
-||amazonaws.com^$domain=aflam2you.com|alm5leb.com|an-online.com|animestarz.com|arabseed.com|as2tv.com|cima4u.tv|cimaflash.tv|elmoslsal.com|faselhd.com|filmey.tv|goodalot.tv|kooralive.tv|kora-online.tv|okanime.com|series4watch.tv
+||amazonaws.com^$domain=aflam2you.com|alm5leb.com|an-online.com|animestarz.com|arabseed.com|arabseed.tv|as2tv.com|cima4u.tv|cimaflash.tv|elmoslsal.com|faselhd.com|filmey.tv|goodalot.tv|kooralive.tv|kora-online.tv|okanime.com|series4watch.tv
 ! cloudfront.net
-||cloudfront.net^$domain=aflam2you.com|alm5leb.com|an-online.com|animestarz.com|arabseed.com|as2tv.com|cima4u.tv|cimaflash.tv|elmoslsal.com|faselhd.com|filmey.tv|goodalot.tv|kooralive.tv|kora-online.tv|okanime.com|series4watch.tv
+||cloudfront.net^$domain=aflam2you.com|alm5leb.com|an-online.com|animestarz.com|arabseed.com|arabseed.tv|as2tv.com|cima4u.tv|cimaflash.tv|elmoslsal.com|faselhd.com|filmey.tv|goodalot.tv|kooralive.tv|kora-online.tv|okanime.com|series4watch.tv
 ! popads
 /^https?:\/\/www\.[a-z]{8,12}\.com\/[a-z]{1,6}\.\js$/$script,domain=aflam2you.com|alm5leb.com|an-online.com|animestarz.com|arabseed.com|as2tv.com|cima4u.tv|cimaflash.tv|elmoslsal.com|faselhd.com|filmey.tv|goodalot.tv|kooralive.tv|okanime.com|series4watch.tv
 ! popup & popunder
@@ -808,6 +808,7 @@ $popup,domain=an-online.com|cima4up.tv|kora-online.tv
 ||m5zn.com/newuploads/2016/12/22/gif//m5zn_87e1898aae1ba32.gif
 ||m5zn.com/newuploads/2017/01/08/gif//m5zn_9b4b814c4addfc1.gif
 ||oi68.tinypic.com/358dx00.jpg
+||preview.ibb.co/mSRUsw/banner.jpg
 ||store1.up-00.com/2015-12/145097551855441.png
 ||store1.up-00.com/2016-07/1467631684461.jpg
 ||store1.up-00.com/2016-07/1467631684782.gif
@@ -987,12 +988,12 @@ $popup,domain=an-online.com|cima4up.tv|kora-online.tv
 ||arabs-up.com/uploads/arabs-up_13555968491.gif
 ||arabs-up.com/uploads/arabs-up_13580021531.gif
 ||arabsbook.com^*/banners/
-||arabseed.com/*.html
-||arabseed.com/foo.php
-||arabseed.com/open/
-||arabseed.com/pop/
-||arabseed.com/tvgate/
-||arabseed.com^*/open*.js
+||arabseed.tv/foo.php
+||arabseed.tv/open/
+||arabseed.tv/pop/
+||arabseed.tv/tvgate/
+||arabseed.tv^*.html
+||arabseed.tv^*/open*.js
 ||arabseyes.com/php1.js
 ||arabsgate.com/banners2/
 ||arabsh.com/motakalem/
@@ -1162,7 +1163,7 @@ $popup,domain=an-online.com|cima4up.tv|kora-online.tv
 ||foola.net/images/foola_22.png
 ||foola.net/up/styles/alhjer/images/alhjerdesign_traidnt_07.jpg
 ||forex1040.blogspot.com^$popup,domain=aflmsexarab.com
-||forum.arabseed.com/downloads.gif
+||forum.arabseed.tv/downloads.gif
 ||fragny.com/open.js
 ||fx-dz.com^*/_12304210421772.gif
 ||fx-dz.com^*/banner01300250.jpg
@@ -1172,7 +1173,7 @@ $popup,domain=an-online.com|cima4up.tv|kora-online.tv
 ||geek4arab.com^*/banner/
 ||gem-flash.com^*/banners1.php?
 ||giniko.com/images/banner/
-||goo.gl^$popup,domain=abotlal.com|arabasma.com|arabseed.com|cima4u.tv|dev-point.com|mazika2day.com
+||goo.gl^$popup,domain=abotlal.com|arabasma.com|arabseed.com|arabseed.tv|cima4u.tv|dev-point.com|mazika2day.com
 ||google.com/url?^$popup,domain=ya3ale.com
 ||googleusercontent.com^*/mastercard.gif$domain=myalge.net
 ||googlna.com^*/bnar.swf
@@ -1571,7 +1572,7 @@ ninjaup.com###spons
 europages.ma###sponsor
 7be.com###table2805
 liilas.com###tickermain
-ar-tr.com,arabseed.com###top-banner
+ar-tr.com,arabseed.tv###top-banner
 hawamer.com###topBanner
 elheddaf.com###top_pub + a[style]
 maas1.com###topads
@@ -1765,7 +1766,7 @@ masrawysat.com##a > img[width="728"][height="90"]
 m-4u.net##a[class^="hcne_ads"]
 ksa-ksa.com##a[href*="/?adsclick=banner&id="]
 arbcinema.com,ce4arab.com,edlibre.com##a[href*="://bit.ly/"]
-202020.net,algareda.com,arabseed.com,cima4u.tv,sawasport.com##a[href*="://goo.gl/"]
+202020.net,algareda.com,arabseed.com,arabseed.tv,cima4u.tv,sawasport.com##a[href*="://goo.gl/"]
 lakii.com##a[href*="ads-redirect.php?i="]
 egyfitness.com##a[href*="leadpages.co"]
 arabictorrent.net##a[href="/dwl"]
@@ -1919,7 +1920,7 @@ badrsat.com##img[width="620"][height="300"]
 silkroad4arab.com##img[width="625"]
 jo-sharing.com##img[width="700"][height="120"]
 silkroad4arab.com##img[width="720"]
-alamelarab.com,arabseed.com,foxpic.com,myegy.tv,novriko.com,zi-m.com##img[width="728"][height="90"]
+alamelarab.com,arabseed.com,arabseed.tv,foxpic.com,myegy.tv,novriko.com,zi-m.com##img[width="728"][height="90"]
 chtoukapress.com##img[width="728px"][height="100px"]
 ech-chaab.net##img[width="820"][height="159"]
 jo-sharing.com##img[width="940"][height="80"]
