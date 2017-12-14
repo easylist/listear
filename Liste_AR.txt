@@ -78,7 +78,6 @@
 /files/adv/*
 /flash_adver_
 /floating_window_with_tabs.
-/fortvision-fb-web.
 /hosein/ads/*
 /i3lan-1.
 /i3lan-2.
