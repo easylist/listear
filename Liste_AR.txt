@@ -54,6 +54,7 @@
 /advStatSettings.js
 /affiliate-tools.
 /affiliate_base/*
+/appendixadbans/*
 /ar/ads/*
 /ara/ads/*
 /arabycash-
@@ -304,9 +305,9 @@ _New_Ads.
 !
 !----------------------- Publicités tierces ----------------------!
 !
-$webrtc,domain=akoam.com|egy.best|egybest.co|egybest.com|egybest.net|egybest.site
+$webrtc,domain=akoam.com|egy.best|egybest.co|egybest.com|egybest.net|egybest.site|mazika2day.com
 !
-$websocket,domain=arawatch.tv|cera.online|cera.video
+$websocket,domain=arawatch.tv|cera.online|cera.video|mazika2day.com
 !
 |blob:$domain=arawatch.tv|cera.online|cera.video|el7l.tv
 !
@@ -1293,6 +1294,7 @@ $popup,domain=an-online.com|cima4up.tv|kora-online.tv
 ||mazika2day.com/images/bg
 ||mazika2day.com/popup.
 ||mazika2day.com/unnamed1.png
+||mazika2day.com^$media
 ||mbc.net/dms/analytics-and-banners/
 ||melody.ma/images/300/
 ||melody.ma/images/500/
@@ -1680,6 +1682,7 @@ graaam.com##.haw
 makkahnews.net##.header_banner
 bramj.co,qwled.com##.headerbanner
 bokra.net##.hidden-xxs
+mazika2day.com##.home_top
 tabuk-news.net##.img_thumb_banner
 msryh.com##.indexbnrleft
 filgoal.com##.inner_leaderboard
