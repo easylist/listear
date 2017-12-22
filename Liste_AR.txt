@@ -48,6 +48,8 @@
 /ads/box3.
 /adss.gif
 /adsvideos.
+/adunit_
+/adv?auid=
 /advStatLib.js
 /advStatSettings.js
 /affiliate-tools.
@@ -104,6 +106,7 @@
 ://partners.*/widget/$third-party
 =openx&aid=
 _990x100.
+_adunit_
 _arabycash.
 _New_Ads.
 !
@@ -263,6 +266,7 @@ _New_Ads.
 ||piguiqproxy.com^$third-party
 ||prstatics.com^$third-party
 ||revdepo.com^$third-party
+||richnative.com^$third-party
 ||softwarepiset.com^$third-party
 ||teeet.net^$third-party
 ||trinylium.com^$third-party
