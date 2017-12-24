@@ -561,6 +561,7 @@ $websocket,domain=arawatch.tv|cera.online|cera.video|mazika2day.com
 ||mn66.com/mn66SMS.GIF
 ||mn66.com/sms2.jpg
 ||mnq8.com/bnrs/
+||mobizone.mobi/mobilebox/Linkonline.aspx$third-party
 ||mothhelah.com/bnr.jpg
 ||mothhelah.com/img/psF78481.gif
 ||movizland.com/uploads/13978557311.gif
