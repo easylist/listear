@@ -46,6 +46,7 @@
 /adfuel-
 /adfuel/*
 /ads/box3.
+/adsph2/*
 /adss.gif
 /adsvideos.
 /adunit_
@@ -112,6 +113,7 @@ _arabycash.
 _New_Ads.
 !
 .cash/?clickid=$popup
+/adsph2/*$popup
 /afstrack.*?affid=$popup
 /clicks.*/afs/$popup
 /get/iad/*$popup
