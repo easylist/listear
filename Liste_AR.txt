@@ -142,8 +142,12 @@ _New_Ads.
 ##.Ad160-left
 ##.Ad160-right
 ##.Ads-PostTop
+##.ad-id_
 ##.ad-lft
+##.ad-location_
 ##.ad-rt
+##.ad-type_adsense
+##.ad-type_code
 ##.ad160left
 ##.ad160right
 ##.ad250250
@@ -211,6 +215,7 @@ _New_Ads.
 ##.srapad_bg
 ##.to-ad-text
 ##.top_small_ad
+##.widget_a4h_ads
 ##.widget_widget_pub
 ##[ad-unit="160X600"]
 ##[ad-unit="300X250"]
@@ -219,6 +224,11 @@ _New_Ads.
 ##[ad-unit="728X300"]
 ##[ad-unit="728X90"]
 ##[class$="125ads"]
+##[class^="a4h_ads-"]
+##[class^="ad-id_ad"]
+##[class^="ad-location_comments"]
+##[class^="ad-location_content"]
+##[class^="ad-location_post"]
 ##[href*="ad2games.com/"]
 ##[id^="ads300_600-widget-"]
 ##a[href*=".hao123.com/?tn="] > img
@@ -1616,7 +1626,7 @@ elwatannews.com##.PM-ROS-MPU
 swalif.net##.ShowThreadAdplace
 physique48.org##.TOOLbarB
 alhayat.com##.TopHeaderBanner
-3rbb.net,alarab.net,banotacool.co,bokra.net,elfagr.org,gamesgb.com,gornalak.com,shahid4u.com,showsport-tv.com##.ad
+3rbb.net,akhbarelyawm.com,alarab.net,banotacool.co,bokra.net,elfagr.org,gamesgb.com,gornalak.com,shahid4u.com,showsport-tv.com##.ad
 elkhabar.com.tn##.ad-image
 souq.com##.ad1
 souq.com##.ad2
