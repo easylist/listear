@@ -67,6 +67,7 @@
 /bnr_728.
 /cdn-cgi/apps/head/*$script,domain=akoam.com
 /code/?pid=
+/de/elan/*
 /delivery/*.php?zone=
 /e3lan.
 /e3lan/*
@@ -79,6 +80,7 @@
 /elan/468.
 /elan/728.
 /EmbedPartner.
+/en/elan/*
 /files/adv/*
 /flash_adver_
 /floating_window_with_tabs.
