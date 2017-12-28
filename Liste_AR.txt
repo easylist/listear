@@ -510,6 +510,7 @@ $websocket,domain=arawatch.tv|cera.online|cera.video|mazika2day.com|wifi4games.c
 ||hao123.com/partnertopbar/
 ||hao123.com^$subdocument,third-party
 ||hao123.com^*/ar-banner.
+||hayatoki.com/wp-content/uploads/upislam.gif
 ||homekw.com/temp/jahrawi_150_167.gif
 ||host-image.net/images/56070naja7host.png
 ||host-image.net/images/91089games-banner.gif
