@@ -793,13 +793,14 @@ $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.s
 ! cloudfront.net
 ||cloudfront.net^$domain=aflam2you.com|alm5leb.com|an-online.com|animestarz.com|arabseed.com|arabseed.tv|as2tv.com|cima4u.tv|cimaflash.tv|elmoslsal.com|faselhd.com|filmey.tv|goodalot.tv|kooralive.tv|kora-online.tv|okanime.com|series4watch.tv|wifi4games.com
 ! popads
-/^https?:\/\/www\.[a-z]{8,12}\.com\/[a-z]{1,6}\.\js$/$script,domain=aflam2you.com|alm5leb.com|an-online.com|animestarz.com|arabseed.com|as2tv.com|cima4u.tv|cimaflash.tv|elmoslsal.com|faselhd.com|filmey.tv|goodalot.tv|kooralive.tv|okanime.com|series4watch.tv
+/^https?:\/\/www\.[a-z]{8,14}\.(co|com|me)\/[a-z]{1,12}\.js$/$script,domain=aflam2you.com|alm5leb.com|an-online.com|animestarz.com|arabseed.com|as2tv.com|cima4u.tv|cimaflash.tv|elmoslsal.com|faselhd.com|filmey.tv|goodalot.tv|honadrama.me|kooralive.tv|okanime.com|series4watch.tv
 ! popup & popunder
 $popup,domain=an-online.com|cima4up.tv|kora-online.tv
 ! images hosting
 ||c.top4top.net/p_7010u9u81.gif
 ||cache.gametracker.com/server_info/148.251.92.28:27015/b_560_95_1.png
 ||d16.net/up/uploads/1478118841381.gif
+||dm0z.com/images/dm0zadvs.png
 ||i.imgur.com/3tAhgla.gif
 ||i.imgur.com/bocvxij.jpg
 ||i.imgur.com/Juz1zWm.jpg
