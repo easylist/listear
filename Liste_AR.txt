@@ -375,11 +375,6 @@ $websocket,domain=arawatch.tv|cera.online|cera.video|mazika2day.com|wifi4games.c
 ||allomani.com/js_banners
 ||alquds.co.uk/zaaptv.gif
 ||alsharing.com/images/header.gif
-||amalh.net/images/addsapcem.gif
-||amalh.net/images/amalh.gif
-||amalh.net/images/amalh2.gif
-||amalh.net/images/amalh2.jpg
-||amalh.net/images/monjz.gif
 ||amazonaws.com/*/KSA-Footer/images_leader_souq/
 ||amazonaws.com/cicloudfront/js/convertmediaviewer-min.js?
 ||amazonaws.com/email/fatakat/
@@ -979,8 +974,7 @@ $popup,domain=an-online.com|cima4up.tv|kora-online.tv
 ||alwafd.org/images/images/
 ||alwatannews.net/Images/*-660x90-
 ||alweeam.com.sa/wp-content/themes/alweam/images/proji-banner.jpg
-||amalh.net/images/alberekat2.gif
-||amalh.net/images/shalwi3.gif
+||amalh.net/images/*.gif
 ||amazonaws.com/fl/KSA-Footer/JSFiles/leader.js
 ||amronline202.blogspot.com^$domain=tfilm.ba7r.biz
 ||anakbnet.com/video/a/banar/
