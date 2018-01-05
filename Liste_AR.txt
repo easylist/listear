@@ -43,6 +43,7 @@
 /ad125.
 /ad250.
 /ad600.
+/adds.gif
 /adfuel-
 /adfuel/*
 /ads/box3.
@@ -574,6 +575,7 @@ $websocket,domain=arawatch.tv|cera.online|cera.video|mazika2day.com|wifi4games.c
 ||mothhelah.com/bnr.jpg
 ||mothhelah.com/img/psF78481.gif
 ||movizland.com/uploads/13978557311.gif
+||mshaweer.net/images/*.gif
 ||mshaweer.net/vb//images/baner.swf
 ||mshaweer.net/vb/images/mshaweer2.gif
 ||mshkla.com/sd.html
@@ -858,7 +860,6 @@ $popup,domain=an-online.com|cima4up.tv|kora-online.tv
 ||202020.net/ratteb/asd/
 ||222z.net/banners/
 ||24caratksa.com^$popup,domain=syrcafe.com
-||33sh8.com/up/styles/default2//images/adds.gif
 ||3aram.com/exshow2.js
 ||3asfh.net/vb/js.php
 ||3asq.com/img/uploads/13560751771.swf?
@@ -1449,6 +1450,7 @@ $popup,domain=an-online.com|cima4up.tv|kora-online.tv
 ||support-ar.com^*/support-adv/
 ||swalif.com/banner/
 ||sweetarabs.com/asset/img/320.gif
+||syaanh.net/images/*.gif
 ||syrcafe.co/vb/aerowindow/
 ||syrcafe.co/wal*.js
 ||syrcafe.com/ra03a.js
