@@ -534,7 +534,6 @@ $websocket,domain=arawatch.tv|cera.online|cera.video|mazika2day.com|wifi4games.c
 ||imageshack.us/img856/4224/64119518.jpg
 ||img.soft98.ir/0_$image
 ||imgur.com/9VzIEw9.gif
-||islamiy.com^$subdocument,domain=wadilarab.com
 ||jazora.com/banner/
 ||jo-sharing.com^*/bnnr.
 ||jscsportlive.com/bzaf.php
@@ -679,7 +678,6 @@ $websocket,domain=arawatch.tv|cera.online|cera.video|mazika2day.com|wifi4games.c
 ||waffarnalk.com/widget/
 ||wald-aden.com/mghrdon.gif
 ||wasetamazon.com/upload/$image,third-party
-||wdbook.net^$subdocument,domain=wadilarab.com
 ||web4africa.net/banners/
 ||widgipedia.com/widgets/$third-party
 ||xatech.com^
