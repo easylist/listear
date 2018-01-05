@@ -343,7 +343,6 @@ $websocket,domain=arawatch.tv|cera.online|cera.video|mazika2day.com|wifi4games.c
 ||44aa.com/image/nesba.swf
 ||46.151.209.69^
 ||4arabsex.net/Banner1.jpg
-||4halal.co/*.htm$subdocument,domain=4halal.co|4helal.co
 ||5bre.com/images/5bre.gif
 ||5jle.com^$popup,domain=maas1.com
 ||5short.com/short/autokey.php
@@ -879,7 +878,6 @@ $popup,domain=an-online.com|cima4up.tv|kora-online.tv
 ||3rabgames.com/signup/?utm_source=$popup
 ||3roos.com/files/ups/
 ||3roos.com/images/i3lan.gif
-||4helal.co/images/bnr/
 ||5jle.com^$subdocument,domain=liilas.com
 ||5qqksa.com/color66.gif
 ||6ba5.com/Violet_hexll/images/hexll_19.png
