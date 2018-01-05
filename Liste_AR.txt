@@ -672,7 +672,6 @@ $websocket,domain=arawatch.tv|cera.online|cera.video|mazika2day.com|wifi4games.c
 ||up700.net/affiliates/
 ||upload.al-wed.com/uploader/upload2009//765/01315078415.gif
 ||upload.traidnt.net/upfiles/2A883338.gif
-||upxmedia.com/$subdocument,domain=shofonline.net
 ||vip600.com/aaa/
 ||waffarnalk.com/widget/
 ||wald-aden.com/mghrdon.gif
@@ -1049,7 +1048,6 @@ $popup,domain=an-online.com|cima4up.tv|kora-online.tv
 ||blogspot.com/-ZGaEt5qQ2Sw/*/*D8%A7%D8%B4%2B160%2B600.png
 ||blogspot.com^$popup,domain=cima4u.tv|el7l.co|el7l.com|mountada.net|uiraqi.com|yallamoviez.com
 ||blogspot.com^*/banusr.jpg$domain=juste4femme.blogspot.com
-||blogspot.com^*/download_little.jpg$domain=shofonline.net
 ||bnanit.com^$popup,domain=nghmat.com
 ||bou-saada.info^*/banar/
 ||bramj.co/womens.js
@@ -1801,7 +1799,6 @@ arabictorrent.net##a[href="/dwl"]
 baitkebeer.com##a[href="http://adf.ly/O9EKG"]
 th3professional.com##a[href="http://ar.ouamer.com/"]
 kalemaro.com##a[href="http://bit.ly/14I2rw3"]
-shofonline.net##a[href="http://games.mega-team.net/"]
 str-ly.com##a[href="http://games.str-ly.com/"]
 ta7a.com##a[href="http://www.adamahospital.com/ar/"]
 baitkebeer.com##a[href="http://www.arabawe.com/"]
