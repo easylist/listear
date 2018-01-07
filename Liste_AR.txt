@@ -107,6 +107,7 @@
 /show_i.php?b=$subdocument,third-party
 /slider.*&pub=
 /vb/open.js
+800x100.gif?
 ://go.*/afu.
 ://partners.*/widget/$third-party
 =openx&aid=
@@ -1993,6 +1994,7 @@ eldjoumhouria.dz#@#.top_small_ad
 @@.png#$image,domain=elmoslsal.com|farescd.com|sigma4pc.com|up.media1fire.com
 @@/advertisement.js$script,domain=animestarz.com|embratoria.com|imbratoria.info|zee3rb.com
 @@|https://openload.co/assets/js/script.222.js|$script
+@@||arabcut.com/js/ads.js$script,~third-party
 @@||cdn.vidyomani.com^*/showads.js$script,domain=vidyomani.com
 @@||jeddahbikers.com/templates/js/adframe.js|$script,~third-party
 !
