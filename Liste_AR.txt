@@ -44,6 +44,7 @@
 /ad250.
 /ad600.
 /adds.gif
+/adedinfo/*
 /adfuel-
 /adfuel/*
 /ads/box3.
@@ -272,6 +273,7 @@ _New_Ads.
 ||cashinme.com^$third-party
 ||deliverymodo.com^$third-party
 ||eclkspbn.com^$third-party
+||edinfo.ma^$third-party
 ||erate.co.il^$third-party
 ||finishclueobscure.info^$third-party
 ||fortvision.com^$third-party
@@ -776,6 +778,9 @@ $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.s
 ! cera.online
 |http://$script,third-party,xmlhttprequest,domain=arawatch.tv|cera.online|cera.video
 |https://$script,third-party,xmlhttprequest,domain=arawatch.tv|cera.online|cera.video
+! 9alami.info
+|http://$script,third-party,xmlhttprequest,domain=9alami.info
+|https://$script,third-party,xmlhttprequest,domain=9alami.info
 ! freecccamnew.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=freecccamnew.com
 |http://$script,third-party,xmlhttprequest,domain=freecccamnew.com
