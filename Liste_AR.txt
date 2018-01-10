@@ -272,6 +272,7 @@ _New_Ads.
 ||branchroughlend.info^$third-party
 ||cashinme.com^$third-party
 ||deliverymodo.com^$third-party
+||ec-ho.net^$third-party
 ||eclkspbn.com^$third-party
 ||edinfo.ma^$third-party
 ||erate.co.il^$third-party
