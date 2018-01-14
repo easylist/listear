@@ -1094,6 +1094,7 @@ $popup,domain=an-online.com|cima4up.tv|kora-online.tv
 ||djelfa.info/ar/files/articles/rus/
 ||djelfa.info/ar/files/banners/
 ||djelfa.info/dj_img/*.gif
+||djelfa.info/dj_img/dmoz.png
 ||dl3-r.com/dla3/images/area-in--header.png
 ||dl3-r.com/dla3/images/large-area.gif
 ||dohaup.com/up/2010-01-29/dohaup_827224532.gif
@@ -1941,7 +1942,7 @@ fonction-publique-dz.mountada.net##img[width="364"][height="60"]
 libyan-sat.com##img[width="400"][height="60"][style="margin: 0px 0px 0px 0px;"]
 mdredclub.com##img[width="460"][height="60"]
 jo-sharing.com,silkroad4arab.com##img[width="468"]
-3mri-qtr.com,absba.org,foxpic.com,fraise-d.com,g-3e6r.com,hwaml.com,ksa-ads.info##img[width="468"][height="60"]
+3mri-qtr.com,absba.org,djelfa.info,foxpic.com,fraise-d.com,g-3e6r.com,hwaml.com,ksa-ads.info##img[width="468"][height="60"]
 k1g3.com##img[width="486"][height="60"]
 rmadarab.com##img[width="500"][height="60"]
 rmadarab.com##img[width="600"][height="90"]
