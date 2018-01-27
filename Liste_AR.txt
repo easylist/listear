@@ -47,6 +47,7 @@
 /adedinfo/*
 /adfuel-
 /adfuel/*
+/ads/*/banners_
 /ads/box3.
 /adsph2/*
 /adss.gif
@@ -1680,6 +1681,7 @@ ylla.net##.catbunmini
 bokra.net##.catsBanner
 hawamer.com##.centerBanner
 alweeam.com.sa##.content-banner
+tadawlacademy.com##.cpro-onload
 masrawy.com,yallakora.com##.dealsoffer
 myegy.tv,novriko.com##.disclaimer
 3a2ilati.com##.eshop-list
