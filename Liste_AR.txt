@@ -98,6 +98,7 @@
 /ir/ads/*
 /mobilead300.
 /mpu_dfp.
+/projectagora.min.js
 /pub/pubahd.
 /pub1.php
 /pub2.php
@@ -285,6 +286,8 @@ _New_Ads.
 ||nurno.com^$third-party
 ||ornaki.com^$third-party
 ||piguiqproxy.com^$third-party
+||premaads.net^$third-party
+||projectagora.net^$third-party
 ||prstatics.com^$third-party
 ||revdepo.com^$third-party
 ||richnative.com^$third-party
@@ -610,6 +613,7 @@ $websocket,domain=arawatch.tv|cera.online|cera.video|mazika2day.com|wifi4games.c
 ||optionyard.com/l.aspx?
 ||pop.naminews.ir^
 ||profvb.com/pub/
+||projectagora.s3.amazonaws.com^
 ||ps-0.com^$popup,domain=s-ajfan.com
 ||rackcdn.com/1114112_1114112.swf
 ||rawgit.com^$domain=animop.net
