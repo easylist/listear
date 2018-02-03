@@ -801,7 +801,7 @@ $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.s
 ! cloudfront.net
 ||cloudfront.net^$domain=aflam2you.com|alm5leb.com|an-online.com|animestarz.com|arabseed.com|arabseed.tv|as2tv.com|cima4u.tv|cimaflash.tv|elmoslsal.com|faselhd.com|filmey.tv|goodalot.tv|kooralive.tv|kora-online.tv|okanime.com|series4watch.tv|wifi4games.com
 ! popads
-/^https?:\/\/www\.[a-z]{8,14}\.(co|com|me)\/[a-z]{1,12}\.js$/$script,domain=aflam2you.com|alm5leb.com|an-online.com|animestarz.com|arabseed.com|as2tv.com|cima4u.tv|cimaflash.tv|elmoslsal.com|faselhd.com|filmey.tv|goodalot.tv|honadrama.me|kooralive.tv|okanime.com|series4watch.tv
+/^https?:\/\/www\.[a-z]{8,14}\.(bid|club|co|com|me)\/[a-z]{1,12}\.js$/$script,domain=aflam2you.com|alm5leb.com|an-online.com|animestarz.com|arabseed.com|as2tv.com|cima4u.tv|cimaflash.tv|elmoslsal.com|faselhd.com|filmey.tv|goodalot.tv|honadrama.me|kooralive.tv|okanime.com|series4watch.tv
 ! popup & popunder
 $popup,domain=an-online.com|cima4up.tv|kora-online.tv
 about:$popup,domain=akoam.com
