@@ -250,7 +250,7 @@ _New_Ads.
 ##a[href^="http://www.fusebux.com/index.php?r="] > img
 ##a[href^="http://www.probux.com/?rh="] > img
 ##a[href^="http://www.sotmasr.com/announcements/"]
-##a[href^="http://www.superadexchange.com/script/preurl.php?r="]
+##a[href^="http://www.superadexchange.com/"]
 ##a[href^="http://xat.com/"]
 ##a[href^="https://khamsat.com/?r="] > img
 ##img[alt="إعلان"][height="60"]
@@ -1347,6 +1347,7 @@ about:$popup,domain=akoam.com
 ||mwadah.com/images/mwadahhost.swf
 ||mwlaty.com/$subdocument,domain=f3al.com
 ||myegy.to/ad/$popup
+||myegy.tv/files/js/worker.js
 ||mysite.ma/KHALID.js
 ||nadorcity.com/docs/imaipub.gif
 ||nadorcity.com/docs/kitra3.jpg
@@ -2031,7 +2032,6 @@ soft4sat.net#@#.e3lan
 @@||kooralive.tv^$generichide
 @@||kora-star.com^$generichide
 @@||mohamedovic.com^$generichide
-@@||myegy.tv^$generichide
 @@||novriko.com^$generichide
 @@||sigma4pc.com^$generichide
 @@||sumeronline.com^$generichide
