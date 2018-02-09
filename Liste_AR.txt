@@ -2022,7 +2022,7 @@ eldjoumhouria.dz#@#.top_small_ad
 !
 elahmad.com#@##adblock
 g9g.com#@##myAd
-adblock.mozdev.org,direct-radio.fr#@#.adblock
+adblock.mozdev.org,direct-radio.fr,openload.co#@#.adblock
 4algeria.com,aflamy.com,dramacafe.tv,el-oued.info,linuxarabic.com,online.dramacafe.in,xaddad.com#@#.afs_ads
 soft4sat.net#@#.e3lan
 !
