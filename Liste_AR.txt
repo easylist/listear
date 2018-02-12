@@ -2012,7 +2012,6 @@ eldjoumhouria.dz#@#.top_small_ad
 !
 @@.png#$image,domain=elmoslsal.com|farescd.com|sigma4pc.com|up.media1fire.com
 @@/advertisement.js$script,domain=animestarz.com|embratoria.com|imbratoria.info|zee3rb.com
-@@|https://openload.co/assets/js/script.222.js|$script
 @@||arabcut.com/js/ads.js$script,~third-party
 @@||cdn.vidyomani.com^*/showads.js$script,domain=vidyomani.com
 @@||jeddahbikers.com/templates/js/adframe.js|$script,~third-party
@@ -2022,7 +2021,7 @@ eldjoumhouria.dz#@#.top_small_ad
 !
 elahmad.com#@##adblock
 g9g.com#@##myAd
-adblock.mozdev.org,direct-radio.fr,openload.co#@#.adblock
+adblock.mozdev.org,direct-radio.fr#@#.adblock
 4algeria.com,aflamy.com,dramacafe.tv,el-oued.info,linuxarabic.com,online.dramacafe.in,xaddad.com#@#.afs_ads
 soft4sat.net#@#.e3lan
 !
