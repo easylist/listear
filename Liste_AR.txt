@@ -282,6 +282,7 @@ _New_Ads.
 ||erate.co.il^$third-party
 ||finishclueobscure.info^$third-party
 ||fortvision.com^$third-party
+||idsly.com^$third-party
 ||ilovemobi.com^$third-party
 ||interadv.net^$third-party
 ||kimia.es^$third-party
