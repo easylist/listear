@@ -403,7 +403,7 @@ $websocket,domain=arawatch.tv|cera.online|cera.video|mazika2day.com|wifi4games.c
 ||amazonaws.com/irgames/bnrs/
 ||animobe.com/open*.js
 ||apc-aghbal.dz/aljazair/
-||api.yamli.com/checkin.ashx?
+||api.yamli.com/checkin.ashx?$$third-party
 ||ar-traveler.com^*-ads.
 ||arabcpe.com^$popup,domain=7-jo.com
 ||arabdvd.net/banner/
