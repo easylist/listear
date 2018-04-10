@@ -246,6 +246,7 @@ _New_Ads.
 ##a[href*="booraq.org"]
 ##a[href*="dubizzle.com/ar/?utm_source="]
 ##a[href^="http://arabyads.go2cloud.org/"]
+##a[href^="http://c.jumia.io/?"] > img
 ##a[href^="http://clicks.pipaffiliates.com/"] > img
 ##a[href^="http://drivercardusa.info/"]
 ##a[href^="http://www.bluehost.com/track/"] > img
