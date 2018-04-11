@@ -788,6 +788,12 @@ $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.s
 @@||ajax.googleapis.com/ajax/libs/$script,domain=arablionz.tv
 |http://$script,third-party,xmlhttprequest,domain=arablionz.tv
 |https://$script,third-party,xmlhttprequest,domain=arablionz.tv
+! almotamayeztech.com
+@@||ajax.googleapis.com/ajax/libs/$script,domain=almotamayeztech.com
+@@||cdn.jsdelivr.net^$script,domain=almotamayeztech.com
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=almotamayeztech.com
+|http://$script,third-party,xmlhttprequest,domain=almotamayeztech.com
+|https://$script,third-party,xmlhttprequest,domain=almotamayeztech.com
 ! myegy.tv
 |http://$script,third-party,xmlhttprequest,domain=myegy.tv|novriko.com
 |https://$script,third-party,xmlhttprequest,domain=myegy.tv|novriko.com
