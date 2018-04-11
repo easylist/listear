@@ -716,6 +716,7 @@ $websocket,domain=arawatch.tv|cera.online|cera.video|mazika2day.com|wifi4games.c
 ||xuscacamusca.se/js/adsj.js
 ||yamli.com/static/gam_iframe.htm?
 ||yellowpages.com.ps/search_bricks/ps_search_bricks_300X130.php
+||yimg.com^*/www.blueridgehobbies.com/images/Misc/ClickHereAnimated.gif
 ||ymoviez.com/yallamoviez.js
 ||yourjavascript.com^$domain=aflam2you.com|animop.net
 ||yourjavascript.com^*/add-url.js
