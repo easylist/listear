@@ -850,6 +850,7 @@ $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.s
 $popup,domain=33sk.tv|3sk.tv|an-online.com|cima4up.tv|kora-online.tv|mes001.blogspot.com
 about:$popup,domain=akoam.com
 ! images hosting
+||1.bp.blogspot.com/-nYiKKCsYZYA/UYC0Sz6rNJI/AAAAAAAABa8/NbpXEX2To9E/s190/1366357856041.gif
 ||c.top4top.net/p_7010u9u81.gif
 ||cache.gametracker.com/server_info/148.251.92.28:27015/b_560_95_1.png
 ||d16.net/up/uploads/1478118841381.gif
@@ -902,7 +903,9 @@ about:$popup,domain=akoam.com
 ||up.star7arab.com/file/2016/10/400800109.gif
 ||up.star7arab.com/file/2017/04/54432151.gif
 ||www10.0zz0.com/2015/04/15/04/632112270.gif
+||www13.0zz0.com/2011/09/30/00/153160107.gif
 ||www2.0zz0.com/2013/06/17/12/275620708.gif
+||www5.0zz0.com/2013/11/16/09/527996020.png
 ||www5.0zz0.com/2014/05/13/20/127338436.gif
 ||www8.0zz0.com/2015/04/15/04/869130160.gif
 ||www9.0zz0.com/2015/04/15/04/195483282.gif
@@ -1222,6 +1225,7 @@ about:$popup,domain=akoam.com
 ||eqla3.com/if/code*.htm
 ||f3al.com/open27.js
 ||f3al.com/vb/aerowindow/
+||facebook.com/nansy.sbry1$popup,domain=dtyds.blogspot.com
 ||fannannsat.com/vb/images/00.gif
 ||fannannsat.com/vb/images/000.gif
 ||fannannsat.com/vb/images/0000.gif
@@ -1514,6 +1518,7 @@ about:$popup,domain=akoam.com
 ||stat.arabstoday.net/images/alpharooms.jpg
 ||stat.arabstoday.net/images/pizza.jpg
 ||stat.arabstoday.net/images/weather-ad.png
+||static.hugedomains.com/images/$third-party
 ||str-ly.com/open*.js
 ||support-ar.com^*/support-adv/
 ||swalif.com/banner/
