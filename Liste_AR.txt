@@ -116,6 +116,7 @@
 ://go.*/afu.
 ://partners.*/widget/$third-party
 =openx&aid=
+?mod=shofBanner&zone=
 ?text=Ads_
 _990x100.
 _adunit_
@@ -1492,6 +1493,9 @@ about:$popup,domain=akoam.com
 ||shatelarab.com^*/banners/
 ||shattalarab.net/*/images/avd.png
 ||shbool-sat.com/vb/traidnt/bnr.gif
+||shof.co.il/Public/image/*1140x140.
+||shof.co.il/Public/image/*banner
+||shof.co.il/Public/image/*cube
 ||shofonline.org/megapop.js
 ||silkroad4arab.com/banner/
 ||skauu.com^$subdocument,domain=3mri-qtr.com
@@ -1922,6 +1926,9 @@ aliahmedali.com##a[target="_blank"] > img[width="235"][height="60"]
 misrlinks.com##a[target="_blank"][href*="to-"]
 alrealclub.com##a[title^="ينتهي في"]
 aswaqcity.com##div#vbseo_vhtml_0
+shof.co.il##div[class*="banner"]
+shof.co.il##div[class*="bnr"]
+shof.co.il##div[class*="cube"]
 top555games.com##div[class^="adshp"]
 mexat.com##div[class^="banner"]
 alqabas.com.kw##div[id^="azk"]
