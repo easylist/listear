@@ -792,6 +792,10 @@ $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.s
 @@||ajax.googleapis.com/ajax/libs/$script,domain=arabictorrent.net
 |http://$script,third-party,xmlhttprequest,domain=arabictorrent.net
 |https://$script,third-party,xmlhttprequest,domain=arabictorrent.net
+! micano4u.org
+@@||ajax.googleapis.com/ajax/libs/$script,domain=micano4u.org
+|http://$script,third-party,xmlhttprequest,domain=micano4u.org
+|https://$script,third-party,xmlhttprequest,domain=micano4u.org
 ! anyanime.com
 |http://$script,third-party,domain=anyanime.com
 |https://$script,third-party,domain=anyanime.com
