@@ -1257,7 +1257,6 @@ about:$popup,domain=akoam.com
 ||giniko.com/images/banner/
 ||goo.gl^$popup,domain=abotlal.com|arabasma.com|arabseed.com|arabseed.tv|cima4u.tv|dev-point.com|mazika2day.com
 ||google.com/url?^$popup,domain=ya3ale.com
-||googleusercontent.com^*/mastercard.gif$domain=myalge.net
 ||googlna.com^*/bnar.swf
 ||gornalak.com/alexa.gif
 ||gornalak.com/pop.js
