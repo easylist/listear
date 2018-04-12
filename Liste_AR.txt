@@ -1633,7 +1633,6 @@ zony.tv###impo_overlay
 imovie-time.com###invideo_wrapper
 iq-vb.net###layer1
 contactcars.com###leaderBoard
-7s5.net###light[style="position: absolute; left: 9px; top: 31px; display: block;"]
 alwatannews.net###lnkMainAdver3
 educdz.com###main-header-content
 baitkebeer.com###makingdifferentpopup
@@ -1723,7 +1722,6 @@ marocemploi.net##.bg_link
 bokra.net##.big-banner
 bokra.net##.bigStrip
 wmuae.net##.binsaad
-7s5.net##.black_overlay[style="display: block;"]
 bacdz.org##.blogroll
 efa.com.eg##.body_sponsors
 forum.tariqallah.net##.bodyline > #fa_ticker_block
