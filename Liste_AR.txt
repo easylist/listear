@@ -338,6 +338,7 @@ _New_Ads.
 ||mobyetrafmsmt.com^$popup,third-party
 ||newpoptab.com^$popup,third-party
 ||newtab-tv.com^$popup,third-party
+||onclickbright.com^$popup,third-party
 ||partners.xm.com^$popup,third-party
 ||pipaffiliates.com^$popup,third-party
 ||pipeschannels.com^$popup,third-party
