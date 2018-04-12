@@ -89,6 +89,7 @@
 /files/adv/*
 /flash_adver_
 /floating_window_with_tabs.
+/forex160-600.
 /hosein/ads/*
 /i3lan-1.
 /i3lan-2.
@@ -1295,7 +1296,6 @@ about:$popup,domain=akoam.com
 ||jsoftj.com/games-folder/zTkW1_jsoftj.com.png
 ||kafrsakr.com/images/alexa_site.gif
 ||kalemaro.com/dezndev*.js
-||kashta.net^$subdocument,domain=syrcafe.net
 ||kech24.com/photo/pharmacie_de_garde_marrakech.gif
 ||khaleejcal.com^*/banners/
 ||khutabaa.com/myfiles/images/banners/
@@ -1522,12 +1522,6 @@ about:$popup,domain=akoam.com
 ||swalif.com/banner/
 ||sweetarabs.com/asset/img/320.gif
 ||syaanh.net/images/*.gif
-||syrcafe.net/images/900forex.png
-||syrcafe.net/images/forex160-600.png
-||syrcafe.net/images/ufx.jpg
-||syrcafe.net/vb/aerowindow/
-||syrcafe.net/vb/download.gif
-||syrcafe.net/vb/forex99.jpg
 ||t555t.com/uploads/13586252371.gif
 ||ta7a.com/mnfz-
 ||ta7a.com/open.htm
