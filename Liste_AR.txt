@@ -50,6 +50,7 @@
 /ads-125.
 /ads/*/banners_
 /ads/box3.
+/adsbar.
 /adsph2/*
 /adss.gif
 /adsvideos.
@@ -1527,7 +1528,6 @@ about:$popup,domain=akoam.com
 ||syrcafe.net/vb/aerowindow/
 ||syrcafe.net/vb/download.gif
 ||syrcafe.net/vb/forex99.jpg
-||syria-news.com/adsbar.
 ||t555t.com/uploads/13586252371.gif
 ||ta7a.com/mnfz-
 ||ta7a.com/open.htm
