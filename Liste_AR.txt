@@ -925,7 +925,6 @@ about:$popup,domain=akoam.com
 ||202020.net/ratteb/all/banner.png
 ||202020.net/ratteb/asd/
 ||222z.net/banners/
-||24caratksa.com^$popup,domain=syrcafe.com
 ||3aram.com/exshow2.js
 ||3asfh.net/vb/js.php
 ||3asq.com/img/uploads/13560751771.swf?
@@ -984,7 +983,7 @@ about:$popup,domain=akoam.com
 ||al-zin.com/up/uploads/13544017121.gif
 ||al-zin.com/up/uploads/13557545631.jpg
 ||al-zin.com/up/uploads/13600111111.gif
-||al-zin.com^$popup,domain=al-zin.com|syrcafe.com
+||al-zin.com^$popup,domain=al-zin.com
 ||al3ab4kids.com/*ads.js
 ||al3ab4kids.com/test*.php
 ||al5aatr.com^*/banner_
@@ -1310,7 +1309,6 @@ about:$popup,domain=akoam.com
 ||ktaby.com/bunner/
 ||ktaby.com/open.js
 ||ktaby.com/vb/open/
-||kuwait1.co^$subdocument,domain=syrcafe.co
 ||l7en.com/javascript/main.js
 ||l7en.com/ps/new/$script
 ||lahbabi.ma//home/code-widjet.html
@@ -1522,8 +1520,6 @@ about:$popup,domain=akoam.com
 ||swalif.com/banner/
 ||sweetarabs.com/asset/img/320.gif
 ||syaanh.net/images/*.gif
-||syrcafe.co/vb/aerowindow/
-||syrcafe.co/wal*.js
 ||syrcafe.com/ra03a.js
 ||syrcafe.com/ufxaffiliates.js
 ||syrcafe.net/images/900forex.png
@@ -1804,7 +1800,6 @@ rassoulallah.info##.right_column
 ylla.net##.rightside_banner
 swalif.net##.sab-adPlace
 korabia.com##.sayingOutOfContent
-syrcafe.co##.semoo
 alaan.tv##.show-specificimg1
 kol7agh.com##.show_left_left_google
 el3ab.com##.showcase
