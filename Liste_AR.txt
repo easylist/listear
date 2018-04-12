@@ -1254,7 +1254,6 @@ about:$popup,domain=akoam.com
 ||fx-dz.com^*/_12304210421772.gif
 ||fx-dz.com^*/banner01300250.jpg
 ||fx-dz.com^*/banner0270090.jpg
-||g7a.com^$popup,domain=str-ly.com
 ||games-off.com^$popup,domain=3rbup.com
 ||geek4arab.com^*/banner/
 ||gem-flash.com^*/banners1.php?
@@ -1519,7 +1518,6 @@ about:$popup,domain=akoam.com
 ||stat.arabstoday.net/images/pizza.jpg
 ||stat.arabstoday.net/images/weather-ad.png
 ||static.hugedomains.com/images/$third-party
-||str-ly.com/open*.js
 ||support-ar.com^*/support-adv/
 ||swalif.com/banner/
 ||sweetarabs.com/asset/img/320.gif
@@ -1868,7 +1866,6 @@ arabictorrent.net##a[href="/dwl"]
 baitkebeer.com##a[href="http://adf.ly/O9EKG"]
 th3professional.com##a[href="http://ar.ouamer.com/"]
 kalemaro.com##a[href="http://bit.ly/14I2rw3"]
-str-ly.com##a[href="http://games.str-ly.com/"]
 ta7a.com##a[href="http://www.adamahospital.com/ar/"]
 baitkebeer.com##a[href="http://www.arabawe.com/"]
 animop.net##a[href="http://www.b3lok.com"]
