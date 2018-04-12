@@ -854,6 +854,8 @@ $popup,domain=33sk.tv|3sk.tv|an-online.com|cima4up.tv|kora-online.tv|mes001.blog
 about:$popup,domain=akoam.com
 ! images hosting
 ||1.bp.blogspot.com/-nYiKKCsYZYA/UYC0Sz6rNJI/AAAAAAAABa8/NbpXEX2To9E/s190/1366357856041.gif
+||2.bp.blogspot.com/-nnyVkQenS2Q/WQzrMwft9ZI/AAAAAAAAPBA/LsMNg9yXCxwKS_Jyq4vAacyVMHosCiz5QCLcB/s1600/0a1dc23b-5850-4780-9f2b-4c471535b250.png
+||3.bp.blogspot.com/-XkoIP8wm2AA/WQzpnB9xVyI/AAAAAAAAPA0/dSMq5tHdSl4nzXh-6u0svd2GJSRsLmGXgCLcB/s1600/250ARAB.png
 ||c.top4top.net/p_7010u9u81.gif
 ||cache.gametracker.com/server_info/148.251.92.28:27015/b_560_95_1.png
 ||d16.net/up/uploads/1478118841381.gif
