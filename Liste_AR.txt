@@ -111,6 +111,7 @@
 /show_i.php?b=$subdocument,third-party
 /slider.*&pub=
 /tabliq/banner/*
+/ufxaffiliates.js
 /vb/open.js
 800x100.gif?
 ://go.*/afu.
@@ -1520,8 +1521,6 @@ about:$popup,domain=akoam.com
 ||swalif.com/banner/
 ||sweetarabs.com/asset/img/320.gif
 ||syaanh.net/images/*.gif
-||syrcafe.com/ra03a.js
-||syrcafe.com/ufxaffiliates.js
 ||syrcafe.net/images/900forex.png
 ||syrcafe.net/images/forex160-600.png
 ||syrcafe.net/images/ufx.jpg
@@ -1881,7 +1880,6 @@ retag4.com##a[href^="bnnr.php?"]
 2v22.net,arabeteam.com,satvb-team.com##a[href^="bnnr.php?do="]
 mothhelah.com##a[href^="code,banner,"]
 arabs-up.com##a[href^="go.php?"]
-syrcafe.com##a[href^="http://24caratksa.com/"]
 zi-m.com##a[href^="http://af.gamepower7.com/"]
 almesryoon.com,tvegy.com##a[href^="http://ar.hao123.com/?tn="]
 animop.net,arbcinema.com,ktaby.com##a[href^="http://bit.ly/"]
