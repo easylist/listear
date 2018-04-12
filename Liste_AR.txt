@@ -1929,7 +1929,6 @@ aswaqcity.com##div#vbseo_vhtml_0
 shof.co.il##div[class*="banner"]
 shof.co.il##div[class*="bnr"]
 shof.co.il##div[class*="cube"]
-top555games.com##div[class^="adshp"]
 mexat.com##div[class^="banner"]
 alqabas.com.kw##div[id^="azk"]
 masrytube.com##div[id^="bannerfloat"]
