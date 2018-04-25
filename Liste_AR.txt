@@ -1729,7 +1729,6 @@ bokra.net##.bigStrip
 wmuae.net##.binsaad
 bacdz.org##.blogroll
 efa.com.eg##.body_sponsors
-forum.tariqallah.net##.bodyline > #fa_ticker_block
 ar-wp.com##.box
 inewsarabia.com##.box728
 ylla.net##.buntop
@@ -1888,7 +1887,6 @@ almesryoon.com,tvegy.com##a[href^="http://ar.hao123.com/?tn="]
 animop.net,arbcinema.com,ktaby.com##a[href^="http://bit.ly/"]
 ouamer.com##a[href^="http://eepurl.com/"]
 hawahome.com##a[href^="http://forum.hawahome.com/ads.php?"]
-tariqallah.net##a[href^="http://goo.gl/"] > img
 arabe-media.com##a[href^="http://m.worldtourisme.com/"]
 mwordpress.net##a[href^="http://mwordpress.net/visit/"]
 ktaby.com##a[href^="http://performance.ikoo.com/"]
