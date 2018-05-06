@@ -258,6 +258,7 @@ _New_Ads.
 ##a[data-ads-placement-type]
 ##a[href*=".hao123.com/?tn="] > img
 ##a[href*="/?track=ad:"]
+##a[href*="/jump/next.php?r="]
 ##a[href*="adintop.com/outgoing/click.php?"]
 ##a[href*="booraq.org"]
 ##a[href*="dubizzle.com/ar/?utm_source="]
@@ -689,6 +690,7 @@ $websocket,domain=arawatch.tv|cera.online|cera.video|mazika2day.com|wifi4games.c
 ||souqasr.com/images/index_02.gif
 ||souqcms.s3.amazonaws.com^*/Banners/
 ||startdedicated.com/newbrz.gif
+||static-*.netdna-ssl.com^$subdocument
 ||store1.up-00.com/2016-05/1463666905061.jpg
 ||store2.up-00.com/2015-11/1448360624071.gif
 ||swiftype.com^*/search?callback=$third-party
