@@ -322,6 +322,7 @@ _New_Ads.
 ||teeet.net^$third-party
 ||themadvlad.com^$third-party
 ||trinylium.com^$third-party
+||valshara.com^$third-party
 ||windailyprizes.info^$third-party
 ||yakiyo.club^$third-party
 ||zermeo.com^$third-party
@@ -360,6 +361,7 @@ _New_Ads.
 ||theclickcheck.com^$popup,third-party
 ||trinylium.com^$popup,third-party
 ||ublockerext.com^$popup,third-party
+||valshara.com^$popup,third-party
 ||wordgetboo.com^$popup,third-party
 ||zermeo.com^$popup,third-party
 !
@@ -691,6 +693,7 @@ $websocket,domain=arawatch.tv|cera.online|cera.video|mazika2day.com|wifi4games.c
 ||souqcms.s3.amazonaws.com^*/Banners/
 ||startdedicated.com/newbrz.gif
 ||static-*.netdna-ssl.com^$subdocument
+||storage.googleapis.com/suramar/pu.min.js
 ||store1.up-00.com/2016-05/1463666905061.jpg
 ||store2.up-00.com/2015-11/1448360624071.gif
 ||swiftype.com^*/search?callback=$third-party
@@ -812,6 +815,10 @@ $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.s
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=almotamayeztech.com
 |http://$script,third-party,xmlhttprequest,domain=almotamayeztech.com
 |https://$script,third-party,xmlhttprequest,domain=almotamayeztech.com
+! movizland.com
+@@||ajax.googleapis.com/ajax/libs/$script,domain=movizland.com|movizland.online
+|http://$script,third-party,xmlhttprequest,domain=movizland.com|movizland.online
+|https://$script,third-party,xmlhttprequest,domain=movizland.com|movizland.online
 ! myegy.tv
 |http://$script,third-party,xmlhttprequest,domain=myegy.tv|novriko.com
 |https://$script,third-party,xmlhttprequest,domain=myegy.tv|novriko.com
