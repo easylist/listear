@@ -371,7 +371,7 @@ _New_Ads.
 !
 $webrtc,domain=akoam.com|egy.best|egybest.co|egybest.com|egybest.net|egybest.site|mazika2day.com|wifi4games.com
 !
-$websocket,domain=arawatch.tv|cera.online|cera.video|mazika2day.com|wifi4games.com
+$websocket,domain=arawatch.tv|cera.online|cera.video|mazika2day.com|wifi4games.com|ya3ale.com
 !
 |blob:$domain=arawatch.tv|cera.online|cera.video|el7l.co|el7l.tv
 !
@@ -849,6 +849,9 @@ $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.s
 ! 9alami.info
 |http://$script,third-party,xmlhttprequest,domain=9alami.info
 |https://$script,third-party,xmlhttprequest,domain=9alami.info
+! ya3ale.com
+|http://$script,subdocument,third-party,xmlhttprequest,domain=ya3ale.com
+|https://$script,subdocument,third-party,xmlhttprequest,domain=ya3ale.com
 ! freecccamnew.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=freecccamnew.com
 |http://$script,third-party,xmlhttprequest,domain=freecccamnew.com
@@ -1203,7 +1206,6 @@ about:$popup,domain=akoam.com
 ||egypt.com/gui/images/banner.gif
 ||egyptwindow.net/Uploadedimage/dar-elbenaagdeed.gif
 ||egyptwindow.net/Uploadedimage/ren2t.gif
-||egyrace.com^$popup,domain=ya3ale.com
 ||egyup.com/300.png
 ||egyup.com/adv.
 ||egyup.com/popup.js
@@ -1238,8 +1240,6 @@ about:$popup,domain=akoam.com
 ||elmokhalestv.com/banner_images/
 ||elmstba.net/wp-content/uploads/love.jpg
 ||elraaed.com^*/banners/
-||elso9.biz/$subdocument,domain=ya3ale.com
-||elso9.com/$subdocument,domain=ya3ale.com
 ||elwatannews.com/hoa/
 ||emaratalyoum.com^*/banners/
 ||english-guide.com/images/banners/
@@ -1281,7 +1281,6 @@ about:$popup,domain=akoam.com
 ||gem-flash.com^*/banners1.php?
 ||giniko.com/images/banner/
 ||goo.gl^$popup,domain=abotlal.com|arabasma.com|arabseed.com|arabseed.tv|cima4u.tv|dev-point.com|mazika2day.com
-||google.com/url?^$popup,domain=ya3ale.com
 ||googlna.com^*/bnar.swf
 ||gornalak.com/alexa.gif
 ||gornalak.com/pop.js
@@ -1580,7 +1579,7 @@ about:$popup,domain=akoam.com
 ||xdahk.bihax.com^$popup,domain=bihax.com
 ||xtratube.net/player/*/codes.html
 ||y4yy.com/la3bty.gif
-||ya3ale.com/aerowindow/
+||ya3ale.com/open19.js
 ||yaislam.com/menux160.html
 ||yalladrama.tv/js.php
 ||yalladrama.tv/player/Download-icon.gif
@@ -1911,7 +1910,6 @@ arabycommunity.com##a[href^="http://www.babylon.com/redirects/download.cgi?"]
 almosafr.com##a[href^="http://www.booking.com/index.html?aid="]
 lakii.com##a[href^="http://www.deraah.com.sa/default.aspx?"]
 sedty.com##a[href^="http://www.drsrv.com/adv/"]
-ya3ale.com##a[href^="http://www.google.com/url?"]
 abotlal.com##a[href^="http://www.izhra.com/?utm_source="]
 maroc-quran.com##a[href^="http://www.maroc-quran.com/vb/bnnr.php?"]
 moonsat.net##a[href^="http://www.moonsat.net/ads.php?"]
