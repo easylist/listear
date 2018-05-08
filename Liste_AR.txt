@@ -102,7 +102,9 @@
 /ir/ads/*
 /mobilead300.
 /mpu_dfp.
+/nugg-ad-
 /png%2Bad.
+/productbox.*?zone=$third-party
 /projectagora.min.js
 /pub/pubahd.
 /pub1.php
