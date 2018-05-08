@@ -300,6 +300,7 @@ _New_Ads.
 ||cashinme.com^$third-party
 ||congoro.com^$third-party
 ||deliverymodo.com^$third-party
+||diwanee.net^$third-party
 ||ec-ho.net^$third-party
 ||eclkspbn.com^$third-party
 ||edinfo.ma^$third-party
