@@ -15,6 +15,7 @@
 ! e-mail : liste.ar.adblock at gmail.com
 !
 !----------------------- Filtres génériques -----------------!
+&ad_size=
 -100x500.gif
 -100x600.gif
 -300-250-
