@@ -166,6 +166,7 @@ _New_Ads.
 ##.ad-lft
 ##.ad-location_
 ##.ad-post-bottom
+##.ad-post-footer
 ##.ad-post-top
 ##.ad-rt
 ##.ad-type_adsense
