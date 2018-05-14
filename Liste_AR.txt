@@ -1238,7 +1238,6 @@ about:$popup,domain=akoam.com
 ||english-guide.com/images/banners/
 ||englishforarabs.com/iphone-ad.png
 ||eqla3.com/if/code*.htm
-||f3al.com/vb/aerowindow/
 ||facebook.com/nansy.sbry1$popup,domain=dtyds.blogspot.com
 ||fannannsat.com/vb/images/00.gif
 ||fannannsat.com/vb/images/000.gif
@@ -1401,7 +1400,6 @@ about:$popup,domain=akoam.com
 ||mtwer.com^*/adsmtwerclient/
 ||mushahed.net/vb/storeimg/img_1389975145_674.gif
 ||mwadah.com/images/mwadahhost.swf
-||mwlaty.com/$subdocument,domain=f3al.com
 ||myegy.to/ad/$popup
 ||myegy.tv/files/js/worker.js
 ||mysite.ma/KHALID.js
