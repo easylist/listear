@@ -768,11 +768,11 @@ $websocket,domain=arabseed.tv|arawatch.tv|cera.online|cera.video|cinema4tv.com|k
 ! egybest
 $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.site
 @@||cdn.egy.best/sc/$stylesheet,domain=egybest.site
+@@||cdn.egy.best/static/global/js/adblock.js$script,domain=egy.best
 @@||cdnjs.cloudflare.com/ajax/libs/$script,stylesheet,domain=egy.best
-@@||openload.co/assets/*/video$script,stylesheet,domain=egy.best
-@@||openload.co/assets/js/jquery.$script,domain=egy.best
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.site
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.site
+||egy.best/script.js
 ! toofy.tv
 @@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=toofy.co|toofy.tv
 @@||maxcdn.bootstrapcdn.com^$script,third-party,domain=toofy.co|toofy.tv
