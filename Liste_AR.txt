@@ -300,6 +300,7 @@ _New_Ads.
 ||adzbux.com^$third-party
 ||adzouktech.com^$third-party
 ||affili.st^$third-party
+||anetwork.ir^$third-party
 ||apanet.net^$third-party
 ||branchroughlend.info^$third-party
 ||cashinme.com^$third-party
