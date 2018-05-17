@@ -1059,6 +1059,7 @@ about:$popup,domain=akoam.com
 ||alresh.com/vb/elrish/images/bannb.gif
 ||alriyadh.com^*/adv/
 ||alseyassi-dz.com/ara/pup01.png
+||alsumaria.tv/BannersImages/
 ||alwadifa-maroc.com/flash/banniere_
 ||alwafd.org/images/albums/
 ||alwafd.org/images/banners/
@@ -1676,12 +1677,15 @@ alwatannews.net##.Adv
 oleeh.com##.Advinner
 elwatannews.com##.HLB
 yallakora.com##.Leaderboard
+alsumaria.tv##.LeftBannerSkin
 m5zn.com##.LongGAds
 filgoal.com##.MRContainer
 masrawy.com##.NewClassifieds
 elwatannews.com##.PM-ROS-MPU
+alsumaria.tv##.RightBannerSkin
 swalif.net##.ShowThreadAdplace
 physique48.org##.TOOLbarB
+alsumaria.tv##.TopBannerSkin
 alhayat.com##.TopHeaderBanner
 3rbb.net,akhbarelyawm.com,alarab.net,banotacool.co,bokra.net,elfagr.org,gamesgb.com,gornalak.com,shahid4u.com,showsport-tv.com##.ad
 elkhabar.com.tn##.ad-image
