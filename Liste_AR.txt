@@ -334,6 +334,7 @@ _New_Ads.
 ||teeet.net^$third-party
 ||themadvlad.com^$third-party
 ||trinylium.com^$third-party
+||unamoney.site^$third-party
 ||valshara.com^$third-party
 ||windailyprizes.info^$third-party
 ||yakiyo.club^$third-party
