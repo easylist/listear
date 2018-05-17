@@ -696,6 +696,7 @@ $websocket,domain=arabseed.tv|arawatch.tv|cera.online|cera.video|cinema4tv.com|k
 ||shnat.net/vb/images/bag.gif
 ||shor1.com/tourisme.js
 ||short5.com/2d/popup.js
+||shortenow.com^$image,third-party
 ||shwqna.at.ua/pop*.js
 ||shy22.com/upfilgif/eca15583.gif
 ||shy22.com/upfilgif/eou19449.gif
