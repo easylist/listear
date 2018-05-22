@@ -302,6 +302,8 @@ _New_Ads.
 !
 ||0.13.75.226^$third-party
 ||100v.biz^$third-party
+||adment.me^$third-party
+||adment.space^$third-party
 ||adsvee.com^$third-party
 ||adtube.ir^$third-party
 ||adv0.com^$third-party
@@ -314,6 +316,7 @@ _New_Ads.
 ||apanet.net^$third-party
 ||branchroughlend.info^$third-party
 ||cashinme.com^$third-party
+||clickyab.com^$third-party
 ||congoro.com^$third-party
 ||deliverymodo.com^$third-party
 ||diwanee.net^$third-party
@@ -348,6 +351,7 @@ _New_Ads.
 ||valshara.com^$third-party
 ||windailyprizes.info^$third-party
 ||yakiyo.club^$third-party
+||yektanet.com^$third-party
 ||zermeo.com^$third-party
 !
 ||5.135.12.64^$popup,third-party
@@ -365,6 +369,7 @@ _New_Ads.
 ||ilovemobi.com^$popup,third-party
 ||ir-dl.com^$popup,third-party
 ||kimia.es^$popup,third-party
+||laserveradedomaina.com^$popup
 ||licantrum.com^$popup,third-party
 ||mellati.com^$popup,third-party
 ||mobna.com^$popup,third-party
