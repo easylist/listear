@@ -369,6 +369,7 @@ _New_Ads.
 ||mobyetrafmsmt.com^$popup,third-party
 ||newpoptab.com^$popup,third-party
 ||newtab-tv.com^$popup,third-party
+||nozzorli.com^$popup,third-party
 ||omasatra.com^$popup,third-party
 ||onclickbright.com^$popup,third-party
 ||onclickmega.com^$popup,third-party
@@ -857,6 +858,10 @@ $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.s
 ! cera.online
 |http://$script,third-party,xmlhttprequest,domain=arawatch.tv|cera.online|cera.video
 |https://$script,third-party,xmlhttprequest,domain=arawatch.tv|cera.online|cera.video
+! aflamyz.com
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=aflamyz.com
+|http://$script,third-party,domain=aflamyz.com
+|https://$script,third-party,domain=aflamyz.com
 ! 9alami.info
 |http://$script,third-party,xmlhttprequest,domain=9alami.info
 |https://$script,third-party,xmlhttprequest,domain=9alami.info
@@ -877,7 +882,7 @@ $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.s
 ! popads
 /^https?:\/\/www\.[a-z]{8,14}\.(bid|club|co|com|me)\/[a-z]{1,12}\.js$/$script,domain=aflam2you.com|alm5leb.com|an-online.com|animestarz.com|arabseed.com|as2tv.com|cima4u.tv|cimaflash.tv|elmoslsal.com|faselhd.com|filmey.tv|goodalot.tv|honadrama.me|kooralive.tv|okanime.com|series4watch.tv
 ! popup & popunder
-$popup,domain=an-online.com|cima4up.tv|kora-online.tv|mes001.blogspot.com
+$popup,domain=aflamyz.com|an-online.com|cima4up.tv|kora-online.tv|mes001.blogspot.com
 about:$popup,domain=akoam.com
 ! images hosting
 ||1.bp.blogspot.com/-nYiKKCsYZYA/UYC0Sz6rNJI/AAAAAAAABa8/NbpXEX2To9E/s190/1366357856041.gif
