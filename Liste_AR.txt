@@ -292,6 +292,7 @@ _New_Ads.
 ##a[href^="http://www.superadexchange.com/"]
 ##a[href^="http://xat.com/"]
 ##a[href^="https://khamsat.com/?r="] > img
+##div[id^="adSlot-inPage"]
 ##img[alt="إعلان"][height="60"]
 ##img[alt="إعلان"][width="150"]
 ##img[alt^="مساحة اعلانية"]
