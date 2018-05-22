@@ -275,6 +275,7 @@ _New_Ads.
 ##a > img[title="ضع اعلانك هنا"]
 ##a[data-ads-placement-id]
 ##a[data-ads-placement-type]
+##a[href*=".aflam.info"]
 ##a[href*=".hao123.com/?tn="] > img
 ##a[href*="/?track=ad:"]
 ##a[href*="/jump/next.php?r="]
@@ -428,6 +429,7 @@ $websocket,domain=arabseed.tv|arawatch.tv|cera.online|cera.video|cinema4tv.com|k
 ||adyou.me^$domain=bein-koora.net
 ||af.gamepower7.com/*?aid=$popup,third-party
 ||aff.bstatic.com^
+||aflam.info^$popup
 ||aflamonlinee.org/new/$popup
 ||aflamy.tv^$popup,domain=mrfile.co|spikyup.com
 ||afrecano.ml^$subdocument
@@ -901,6 +903,7 @@ about:$popup,domain=akoam.com
 ||i.imgur.com/Juz1zWm.jpg
 ||i.imgur.com/nfrPZFV.png
 ||i.imgur.com/tR3XORs.jpg
+||i.imgur.com/Y0KuJEN.jpg
 ||i0.wp.com/edlibre.com/wp-content/uploads/1200x400.png
 ||i0.wp.com/edlibre.com/wp-content/uploads/320x480.jpg
 ||i1.wp.com/edlibre.com/wp-content/uploads/300kh300_copy.png
