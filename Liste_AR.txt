@@ -356,6 +356,7 @@ _New_Ads.
 ||adoptim.com^$popup,third-party
 ||adzouktech.com^$popup,third-party
 ||barraceful.com^$popup,third-party
+||ceidxneoogpuh.com^$popup,third-party
 ||celebritypranky.com^$popup,third-party
 ||eclkspbn.com^$popup,third-party
 ||eghtesadban.com^$popup,third-party
