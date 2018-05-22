@@ -72,7 +72,7 @@
 /bnr_300.
 /bnr_460.
 /bnr_728.
-/cdn-cgi/apps/head/*$script,domain=akoam.com
+/cdn-cgi/apps/head/*$script,domain=akoam.com|cima45.com
 /code/?pid=
 /de/elan/*
 /delivery/*.php?zone=
@@ -839,6 +839,9 @@ $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.s
 ! myegy.tv
 |http://$script,third-party,xmlhttprequest,domain=myegy.tv|novriko.com
 |https://$script,third-party,xmlhttprequest,domain=myegy.tv|novriko.com
+! cima45.com
+|http://$script,third-party,xmlhttprequest,domain=cima45.com
+|https://$script,third-party,xmlhttprequest,domain=cima45.com
 ! http://nbdkorea.com/
 |http://el7l.*/$popup
 ! add-anime.net
