@@ -830,6 +830,7 @@ $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.s
 |http://$script,third-party,domain=aflamyz.com
 |https://$script,third-party,domain=aflamyz.com
 ! faselhd.com
+@@||cdn.jsdelivr.net^$script,domain=faselhd.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=faselhd.com
 |http://$script,third-party,domain=faselhd.com
 |https://$script,third-party,domain=faselhd.com
