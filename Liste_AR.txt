@@ -1416,7 +1416,6 @@ about:$popup,domain=akoam.com
 ||q8classroom.net/banners/
 ||q8classroom.net/bbn.gif
 ||q8classroom.net/bnnn.gif
-||q8lots.net/web20/web20/banner.gif
 ||q8yat.com/uploads/images/q8yat-1ce0d91ca2.gif
 ||q8yat.com/uploads/images/q8yat-20e3d95ccd.gif
 ||q8yat.com/uploads/images/q8yat-6f74f90b85.gif
