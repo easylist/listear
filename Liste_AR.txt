@@ -64,6 +64,7 @@
 /ara/ads/*
 /arabycash-
 /banner-990x90.
+/banner72890.
 /banner_*&pub=
 /bnr_*&pub=
 /bnr_300.
@@ -450,7 +451,6 @@ $websocket,domain=arabseed.tv|arawatch.tv|cera.online|cera.video|cinema4tv.com|k
 ||berlintravelguide.org/tag/$third-party
 ||bistscript.ir/banner/
 ||bit.ly/hxLEG7
-||bit.ly^$popup,domain=ktaby.com
 ||blogspot.com/*/Ld_kUAzSv8o5_Bqf3Pcn_KKHqNFfQkFzACLcB/s1600/2.gif
 ||blogspot.com^*/al3abo.png$domain=th3professional.com
 ||blogspot.com^*/s1600/*.gif$domain=mikrotikarabs.com
@@ -726,12 +726,11 @@ $websocket,domain=arabseed.tv|arawatch.tv|cera.online|cera.video|cinema4tv.com|k
 ||zotabox.com^*/widgets.js$third-party
 ||zupimages.net/up/2/1045181967.png
 ! subdocument
-|http://$subdocument,third-party,domain=ktaby.com|s-ajfan.com
-|https://$subdocument,third-party,domain=ktaby.com|s-ajfan.com
+|http://$subdocument,third-party,domain=s-ajfan.com
+|https://$subdocument,third-party,domain=s-ajfan.com
 ||7bbb7.com^$subdocument,third-party
 ||al3boshi.com^$subdocument,third-party
 ||aldam3h.com^$subdocument,third-party
-||ktaby.com^$subdocument,third-party
 ||kuwaitold.com^$subdocument,third-party
 ||ps-0.com^$subdocument,third-party
 ||wirwaar.com^$subdocument,third-party
@@ -1239,7 +1238,6 @@ about:$popup,domain=akoam.com
 ||farfesh.com^*/Banners/
 ||fatafeeet.com^$popup,domain=egyptladies.net
 ||fatakat.com/ads/
-||fbrka.net/style/banner72890.gif
 ||felmedan.com/images/banners/
 ||fennec-dz.com/img/atlas.jpg
 ||fennec-dz.com/img/ayrade.jpg
@@ -1305,8 +1303,6 @@ about:$popup,domain=akoam.com
 ||kora.me/$subdocument,domain=zi-m.com
 ||kora.me^$subdocument,domain=vb.zi-m.com
 ||korabia.com/Content/img/Cocacola.jpg
-||ktaby.com/bunner/
-||ktaby.com/vb/open/
 ||l7en.com/javascript/main.js
 ||l7en.com/ps/new/$script
 ||lahbabi.ma//home/code-widjet.html
@@ -1724,7 +1720,7 @@ arabs-up.com,arabsharing.com##.extras_footer
 arabs-up.com##.extras_header
 alwatanvoice.com##.flash-top
 bokra.net##.floatBanner
-ktaby.com,s-ajfan.com##.floatingWindowContent
+s-ajfan.com##.floatingWindowContent
 firstlady99.com##.forumline td.row1 > a > img
 firstlady99.com##.forumline td.row1 > span > a > img
 sawasport.com##.full-width-banner
@@ -1861,12 +1857,11 @@ mothhelah.com##a[href^="code,banner,"]
 arabs-up.com##a[href^="go.php?"]
 zi-m.com##a[href^="http://af.gamepower7.com/"]
 almesryoon.com,tvegy.com##a[href^="http://ar.hao123.com/?tn="]
-animop.net,arbcinema.com,ktaby.com##a[href^="http://bit.ly/"]
+animop.net,arbcinema.com##a[href^="http://bit.ly/"]
 ouamer.com##a[href^="http://eepurl.com/"]
 hawahome.com##a[href^="http://forum.hawahome.com/ads.php?"]
 arabe-media.com##a[href^="http://m.worldtourisme.com/"]
 mwordpress.net##a[href^="http://mwordpress.net/visit/"]
-ktaby.com##a[href^="http://performance.ikoo.com/"]
 alnaddy.com##a[href^="http://www.acdcads.com/tracks/"]
 almosafr.com##a[href^="http://www.almosafr.com/forum/ads.php?"]
 blogspot.com##a[href^="http://www.arb-ex.com/?ref="]
