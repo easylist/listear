@@ -562,6 +562,7 @@ $websocket,domain=arabseed.tv|arawatch.tv|cera.online|cera.video|cinema4tv.com|k
 ||imgur.com/9VzIEw9.gif
 ||jazora.com/banner/
 ||jo-sharing.com^*/bnnr.
+||jorbox.com/zmobnu8l-22484816-1.jpg
 ||jscsportlive.com/bzaf.php
 ||jscsportlive.com/bzf.php
 ||karizmo.net/vb/karix.gif
@@ -1563,6 +1564,7 @@ arabseyes.com###Banner
 i-share-ads.com###ContentPlaceHolder1_MPE_AdsShow_backgroundElement
 i-share-ads.com###ContentPlaceHolder1_Pnl_ShowAds
 alarab.net###FloatBanner
+vb4arb.com###ad
 fatakat.com###ad1
 masr140.com###ad_20
 33sh8.com###adds
