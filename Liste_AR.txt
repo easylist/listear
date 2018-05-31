@@ -1373,7 +1373,6 @@ about:$popup,domain=akoam.com
 ||microchoix.ma/banniers/
 ||mirecal-d.com/d700.gif
 ||misbahinet.com/blog/wp-content/uploads/125.gif
-||misryh.com/open/
 ||mlbanners.misrlinks.com^
 ||mobihall.com/data/adv/
 ||mobtada.com/files/banners_days/
