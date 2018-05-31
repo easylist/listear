@@ -432,10 +432,6 @@ $websocket,domain=arabseed.tv|arawatch.tv|cera.online|cera.video|cinema4tv.com|k
 ||arabtx.com^$popup,domain=myegy.to
 ||arabytech.com/iframe/
 ||arascoop.com^$popup,domain=aracinema.co|aramosalsal.com
-||arblue.com/5.gif
-||arblue.com/5ligi.gif
-||arblue.com/9.gif
-||arblue.com/flm3.gif
 ||arianbco.ir^
 ||arjwana.com/468*.gif
 ||assistirseries.net/al/pag*.html
@@ -1095,11 +1091,6 @@ about:$popup,domain=akoam.com
 ||arabstoday.net/images/babyad.gif
 ||arabycommunity.com/babylon.gif
 ||arbface.co/httpwww-mrkz-thmel-swr-com.gif
-||arblue.com/17802.gif
-||arblue.com/17803.gif
-||arblue.com/17804.gif
-||arblue.com/17807.gif
-||arblue.com/17808.gif
 ||as7apcool.com/ads/
 ||as7apcool.com/pic/$image
 ||ashefaa.com/i3lanat/
