@@ -532,7 +532,6 @@ $websocket,domain=arabseed.tv|arawatch.tv|cera.online|cera.video|cinema4tv.com|k
 ||giphy.com^$domain=silkroad4arab.com
 ||goo.gl^$domain=elahmad.com
 ||goo.gl^$popup,domain=cliprz.on.ma|egymotion.net
-||google.*/url?$popup,domain=rawabetvb.com
 ||google98.ir^
 ||goto.astdn.ru^$popup,third-party
 ||gulfbase.com/APopUp.aspx
