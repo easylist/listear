@@ -1144,13 +1144,6 @@ about:$popup,domain=akoam.com
 ||ckfu.org/pic4u/uploads/ckfu1508122885021.gif
 ||clasicooo.com/pic/bd1.gif
 ||clasicooo.com/pic/bd2.gif
-||cools4u.com/abcd/
-||cools4u.com/chatfiles/
-||cools4u.com/hemlat/
-||cools4u.com/listenb.php
-||cools4u.com/songsfrm.php
-||cools4u.com/vbhead.php
-||cools4u.com/vbopen2.php
 ||d2ja.com/Ads/
 ||dafatir.ma/do.php?img=441
 ||dailymedicalinfo.com/uploads/sponsors/
