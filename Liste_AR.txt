@@ -490,6 +490,7 @@ $websocket,domain=arabseed.tv|arawatch.tv|cera.online|cera.video|cinema4tv.com|k
 ||el-balad.com/balad.js
 ||elastec.info^$popup,domain=s-ajfan.com
 ||elmal.us/banner
+||ency-education.com/uploads/3/0/9/3/309326/3245017_1_orig.gif
 ||ency-education.com/uploads/3/0/9/3/309326/3245017_orig.gif
 ||englishforarabs.com/english.gif
 ||error404.000webhost.com/?$subdocument
