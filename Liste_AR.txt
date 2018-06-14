@@ -772,6 +772,11 @@ $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.s
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=movizland.org
 |http://$image,script,third-party,xmlhttprequest,domain=movizland.org
 |https://$image,script,third-party,xmlhttprequest,domain=movizland.org
+! cimaclub.org
+@@||ajax.googleapis.com/ajax/libs/$script,domain=cimaclub.org
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=cimaclub.org
+|http://$image,script,third-party,xmlhttprequest,domain=cimaclub.org
+|https://$image,script,third-party,xmlhttprequest,domain=cimaclub.org
 ! micano4u.org
 @@||ajax.googleapis.com/ajax/libs/$script,domain=micano4u.org
 |http://$script,third-party,xmlhttprequest,domain=micano4u.org
