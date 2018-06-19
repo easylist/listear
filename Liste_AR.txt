@@ -1711,6 +1711,7 @@ linkat-online.com##.adss_left
 ahram.org.eg,ashwagi.com,fll2.com,mobdi3ine.net,op-arab.com,shofha.com,silkroad4arab.com,swarih.com,y4yy.com,yallabina.com##.adv
 akhbarelyom.com##.adv3960
 n4hr.com##.advactar
+annahar.com##.advertisement
 mp3quran.net##.advertising
 al-jazirah.com##.advr
 gololy.com##.advrtising-colum
