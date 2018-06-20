@@ -378,7 +378,7 @@ _New_Ads.
 !
 !----------------------- Publicités tierces ----------------------!
 !
-$webrtc,domain=akoam.com|arabseed.tv|cinema4tv.com|egy.best|egybest.co|egybest.com|egybest.net|egybest.site|kora-live.tv|mazika2day.com|okanime.com|wifi4games.com
+$webrtc,domain=akoam.com|arabseed.tv|cinema4tv.com|egy.best|egybest.co|egybest.com|egybest.net|egybest.site|kora-live.tv|mazika2day.com|okanime.com|stivandz.com|wifi4games.com
 !
 $websocket,domain=arabseed.tv|arawatch.tv|cera.online|cera.video|cinema4tv.com|kora-live.tv|mazika2day.com|okanime.com|wifi4games.com|ya3ale.com
 !
@@ -2037,7 +2037,7 @@ forums.7hob.com##td[style="border:2px #EA8610 dotted ; width:750px;height:280px;
 arfonts.net##td[style="height: 90px; padding: 0px 0px 0px 0px; text-align:center; border-bottom:1px dashed #336699;"]
 traidnt.net##td[width="160px"]
 ! Filtres de propriété CSS pour Adblock Plus
-amni8.com,kora-live.tv#?#:-abp-properties(opacity:)
+amni8.com,kora-live.tv,stivandz.com#?#:-abp-properties(opacity:)
 ce4arab.com#?#.vbmenu_popup + br + [id^="post"]:-abp-has(.thead:-abp-contains(اعلان))
 !
 !----------------------- Exceptions -----------------------!
