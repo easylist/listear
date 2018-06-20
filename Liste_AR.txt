@@ -495,6 +495,7 @@ $websocket,domain=arabseed.tv|arawatch.tv|cera.online|cera.video|cinema4tv.com|k
 ||deals.souq.com^$subdocument
 ||deals.souq.com^*&pubref=$popup
 ||dedicated-server-hosting.space^
+||deemuae^$popup,domain=gulf-up.com
 ||dirlaffaire.net/souq/files/$third-party
 ||diwanee.net/?ref=
 ||dll33.com/vb/images/bnar/
@@ -1288,6 +1289,7 @@ about:$popup,domain=akoam.com
 ||gornalak.com/alexa.gif
 ||gornalak.com/pop.js
 ||goud.ma/photo/250250_
+||gulf-up.com^*/images/bnr
 ||hakchouf.net/hakchouf%20affiche.swf
 ||hakchouf.net/image%20site/aff.jpg
 ||hakchouf.net/images/Banner3.png
@@ -1731,7 +1733,7 @@ alhayat.com##.banner2
 egyup.com,imanschool.com,mwadah.com##.bannerBox
 m5zn.com##.banner_120_black
 elmihwar.com,felmedan.com##.banneritem
-alfajertv.com,arabsharing.com,ibda3gate.com,mediamasr.tv##.banners
+alfajertv.com,arabsharing.com,gulf-up.com,ibda3gate.com,mediamasr.tv##.banners
 marocemploi.net##.bg_link
 bokra.net##.big-banner
 bokra.net##.bigStrip
