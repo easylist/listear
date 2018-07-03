@@ -1491,6 +1491,11 @@ about:$popup,domain=akoam.com
 ||samaup.com/images/bann
 ||sat-1000.com/vb/images/Movie1.swf
 ||sat-vb.com/server.gif
+||sat31-dz.com/kleeja/uploads/14849379321.png
+||sat31-dz.com/kleeja/uploads/15173549441.gif
+||sat31-dz.com/kleeja/uploads/15173552011.jpg
+||sat31-dz.com/kleeja/uploads/15173555221.jpg
+||sat31-dz.com/kleeja/uploads/15173563601.jpg
 ||satna.tv/iptvsatna.gif
 ||satna.tv/promo*.gif
 ||satna.tv/styles/*/satna-promo.gif
@@ -2037,6 +2042,7 @@ ksa-ads.info##td[style="border:2px #A56B2E  solid; width:728px;height:90px;"]
 7hob.com##td[style="border:2px #EA8336 dotted ; width:336px;height:280px;"]
 forums.7hob.com##td[style="border:2px #EA8610 dotted ; width:750px;height:280px;"]
 arfonts.net##td[style="height: 90px; padding: 0px 0px 0px 0px; text-align:center; border-bottom:1px dashed #336699;"]
+sat31-dz.com##td[width="150"][height="60"]
 traidnt.net##td[width="160px"]
 ! Filtres de propriété CSS pour Adblock Plus
 amni8.com,kora-live.tv,stivandz.com#?#:-abp-properties(opacity:)
