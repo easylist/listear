@@ -64,6 +64,7 @@
 /ar/ads/*
 /ara/ads/*
 /arabycash-
+/arlinablock.
 /banner-990x90.
 /banner72890.
 /banner_*&pub=
