@@ -2058,7 +2058,6 @@ ce4arab.com#?#.vbmenu_popup + br + [id^="post"]:-abp-has(.thead:-abp-contains(ا
 !
 @@||1009.ae/wp-content/plugins/wp-intern-ads/jquery.internads.js
 @@||ads.hsoub.com/$domain=hsoub.com
-@@||adyou.me/cdn-cgi/pe/bag2?*ajax.googleapis.com$xmlhttprequest
 @@||bawazir-tech.com/banners/
 @@||betakonline.com/advertisements/securimage/
 @@||djelfa.info/dj_img/logo.gif
