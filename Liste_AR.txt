@@ -488,6 +488,7 @@ $websocket,domain=arabseed.tv|arawatch.tv|cera.online|cera.video|cinema4tv.com|k
 ||c99.eu^$popup,domain=s-ajfan.com
 ||campaign-uploads.s3.amazonaws.com^
 ||casasky.com/bannerslider/
+||cdn.rawgit.com/vander100/Techpro10/master/ad.js
 ||cinemalek.com/*.gif
 ||cnbcarabia.com/top_banner.php
 ||cs-proton.tv/images/banner-*.
