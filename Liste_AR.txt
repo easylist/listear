@@ -47,6 +47,8 @@
 /adedinfo/*
 /adfuel-
 /adfuel/*
+/ads.*&autoplay=
+/ads.*?vid=
 /ads/*/banners_
 /ads/box3.
 /ads/revive/*
@@ -1139,6 +1141,7 @@ about:$popup,domain=akoam.com
 ||as7apcool.com/ads/
 ||as7apcool.com/pic/$image
 ||ashefaa.com/i3lanat/
+||asia2tv.co/wp-content/uploads/$script
 ||aswaqcity.com/swf/
 ||aswat-elchamal.com/ar/pub/
 ||awtarmp3.com/uploads/banners/
