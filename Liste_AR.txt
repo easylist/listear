@@ -60,7 +60,6 @@
 /adv?auid=
 /advStatLib.js
 /advStatSettings.js
-/aff/banners/*
 /affiliate-tools.
 /affiliate_base/*
 /appendixadbans/*
