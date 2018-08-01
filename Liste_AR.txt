@@ -861,9 +861,6 @@ $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.s
 ! arablionz.online
 |http://$script,third-party,domain=arablionz.online
 |https://$script,third-party,domain=arablionz.online
-! yalla-shoot.com
-|http://$script,stylesheet,third-party,xmlhttprequest,domain=yalla-shoot.com
-|https://$script,stylesheet,third-party,xmlhttprequest,domain=yalla-shoot.com
 ! shahid.mbc.net
 |http://$script,third-party,domain=shahid.mbc.net
 |https://$script,third-party,domain=shahid.mbc.net
