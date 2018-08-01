@@ -302,7 +302,6 @@ _New_Ads.
 ##img[src*="/adv/"][alt="إعلان"]
 ##ins[data-ad-channel]
 ##ins[data-ad-client]
-##ins[data-ad-format]
 ##ins[data-ad-slot]
 ##region-pub-top
 !
