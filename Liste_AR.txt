@@ -2087,8 +2087,8 @@ eldjoumhouria.dz#@#.top_small_ad
 !
 !---------------------------- Anti-Adblock ---------------------------!
 !
-/advert2.js$script,~third-party,domain=openload.co
 @@.png#$image,domain=elmoslsal.com|farescd.com|sigma4pc.com|up.media1fire.com
+@@/advert2.js$script,~third-party,domain=openload.co
 @@/advertisement.js$script,domain=animestarz.com|embratoria.com|imbratoria.info|zee3rb.com
 @@||arabcut.com/js/ads.js$script,~third-party
 @@||cdn.vidyomani.com^*/showads.js$script,domain=vidyomani.com
