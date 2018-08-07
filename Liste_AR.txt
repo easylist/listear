@@ -300,9 +300,6 @@ _New_Ads.
 ##img[alt="إعلان"][width="150"]
 ##img[alt^="مساحة اعلانية"]
 ##img[src*="/adv/"][alt="إعلان"]
-##ins[data-ad-channel]
-##ins[data-ad-client]
-##ins[data-ad-slot]
 ##region-pub-top
 !
 !----------------------- Annonceurs -----------------------!
