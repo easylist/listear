@@ -871,11 +871,11 @@ $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.s
 |http://$script,third-party,domain=aflamyz.com
 |https://$script,third-party,domain=aflamyz.com
 ! faselhd.com
-@@||cdn.jsdelivr.net^$script,domain=faselhd.com
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=faselhd.com
-|http://$script,third-party,domain=faselhd.com
-|https://$script,third-party,domain=faselhd.com
-||faselhd.com/va/
+@@||cdn.jsdelivr.net^$script,domain=faselhd.co|faselhd.com
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=faselhd.co|faselhd.com|t7meel.xyz
+|http://$script,third-party,domain=faselhd.co|faselhd.com|t7meel.xyz
+|https://$script,third-party,domain=faselhd.co|faselhd.com|t7meel.xyz
+||faselhd.co/va/
 ! 9alami.info
 |http://$script,third-party,xmlhttprequest,domain=9alami.info
 |https://$script,third-party,xmlhttprequest,domain=9alami.info
