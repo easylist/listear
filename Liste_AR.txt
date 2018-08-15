@@ -2077,7 +2077,7 @@ ce4arab.com#?#.vbmenu_popup + br + [id^="post"]:-abp-has(.thead:-abp-contains(ا
 !----------------------- Exceptions d'éléments -----------------------!
 !
 risalaradio.com#@#.ad-cell
-chess.com,depositfiles.com,independent.co.uk,oload.win,openload.co,wetek.com#@#.adblock
+bozemandailychronicle.com,chess.com,depositfiles.com,independent.co.uk,oload.win,openload.co,wetek.com#@#.adblock
 eldjoumhouria.dz#@#.add_banner2
 eldjoumhouria.dz#@#.to-ad-text
 eldjoumhouria.dz#@#.top_small_ad
