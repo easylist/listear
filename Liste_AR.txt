@@ -74,6 +74,7 @@
 /bnr_300.
 /bnr_460.
 /bnr_728.
+/callads.
 /cdn-cgi/apps/head/*$script,domain=akoam.com|akoam.net|cima45.com
 /code/?pid=
 /de/elan/*
@@ -694,6 +695,7 @@ $websocket,domain=arabseed.tv|arawatch.tv|cera.online|cera.video|cinema4tv.com|k
 ||soft365.com^$popup,domain=arab.sh|arabsh.com
 ||souqasr.com/images/index_02.gif
 ||souqcms.s3.amazonaws.com^*/Banners/
+||spnews.co/files/15.jpg
 ||startdedicated.com/newbrz.gif
 ||static-*.netdna-ssl.com^$subdocument
 ||storage.googleapis.com/suramar/pu.min.js
@@ -1350,6 +1352,8 @@ about:$popup,domain=akoam.com|akoam.net
 ||kora.me/$subdocument,domain=zi-m.com
 ||kora.me^$subdocument,domain=vb.zi-m.com
 ||korabia.com/Content/img/Cocacola.jpg
+||kw.mdar.co/files/5959.jpg
+||kw.mdar.co/files/666.jpg
 ||l7en.com/javascript/main.js
 ||l7en.com/ps/new/$script
 ||lahbabi.ma//home/code-widjet.html
@@ -1831,6 +1835,7 @@ aljazair1.com##.pub
 hawaaweb.com##.right-banner
 rassoulallah.info##.right_column
 ylla.net##.rightside_banner
+mdar.co##.s1bg
 swalif.net##.sab-adPlace
 korabia.com##.sayingOutOfContent
 alaan.tv##.show-specificimg1
