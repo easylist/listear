@@ -1835,7 +1835,7 @@ aljazair1.com##.pub
 hawaaweb.com##.right-banner
 rassoulallah.info##.right_column
 ylla.net##.rightside_banner
-mdar.co##.s1bg
+mdar.co,spnews.co##.s1bg
 swalif.net##.sab-adPlace
 korabia.com##.sayingOutOfContent
 alaan.tv##.show-specificimg1
