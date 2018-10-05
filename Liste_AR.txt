@@ -198,6 +198,7 @@ _New_Ads.
 ##.ad160right
 ##.ad250250
 ##.ad970
+##.adTtl
 ##.ad_banner728
 ##.adblock
 ##.add_banner
