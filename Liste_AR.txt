@@ -294,6 +294,7 @@ _New_Ads.
 ##a[href^="http://www.probux.com/?rh="] > img
 ##a[href^="http://www.sotmasr.com/announcements/"]
 ##a[href^="https://firstbyte.pro/?from="] > img
+##a[href^="https://halocell.com/go/"] > img
 ##a[href^="https://khamsat.com/?r="] > img
 ##div[class^="ad-id_ad_"]
 ##div[class^="ad-id_shortcode"]
