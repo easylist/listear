@@ -1116,6 +1116,7 @@ about:$popup,domain=akoam.com|akoam.net
 ||amalh.net/images/*.gif
 ||amazonaws.com/fl/KSA-Footer/JSFiles/leader.js
 ||amronline202.blogspot.com^$domain=tfilm.ba7r.biz
+||anakbnet.com/lib/script.js
 ||anakbnet.com/video/a/banar/
 ||animestarz.com/files/sponsors/
 ||animop-mobile.blogspot.com^$popup,domain=animop.com
