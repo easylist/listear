@@ -136,7 +136,9 @@ _New_Ads.
 ! test
 .com/js/semantic-ui/*/semantic-ui.min.js$third-party
 !
+%3Dadblock_pop%$popup
 .cash/?clickid=$popup
+.do?offer=*&publisher_id=$popup
 /adsph2/*$popup
 /afstrack.*?affid=$popup
 /clicks.*/afs/$popup
@@ -2114,9 +2116,6 @@ eldjoumhouria.dz#@#.top_small_ad
 @@||cdn.vidyomani.com^*/showads.js$script,domain=vidyomani.com
 @@||jeddahbikers.com/templates/js/adframe.js|$script,~third-party
 !
-!###blockblockA
-!###blockblockB
-!
 elahmad.com#@##adblock
 g9g.com#@##myAd
 adblock.mozdev.org,direct-radio.fr#@#.adblock
@@ -2126,6 +2125,7 @@ soft4sat.net#@#.e3lan
 @@||ashams.com^$generichide
 @@||elmoslsal.com^$generichide
 @@||farescd.com^$generichide
+@@||kooora2day.com^$generichide
 @@||kooralive.tv^$generichide
 @@||kora-star.com^$generichide
 @@||lody.to^$generichide
