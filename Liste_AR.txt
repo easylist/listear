@@ -1495,6 +1495,8 @@ about:$popup,domain=akoam.com|akoam.net
 ||qaradawi.net^*/banners/
 ||qatar2.net^$popup,domain=qatarw.com
 ||qatarbike.com/bike/Qatarbike/images/l-up-b.png
+||qatarshares.com/vb/images/*.gif
+||qatarshares.com/vb/images/banner
 ||qatarw.com/get-11-2008-1.gif
 ||qatarw.com/images/88.gif
 ||qatarw.com/images/89.gif
@@ -2043,6 +2045,7 @@ gamesgb.com,m5zn.com##img[width="150"][height="50"]
 libyan-sat.com##img[width="150"][height="60"][style="margin: 0px 0px 0px 0px;"]
 arabs-up.com##img[width="155"][height="60"]
 egyup.tv##img[width="197"][height="98"]
+qatarshares.com##img[width="198"][height="60"]
 am-ngd.com,bahranicool.com,shbab1.com##img[width="200"][height="60"]
 chtoukapress.com##img[width="200"][height="90"]
 chtoukapress.com##img[width="228"][height="100"]
@@ -2066,6 +2069,7 @@ jo-sharing.com##img[width="700"][height="120"]
 silkroad4arab.com##img[width="720"]
 202020.net,alamelarab.com,arablionz.online,arabseed.com,arabseed.tv,foxpic.com,mye.gy,myegy.cc,myegy.tv,myegy.xyz,novriko.com,zi-m.com##img[width="728"][height="90"]
 chtoukapress.com##img[width="728px"][height="100px"]
+qatarshares.com##img[width="804"][height="80"]
 ech-chaab.net##img[width="820"][height="159"]
 jo-sharing.com##img[width="940"][height="80"]
 abuzersat.com##img[width^="50"][height^="15"]
