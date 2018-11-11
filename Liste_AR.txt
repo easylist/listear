@@ -227,6 +227,16 @@ _New_Ads.
 ##.boxLeftAd
 ##.boxRightAd
 ##.desktopAds
+##.dfp-ad-desktop-halfpage-1
+##.dfp-ad-desktop-halfpage-2
+##.dfp-ad-desktop-mpu-1
+##.dfp-ad-desktop-mpu-2
+##.dfp-ad-mobile-halfpage
+##.dfp-ad-tablet-ldb-1
+##.dfp-ad-tablet-ldb-2
+##.dfp_ad_top_ldb1_desktop
+##.dfp_ad_top_ldb1_mobile
+##.dfp_ad_top_ldb1_tablet
 ##.e3lan-code
 ##.e3lan300_600-widget
 ##.fbAdsCont
