@@ -203,7 +203,7 @@ _New_Ads.
 ##.ad970
 ##.adTtl
 ##.ad_banner728
-##.adblock
+##.adblock:not(body)
 ##.add_banner
 ##.add_banner2
 ##.ads-posting
