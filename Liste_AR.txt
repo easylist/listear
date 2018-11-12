@@ -2120,7 +2120,7 @@ ce4arab.com#?#.vbmenu_popup + br + [id^="post"]:-abp-has(.thead:-abp-contains(ا
 !----------------------- Exceptions d'éléments -----------------------!
 !
 risalaradio.com#@#.ad-cell
-bozemandailychronicle.com,chess.com,depositfiles.com,independent.co.uk,oload.fun,oload.win,wetek.com#@#.adblock
+bozemandailychronicle.com,chess.com,depositfiles.com,independent.co.uk,oload.fun,oload.win,pent.no,wetek.com#@#.adblock
 eldjoumhouria.dz#@#.add_banner2
 oload.fun,oload.win,openload.co#@#.ads
 oload.fun,oload.win,openload.co#@#.adsbox
