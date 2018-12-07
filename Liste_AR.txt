@@ -2124,9 +2124,9 @@ ce4arab.com#?#.vbmenu_popup + br + [id^="post"]:-abp-has(.thead:-abp-contains(ا
 risalaradio.com#@#.ad-cell
 bozemandailychronicle.com,chess.com,depositfiles.com,independent.co.uk,oload.fun,oload.win,pent.no,wetek.com#@#.adblock
 eldjoumhouria.dz#@#.add_banner2
-oload.fun,oload.win,openload.co#@#.ads
-oload.fun,oload.win,openload.co#@#.adsbox
-oload.fun,oload.win,openload.co#@#.doubleclick
+oload.fun,oload.win,openload.co,openloed.co#@#.ads
+oload.fun,oload.win,openload.co,openloed.co#@#.adsbox
+oload.fun,oload.win,openload.co,openloed.co#@#.doubleclick
 eldjoumhouria.dz#@#.to-ad-text
 eldjoumhouria.dz#@#.top_small_ad
 !
