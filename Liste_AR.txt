@@ -1370,6 +1370,8 @@ about:$popup,domain=akoam.com|akoam.net
 ||jawaley.com/banar/
 ||jawaley.net/banar/
 ||jfranews.com^*/banners/
+||journalistesfaxien.tn/wp-content/uploads/*/pub_
+||journalistesfaxien.tn/wp-content/uploads/2014/03/hotel-fini.gif
 ||jsoftj.com/games-folder/zTkW1_jsoftj.com.png
 ||kafrsakr.com/images/alexa_site.gif
 ||kech24.com/photo/pharmacie_de_garde_marrakech.gif
@@ -1864,6 +1866,7 @@ rassoulallah.info##.narrow_column
 brooonzyah.net##.navbar_notice
 msryh.com##.navbnr
 ar-wp.com##.nbanners
+journalistesfaxien.tn##.nbs-flexisel-container
 dardarkom.com##.notbar
 masr140.com##.om_ad
 now24.net##.pad5
