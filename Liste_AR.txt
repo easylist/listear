@@ -1869,7 +1869,6 @@ ar-wp.com##.nbanners
 journalistesfaxien.tn##.nbs-flexisel-container
 dardarkom.com##.notbar
 masr140.com##.om_ad
-now24.net##.pad5
 chat-alriyadh.com##.paner
 tech-wd.com##.partners
 hao123.com##.pr
