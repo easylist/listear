@@ -158,6 +158,10 @@ _New_Ads.
 ###adSlot-inPage-300x250-left
 ###adSlot-inPage-728x90-top
 ###adpost2
+###b_ad
+###b_ad1
+###b_ad2
+###b_ad3
 ###deskads
 ###desktopAds
 ###headads
@@ -224,6 +228,8 @@ _New_Ads.
 ##.adv_side_left
 ##.adv_side_right
 ##.angular_advertisement
+##.b_ad
+##.b_ad480
 ##.boxLeftAd
 ##.boxRightAd
 ##.desktopAds
@@ -272,6 +278,7 @@ _New_Ads.
 ##.srapad
 ##.srapad_bg
 ##.to-ad-text
+##.top_ad-tw
 ##.top_small_ad
 ##.widget_a4h_ads
 ##.widget_widget_pub
@@ -1089,6 +1096,9 @@ about:$popup,domain=akoam.com|akoam.net
 ||alamelarab.com/*-banner.
 ||alamelarab.com/pics/five_five.jpg
 ||alanwar.com/swif/
+||alarab.com/data/cubes/
+||alarab.com/fursa.php
+||alarab.com/SDK/MB_SDK_script.js
 ||alarab.net/data/cubes/
 ||alarab.net/fursa.php
 ||alarab.net/SDK/MB_SDK_script.js
@@ -1659,7 +1669,6 @@ ahram.org.eg###AdvShowCase1_divShowcase
 arabseyes.com###Banner
 i-share-ads.com###ContentPlaceHolder1_MPE_AdsShow_backgroundElement
 i-share-ads.com###ContentPlaceHolder1_Pnl_ShowAds
-alarab.net###FloatBanner
 vb4arb.com###ad
 fatakat.com###ad1
 masr140.com###ad_20
@@ -1697,6 +1706,8 @@ echoroukonline.com###dztmp-back-link
 akhersaa-dz.com###espace_pub_entete
 touteslesrecettes.fr###first
 elheddaf.com,ennaharonline.com###flash
+alarab.com,alarab.net###floatbanner_left
+alarab.com,alarab.net###floatbanner_right
 ahram.org.eg###floatit
 jsoftj.com###freet
 bacdz.org###head-banner
@@ -1725,7 +1736,7 @@ okanime.com###pubbbbbbb
 assayyarat.com###push_lightbox
 as2tv.com###scpsec
 as2tv.com###scpsec2
-alarab.net###secncom
+alarab.com,alarab.net###secncom
 arabia.com###showcase
 makkahnews.net###sidebar1
 ninjaup.com###spons
@@ -1737,7 +1748,7 @@ hawamer.com###topBanner
 elheddaf.com###top_pub + a[style]
 maas1.com###topads
 mazika2day.com###topban
-alarab.net###topbanner
+alarab.com,alarab.net###topbanner
 a7lashare.com,iq-vb.net,sm3na.com,ultshare.com###topbar
 facenama.com###user-468
 hawaaworld.com###vacuumcleaners
@@ -1765,7 +1776,7 @@ swalif.net##.ShowThreadAdplace
 physique48.org##.TOOLbarB
 alsumaria.tv##.TopBannerSkin
 alhayat.com##.TopHeaderBanner
-3rbb.net,akhbarelyawm.com,alarab.net,banotacool.co,bokra.net,elfagr.org,gamesgb.com,gornalak.com,shahid4u.com,showsport-tv.com##.ad
+3rbb.net,akhbarelyawm.com,alarab.com,alarab.net,banotacool.co,bokra.net,elfagr.org,gamesgb.com,gornalak.com,shahid4u.com,showsport-tv.com##.ad
 elkhabar.com.tn##.ad-image
 souq.com##.ad1
 souq.com##.ad2
@@ -1848,12 +1859,12 @@ masrawy.com##.leaderbg
 z4ar.com##.leaderboard
 filbalad.com##.leaderbord
 linkat-online.com##.left_side
-alarab.net##.left_sqr
+alarab.com,alarab.net##.left_sqr
 ylla.net##.leftside_banner
 games-flash.be##.main-banner
 bokra.net##.main_baner
 makkahnews.net##.main_banners
-alarab.net##.mbAdImg
+alarab.com,alarab.net##.mbAdImg
 assayyarat.com##.md-overlay
 mediamasr.tv##.mediumbanner
 3rbup.com##.metaRedirectWrapperTop
@@ -1875,6 +1886,7 @@ hao123.com##.pr
 aljazair1.com##.pub
 hawaaweb.com##.right-banner
 rassoulallah.info##.right_column
+alarab.com,alarab.net##.right_cubes
 ylla.net##.rightside_banner
 mdar.co,spnews.co##.s1bg
 swalif.net##.sab-adPlace
