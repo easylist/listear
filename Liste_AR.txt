@@ -1226,6 +1226,7 @@ about:$popup,domain=akoam.com|akoam.net
 ||brandatvip.com^$popup,domain=akaberchat.com
 ||brg8.com/bb/
 ||brooonzyah.net/vb/js.php
+||cdn.akhbarak.net/assets/*/banners/
 ||cdn.binpress.com/binpress-250-250.png
 ||ce4arab.com/images/amazon1.gif
 ||ce4arab.com/images/myus-banner
