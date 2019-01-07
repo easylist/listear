@@ -284,6 +284,7 @@ _New_Ads.
 ##.to-ad-text
 ##.top_ad-tw
 ##.top_small_ad
+##.widget-custom-ads
 ##.widget_a4h_ads
 ##.widget_widget_pub
 ##[ad-unit="160X600"]
@@ -321,6 +322,7 @@ _New_Ads.
 ##a[href^="https://firstbyte.pro/?from="] > img
 ##a[href^="https://halocell.com/go/"] > img
 ##a[href^="https://khamsat.com/?r="] > img
+##aside[id^="custom-ads-"]
 ##div[class^="ad-id_ad_"]
 ##div[class^="ad-id_shortcode"]
 ##div[id^="adSlot-inPage"]
