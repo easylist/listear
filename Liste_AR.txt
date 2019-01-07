@@ -71,6 +71,7 @@
 /banner-990x90.
 /banner72890.
 /banner_*&pub=
+/BigAds.
 /bnr_*&pub=
 /bnr_300.
 /bnr_460.
@@ -245,6 +246,7 @@ _New_Ads.
 ##.dfp_ad_top_ldb1_desktop
 ##.dfp_ad_top_ldb1_mobile
 ##.dfp_ad_top_ldb1_tablet
+##.e3lan-below_header
 ##.e3lan-code
 ##.e3lan300_600-widget
 ##.fbAdsCont
@@ -1599,6 +1601,7 @@ about:$popup,domain=akoam.com|akoam.net
 ||shof.co.il/Public/image/*banner
 ||shof.co.il/Public/image/*cube
 ||shofonline.org/megapop.js
+||sigma4pc.com/Academy/wp-content/uploads/2017/05/%D9%81%D8%B1%D8%B5%D8%A9-
 ||silkroad4arab.com/banner/
 ||skauu.com^$subdocument,domain=3mri-qtr.com
 ||sonara.net/banners/
