@@ -72,6 +72,7 @@
 /banner72890.
 /banner_*&pub=
 /BigAds.
+/blocks/adds.
 /bnr_*&pub=
 /bnr_300.
 /bnr_460.
@@ -121,6 +122,7 @@
 /sb_dfp.
 /ScriptAds.
 /show_i.php?b=$subdocument,third-party
+/side-adds-
 /slider.*&pub=
 /tabliq/banner/*
 /ufxaffiliates.js
@@ -325,6 +327,7 @@ _New_Ads.
 ##aside[id^="custom-ads-"]
 ##div[class^="ad-id_ad_"]
 ##div[class^="ad-id_shortcode"]
+##div[id^="POSTQUARE_WIDGET"]
 ##div[id^="adSlot-inPage"]
 ##img[alt="إعلان"][height="60"]
 ##img[alt="إعلان"][width="150"]
@@ -1243,6 +1246,7 @@ about:$popup,domain=akoam.com|akoam.net
 ||ckfu.org/pic4u/uploads/ckfu1508122885021.gif
 ||clasicooo.com/pic/bd1.gif
 ||clasicooo.com/pic/bd2.gif
+||cover-sd.com/contents/banarat/
 ||d2ja.com/Ads/
 ||dafatir.ma/do.php?img=441
 ||dailymedicalinfo.com/uploads/sponsors/
