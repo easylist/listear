@@ -25,6 +25,8 @@
 -90x728.
 -delivery.js
 -e3lnat/
+-left-ads/
+-right-ads/
 .affilist-$third-party
 .com/bnr/
 .com/elan/$image
@@ -313,6 +315,7 @@ _New_Ads.
 ##a[href^="http://www.fusebux.com/index.php?r="] > img
 ##a[href^="http://www.probux.com/?rh="] > img
 ##a[href^="http://www.sotmasr.com/announcements/"]
+##a[href^="https://cs-api.postquare.com/gas-api/click.json?"]
 ##a[href^="https://firstbyte.pro/?from="] > img
 ##a[href^="https://halocell.com/go/"] > img
 ##a[href^="https://khamsat.com/?r="] > img
@@ -359,6 +362,7 @@ _New_Ads.
 ||kimia.es^$third-party
 ||ornaki.com^$third-party
 ||popupplus.ir^$third-party
+||postquare.com^$third-party
 ||premaads.net^$third-party
 ||projectagora.tech^$third-party
 ||qoo.sh^$third-party
