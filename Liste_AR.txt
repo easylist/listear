@@ -807,6 +807,9 @@ $websocket,domain=arabseed.tv|arawatch.tv|cera.online|cera.video|cinema4tv.com|k
 ! akoam.com
 |http://$script,third-party,xmlhttprequest,domain=akoam.com|akoam.net
 |https://$script,third-party,xmlhttprequest,domain=akoam.com|akoam.net
+! gdedak.tv
+|http://$script,third-party,domain=gdedak.tv
+|https://$script,third-party,domain=gdedak.tv
 ! egybest
 $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.site
 @@||cdn.egy.best/sc/$script,stylesheet,domain=egybest.site
