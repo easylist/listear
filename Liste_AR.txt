@@ -324,6 +324,7 @@ _New_Ads.
 ##a[href^="https://firstbyte.pro/?from="] > img
 ##a[href^="https://halocell.com/go/"] > img
 ##a[href^="https://khamsat.com/?r="] > img
+##a[href^="https://onlivestreams.online/"]
 ##aside[id^="custom-ads-"]
 ##div[class^="ad-id_ad_"]
 ##div[class^="ad-id_shortcode"]
@@ -406,6 +407,7 @@ _New_Ads.
 ||nozzorli.com^$popup,third-party
 ||omasatra.com^$popup,third-party
 ||onclickbright.com^$popup,third-party
+||onlivestreams.online^$popup
 ||partners.xm.com^$popup,third-party
 ||pipaffiliates.com^$popup,third-party
 ||popupplus.ir^$popup,third-party
@@ -669,7 +671,6 @@ $websocket,domain=arabseed.tv|arawatch.tv|cera.online|cera.video|cinema4tv.com|k
 ||mobizone.mobi/mobilebox/Linkonline.aspx$third-party
 ||mothhelah.com/bnr.jpg
 ||mothhelah.com/img/psF78481.gif
-||movizland.com/uploads/13978557311.gif
 ||mshaweer.net/images/*.gif
 ||mshaweer.net/vb//images/baner.swf
 ||mshaweer.net/vb/images/mshaweer2.gif
@@ -714,6 +715,8 @@ $websocket,domain=arabseed.tv|arawatch.tv|cera.online|cera.video|cinema4tv.com|k
 ||rimmedia.net/images/pub2.gif
 ||roooo3.com^$popup,domain=arab.sh|arabsh.com
 ||rsbfoot.com/annonce/
+||s3.eu-west-2.amazonaws.com/djkalm/
+||s3.eu-west-2.amazonaws.com/jajna/
 ||satarabia.net/v2/images/big_ar_banner.jpg
 ||servimg.com/*/5souq_10.gif
 ||servimg.com/u/f30/15/50/53/07/0802.jpg
@@ -754,7 +757,6 @@ $websocket,domain=arabseed.tv|arawatch.tv|cera.online|cera.video|cinema4tv.com|k
 ||up-00.com/2015-02/1424472081151.jpg
 ||up.harajgulf.com/do.php?img=177229
 ||up.harajgulf.com/do.php?img=177231
-||up.movizland.com/uploads/1438749062331.gif
 ||up.nileup.com/do.php?img=181
 ||up.nileup.com/do.php?img=262
 ||up.nileup.com/do.php?img=263
@@ -857,8 +859,14 @@ $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.s
 |http://$script,third-party,xmlhttprequest,domain=almotamayeztech.com
 |https://$script,third-party,xmlhttprequest,domain=almotamayeztech.com
 ! movizland.com
-|http://$script,third-party,xmlhttprequest,domain=movizland.com|movizland.online
-|https://$script,third-party,xmlhttprequest,domain=movizland.com|movizland.online
+|http://$script,third-party,xmlhttprequest,domain=moshahda.online|movizland.com|movizland.online
+|https://$script,third-party,xmlhttprequest,domain=moshahda.online|movizland.com|movizland.online
+||up.movizland.*/uploads/13978557311.gif
+||up.movizland.*/uploads/1438749062331.gif
+||up.movizland.*/uploads/1513608538041.png
+||up.movizland.*/uploads/1534777803121.png
+||up.movizland.*/uploads/1534778808491.png
+||up.movizland.*/uploads/1535822551281.png
 ! myegy.tv
 |http://$script,third-party,xmlhttprequest,domain=mye.gy|myegy.cc|myegy.com|myegy.to|myegy.tv|myegy.xyz
 |https://$script,third-party,xmlhttprequest,domain=mye.gy|myegy.cc|myegy.com|myegy.to|myegy.tv|myegy.xyz
@@ -923,9 +931,9 @@ $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.s
 ! cloudfront.net
 ||cloudfront.net^$domain=aflam2you.com|alm5leb.com|an-online.com|animestarz.com|arabseed.com|arabseed.tv|as2tv.com|cima4u.tv|cimaflash.tv|elmoslsal.com|filmey.tv|goodalot.tv|kooralive.tv|kora-online.tv|okanime.com|series4watch.online|series4watch.tv|wifi4games.com
 ! popads
-/^https?:\/\/www\.[a-z]{8,14}\.(bid|club|co|com|me)\/[a-z]{1,12}\.js$/$script,domain=aflam2you.com|alm5leb.com|an-online.com|animestarz.com|arabseed.com|as2tv.com|cima4u.tv|cimaflash.tv|elmoslsal.com|filmey.tv|goodalot.tv|honadrama.me|kooralive.tv|lodynet.com|okanime.com|series4watch.online|series4watch.tv
+/^https?:\/\/www\.[a-z]{8,14}\.(bid|club|co|com|me)\/[a-z]{1,12}\.js$/$script,domain=aflam2you.com|alm5leb.com|an-online.com|animestarz.com|arabseed.com|as2tv.com|cima4u.tv|cimaflash.tv|e5tsar.com|elmoslsal.com|filmey.tv|goodalot.tv|honadrama.me|kooralive.tv|lodynet.com|okanime.com|series4watch.online|series4watch.tv
 ! popup & popunder
-$popup,domain=aflamsexnek.com|aflamyz.com|an-online.com|anime2001.com|animelek.com|animelek.net|arabincest.com|cima4up.tv|kora-online.tv|mes001.blogspot.com|movizland.net|movizland.org
+$popup,domain=aflamsexnek.com|aflamyz.com|an-online.com|anime2001.com|animelek.com|animelek.net|arabincest.com|cima4up.tv|e5tsar.com|kora-online.tv|mes001.blogspot.com|movizland.net|movizland.org
 about:$popup,domain=akoam.com|akoam.net
 ! images hosting
 ||1.bp.blogspot.com/-nYiKKCsYZYA/UYC0Sz6rNJI/AAAAAAAABa8/NbpXEX2To9E/s190/1366357856041.gif
@@ -1252,6 +1260,7 @@ about:$popup,domain=akoam.com|akoam.net
 ||dzgsm.com/vb/pub/
 ||e-mailaat.com/banarat/
 ||e3lanat.cc^$popup,domain=aflamy.com
+||e5tsar.com/lib/script.js
 ||eaglepro.net^$popup,domain=bramjnet.com
 ||easycima.com^$popup,domain=el7l.co|el7l.tv
 ||educ40.net/hotcourses.swf
