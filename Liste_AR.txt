@@ -814,14 +814,11 @@ $websocket,domain=arabseed.tv|arawatch.tv|cera.online|cera.video|cinema4tv.com|k
 $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.site
 @@||cdn.egy.best/sc/$script,stylesheet,domain=egybest.site
 @@||cdn.egy.best/static/global/js/$script,domain=egy.best|egybest.site
-@@||cdnjs.cloudflare.com/ajax/libs/$script,stylesheet,domain=egy.best|egybest.site
 @@||egybest.net^$xmlhttprequest,domain=egy.best|egybest.site
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.site
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.site
 ||egy.best/script.js
 ! toofy.tv
-@@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=toofy.co|toofy.tv
-@@||maxcdn.bootstrapcdn.com^$script,third-party,domain=toofy.co|toofy.tv
 |http://$script,third-party,xmlhttprequest,domain=toofy.co|toofy.tv
 |https://$script,third-party,xmlhttprequest,domain=toofy.co|toofy.tv
 ||toofy.co^$popup,~third-party
@@ -829,31 +826,21 @@ $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.s
 |http://$script,third-party,domain=hd-arab.com
 |https://$script,third-party,domain=hd-arab.com
 ! cimaclub.com
-@@||ajax.googleapis.com/ajax/libs/$script,domain=cimaclub.com
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=cimaclub.com
 |http://$script,third-party,xmlhttprequest,domain=cimaclub.com
 |https://$script,third-party,xmlhttprequest,domain=cimaclub.com
 ! cima4up.tv
-@@||ajax.googleapis.com/ajax/libs/$script,domain=cima4up.tv
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=cima4up.tv
 |http://$script,third-party,xmlhttprequest,domain=cima4up.tv
 |https://$script,third-party,xmlhttprequest,domain=cima4up.tv
 ! arabictorrent.net
-@@||ajax.googleapis.com/ajax/libs/$script,domain=arabictorrent.net
 |http://$script,third-party,xmlhttprequest,domain=arabictorrent.net
 |https://$script,third-party,xmlhttprequest,domain=arabictorrent.net
 ! movizland.org
-@@||ajax.googleapis.com/ajax/libs/$script,domain=movizland.org
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=movizland.org
 |http://$image,script,third-party,xmlhttprequest,domain=movizland.org
 |https://$image,script,third-party,xmlhttprequest,domain=movizland.org
 ! cimaclub.org
-@@||ajax.googleapis.com/ajax/libs/$script,domain=cimaclub.org
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=cimaclub.org
 |http://$image,script,third-party,xmlhttprequest,domain=cimaclub.org
 |https://$image,script,third-party,xmlhttprequest,domain=cimaclub.org
 ! micano4u.org
-@@||ajax.googleapis.com/ajax/libs/$script,domain=micano4u.org
 |http://$script,third-party,xmlhttprequest,domain=micano4u.org
 |https://$script,third-party,xmlhttprequest,domain=micano4u.org
 ! anyanime.com
@@ -863,17 +850,12 @@ $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.s
 |http://$script,third-party,domain=cinemalek.com
 |https://$script,third-party,domain=cinemalek.com
 ! arablionz.tv
-@@||ajax.googleapis.com/ajax/libs/$script,domain=arablionz.tv
 |http://$script,third-party,xmlhttprequest,domain=arablionz.tv
 |https://$script,third-party,xmlhttprequest,domain=arablionz.tv
 ! almotamayeztech.com
-@@||ajax.googleapis.com/ajax/libs/$script,domain=almotamayeztech.com
-@@||cdn.jsdelivr.net^$script,domain=almotamayeztech.com
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=almotamayeztech.com
 |http://$script,third-party,xmlhttprequest,domain=almotamayeztech.com
 |https://$script,third-party,xmlhttprequest,domain=almotamayeztech.com
 ! movizland.com
-@@||ajax.googleapis.com/ajax/libs/$script,domain=movizland.com|movizland.online
 |http://$script,third-party,xmlhttprequest,domain=movizland.com|movizland.online
 |https://$script,third-party,xmlhttprequest,domain=movizland.com|movizland.online
 ! myegy.tv
@@ -887,8 +869,6 @@ $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.s
 ! http://nbdkorea.com/
 |http://el7l.*/$popup
 ! add-anime.net
-@@||code.jquery.com^$script,domain=add-anime.net
-@@||vjs.zencdn.net^$script,stylesheet,domain=add-anime.net
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=add-anime.net
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=add-anime.net
 ! el7l.tv
@@ -913,12 +893,9 @@ $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.s
 |http://$script,stylesheet,third-party,domain=movs4u.tv
 |https://$script,stylesheet,third-party,domain=movs4u.tv
 ! aflamyz.com
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=aflamyz.com
 |http://$script,third-party,domain=aflamyz.com
 |https://$script,third-party,domain=aflamyz.com
 ! faselhd.com
-@@||cdn.jsdelivr.net^$script,domain=faselhd.co|faselhd.com
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=faselhd.co|faselhd.com|t7meel.xyz
 |http://$script,third-party,domain=faselhd.co|faselhd.com|t7meel.xyz
 |https://$script,third-party,domain=faselhd.co|faselhd.com|t7meel.xyz
 ||faselhd.co/va/
@@ -926,14 +903,12 @@ $popup,~third-party,domain=egy.best|egybest.co|egybest.com|egybest.net|egybest.s
 |http://$script,third-party,xmlhttprequest,domain=9alami.info
 |https://$script,third-party,xmlhttprequest,domain=9alami.info
 ! aflamfree.site
-@@||ajax.googleapis.com/ajax/libs/$script,domain=aflamfree.site
 |http://$script,third-party,xmlhttprequest,domain=aflamfree.site
 |https://$script,third-party,xmlhttprequest,domain=aflamfree.site
 ! ya3ale.com
 |http://$script,subdocument,third-party,xmlhttprequest,domain=ya3ale.com
 |https://$script,subdocument,third-party,xmlhttprequest,domain=ya3ale.com
 ! freecccamnew.com
-@@||ajax.googleapis.com/ajax/libs/$script,domain=freecccamnew.com
 |http://$script,third-party,xmlhttprequest,domain=freecccamnew.com
 |https://$script,third-party,xmlhttprequest,domain=freecccamnew.com
 ! 1short.us
@@ -2155,6 +2130,13 @@ ce4arab.com#?#.vbmenu_popup + br + [id^="post"]:-abp-has(.thead:-abp-contains(ا
 @@||elmassar-ar.com/ara/ads/logo2010.swf
 @@||sogarab.com/ads/js/$script,stylesheet,domain=sogarab.com
 @@||xaddad.com/advertisers/$~third-party
+! Liste blanche pour corriger le blocage strict
+@@||ajax.googleapis.com/ajax/libs/$script,domain=aflamfree.site|almotamayeztech.com|arabictorrent.net|arablionz.tv|cima4up.tv|cimaclub.com|cimaclub.org|freecccamnew.com|micano4u.org|movizland.com|movizland.online|movizland.org|toofy.co|toofy.tv
+@@||bootstrapcdn.com/bootstrap/$script,third-party,domain=toofy.co|toofy.tv
+@@||cdn.jsdelivr.net^$script,domain=almotamayeztech.com|faselhd.co|faselhd.com
+@@||cloudflare.com/ajax/libs/$script,domain=$script,domain=aflamyz.com|almotamayeztech.com|cima4up.tv|cimaclub.com|cimaclub.org|egy.best|egybest.site|faselhd.co|faselhd.com|movizland.org|t7meel.xyz
+@@||code.jquery.com^$script,domain=add-anime.net
+@@||vjs.zencdn.net^$script,stylesheet,domain=add-anime.net
 !
 !----------------------- Exceptions d'éléments -----------------------!
 !
