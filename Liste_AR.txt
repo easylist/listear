@@ -212,7 +212,7 @@ _New_Ads.
 ##.ad970
 ##.adTtl
 ##.ad_banner728
-##.adblock:not(body)
+##.adblock:not(body):not(h1)
 ##.add_banner
 ##.add_banner2
 ##.ads-posting
