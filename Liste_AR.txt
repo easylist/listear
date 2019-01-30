@@ -219,6 +219,7 @@ _New_Ads.
 ##.ads1post
 ##.ads2post
 ##.ads300x600
+##.adsPostquare
 ##.ads_ar_wid
 ##.ads_en_wid
 ##.ads_sq
@@ -264,6 +265,8 @@ _New_Ads.
 ##.la-mob-ads-250x250
 ##.la-mob-ads-320x100
 ##.label-ads
+##.left-and-right-sponsers
+##.left-sponser-ad
 ##.leftAdsFix
 ##.leftAdsFix1
 ##.leftadsag
@@ -280,8 +283,11 @@ _New_Ads.
 ##.pub-wrapper
 ##.region-pub-widget
 ##.reyadiAdvs
+##.right-and-left-sponsers
+##.right-sponser-ad
 ##.rightAdsFix
 ##.rightAdsFix1
+##.rowAd
 ##.safeAreaAds
 ##.safeAreaLeftAds
 ##.safeAreaRightAds
