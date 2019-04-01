@@ -907,6 +907,9 @@ $websocket,domain=arabseed.tv|arawatch.tv|cera.online|cera.video|cinema4tv.com|k
 ! cera.online
 |http://$script,third-party,xmlhttprequest,domain=arawatch.tv|cera.online|cera.video
 |https://$script,third-party,xmlhttprequest,domain=arawatch.tv|cera.online|cera.video
+! 33sk.tv
+|http://$script,third-party,domain=33sk.tv
+|https://$script,third-party,domain=33sk.tv
 ! movs4u.tv
 |http://$script,stylesheet,third-party,domain=movs4u.tv
 |https://$script,stylesheet,third-party,domain=movs4u.tv
@@ -1048,6 +1051,7 @@ about:$popup,domain=akoam.com|akoam.net
 ||202020.net/x/arabtravelersforum.jpg
 ||202020.net/x/waynmsafercom.jpg
 ||222z.net/banners/
+||33sk.tv/ex/$popup
 ||3aram.com/exshow2.js
 ||3asfh.net/vb/js.php
 ||3asq.com/img/uploads/13560751771.swf?
@@ -1687,7 +1691,7 @@ about:$popup,domain=akoam.com|akoam.net
 ||zi-m.info/$subdocument,domain=zi-m.com
 ||zyzoom.net^*/ads/
 ! CSP filters
-||33sk.tv^$csp=script-src 'self'
+!
 !
 !----------------------- Éléments -----------------------!
 !
