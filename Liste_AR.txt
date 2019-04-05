@@ -911,8 +911,8 @@ $websocket,domain=arabseed.tv|arawatch.tv|cera.online|cera.video|cinema4tv.com|k
 |http://$script,third-party,xmlhttprequest,domain=arawatch.tv|cera.online|cera.video
 |https://$script,third-party,xmlhttprequest,domain=arawatch.tv|cera.online|cera.video
 ! 33sk.tv
-|http://$script,third-party,domain=33sk.tv
-|https://$script,third-party,domain=33sk.tv
+|http://$script,third-party,domain=33sk.tv|3sk.co
+|https://$script,third-party,domain=33sk.tv|3sk.co
 ! movs4u.tv
 |http://$script,stylesheet,third-party,domain=movs4u.tv
 |https://$script,stylesheet,third-party,domain=movs4u.tv
@@ -2175,7 +2175,7 @@ ce4arab.com#?#.vbmenu_popup + br + [id^="post"]:-abp-has(.thead:-abp-contains(ا
 @@||sogarab.com/ads/js/$script,stylesheet,domain=sogarab.com
 @@||xaddad.com/advertisers/$~third-party
 ! Liste blanche pour corriger le blocage strict
-@@||ajax.googleapis.com/ajax/libs/$script,domain=aflamfree.site|almotamayeztech.com|arabictorrent.net|arablionz.tv|cima4up.co|cima4up.tv|cimaclub.com|cimaclub.org|freecccamnew.com|micano4u.org|movizland.com|movizland.net|movizland.online|movizland.org|toofy.co|toofy.tv
+@@||ajax.googleapis.com/ajax/libs/$script,domain=3sk.co|aflamfree.site|almotamayeztech.com|arabictorrent.net|arablionz.tv|cima4up.co|cima4up.tv|cimaclub.com|cimaclub.org|freecccamnew.com|micano4u.org|movizland.com|movizland.net|movizland.online|movizland.org|toofy.co|toofy.tv
 @@||bootstrapcdn.com/bootstrap/$script,third-party,domain=toofy.co|toofy.tv
 @@||cdn.jsdelivr.net^$script,domain=almotamayeztech.com|faselhd.co|faselhd.com
 @@||cloudflare.com/ajax/libs/$script,domain=aflamyz.com|almotamayeztech.com|cima4up.co|cima4up.tv|cimaclub.com|cimaclub.org|edu-dz.com|faselhd.co|faselhd.com|movizland.net|movizland.org|t7meel.xyz
