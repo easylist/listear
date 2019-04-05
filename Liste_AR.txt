@@ -911,8 +911,8 @@ $websocket,domain=arabseed.tv|arawatch.tv|cera.online|cera.video|cinema4tv.com|k
 |http://$script,third-party,xmlhttprequest,domain=arawatch.tv|cera.online|cera.video
 |https://$script,third-party,xmlhttprequest,domain=arawatch.tv|cera.online|cera.video
 ! 33sk.tv
-|http://$script,third-party,domain=33sk.tv|3sk.co
-|https://$script,third-party,domain=33sk.tv|3sk.co
+|http://$script,stylesheet,third-party,domain=33sk.tv|3sk.co
+|https://$script,stylesheet,third-party,domain=33sk.tv|3sk.co
 ! movs4u.tv
 |http://$script,stylesheet,third-party,domain=movs4u.tv
 |https://$script,stylesheet,third-party,domain=movs4u.tv
