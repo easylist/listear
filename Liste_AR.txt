@@ -1295,10 +1295,7 @@ about:$popup,domain=akoam.com|akoam.net
 ||efa.com.eg/pres.jpg
 ||efa.com.eg/saib.jpg
 ||egfire.com/O.js
-||egy.best/click.$popup
 ||egy2day.com^$popup,domain=mazika2day.com
-||egybest.*/click.$popup
-||egybest.site/click.php$popup
 ||egylords.com/vb/images/bnar-games.gif
 ||egylords.com/vb/images/dir.gif
 ||egylords.com/vb/images/mosh.gif
