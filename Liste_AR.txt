@@ -256,6 +256,7 @@ _New_Ads.
 ##.fbAdsCont
 ##.fixedAd
 ##.fixedMpu
+##.header_add
 ##.hidden_pub
 ##.i3lan
 ##.la-ads-a-wide
