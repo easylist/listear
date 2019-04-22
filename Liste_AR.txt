@@ -1885,7 +1885,6 @@ makkahnews.net##.header_banner
 bramj.co,qwled.com##.headerbanner
 bokra.net##.hidden-xxs
 m2d.tv##.home_top
-tabuk-news.net##.img_thumb_banner
 msryh.com##.indexbnrleft
 filgoal.com##.inner_leaderboard
 bwabaa.blogspot.com##.kotak_iklan2
