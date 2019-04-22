@@ -1632,6 +1632,7 @@ about:$popup,domain=akoam.com|akoam.net
 ||shof.co.il/Public/image/*cube
 ||shofonline.org/megapop.js
 ||sigma4pc.com/Academy/wp-content/uploads/2017/05/%D9%81%D8%B1%D8%B5%D8%A9-
+||sigma4pc.com/Academy/wp-content/uploads/2018/11/55a9e51463bdac29dc503163da955861.png
 ||silkroad4arab.com/banner/
 ||skauu.com^$subdocument,domain=3mri-qtr.com
 ||sonara.net/banners/
