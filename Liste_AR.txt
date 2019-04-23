@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: +xhyA8XTW3TFIgIsoFhiww
-! Version: 201904231414
+! Checksum: QH5e6O2Ntyj2o4bQzMR5Jg
+! Version: 201904231526
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -403,6 +403,7 @@ _New_Ads.
 ||adoptim.com^$popup,third-party
 ||adzouktech.com^$popup,third-party
 ||barraceful.com^$popup,third-party
+||cdaz.icu^$popup,third-party
 ||ceidxneoogpuh.com^$popup,third-party
 ||celebritypranky.com^$popup,third-party
 ||dolohen.com^$popup
