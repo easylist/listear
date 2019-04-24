@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: v6s8QfivsU6bcpqJVc/BSw
-! Version: 201904241600
+! Checksum: 7oAPC2PGR3Z2kC2StKygdw
+! Version: 201904241630
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -914,8 +914,8 @@ $websocket,domain=arabseed.com|arabseed.tv|arawatch.tv|cera.online|cera.video|ci
 |http://$script,third-party,xmlhttprequest,domain=arawatch.tv|cera.online|cera.video
 |https://$script,third-party,xmlhttprequest,domain=arawatch.tv|cera.online|cera.video
 ! 33sk.tv
-|http://$script,stylesheet,third-party,domain=33sk.tv|3sk.co
-|https://$script,stylesheet,third-party,domain=33sk.tv|3sk.co
+|http://$script,stylesheet,third-party,domain=33sk.tv|3sk.co|3sk.io
+|https://$script,stylesheet,third-party,domain=33sk.tv|3sk.co|3sk.io
 ! movs4u.tv
 |http://$script,stylesheet,third-party,domain=movs4u.tv
 |https://$script,stylesheet,third-party,domain=movs4u.tv
@@ -2190,7 +2190,7 @@ ce4arab.com#?#.vbmenu_popup + br + [id^="post"]:-abp-has(.thead:-abp-contains(ا
 @@||sogarab.com/ads/js/$script,stylesheet,domain=sogarab.com
 @@||xaddad.com/advertisers/$~third-party
 ! Liste blanche pour corriger le blocage strict
-@@||ajax.googleapis.com/ajax/libs/$script,domain=3sk.co|aflamfree.site|almotamayeztech.com|arabictorrent.net|arablionz.tv|cima4up.co|cima4up.tv|cimaclub.com|cimaclub.org|freecccamnew.com|micano4u.org|movizland.com|movizland.net|movizland.online|movizland.org|toofy.co|toofy.tv
+@@||ajax.googleapis.com/ajax/libs/$script,domain=3sk.co|3sk.io|aflamfree.site|almotamayeztech.com|arabictorrent.net|arablionz.tv|cima4up.co|cima4up.tv|cimaclub.com|cimaclub.org|freecccamnew.com|micano4u.org|movizland.com|movizland.net|movizland.online|movizland.org|toofy.co|toofy.tv
 @@||bootstrapcdn.com/bootstrap/$script,third-party,domain=toofy.co|toofy.tv
 @@||cdn.jsdelivr.net^$script,domain=almotamayeztech.com|faselhd.co|faselhd.com
 @@||cloudflare.com/ajax/libs/$script,domain=aflamyz.com|almotamayeztech.com|cima4up.co|cima4up.tv|cimaclub.com|cimaclub.org|edu-dz.com|faselhd.co|faselhd.com|movizland.net|movizland.org|t7meel.xyz
