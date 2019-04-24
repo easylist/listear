@@ -841,6 +841,7 @@ $websocket,domain=arabseed.com|arabseed.tv|arawatch.tv|cera.online|cera.video|ci
 ! cimaclub.com
 |http://$script,third-party,xmlhttprequest,domain=cimaclub.com
 |https://$script,third-party,xmlhttprequest,domain=cimaclub.com
+||cimaclub.com/logo/$popup
 ! cima4up.tv
 |http://$script,third-party,xmlhttprequest,domain=cima4up.co|cima4up.tv
 |https://$script,third-party,xmlhttprequest,domain=cima4up.co|cima4up.tv
