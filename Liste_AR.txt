@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: scsXk7/YO3axQcfhNQ9luw
-! Version: 201904241502
+! Checksum: v6s8QfivsU6bcpqJVc/BSw
+! Version: 201904241600
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -899,8 +899,8 @@ $websocket,domain=arabseed.com|arabseed.tv|arawatch.tv|cera.online|cera.video|ci
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=aflam.io
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=aflam.io
 ! animelek.com
-|http://$script,third-party,xmlhttprequest,domain=animelek.com|animelek.net
-|https://$script,third-party,xmlhttprequest,domain=animelek.com|animelek.net
+|http://$script,stylesheet,third-party,xmlhttprequest,domain=animelek.com|animelek.net
+|https://$script,stylesheet,third-party,xmlhttprequest,domain=animelek.com|animelek.net
 ! egydead.com
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=egydead.com
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=egydead.com
@@ -966,7 +966,7 @@ $popup,third-party,domain=egy.best|egybest.site
 ! popads
 /^https?:\/\/www\.[a-z]{8,14}\.(bid|club|co|com|me)\/[a-z]{1,12}\.js$/$script,domain=aflam2you.com|alm5leb.com|an-online.com|animestarz.com|as2tv.com|cima4u.tv|cimaflash.tv|e5tsar.com|elmoslsal.com|filmey.tv|goodalot.tv|honadrama.me|kooralive.tv|lodynet.com|okanime.com|series4watch.online|series4watch.tv
 ! popup & popunder
-$popup,domain=aflamsexnek.com|aflamyz.com|an-online.com|anime2001.com|animelek.com|animelek.net|arabincest.com|cima4up.co|cima4up.tv|e5tsar.com|kora-online.tv|mes001.blogspot.com|movizland.net|movizland.org
+$popup,domain=aflamsexnek.com|aflamyz.com|an-online.com|anime2001.com|animelek.net|arabincest.com|cima4up.co|cima4up.tv|e5tsar.com|kora-online.tv|mes001.blogspot.com|movizland.net|movizland.org
 about:$popup,domain=akoam.com|akoam.net
 ! images hosting
 ||1.bp.blogspot.com/-FguLQWZuqI8/XGq4sO7EyAI/AAAAAAAAevI/XTxfTZu0IbQxh5vtzYujvVDTjz7S8_WngCK4BGAYYCw/s1600/43059068_2078749625478306_5503711937956937728_n.jpg
