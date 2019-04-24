@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 7oAPC2PGR3Z2kC2StKygdw
-! Version: 201904241630
+! Checksum: rCXE7mX315G+IYDEnlBDEA
+! Version: 201904241733
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -181,7 +181,12 @@ _New_Ads.
 ##.Ads-PostTop
 ##.Bottom-Ad
 ##.Middle-Ad
+##.Seo-plus-Ads
 ##.Top-Ad
+##.a3lan-Center
+##.a3lan-end
+##.a3lan-related
+##.a3lan-top
 ##.ad-id_
 ##.ad-id_shortcode
 ##.ad-lft
@@ -342,6 +347,7 @@ _New_Ads.
 ##div[class^="ad-id_shortcode"]
 ##div[id^="POSTQUARE_WIDGET"]
 ##div[id^="adSlot-inPage"]
+##div[id^="ads-postbr"]
 ##img[alt="إعلان"][height="60"]
 ##img[alt="إعلان"][width="150"]
 ##img[alt^="مساحة اعلانية"]
@@ -633,6 +639,9 @@ $websocket,domain=arabseed.com|arabseed.tv|arawatch.tv|cera.online|cera.video|ci
 ||hostgator.com^*/banners/
 ||hotelscombined.com/Affiliate/Widgets/
 ||i.imgur.com/7I3wwJb.gif
+||i.imgur.com/FH1ouqd.png
+||i.imgur.com/qYSt3ut.jpg
+||i.imgur.com/YFMkt8N.gif
 ||i39.servimg.com/u/f39/17/77/85/37/691110.gif
 ||i61.servimg.com/u/f61/13/31/64/02/banner10.jpg
 ||i61.tinypic.com/3343gnl.gif
