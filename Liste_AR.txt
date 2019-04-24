@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: tTqpsLvIzQ78w0iF9edtUA
-! Version: 201904241324
+! Checksum: scsXk7/YO3axQcfhNQ9luw
+! Version: 201904241502
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -839,8 +839,8 @@ $websocket,domain=arabseed.com|arabseed.tv|arawatch.tv|cera.online|cera.video|ci
 |http://$script,third-party,domain=hd-arab.com
 |https://$script,third-party,domain=hd-arab.com
 ! cimaclub.com
-|http://$script,third-party,xmlhttprequest,domain=cimaclub.com
-|https://$script,third-party,xmlhttprequest,domain=cimaclub.com
+|http://$script,stylesheet,third-party,xmlhttprequest,domain=cimaclub.com
+|https://$script,stylesheet,third-party,xmlhttprequest,domain=cimaclub.com
 ||cimaclub.com/logo/$popup
 ! cima4up.tv
 |http://$script,third-party,xmlhttprequest,domain=cima4up.co|cima4up.tv
@@ -2195,6 +2195,7 @@ ce4arab.com#?#.vbmenu_popup + br + [id^="post"]:-abp-has(.thead:-abp-contains(ا
 @@||cdn.jsdelivr.net^$script,domain=almotamayeztech.com|faselhd.co|faselhd.com
 @@||cloudflare.com/ajax/libs/$script,domain=aflamyz.com|almotamayeztech.com|cima4up.co|cima4up.tv|cimaclub.com|cimaclub.org|edu-dz.com|faselhd.co|faselhd.com|movizland.net|movizland.org|t7meel.xyz
 @@||code.jquery.com^$script,domain=add-anime.net
+@@||fonts.googleapis.com^$stylesheet,domain=cimaclub.com
 @@||vjs.zencdn.net^$script,stylesheet,domain=add-anime.net
 @@||www.blogger.com/feeds/$script,domain=edu-dz.com
 @@||www.blogger.com/static/$script,domain=edu-dz.com
