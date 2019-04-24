@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: QH5e6O2Ntyj2o4bQzMR5Jg
-! Version: 201904231526
+! Checksum: tTqpsLvIzQ78w0iF9edtUA
+! Version: 201904241324
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -949,6 +949,15 @@ $websocket,domain=arabseed.com|arabseed.tv|arawatch.tv|cera.online|cera.video|ci
 ! arabseed.com
 |http://$script,third-party,xmlhttprequest,domain=arabseed.com|arabseed.tv
 |https://$script,third-party,xmlhttprequest,domain=arabseed.com|arabseed.tv
+! egybest
+$popup,third-party,domain=egy.best|egybest.site
+@@/click.php$popup,~third-party,domain=egy.best|egybest.site
+@@||accounts.google.com^$popup,domain=egy.best|egybest.site
+@@||dolohen.com/?z=$popup,domain=egy.best|egybest.site
+@@||dolohen.com/afu.php?zoneid=$popup,domain=egy.best|egybest.site
+@@||greatdexchange.com/jump/next.php?r=$popup,domain=egy.best|egybest.site
+@@||ssl.egexa.com^$popup,domain=egy.best|egybest.site
+@@||www.facebook.com^$popup,domain=egy.best|egybest.site
 ! amazonaws.com
 ||amazonaws.com^$domain=aflam2you.com|alm5leb.com|an-online.com|animestarz.com|arbcinema.com|as2tv.com|cima4u.tv|cimaflash.tv|elmoslsal.com|filmey.tv|goodalot.tv|kooralive.tv|kora-online.tv|okanime.com|series4watch.online|series4watch.tv|wifi4games.com
 ! cloudfront.net
