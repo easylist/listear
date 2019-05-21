@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: OhPoRGywAPorv52s3JWqwA
-! Version: 201905210550
+! Checksum: 6jWaJt57A3rRQOCU2sOPWQ
+! Version: 201905210559
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -854,6 +854,7 @@ $websocket,domain=arabseed.com|arabseed.tv|arawatch.tv|cera.online|cera.video|ci
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=cimaclub.com
 ||cimaclub.com/logo/$popup
 ! cima4up.tv
+@@||m.filespeeds.com/index.php?link=$popup,domain=cima4up.co
 |http://$script,third-party,xmlhttprequest,domain=cima4up.co|cima4up.tv
 |https://$script,third-party,xmlhttprequest,domain=cima4up.co|cima4up.tv
 ! arabictorrent.net
