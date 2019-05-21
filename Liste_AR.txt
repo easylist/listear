@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: BMeryl2y23e1Zj8bQzQPvA
-! Version: 201905210233
+! Checksum: VfDysjTgT0IV6t9RrEF9YQ
+! Version: 201905210548
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -928,8 +928,8 @@ $websocket,domain=arabseed.com|arabseed.tv|arawatch.tv|cera.online|cera.video|ci
 |http://$script,stylesheet,third-party,domain=33sk.tv|3sk.co|3sk.io
 |https://$script,stylesheet,third-party,domain=33sk.tv|3sk.co|3sk.io
 ! movs4u.tv
-|http://$script,third-party,domain=movs4u.tv
-|https://$script,third-party,domain=movs4u.tv
+|http://$script,stylesheet,third-party,domain=movs4u.tv
+|https://$script,stylesheet,third-party,domain=movs4u.tv
 ! aflamyz.com
 |http://$script,third-party,domain=aflamyz.com
 |https://$script,third-party,domain=aflamyz.com
@@ -1534,6 +1534,7 @@ $popup,domain=aflamsexnek.com|aflamyz.com|an-online.com|anime2001.com|animelek.n
 ||montadaphp.net/hamada_banner.png
 ||montadaphp.net/images/banner.gif
 ||mouloudia.org/files/sponsors/
+||movs4u.tv/d/$popup
 ||mp3quran.net/fr/key2islam.gif
 ||mp3quran.net/fr/womeninislam.gif
 ||mtwer.com/files/14806.gif
@@ -2205,7 +2206,7 @@ ce4arab.com#?#.vbmenu_popup + br + [id^="post"]:-abp-has(.thead:-abp-contains(ا
 @@||cdn.jsdelivr.net^$script,domain=almotamayeztech.com|faselhd.co|faselhd.com
 @@||cloudflare.com/ajax/libs/$script,domain=aflamyz.com|almotamayeztech.com|cima4up.co|cima4up.tv|cimaclub.com|cimaclub.org|edu-dz.com|faselhd.co|faselhd.com|movizland.net|movizland.org|t7meel.xyz
 @@||code.jquery.com^$script,domain=add-anime.net
-@@||fonts.googleapis.com^$stylesheet,domain=cimaclub.com
+@@||fonts.googleapis.com^$stylesheet,domain=cimaclub.com|movs4u.tv
 @@||vjs.zencdn.net^$script,stylesheet,domain=add-anime.net
 @@||www.blogger.com/feeds/$script,domain=edu-dz.com
 @@||www.blogger.com/static/$script,domain=edu-dz.com
