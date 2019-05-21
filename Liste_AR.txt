@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: h+ayRPJD2i/2AI9uMmWfOg
-! Version: 201905210608
+! Checksum: 9GoggJtXk6N05FTHKUmBfg
+! Version: 201905210617
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -78,7 +78,7 @@
 /bnr_460.
 /bnr_728.
 /callads.
-/cdn-cgi/apps/head/*$script,domain=akoam.com|akoam.net|cima45.com
+/cdn-cgi/apps/head/*$script,domain=akoam.com|akoam.net|akoam.pro|cima45.com
 /code/?pid=
 /de/elan/*
 /delivery/*.php?zone=
@@ -446,7 +446,7 @@ _New_Ads.
 !
 !----------------------- Publicités tierces ----------------------!
 !
-$webrtc,domain=aflamfree.site|akoam.com|akoam.net|arablionz.online|arabseed.com|arabseed.tv|cinema4tv.com|egy.best|egybest.co|egybest.com|egybest.site|kora-live.tv|m2d.tv|mazika2day.com|okanime.com|rmdan.net|stivandz.com|wifi4games.com
+$webrtc,domain=aflamfree.site|akoam.com|akoam.net|akoam.pro|arablionz.online|arabseed.com|arabseed.tv|cinema4tv.com|egy.best|egybest.co|egybest.com|egybest.site|kora-live.tv|m2d.tv|mazika2day.com|okanime.com|rmdan.net|stivandz.com|wifi4games.com
 !
 $websocket,domain=arabseed.com|arabseed.tv|arawatch.tv|cera.online|cera.video|cinema4tv.com|kora-live.tv|m2d.tv|mazika2day.com|okanime.com|wifi4games.com|ya3ale.com
 !
@@ -837,8 +837,8 @@ $websocket,domain=arabseed.com|arabseed.tv|arawatch.tv|cera.online|cera.video|ci
 ||ps-0.com^$subdocument,third-party
 ||wirwaar.com^$subdocument,third-party
 ! akoam.com
-|http://$script,third-party,xmlhttprequest,domain=akoam.com|akoam.net|rmdan.net
-|https://$script,third-party,xmlhttprequest,domain=akoam.com|akoam.net|rmdan.net
+|http://$script,third-party,xmlhttprequest,domain=akoam.com|akoam.net|akoam.pro|rmdan.net
+|https://$script,third-party,xmlhttprequest,domain=akoam.com|akoam.net|akoam.pro|rmdan.net
 ! gdedak.tv
 |http://$script,third-party,domain=gdedak.tv
 |https://$script,third-party,domain=gdedak.tv
@@ -1995,7 +1995,7 @@ korabia.com##[class^="modal"]
 bloggerexp.com##[href="http://up.mosw3a.com"] > img
 bloggerexp.com##[href="http://www.mybbarab.com"] > img
 bloggerexp.com##[href^="http://bit.ly/"] > img
-akoam.com,akoam.net,rmdan.net##[id^="banner-"]
+akoam.com,akoam.net,akoam.pro,rmdan.net##[id^="banner-"]
 abuzersat.com##[id^="jcorner"]
 al3abtab5.com##a > img[width="100"][height="35"]
 al3abtab5.com##a > img[width="100"][height="40"]
