@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: XfVBuv9kll48lPYi6FfV2A
-! Version: 201905210957
+! Checksum: SXevXTJvOYyjUaeRp+VCaw
+! Version: 201905211006
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -214,13 +214,16 @@ _New_Ads.
 ##.ad-type_code
 ##.ad160left
 ##.ad160right
+##.ad220
 ##.ad250250
+##.ad720
 ##.ad970
 ##.adTtl
 ##.ad_banner728
 ##.adblock:not(body):not(h1)
 ##.add_banner
 ##.add_banner2
+##.ade160
 ##.ads-posting
 ##.ads1post
 ##.ads2post
@@ -299,11 +302,13 @@ _New_Ads.
 ##.safeAreaLeftAds
 ##.safeAreaRightAds
 ##.sideColAds
+##.sidea-ad
 ##.srapad
 ##.srapad_bg
 ##.to-ad-text
 ##.top_ad-tw
 ##.top_small_ad
+##.topa-ad
 ##.widget-custom-ads
 ##.widget_a4h_ads
 ##.widget_widget_pub
@@ -1427,6 +1432,7 @@ $popup,domain=aflamsexnek.com|aflamyz.com|an-online.com|anime2001.com|animelek.n
 ||ibda3gate.com/vb/ebda3gate/img/banner.png
 ||ibda3gate.com/vb/ebda3gate/img/banner2.png
 ||img.dev-point.com/imgcache/2014/12/831970.gif
+||img.gem-flash.com/images/27717855529074681287.gif
 ||img.gem-flash.com/images/51428347088205203468.gif
 ||img.youm7.com/PlugInImages/120192591552298.jpg
 ||img.youm7.com/PlugInImages/1201927113322462.jpg
@@ -2116,6 +2122,7 @@ bh-gn.com##img[alt="ضع إعلانك هنا"]
 algeriamax.com##img[alt="مساحة إعلانية"]
 absba.org##img[alt^="اعلان"]
 qariya.info##img[height="100"][width="480"]
+gem-flash.com##img[height="280"][width="336"]
 silkroad4arab.com##img[height="60"]
 nilemotors.net##img[height="60"][width\"468\"]
 wed-alqlop.com##img[height="600"][width="160"]
