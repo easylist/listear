@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: kksJCjXaMYsBhRL0PEqz2w
-! Version: 201905240137
+! Checksum: TyTcvQD5oWvu4YNYXIqcjA
+! Version: 201905270229
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1320,6 +1320,7 @@ $popup,domain=aflamsexnek.com|aflamyz.com|an-online.com|anime2001.com|animelek.n
 ||dzecole.com^$popup,domain=bacdz.org
 ||dzgsm.com/vb/pub/
 ||e-mailaat.com/banarat/
+||e-tejara.com/wp-content/uploads/2019/05/C81B93F8-3B2E-47F9-9335-0BB44AAEF5F9.jpeg
 ||e3lanat.cc^$popup,domain=aflamy.com
 ||e5tsar.com/lib/script.js
 ||eaglepro.net^$popup,domain=bramjnet.com
@@ -2069,6 +2070,7 @@ travelzad.com##a[href^="http://www.travelzad.com/vb/ads.php?id="]
 cera.video##a[href^="https://blog.vesload.com/"]
 hona24.com##a[href^="https://docs.google.com/"]
 arabseed.tv##a[href^="https://elfishawy.com"]
+e-tejara.com##a[href^="https://www.expandcart.com/"]
 aljarida.com.tn##a[href^="https://www.ma-pub-ici.com/"]
 mothhelah.com##a[href^="index.php?op=ad_click"]
 mtwer.com##a[onclick^="_gaq.push(['_trackEvent', 'Outgoing',"]
