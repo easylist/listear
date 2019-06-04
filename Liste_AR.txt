@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: GAgACd76HdEtfDlaDOacIg
-! Version: 201906031525
+! Checksum: ai0OIrmNrJCmCbiciNHwoA
+! Version: 201906042045
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1131,8 +1131,6 @@ $popup,domain=aflamsexnek.com|aflamyz.com|an-online.com|anime2001.com|animelek.n
 ||akhbarelyom.com/UP/farid/
 ||akhersaa-dz.com/files/banners/
 ||aksalser.com/e/$object
-||al-fadjr.com/ar/img/summary_medium/SURFpetite_974111832.jpg
-||al-fadjr.com^*/banners/
 ||al-khaleeg.com^*/banner_small/
 ||al-shellah.com/ta7a.gif
 ||al-wlid.com/awsanmm2.js
@@ -1747,7 +1745,6 @@ europages.ma###article-apbox
 al-wrwd.com###bannbox
 touteslesrecettes.fr,yallashare.com###banner
 kawalisse.com###bannerHead
-al-fadjr.com###banner_container
 btalah.com###banner_dsnr
 alresh.com###bannera
 alresh.com###bannerb
