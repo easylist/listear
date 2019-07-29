@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: /7Qr7X4PmQfbFBx4HAq4wg
-! Version: 201907291800
+! Checksum: Y3dB4ZE/0rGd8dFtigyCWw
+! Version: 201907291916
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -267,6 +267,9 @@ _New_Ads.
 ##.fixedMpu
 ##.header_add
 ##.hidden_pub
+##.homepage_ad_half
+##.homepage_ad_lower_leaderboard
+##.homepage_ads_topspot
 ##.i3lan
 ##.la-ads-a-wide
 ##.la-ads-b-rec
@@ -393,6 +396,7 @@ _New_Ads.
 ||ilovemobi.com^$third-party
 ||kaprila.com^$third-party
 ||kimia.es^$third-party
+||mpi.ps^$third-party
 ||ornaki.com^$third-party
 ||popupplus.ir^$third-party
 ||postquare.com^$third-party
