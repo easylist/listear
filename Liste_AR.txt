@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: qE4ojqOuIIuBZIrHK/Uw2Q
-! Version: 201907252200
+! Checksum: /7Qr7X4PmQfbFBx4HAq4wg
+! Version: 201907291800
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1316,6 +1316,8 @@ $popup,domain=aflamsexnek.com|aflamyz.com|an-online.com|anime2001.com|arabincest
 ||dotmsr.com/images/pod320x100.jpg
 ||dramacafe.tv/dramacafe.js
 ||dreambox-tunisie.com/vb/500.gif
+||dzair-tube.com/wp-content/uploads/2019/07/DT.gif
+||dzair-tube.com/wp-content/uploads/2019/07/sss.gif
 ||dzairfoot.tv/wp-content/uploads/2018/05/32508759_10216321451693362_3637876070381780992_n.gif
 ||dzayerinfo.com/ar/wp-content/uploads/*/AvaTrade.jpg
 ||dzayerinfo.com/ar/wp-content/uploads/*/publ.jpg
@@ -2197,7 +2199,7 @@ badrsat.com##img[width="620"][height="300"]
 silkroad4arab.com##img[width="625"]
 jo-sharing.com##img[width="700"][height="120"]
 silkroad4arab.com##img[width="720"]
-202020.net,alamelarab.com,arablionz.online,arabseed.co,arabseed.com,arabseed.tv,foxpic.com,mye.gy,myegy.cc,myegy.tv,myegy.xyz,novriko.com,zi-m.com##img[width="728"][height="90"]
+202020.net,alamelarab.com,arablionz.online,arabseed.co,arabseed.com,arabseed.tv,dzair-tube.com,foxpic.com,mye.gy,myegy.cc,myegy.tv,myegy.xyz,novriko.com,zi-m.com##img[width="728"][height="90"]
 chtoukapress.com##img[width="728px"][height="100px"]
 qatarshares.com##img[width="804"][height="80"]
 ech-chaab.net##img[width="820"][height="159"]
