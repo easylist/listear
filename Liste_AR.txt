@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Y3dB4ZE/0rGd8dFtigyCWw
-! Version: 201907291916
+! Checksum: olRNDXU83ITmo+IhptrnHw
+! Version: 201907292005
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -34,6 +34,7 @@
 .net.ar/ads/
 .org.eg/ads/
 .ps/adds/
+.ps/ads/
 /%d8%a5%d8%b9%d9%84%d8%a7%d9%86-
 /%D8%A7%D8%B9%D9%84%D8%A7%D9%86-
 /%D8%A7%D8%B9%D9%84%D8%A7%D9%86.
@@ -1903,7 +1904,7 @@ bokra.net##.aside-banner
 marocannonces.com##.baner
 games-flash.be##.bann
 3-tp.com,ta7a.com##.bannbox
-7chaterz.com,akhbarona.com,alayam.com,alwafd.news,alwafd.org,app-6taat.com,arabchaterz.com,darendeal.com,ounousa.com##.banner
+7chaterz.com,akhbarona.com,alayam.com,alwafd.news,alwafd.org,app-6taat.com,arabchaterz.com,darendeal.com,ounousa.com,shasha.ps##.banner
 mediamasr.tv##.banner-area
 bokra.net##.banner-desktop
 makkahnews.net##.banner-home
@@ -2026,6 +2027,7 @@ bokra.net##.twoBanners
 almountakhab.com##.wallpaper-link
 ylla.net##.warpbun
 akhbarelyom.com##.widget div[style$=";top: 100px;width: 120px;"]
+shasha.ps##.widget-banner
 dzjobs.net##.wiki
 arabia.com##.ykaleader
 dreambox-tunisie.com##.yourcolor-main
