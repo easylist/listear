@@ -1183,6 +1183,11 @@ $popup,domain=aflamsexnek.com|aflamyz.com|an-online.com|anime2001.com|arabincest
 ||almountakhab.com^*/img/pub/
 ||almstba.com/Pic/Alexa.gif
 ||alnaddy.com^*.php?$popup
+||alnafiza.ps/img/0lWTq.jpg
+||alnafiza.ps/img/DOqDi.jpg
+||alnafiza.ps/img/gn6l4.jpg
+||alnafiza.ps/img/TOtNV.png
+||alnafiza.ps/img/X3R4c.jpg
 ||alnda.com/13.gif
 ||alquds.co.uk/fx1.htm
 ||alquds.co.uk/fx2.htm
@@ -1875,7 +1880,7 @@ souq.com##.ad1
 souq.com##.ad2
 egy4up.net,gornalak.com##.ad_left
 egy4up.net,gornalak.com##.ad_right
-arabictorrent.net,bein-koora.net,cima4u.tv,informatique-phone.com,mrabuali.com,nilemotors.net,proteachin.com##.ads
+alnafiza.ps,arabictorrent.net,bein-koora.net,cima4u.tv,informatique-phone.com,mrabuali.com,nilemotors.net,proteachin.com##.ads
 arab-eng.org##.adsensarab2
 linkat-online.com##.adss_left
 ahram.org.eg,ashwagi.com,fll2.com,mobdi3ine.net,op-arab.com,shofha.com,silkroad4arab.com,swarih.com,y4yy.com,yallabina.com##.adv
