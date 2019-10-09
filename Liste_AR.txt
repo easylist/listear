@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: VOkGaBxnOvATXU3RlWPgqw
-! Version: 201909251541
+! Checksum: Sw5p4p2T5TdFS8Y33CoFJw
+! Version: 201910091309
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -275,6 +275,8 @@ _New_Ads.
 ##.homepage_ad_lower_leaderboard
 ##.homepage_ads_topspot
 ##.i3lan
+##.iklan-kanan
+##.iklan-kiri
 ##.la-ads-a-wide
 ##.la-ads-b-rec
 ##.la-ads-b-wide
@@ -1283,6 +1285,7 @@ $popup,domain=aflamsexnek.com|aflamyz.com|an-online.com|anime2001.com|arabincest
 ||bdr130.net^*/bdr130_popup/
 ||bdr130.net^*/bnr1/
 ||bentvip.com/up/20120511032813.gif
+||bernama.com^*/banner/
 ||bit.ly^$popup,domain=arbcinema.com|ultshare.com|videosexphoto.com
 ||blogspot.ae^$popup,domain=cima4u.tv
 ||blogspot.com/-ZGaEt5qQ2Sw/*/*D8%A7%D8%B4%2B160%2B600.png
@@ -2062,6 +2065,7 @@ arabs-up.com##a > img[width="585"][height="80"]
 afriqa-sat.com##a > img[width="624"][height="60"]
 al3abtab5.com##a > img[width="70"][height="35"]
 dzayerinfo.com,masrawysat.com##a > img[width="728"][height="90"]
+bernama.com##a[class^="banner_photo_"]
 m-4u.net##a[class^="hcne_ads"]
 ibda3gate.com##a[href*="/Direct Link.html"]
 ckfu.org##a[href*="/ads.php?"]
