@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: yWmdeMoQz84V8CFdLl4VfA
-! Version: 201910180040
+! Checksum: fzJRZZZcPsRJ5bfTsFqpSw
+! Version: 201910201804
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -223,7 +223,7 @@ _New_Ads.
 ##.ad970
 ##.adTtl
 ##.ad_banner728
-##.adblock:not(body):not(h1)
+##.adblock:not(html):not(body):not(h1)
 ##.add_banner
 ##.add_banner2
 ##.ade160
