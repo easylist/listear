@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: gCnsBj4eHB6+xt1RMat/PQ
-! Version: 201912250141
+! Checksum: 4h0JoM6OVHrvFYjiUKpn3w
+! Version: 202001072252
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -2293,6 +2293,7 @@ ce4arab.com#?#.vbmenu_popup + br + [id^="post"]:-abp-has(.thead:-abp-contains(ا
 @@||vjs.zencdn.net^$script,stylesheet,domain=add-anime.net
 @@||www.blogger.com/feeds/$script,domain=chahid4u.tk|edu-dz.com
 @@||www.blogger.com/static/$script,domain=chahid4u.tk|edu-dz.com
+@@||www.elmstba.tv/templates/almstba/$script,stylesheet,domain=almstba.tv
 !
 !----------------------- Exceptions d'éléments -----------------------!
 !
