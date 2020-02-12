@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: IOn08db4F1M2Bz9DOw8MFQ
-! Version: 202001271953
+! Checksum: PjdATxkaJAGa2WjcKeNS5g
+! Version: 202002120154
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1926,6 +1926,7 @@ egy4up.net,gornalak.com##.ad_left
 egy4up.net,gornalak.com##.ad_right
 alnafiza.ps,arabictorrent.net,bein-koora.net,cima4u.tv,informatique-phone.com,mrabuali.com,nilemotors.net,proteachin.com##.ads
 arab-eng.org##.adsensarab2
+4read.net##.adsense
 linkat-online.com##.adss_left
 ahram.org.eg,ashwagi.com,fll2.com,mobdi3ine.net,op-arab.com,shofha.com,silkroad4arab.com,swarih.com,y4yy.com,yallabina.com##.adv
 akhbarelyom.com##.adv3960
