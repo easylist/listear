@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: PjdATxkaJAGa2WjcKeNS5g
-! Version: 202002120154
+! Checksum: pLWDaF314vhqUyS/0aEbRg
+! Version: 202002131237
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -970,7 +970,7 @@ $stylesheet,third-party,domain=almstba.tv|cima4u.tv|hawak.tv|rotana.video|shahid
 ! cloudfront.net
 ||cloudfront.net^$domain=aflam2you.com|alm5leb.com|an-online.com|animestarz.com|arbcinema.com|as2tv.com|cimaflash.tv|elmoslsal.com|filmey.tv|goodalot.tv|kooralive.tv|kora-online.tv|series4watch.online|series4watch.tv|wifi4games.com
 ! popads
-/^https?:\/\/www\.[a-z]{8,14}\.(bid|club|co|com|me)\/[a-z]{1,12}\.js$/$script,domain=aflam2you.com|alm5leb.com|an-online.com|animestarz.com|as2tv.com|cima4u.tv|cimaflash.tv|e5tsar.com|elmoslsal.com|filmey.tv|goodalot.tv|honadrama.me|kooralive.tv|series4watch.online|series4watch.tv
+/^https?:\/\/www\.[a-z]{8,14}\.(bid|club|co|com|me)\/[a-z]{1,12}\.js$/$script,domain=aflam2you.com|alm5leb.com|an-online.com|animestarz.com|as2tv.com|cimaflash.tv|e5tsar.com|elmoslsal.com|filmey.tv|goodalot.tv|honadrama.me|kooralive.tv|series4watch.online|series4watch.tv
 ! popup & popunder
 $popup,domain=aflamsexnek.com|aflamyz.com|an-online.com|anime2001.com|arabincest.com|cima4up.co|cima4up.tv|e5tsar.com|kora-online.tv|mes001.blogspot.com|movizland.net|movizland.org
 ! images hosting
@@ -1332,6 +1332,7 @@ $popup,domain=aflamsexnek.com|aflamyz.com|an-online.com|anime2001.com|arabincest
 ||chadafm.net/images/pub/
 ||chadafm.net/images/stories/ban-605x106.gif
 ||christian-dogma.com^*/banners/
+||cima4u.tv/template/$popup
 ||ckfu.org/newbnr/
 ||ckfu.org/pic4u/uploads/ckfu1508122885021.gif
 ||clasicooo.com/pic/bd1.gif
