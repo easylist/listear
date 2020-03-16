@@ -918,6 +918,8 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|cima4up.c
 |http://$script,third-party,domain=arablionz.online
 |https://$script,third-party,domain=arablionz.online
 ! shahid.mbc.net
+@@||cdns.gigya.com/js/gigya.js?$script,domain=shahid.mbc.net
+@@||shahid.mbc.net^$generichide
 |http://$script,third-party,domain=shahid.mbc.net
 |https://$script,third-party,domain=shahid.mbc.net
 ! cera.online
