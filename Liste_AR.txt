@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: LNArUoDgrHZR3IshRW4hFA
-! Version: 202003170350
+! Checksum: nkLT3sTXRy43LJc1cHyrmw
+! Version: 202003181825
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -412,6 +412,7 @@ _New_Ads.
 ||fortvision.com^$third-party
 ||ftd.agency^$third-party
 ||hoood.info^$third-party
+||idelv.net^$third-party
 ||idsly.com^$third-party
 ||ilovemobi.com^$third-party
 ||kaprila.com^$third-party
@@ -431,6 +432,7 @@ _New_Ads.
 ||teeet.net^$third-party
 ||trinylium.com^$third-party
 ||unamoney.site^$third-party
+||user-api.com^$third-party
 ||valshara.com^$third-party
 ||windailyprizes.info^$third-party
 ||yakiyo.club^$third-party
@@ -491,7 +493,7 @@ $websocket,domain=arabseed.co|arabseed.com|arabseed.tv|arawatch.tv|cera.online|c
 !
 |blob:$domain=arawatch.tv|cera.online|cera.video
 !
-$script,third-party,domain=aflam2you.com|alm5leb.com|almstba.tv|almstbatv.com|animestarz.com|arabe-media.com|arabincest.com|aradramatv.co|cima4u.tv|e5tsar.com|elmoslsal.com|emotionvideo-tv.com|filmey.tv|hawak.tv|honadrama.me|jaewinter.co|kooralive.tv|kora-online.tv|lodynet.tv|okanime.com|rotana.video|s4w.tv|series4watch.online|shahid4u.com|shahid4u.net
+$script,third-party,domain=aflam2you.com|alm5leb.com|almstba.tv|almstbatv.com|animestarz.com|arabe-media.com|arabincest.com|aradramatv.co|cima4u.tv|e5tsar.com|elmoslsal.com|emotionvideo-tv.com|fel3arda.com|fel3arda.net|filmey.tv|hawak.tv|honadrama.me|jaewinter.co|kooralive.tv|kora-online.tv|lodynet.tv|okanime.com|rotana.video|s4w.tv|series4watch.online|shahid4u.com|shahid4u.net
 !
 $third-party,xmlhttprequest,domain=almstba.tv|almstbatv.com|cima4u.tv|emotionvideo-tv.com|hawak.tv|lodynet.tv|rotana.video|shahid4u.com|shahid4u.net
 !
@@ -2284,20 +2286,23 @@ ce4arab.com#?#.vbmenu_popup + br + [id^="post"]:-abp-has(.thead:-abp-contains(ا
 @@||sogarab.com/ads/js/$script,stylesheet,domain=sogarab.com
 @@||xaddad.com/advertisers/$~third-party
 ! Liste blanche pour corriger le blocage strict
-@@||ajax.googleapis.com/ajax/libs/$script,domain=3sk.co|3sk.io|aflamfree.site|almotamayeztech.com|almstbatv.com|arabe-media.com|arabictorrent.net|arablionz.tv|chahid4u.tk|cima4up.co|cima4up.tv|cimaclub.com|cimaclub.org|elmoslsal.com|emotionvideo-tv.com|freecccamnew.com|hawak.tv|lodynet.tv|micano4u.org|movizland.com|movizland.net|movizland.online|movizland.org|okanime.com|rotana.video|toofy.co|toofy.tv
+@@||ajax.googleapis.com/ajax/libs/$script,domain=3sk.co|3sk.io|aflamfree.site|almotamayeztech.com|almstbatv.com|arabe-media.com|arabictorrent.net|arablionz.tv|chahid4u.tk|cima4up.co|cima4up.tv|cimaclub.com|cimaclub.org|elmoslsal.com|emotionvideo-tv.com|fel3arda.com|fel3arda.net|freecccamnew.com|hawak.tv|lodynet.tv|micano4u.org|movizland.com|movizland.net|movizland.online|movizland.org|okanime.com|rotana.video|toofy.co|toofy.tv
 @@||api.peer5.com^$script,domain=arabe-media.com
-@@||bootstrapcdn.com/bootstrap/$script,stylesheet,third-party,domain=almstbatv.com|emotionvideo-tv.com|hawak.tv|rotana.video|toofy.co|toofy.tv
-@@||cdn.jsdelivr.net^$script,domain=almotamayeztech.com|arabe-media.com|faselhd.co|faselhd.com
+@@||bootstrapcdn.com/bootstrap/$script,stylesheet,third-party,domain=almstbatv.com|emotionvideo-tv.com|fel3arda.com|fel3arda.net|hawak.tv|rotana.video|toofy.co|toofy.tv
+@@||cdn.dashjs.org/latest/dash.all.min.js$script,domain=fel3arda.com
+@@||cdn.jsdelivr.net^$script,stylesheet,domain=almotamayeztech.com|arabe-media.com|faselhd.co|faselhd.com|fel3arda.com
 @@||cloudflare.com/ajax/libs/$script,domain=aflamyz.com|almotamayeztech.com|arabe-media.com|arabseed.com|cima4up.co|cima4up.tv|cimaclub.com|cimaclub.org|edu-dz.com|egybest2.com|egybest4.com|faselhd.co|faselhd.com|movizland.net|movizland.org|t7meel.xyz
 @@||code.jquery.com^$script,domain=aflam2you.com|almstbatv.com|egybest2.com|egybest4.com|emotionvideo-tv.com|hawak.tv|rotana.video
 @@||disqus.com/embed.js$script,domain=alm5leb.com|animelek.net
 @@||disquscdn.com^$script,domain=alm5leb.com|animelek.net
+@@||fel3arda.net/searchjs.js$script,domain=fel3arda.com
 @@||fontawesome.com^$stylesheet,domain=cimaclub.com
 @@||fonts.googleapis.com^$stylesheet,domain=3sk.co|almstbatv.com|cimaclub.com|hawak.tv|movs4u.tv|rotana.video
 @@||jwpsrv.com/library/$script,domain=kora-online.tv
+@@||vjs.zencdn.net^$script,domain=fel3arda.com
 @@||vjs.zencdn.net^$script,stylesheet,domain=kora-online.tv
 @@||www.blogger.com/feeds/$script,domain=chahid4u.tk|edu-dz.com
-@@||www.blogger.com/static/$script,domain=chahid4u.tk|edu-dz.com
+@@||www.blogger.com/static/$script,domain=chahid4u.tk|edu-dz.com|fel3arda.com
 @@||www.elmstba.tv/templates/almstba/$script,stylesheet,domain=almstbatv.com
 !
 !----------------------- Exceptions d'éléments -----------------------!
