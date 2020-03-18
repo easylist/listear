@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: nfr8PvMB2ceLcA5leiI+JA
-! Version: 202003181826
+! Checksum: TvrrBQEEhYL/vwJ/D7EYRg
+! Version: 202003181827
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -415,6 +415,7 @@ _New_Ads.
 ||idelv.net^$third-party
 ||idsly.com^$third-party
 ||ilovemobi.com^$third-party
+||jubnaadserve.com^$third-party
 ||kaprila.com^$third-party
 ||ketshwa.com^$third-party
 ||kimia.es^$third-party
