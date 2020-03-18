@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: TvrrBQEEhYL/vwJ/D7EYRg
-! Version: 202003181827
+! Checksum: WxyNcbW9BixQIFsk0L7flg
+! Version: 202003181838
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -114,6 +114,7 @@
 /ir/ads/*
 /mpu_dfp.
 /nugg-ad-
+/opensooqads.
 /png%2Bad.
 /productbox.*?zone=$third-party
 /projectagora.min.js
@@ -183,6 +184,7 @@ _New_Ads.
 ###mpuAfter
 ###readmoreads
 ###region-pub-top-wrapper
+###rightBannerGoogleAd
 ###zwaar_ad_id
 ###zwaar_float_ad_area
 ##.AD_Dynamic
@@ -232,6 +234,7 @@ _New_Ads.
 ##.add_banner
 ##.add_banner2
 ##.ade160
+##.ads-h-100
 ##.ads-posting
 ##.ads1post
 ##.ads2post
@@ -370,6 +373,7 @@ _New_Ads.
 ##aside[id^="custom-ads-"]
 ##div[class^="ad-id_ad_"]
 ##div[class^="ad-id_shortcode"]
+##div[class^="ads-area-"]
 ##div[id^="POSTQUARE_WIDGET"]
 ##div[id^="adSlot-inPage"]
 ##div[id^="ads-postbr"]
@@ -586,6 +590,7 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|cima4up.c
 ||arjwana.com/468*.gif
 ||assistirseries.net/al/pag*.html
 ||awtad.com/www/
+||b-cdn.net/uploads/banners_model/
 ||b8cdn.com^*/affiliate-
 ||babal.net/tools/home.php?$third-party
 ||banathi.com/banathi*.
@@ -1929,7 +1934,7 @@ souq.com##.ad1
 souq.com##.ad2
 egy4up.net,gornalak.com##.ad_left
 egy4up.net,gornalak.com##.ad_right
-alnafiza.ps,arabictorrent.net,bein-koora.net,cima4u.tv,informatique-phone.com,mrabuali.com,nilemotors.net,proteachin.com##.ads
+alnafiza.ps,arabictorrent.net,bein-koora.net,cima4u.tv,informatique-phone.com,khaberni.com,mrabuali.com,nilemotors.net,proteachin.com##.ads
 arab-eng.org##.adsensarab2
 4read.net##.adsense
 linkat-online.com##.adss_left
@@ -1976,6 +1981,7 @@ alweeam.com.sa##.content-banner
 tadawlacademy.com##.cpro-form-container
 tadawlacademy.com##.cpro-onload
 masrawy.com,yallakora.com##.dealsoffer
+khaberni.com##.desktop-banners
 mye.gy##.disclaimer
 3a2ilati.com##.eshop-list
 arabs-up.com,arabsharing.com##.extras_footer
@@ -2017,6 +2023,7 @@ assayyarat.com##.md-overlay
 mediamasr.tv##.mediumbanner
 3rbup.com##.metaRedirectWrapperTop
 hawaaweb.com##.middle-banner
+khaberni.com##.mobile-banners
 ech-chaab.net##.module.mod-line.color-black.deepest
 elcinema.com##.movie-reserve-cinema
 skynewsarabia.com##.mpu
@@ -2096,7 +2103,7 @@ bernama.com##a[class^="banner_photo_"]
 m-4u.net##a[class^="hcne_ads"]
 ibda3gate.com##a[href*="/Direct Link.html"]
 ckfu.org##a[href*="/ads.php?"]
-arabseed.co,arabseed.com,arabseed.tv,arbcinema.com,ce4arab.com,edlibre.com,wattan.tv##a[href*="://bit.ly/"]
+arabseed.co,arabseed.com,arabseed.tv,arbcinema.com,ce4arab.com,edlibre.com,khaberni.com,wattan.tv##a[href*="://bit.ly/"]
 202020.net,algareda.com,arabseed.co,arabseed.com,arabseed.tv,cima4u.tv,sawasport.com##a[href*="://goo.gl/"]
 lakii.com##a[href*="ads-redirect.php?i="]
 egyfitness.com##a[href*="leadpages.co"]
