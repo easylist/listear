@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: O6YKqwT9zz67/ssk7iv0jQ
-! Version: 202003190051
+! Checksum: k8S5WtuJyKSBeetkFBv0ow
+! Version: 202003190107
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -288,6 +288,7 @@ _New_Ads.
 ##.fbAdsCont
 ##.fixedAd
 ##.fixedMpu
+##.getSponsored
 ##.header_add
 ##.hidden_pub
 ##.homepage_ad_half
@@ -331,6 +332,7 @@ _New_Ads.
 ##.safeAreaRightAds
 ##.sideColAds
 ##.sidea-ad
+##.sponsorDuplicate
 ##.srapad
 ##.srapad_bg
 ##.to-ad-text
@@ -1812,6 +1814,7 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|cima4up.c
 ||yaislam.com/menux160.html
 ||yalladrama.tv/js.php
 ||yalladrama.tv/player/Download-icon.gif
+||yallakora.com/images/geminisc.jpg
 ||ylla.net/bun.php?
 ||youm7.com/cairodar/index2.html
 ||youtube.com/watch?v=88eJwlVi898$popup,domain=alrealclub.com
@@ -2008,6 +2011,7 @@ sawasport.com##.full-width-banner
 youm7.com##.fullBanner
 filfan.com##.gads_MR
 almasryalyoum.com##.gam-holder
+yallakora.com##.geminiSC2Ad
 moheet.com##.gplus
 graaam.com##.haw
 makkahnews.net##.header_banner
