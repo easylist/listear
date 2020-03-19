@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: nkSHXzmjWE1aWSm0ujLZJg
-! Version: 202003190139
+! Checksum: 6Cc7m2+joM12s61F27gH4Q
+! Version: 202003190146
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1197,6 +1197,8 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|cima4up.c
 ||agadir24.info/khir.swf
 ||agadir24.info/minipain02.swf
 ||agadir24.info/pub.gif
+||aghanilyrics.com/adimage
+||aghanilyrics.com/adphone
 ||ahdath.info/wp-content/*/Pub%20banniere%20.jpg
 ||ahram.org.eg/Media/Banners/
 ||akhbarelyom.com/UP/farid/
@@ -2206,7 +2208,8 @@ fatakat.com##div[onclick*="window.open('http://xads.zedo.com/')"]
 yalladrama.tv##div[style$="height: 250px; width: 300px;"]
 cartoon3rbi.net##div[style*="width: 336px; height: 280px;"]
 cartoon3rbi.net##div[style*="width: 728px; height: 90px;"]
-aflamhq.com##div[style*="width:300px;height:250px;"]
+aghanilyrics.com##div[style*="width:160px;height:600px;"]
+aflamhq.com,aghanilyrics.com##div[style*="width:300px;height:250px;"]
 aflamhq.com##div[style*="width:600px;height:300px;"]
 aflamhq.com##div[style*="width:728px;height:90px;"]
 g5y.com##div[style="height:150px;"]
