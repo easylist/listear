@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: WxyNcbW9BixQIFsk0L7flg
-! Version: 202003181838
+! Checksum: O6YKqwT9zz67/ssk7iv0jQ
+! Version: 202003190051
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -51,6 +51,7 @@
 /adedinfo/*
 /adfuel-
 /adfuel/*
+/AdHead1.
 /ads.*&autoplay=
 /ads.*?vid=
 /ads/*/banners_
@@ -168,6 +169,8 @@ _New_Ads.
 ###ClicksAds
 ###ad4game728x90
 ###adLeftHolder
+###adOTPDesktop
+###adOTPMobile
 ###adRightHolder
 ###adSlot-inPage-300x250-left
 ###adSlot-inPage-728x90-top
@@ -228,9 +231,14 @@ _New_Ads.
 ##.ad250250
 ##.ad720
 ##.ad970
+##.adNavDesktop
+##.adNavMob
+##.adOTPDesktop
+##.adOTPMobile
 ##.adTtl
 ##.ad_banner728
 ##.adblock:not(html):not(body):not(h1)
+##.adbottomfixed
 ##.add_banner
 ##.add_banner2
 ##.ade160
@@ -428,6 +436,7 @@ _New_Ads.
 ||mpi.ps^$third-party
 ||notification-list.com^$third-party
 ||ornaki.com^$third-party
+||paht.tech^$third-party
 ||popupplus.ir^$third-party
 ||postquare.com^$third-party
 ||premaads.net^$third-party
@@ -1409,6 +1418,7 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|cima4up.c
 ||egyup.com^*/banner
 ||egyup.tv/images/left_dubizzle.png
 ||egyup.tv/images/right_dubizzle.png
+||el-ahly.com/bboxrm.htm
 ||el-massa.com^*/banners/
 ||eladjwaaonline.com^*/pub/
 ||elahdath.net/images/pub/
@@ -1932,6 +1942,9 @@ alhayat.com##.TopHeaderBanner
 elkhabar.com.tn##.ad-image
 souq.com##.ad1
 souq.com##.ad2
+el-ahly.com##.adAB
+el-ahly.com##.adBC
+el-ahly.com##.adCD
 egy4up.net,gornalak.com##.ad_left
 egy4up.net,gornalak.com##.ad_right
 alnafiza.ps,arabictorrent.net,bein-koora.net,cima4u.tv,informatique-phone.com,khaberni.com,mrabuali.com,nilemotors.net,proteachin.com##.ads
@@ -2103,7 +2116,7 @@ bernama.com##a[class^="banner_photo_"]
 m-4u.net##a[class^="hcne_ads"]
 ibda3gate.com##a[href*="/Direct Link.html"]
 ckfu.org##a[href*="/ads.php?"]
-arabseed.co,arabseed.com,arabseed.tv,arbcinema.com,ce4arab.com,edlibre.com,khaberni.com,wattan.tv##a[href*="://bit.ly/"]
+arabseed.co,arabseed.com,arabseed.tv,arbcinema.com,ce4arab.com,edlibre.com,el-ahly.com,khaberni.com,wattan.tv##a[href*="://bit.ly/"]
 202020.net,algareda.com,arabseed.co,arabseed.com,arabseed.tv,cima4u.tv,sawasport.com##a[href*="://goo.gl/"]
 lakii.com##a[href*="ads-redirect.php?i="]
 egyfitness.com##a[href*="leadpages.co"]
