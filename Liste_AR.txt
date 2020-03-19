@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: k8S5WtuJyKSBeetkFBv0ow
-! Version: 202003190107
+! Checksum: HT+m57ta6SO2M5lk78shdQ
+! Version: 202003190119
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -116,6 +116,7 @@
 /mpu_dfp.
 /nugg-ad-
 /opensooqads.
+/OuterAds.
 /png%2Bad.
 /productbox.*?zone=$third-party
 /projectagora.min.js
@@ -386,6 +387,7 @@ _New_Ads.
 ##div[class^="ads-area-"]
 ##div[id^="POSTQUARE_WIDGET"]
 ##div[id^="adSlot-inPage"]
+##div[id^="admixer_"]
 ##div[id^="ads-postbr"]
 ##img[alt="إعلان"][height="60"]
 ##img[alt="إعلان"][width="150"]
