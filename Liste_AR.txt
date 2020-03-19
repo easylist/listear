@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: HT+m57ta6SO2M5lk78shdQ
-! Version: 202003190119
+! Checksum: nkSHXzmjWE1aWSm0ujLZJg
+! Version: 202003190139
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -113,6 +113,7 @@
 /images/bnr_
 /images/mrad.
 /ir/ads/*
+/iskanAds/*
 /mpu_dfp.
 /nugg-ad-
 /opensooqads.
@@ -268,7 +269,9 @@ _New_Ads.
 ##.angular_advertisement
 ##.b_ad
 ##.b_ad480
+##.bestaAds_desktop
 ##.bloxad
+##.borderMobAds
 ##.box-s-ad
 ##.boxLeftAd
 ##.boxRightAd
@@ -289,6 +292,7 @@ _New_Ads.
 ##.fbAdsCont
 ##.fixedAd
 ##.fixedMpu
+##.float_ads
 ##.getSponsored
 ##.header_add
 ##.hidden_pub
@@ -2191,8 +2195,10 @@ shof.co.il##div[class*="banner"]
 shof.co.il##div[class*="bnr"]
 shof.co.il##div[class*="cube"]
 sunnewsnow.com##div[class][data-index][style]
+sarayanews.com##div[class^="ads"]
 mexat.com##div[class^="banner"]
 arbcinema.com##div[id*="fish_div"]
+sarayanews.com##div[id^="ads"]
 alqabas.com.kw##div[id^="azk"]
 masrytube.com##div[id^="bannerfloat"]
 eldjoumhouria.dz##div[id^="floating_"]
