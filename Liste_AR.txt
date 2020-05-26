@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: hSHp0mFij1IFslJ26n4ZIg
-! Version: 202005261752
+! Checksum: hw+6Zsu0cjo68DYsGHvfGA
+! Version: 202005261756
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -478,6 +478,7 @@ _New_Ads.
 ||dolohen.com^$popup
 ||eclkspbn.com^$popup,third-party
 ||eghtesadban.com^$popup,third-party
+||elmassar-ar.com^$popup
 ||finishclueobscure.info^$popup,third-party
 ||fullspeeddownload.com^$popup,third-party
 ||iafov.com^$popup,third-party
@@ -1462,7 +1463,6 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|cima4up.c
 ||elkhadra.com/HB.jpg
 ||elmaouid.com/images/stories/23-02-2012/300_a.gif
 ||elmaouid.com/images/stories/pub-twins-1.gif
-||elmassar-ar.com/*/img/pub.jpg
 ||elmassar-elarabi.com/wp-content/uploads/2018/10/i3lan.png
 ||elmihwar.com^*/banners/
 ||elmihwar.com^*/files/articles/divers/cevital.gif
@@ -2331,7 +2331,6 @@ ce4arab.com#?#.vbmenu_popup + br + [id^="post"]:-abp-has(.thead:-abp-contains(ا
 @@||betakonline.com/advertisements/securimage/
 @@||djelfa.info/dj_img/logo.gif
 @@||elhiwarnet.com/images/banners/meteo-hiwar.png
-@@||elmassar-ar.com/ara/ads/logo2010.swf
 @@||sogarab.com/ads/js/$script,stylesheet,domain=sogarab.com
 @@||xaddad.com/advertisers/$~third-party
 ! Liste blanche pour corriger le blocage strict
