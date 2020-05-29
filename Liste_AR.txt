@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: CE0h0qbROQ9+jWoy3aC+lQ
-! Version: 202005281741
+! Checksum: h6WHu4coPpjYhpnMHobnEg
+! Version: 202005291642
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1003,9 +1003,9 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|cima4up.c
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=egybest2.com|egybest4.com
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=egybest2.com|egybest4.com
 ! amazonaws.com
-||amazonaws.com^$domain=aflam2you.com|alm5leb.com|arbcinema.com|elmoslsal.com|wifi4games.com
+||amazonaws.com^$domain=aflam2you.com|alm5leb.com|arbcinema.com|elmoslsal.com|wifi4games.com|xsanime.com
 ! cloudfront.net
-||cloudfront.net^$domain=aflam2you.com|alm5leb.com|arbcinema.com|elmoslsal.com|wifi4games.com
+||cloudfront.net^$domain=aflam2you.com|alm5leb.com|arbcinema.com|elmoslsal.com|wifi4games.com|xsanime.com
 ! images hosting
 ||0zz0.com/2012/07/28/21/250712642.gif
 ||1.bp.blogspot.com/-FguLQWZuqI8/XGq4sO7EyAI/AAAAAAAAevI/XTxfTZu0IbQxh5vtzYujvVDTjz7S8_WngCK4BGAYYCw/s1600/43059068_2078749625478306_5503711937956937728_n.jpg
