@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: X/05qQDR8zHXjgaPo8t1fg
-! Version: 202005291726
+! Checksum: KYf1goqCXSjH+gjd6EdB/A
+! Version: 202005291751
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -505,6 +505,7 @@ _New_Ads.
 ||smintmouse.com^$popup,third-party
 ||theclickcheck.com^$popup,third-party
 ||tncrun.net^$popup,third-party
+||topflownews.com^$popup
 ||trinylium.com^$popup,third-party
 ||ublockerext.com^$popup,third-party
 ||valshara.com^$popup,third-party
@@ -1007,10 +1008,13 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|cima4up.c
 ||cloudfront.net^$domain=aflam2you.com|alm5leb.com|arbcinema.com|elmoslsal.com|wifi4games.com|xsanime.com
 ! images hosting
 ||0zz0.com/2012/07/28/21/250712642.gif
+||1.bp.blogspot.com/-4qnfLZW8Jqw/Wc0jfXvGMJI/AAAAAAAAACw/HoPkQ1c3rCM2waf4zfQP0FmTFMaaTYqdACLcBGAs/s1600/banner.gif
+||1.bp.blogspot.com/-Ck9g7_dCnbY/XamXSQvy5GI/AAAAAAAAAwA/5f10maIzx_MsqB65JjIgFHbfjFQ78X9TgCLcBGAsYHQ/s1600/yipido.jpg
 ||1.bp.blogspot.com/-FguLQWZuqI8/XGq4sO7EyAI/AAAAAAAAevI/XTxfTZu0IbQxh5vtzYujvVDTjz7S8_WngCK4BGAYYCw/s1600/43059068_2078749625478306_5503711937956937728_n.jpg
 ||1.bp.blogspot.com/-nYiKKCsYZYA/UYC0Sz6rNJI/AAAAAAAABa8/NbpXEX2To9E/s190/1366357856041.gif
 ||2.bp.blogspot.com/-7SMY2bmJlTA/XY4OORhvk9I/AAAAAAAAJdc/KsxbKpXC66EGHjaYoN-T-6j7EKPldQ3cACLcBGAsYHQ/s320/1stDep_sport_314%25D1%258598.gif
 ||2.bp.blogspot.com/-afTeOoZhfSE/WUikbvBsOMI/AAAAAAAADAg/Y744fVOueT0hGB5PzzzV-VCjbE757SszQCLcBGAs/s1600/top-bannner2-1.jpg
+||2.bp.blogspot.com/-F3J-vR-CAac/W1ieaT1CeBI/AAAAAAAAACU/DnXXWpRt16Aefyg1n_ry5Y02YtwcEgEdACLcBGAs/s1600/tombol4.png
 ||2.bp.blogspot.com/-nnyVkQenS2Q/WQzrMwft9ZI/AAAAAAAAPBA/LsMNg9yXCxwKS_Jyq4vAacyVMHosCiz5QCLcB/s1600/0a1dc23b-5850-4780-9f2b-4c471535b250.png
 ||3.bp.blogspot.com/-jdvfmDjeTmk/XZ8PHSSz-DI/AAAAAAAAJwI/eD-4lWFn9f8bMxCakAvpBBLQKVYyiVQCACLcBGAsYHQ/s1600/%25D8%25A8%25D8%25A7%25D9%2586%25D8%25B1%2B%25D8%25B9%25D8%25B1%25D8%25A8%2B%25D9%2585%25D9%258A%25D8%25AF%25D9%258A%25D8%25A7.gif
 ||3.bp.blogspot.com/-ND6SfLpEUK8/XZFiBFeaBxI/AAAAAAAAJfM/zrYhVmt1Gs8D4jTvBQLEtEWwANbXAFYDACLcBGAsYHQ/s1600/1stDep_sport_728%25D1%258590.gif
