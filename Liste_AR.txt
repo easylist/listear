@@ -198,7 +198,10 @@ _New_Ads.
 ##.Ad160-right
 ##.Ads-PostTop
 ##.Bottom-Ad
+##.ExampleAd
+##.LeftAds
 ##.Middle-Ad
+##.RightAds
 ##.Seo-plus-Ads
 ##.Top-Ad
 ##.a3lan-Center
