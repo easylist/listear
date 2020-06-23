@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: E/m8MMOhtbm+GBedrMACxw
-! Version: 202006231955
+! Checksum: KUTZWk/VI2dwlrcfCakV+w
+! Version: 202006232002
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -162,7 +162,6 @@ _New_Ads.
 /get/iad/*$popup
 /imp/*?scontext_b=$popup
 ! regex popups
-/^https?:\/\/(.*)\/(\d{5,6})\/\?scontext_r=/$popup,third-party
 /^https?:\/\/(.*)\/open\d{0,3}\.(js|php)$/$script
 !
 !----------------------- Éléments génériques -----------------!
