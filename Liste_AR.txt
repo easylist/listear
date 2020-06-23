@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: KUTZWk/VI2dwlrcfCakV+w
-! Version: 202006232002
+! Checksum: 36MdSuXnlJLPQdd6UplDDw
+! Version: 202006232023
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -473,6 +473,7 @@ _New_Ads.
 ||adoptim.com^$popup,third-party
 ||adzouktech.com^$popup,third-party
 ||aflam.io^$popup
+||aso1.net^$popup
 ||barraceful.com^$popup,third-party
 ||cdaz.icu^$popup,third-party
 ||ceidxneoogpuh.com^$popup,third-party
@@ -515,6 +516,7 @@ _New_Ads.
 ||wordgetboo.com^$popup,third-party
 ||zarpop.com^$popup,third-party
 ||zermeo.com^$popup,third-party
+||zlps.xyz^$popup
 !
 !----------------------- Publicités tierces ----------------------!
 !
@@ -524,7 +526,7 @@ $websocket,domain=arabseed.co|arabseed.com|arabseed.tv|arawatch.tv|cera.online|c
 !
 |blob:$domain=arawatch.tv|cera.online|cera.video
 !
-$script,third-party,domain=aflam2you.com|alm5leb.com|almstba.tv|almstbatv.com|animestarz.com|arabe-media.com|arabincest.com|aradramatv.co|brstej.com|cima4u.tv|e5tsar.com|elmoslsal.com|elmstba.com|elmstba.tv|emotionvideo-tv.com|fel3arda.com|fel3arda.net|filmey.tv|hawak.tv|honadrama.me|jaewinter.co|kooralive.tv|kora-online.tv|laroza.tv|lodynet.tv|okanime.com|rotana.video|s4w.tv|series4watch.online|shahid4u.com|shahid4u.net
+$script,third-party,domain=aflam2you.com|alm5leb.com|almstba.tv|almstbatv.com|animestarz.com|arabe-media.com|arabincest.com|aradramatv.co|brstej.com|cima4u.tv|e5tsar.com|elmoslsal.com|elmstba.com|elmstba.tv|emotionvideo-tv.com|fel3arda.com|fel3arda.net|filmey.tv|hawak.tv|honadrama.me|jaewinter.co|kooralive.tv|kora-online.tv|laroza.tv|lodynet.tv|movs4u.live|movs4u.tv|okanime.com|rotana.video|s4w.tv|series4watch.online|shahid4u.com|shahid4u.net
 !
 $third-party,xmlhttprequest,domain=almstba.tv|almstbatv.com|brstej.com|cima4u.tv|elmstba.com|elmstba.tv|emotionvideo-tv.com|hawak.tv|jaewinter.co|laroza.tv|lodynet.tv|rotana.video|shahid4u.com|shahid4u.net
 !
@@ -967,9 +969,6 @@ $script,stylesheet,third-party,xmlhttprequest,domain=cimaclub.cam|cimaclub.com
 ! 33sk.tv
 |http://$script,stylesheet,third-party,domain=33sk.tv|3sk.co|3sk.io
 |https://$script,stylesheet,third-party,domain=33sk.tv|3sk.co|3sk.io
-! movs4u.tv
-|http://$script,stylesheet,third-party,domain=movs4u.tv
-|https://$script,stylesheet,third-party,domain=movs4u.tv
 ! aflamyz.com
 |http://$script,third-party,domain=aflamyz.com
 |https://$script,third-party,domain=aflamyz.com
@@ -1046,6 +1045,7 @@ $script,stylesheet,third-party,xmlhttprequest,domain=cimaclub.cam|cimaclub.com
 ||i.imgur.com/qYSt3ut.jpg
 ||i.imgur.com/rw3JAEE.gif
 ||i.imgur.com/tR3XORs.jpg
+||i.imgur.com/XGtXNIL.gif
 ||i.imgur.com/Y0KuJEN.jpg
 ||i.imgur.com/YFMkt8N.gif
 ||i0.wp.com/edlibre.com/wp-content/uploads/1200x400.png
@@ -1648,7 +1648,7 @@ $script,stylesheet,third-party,xmlhttprequest,domain=cimaclub.cam|cimaclub.com
 ||montadaphp.net/hamada_banner.png
 ||montadaphp.net/images/banner.gif
 ||mouloudia.org/files/sponsors/
-||movs4u.tv/d/$popup
+||movs4u.*/d/$popup
 ||mp3quran.net/fr/key2islam.gif
 ||mp3quran.net/fr/womeninislam.gif
 ||mtwer.com/files/14806.gif
@@ -1902,6 +1902,7 @@ arabia.com###dvleaderboard
 arabia.com###dvwidgetad
 echoroukonline.com###dztmp-back-link
 akhersaa-dz.com###espace_pub_entete
+movs4u.live###fakeplayer
 touteslesrecettes.fr###first
 elheddaf.com,ennaharonline.com###flash
 alarab.com,alarab.net###floatbanner_left
@@ -2357,7 +2358,7 @@ ce4arab.com#?#.vbmenu_popup + br + [id^="post"]:-abp-has(.thead:-abp-contains(ا
 @@||disquscdn.com^$script,domain=alm5leb.com|animelek.net
 @@||fel3arda.net/searchjs.js$script,domain=fel3arda.com
 @@||fontawesome.com^$stylesheet,domain=cimaclub.cam
-@@||fonts.googleapis.com^$stylesheet,domain=3sk.co|almstbatv.com|cimaclub.cam|hawak.tv|laroza.tv|movs4u.tv|rotana.video
+@@||fonts.googleapis.com^$stylesheet,domain=3sk.co|almstbatv.com|cimaclub.cam|hawak.tv|laroza.tv|rotana.video
 @@||jwpsrv.com/library/$script,domain=kora-online.tv
 @@||ssl.p.jwpcdn.com/player/v/$script,stylesheet,xmlhttprequest,domain=faselhd.live|laroza.tv
 @@||vjs.zencdn.net^$script,domain=fel3arda.com
