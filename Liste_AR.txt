@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: pvP3ewWBRw9RLPRrA2TnQQ
-! Version: 202006241922
+! Checksum: MKMSyZUfZmJyPudW1O0i9Q
+! Version: 202006261827
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -208,6 +208,8 @@ _New_Ads.
 ##.a3lan-end
 ##.a3lan-related
 ##.a3lan-top
+##.ad--list
+##.ad--wrapper
 ##.ad-id_
 ##.ad-id_shortcode
 ##.ad-lft
@@ -242,6 +244,7 @@ _New_Ads.
 ##.adOTPDesktop
 ##.adOTPMobile
 ##.adTtl
+##.ad__wrapper-element
 ##.ad_banner728
 ##.adblock:not(html):not(body):not(h1)
 ##.adbottomfixed
@@ -1977,6 +1980,7 @@ physique48.org##.TOOLbarB
 alsumaria.tv##.TopBannerSkin
 alhayat.com##.TopHeaderBanner
 3rbb.net,akhbarelyawm.com,alarab.com,alarab.net,banotacool.co,bokra.net,elfagr.org,gamesgb.com,gornalak.com,shahid4u.com,shahid4u.net,showsport-tv.com##.ad
+aparat.com##.ad-box
 elkhabar.com.tn##.ad-image
 souq.com##.ad1
 souq.com##.ad2
