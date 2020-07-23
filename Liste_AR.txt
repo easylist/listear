@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: YlKi8YygVuAX/zt+LwJ/cg
-! Version: 202007232048
+! Checksum: Cr/erA+Xzaime+gtK7SxIw
+! Version: 202007232113
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1158,7 +1158,7 @@ $script,stylesheet,third-party,xmlhttprequest,domain=cimaclub.cam|cimaclub.com
 |http://j.gs^$popup,domain=showsat.org
 |http://sa.ae^$popup,domain=bacdz.org
 ||0sat.net/index/
-||0zz0.com/e/luna20120131_2.swf
+||0zz0.com/e/
 ||0zz0.com/js.php
 ||0zz0.com/template/js/e.
 ||1009.ae/wp-content/uploads/*/skin.png
