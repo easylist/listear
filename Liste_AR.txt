@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: cMqenusyz7/kV2xM7zVF4g
-! Version: 202007272033
+! Checksum: AhnyShPetnfv8E/F8ZFtHg
+! Version: 202007272100
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -535,7 +535,7 @@ $websocket,domain=arabseed.co|arabseed.com|arabseed.tv|arawatch.tv|cera.online|c
 !
 |blob:$domain=arawatch.tv|cera.online|cera.video
 !
-$script,third-party,domain=actionz.tv|aflam2you.com|akwam.net|alm5leb.com|almstba.tv|almstbatv.com|animestarz.com|arabe-media.com|arabincest.com|aradramatv.co|brstej.com|cima4u.tv|e5tsar.com|elmoslsal.com|elmstba.com|elmstba.tv|emotionvideo-tv.com|fel3arda.com|fel3arda.net|filmey.tv|hawak.tv|honadrama.me|jaewinter.co|kooralive.tv|kora-online.tv|laroza.tv|lodynet.co|lodynet.tv|movs4u.live|movs4u.tv|okanime.com|rotana.video|s4w.tv|series4watch.online|shahid4u.com|shahid4u.net|xsanime.com
+$script,third-party,domain=actionz.tv|aflam2you.com|akwam.net|alm5leb.com|almstba.tv|almstbatv.com|animestarz.com|arabe-media.com|arabincest.com|aradramatv.co|brstej.com|cima4u.tv|e5tsar.com|elmoslsal.com|elmstba.com|elmstba.tv|emotionvideo-tv.com|fel3arda.com|fel3arda.net|filmey.tv|hawak.tv|honadrama.me|jaewinter.co|kooralive.tv|kora-online.tv|laroza.tv|lodynet.co|lodynet.tv|movs4u.live|movs4u.tv|okanime.com|rotana.video|s4w.tv|series4watch.online|shahid4u.com|shahid4u.net|team1x1.com|xsanime.com
 !
 $third-party,xmlhttprequest,domain=actionz.tv|akwam.net|almstba.tv|almstbatv.com|brstej.com|cima4u.tv|elmstba.com|elmstba.tv|emotionvideo-tv.com|hawak.tv|jaewinter.co|laroza.tv|lodynet.co|lodynet.tv|rotana.video|shahid4u.com|shahid4u.net
 !
