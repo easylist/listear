@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: AhnyShPetnfv8E/F8ZFtHg
-! Version: 202007272100
+! Checksum: Bl+Y8lHZ4SEJkPpszOo6AQ
+! Version: 202008021615
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -420,8 +420,10 @@ _New_Ads.
 ||100v.biz^$third-party
 ||2mdn.net^$object,domain=tripadvisor.com.eg
 ||4yonder.net^$third-party
+||adiran.co^$third-party
 ||adment.me^$third-party
 ||adment.space^$third-party
+||adnegah.net^$third-party
 ||adsvee.com^$third-party
 ||adtube.ir^$third-party
 ||adv0.com^$third-party
@@ -449,6 +451,7 @@ _New_Ads.
 ||idelv.net^$third-party
 ||idsly.com^$third-party
 ||ilovemobi.com^$third-party
+||irpopup.ir^$third-party
 ||jubnaadserve.com^$third-party
 ||kaprila.com^$third-party
 ||ketshwa.com^$third-party
@@ -459,6 +462,8 @@ _New_Ads.
 ||notification-list.com^$third-party
 ||ornaki.com^$third-party
 ||paht.tech^$third-party
+||popupaval.com^$third-party
+||popuper.com^$third-party
 ||popupplus.ir^$third-party
 ||postquare.com^$third-party
 ||premaads.net^$third-party
@@ -496,6 +501,7 @@ _New_Ads.
 ||fullspeeddownload.com^$popup,third-party
 ||iafov.com^$popup,third-party
 ||ir-dl.com^$popup,third-party
+||irpopup.ir^$popup,third-party
 ||kimia.es^$popup,third-party
 ||laserveradedomaina.com^$popup
 ||mellati.com^$popup,third-party
@@ -510,6 +516,8 @@ _New_Ads.
 ||onlivestreams.online^$popup
 ||partners.xm.com^$popup,third-party
 ||pipaffiliates.com^$popup,third-party
+||popupaval.com^$popup,third-party
+||popuper.com^$popup,third-party
 ||popupplus.ir^$popup,third-party
 ||protect-web.com^$popup
 ||prwidgets.com^$popup,third-party
