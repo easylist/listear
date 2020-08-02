@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: S44tMw8mhZXEeV2SrOQ0hw
-! Version: 202008021624
+! Checksum: a/9NjacVvRz5qL+DlHNTBw
+! Version: 202008021630
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -2376,7 +2376,7 @@ ce4arab.com#?#.vbmenu_popup + br + [id^="post"]:-abp-has(.thead:-abp-contains(ا
 @@||bootstrapcdn.com/bootstrap/$script,stylesheet,third-party,domain=actionz.tv|almstbatv.com|brstej.com|emotionvideo-tv.com|fel3arda.com|fel3arda.net|hawak.tv|laroza.tv|rotana.video|toofy.co|toofy.tv
 @@||cdn.dashjs.org/latest/dash.all.min.js$script,domain=fel3arda.com
 @@||cdn.jsdelivr.net^$script,stylesheet,domain=almotamayeztech.com|arabe-media.com|elmstba.com|faselhd.live|fel3arda.com
-@@||cloudflare.com/ajax/libs/$script,domain=aflamyz.com|almotamayeztech.com|arabe-media.com|arabseed.com|cima4up.co|cima4up.tv|cimaclub.cam|cimaclub.org|edu-dz.com|egybest2.com|egybest4.com|faselhd.live|movizland.net|movizland.org|t7meel.xyz
+@@||cloudflare.com/ajax/libs/$script,domain=aflamyz.com|almotamayeztech.com|arabe-media.com|arabseed.com|cima4up.co|cima4up.tv|cimaclub.cam|cimaclub.org|edu-dz.com|egybest2.com|egybest4.com|faselhd.live|movizland.net|movizland.org|okanime.com|t7meel.xyz
 @@||code.jquery.com^$script,domain=actionz.tv|aflam2you.com|almstbatv.com|brstej.com|egybest2.com|egybest4.com|emotionvideo-tv.com|hawak.tv|laroza.tv|rotana.video
 @@||disqus.com/embed.js$script,domain=alm5leb.com|animelek.net|xsanime.com
 @@||disquscdn.com^$script,domain=alm5leb.com|animelek.net|xsanime.com
@@ -2384,7 +2384,7 @@ ce4arab.com#?#.vbmenu_popup + br + [id^="post"]:-abp-has(.thead:-abp-contains(ا
 @@||fontawesome.com^$stylesheet,domain=cimaclub.cam
 @@||fonts.googleapis.com^$stylesheet,domain=3sk.co|almstbatv.com|cimaclub.cam|hawak.tv|laroza.tv|rotana.video
 @@||jwpsrv.com/library/$script,domain=kora-online.tv
-@@||ssl.p.jwpcdn.com/player/v/$script,stylesheet,xmlhttprequest,domain=faselhd.live|laroza.tv
+@@||ssl.p.jwpcdn.com/player/v/$script,stylesheet,xmlhttprequest,domain=faselhd.live|laroza.tv|okanime.com
 @@||vjs.zencdn.net^$script,domain=fel3arda.com
 @@||vjs.zencdn.net^$script,stylesheet,domain=kora-online.tv
 @@||www.blogger.com/feeds/$script,domain=chahid4u.tk|edu-dz.com
