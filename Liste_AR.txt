@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 9tEsR+MsTsY4AgkQCpYh4Q
-! Version: 202009221953
+! Checksum: vrUQc3NiTovms9vHCGCnyw
+! Version: 202009221954
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -458,6 +458,7 @@ _New_Ads.
 ||kimia.es^$third-party
 ||marvelmanager.com^$third-party
 ||mediaad.org^$third-party
+||monetizd.com^$third-party
 ||mpi.ps^$third-party
 ||notification-list.com^$third-party
 ||ornaki.com^$third-party
