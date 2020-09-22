@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 00Bh+oVW0lK3R/kWnSxHgg
-! Version: 202009221950
+! Checksum: kPOaF1yPbmPUH5UynjNf7Q
+! Version: 202009221951
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1355,6 +1355,14 @@ $script,stylesheet,third-party,xmlhttprequest,domain=cimaclub.cam|cimaclub.com
 ||aswat-elchamal.com/ar/pub/
 ||awtarmp3.com/uploads/banners/
 ||azyya.com^$popup,domain=beautymaroc.com
+||b2b-sy.com/b2b/baraka-
+||b2b-sy.com/b2b/cham-
+||b2b-sy.com/b2b/chamwings-
+||b2b-sy.com/b2b/damascus-center-22-11-290-260.gif
+||b2b-sy.com/b2b/melody-21-8-290-260.swf
+||b2b-sy.com/b2b/mtn-30-03-300-300.png
+||b2b-sy.com/b2b/video-1593420156.gif
+||b2b-sy.com/b2b/video-1593420156.gifb2b-sy.com##.advs
 ||ban.alukah.net^
 ||banotacool.net^$popup,third-party
 ||barqaluae.com/vb/last-d/2.gif
@@ -2025,7 +2033,7 @@ annahar.com##.advertisement
 mp3quran.net##.advertising
 al-jazirah.com##.advr
 gololy.com##.advrtising-colum
-roooo3.com,silkroad4arab.com##.advs
+b2b-sy.com,roooo3.com,silkroad4arab.com##.advs
 bokra.net##.aside-banner
 1009.ae##.background-cover
 6ab5ty.com##.banar
