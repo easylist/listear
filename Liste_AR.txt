@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: oF1RMbBvAqLBhDJ0TDFBow
-! Version: 202009221952
+! Checksum: TS6LnIdHU0epHrdydkXKWQ
+! Version: 202009221953
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1657,6 +1657,7 @@ $script,stylesheet,third-party,xmlhttprequest,domain=cimaclub.cam|cimaclub.com
 ||mazajcool.net/728.gif
 ||mazajcool.net/up-2.png
 ||mbc.net/dms/analytics-and-banners/
+||medias-dz.com/wp-content/uploads/2020/07/mobilis-5juillet-700.jpg
 ||melody.ma/images/300/
 ||melody.ma/images/500/
 ||melody4arab.com/banner/
