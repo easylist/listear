@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: TS6LnIdHU0epHrdydkXKWQ
+! Checksum: 9tEsR+MsTsY4AgkQCpYh4Q
 ! Version: 202009221953
 ! Title: Liste AR
 ! Expires: 2 days
@@ -1729,6 +1729,7 @@ $script,stylesheet,third-party,xmlhttprequest,domain=cimaclub.cam|cimaclub.com
 ||petro-press.com/wp-content/uploads/2020/05/img-20200502-wa0069.jpg
 ||petro-press.com/wp-content/uploads/2020/09/img-20200905-wa00041153149085127291571.jpg
 ||popup.egyup.com^
+||pub.sabqpress.net^
 ||q8classroom.net/adv_
 ||q8classroom.net/banners/
 ||q8classroom.net/bbn.gif
@@ -1774,7 +1775,9 @@ $script,stylesheet,third-party,xmlhttprequest,domain=cimaclub.cam|cimaclub.com
 ||s-oman.net/OPYzAHGn.gif
 ||s7days.com^$subdocument,domain=gornalak.com
 ||s7o.net/drn.gif
+||sabqpress.net/wp-content/uploads/2020/03/658ae4f9d831d9ae4018de434c5b92bd.jpg
 ||sabqpress.net/wp-content/uploads/2020/05/bellat.png
+||sabqpress.net/wp-content/uploads/2020/07/mobilis.png
 ||saidaonline.com/flash/di3ayaad.swf
 ||saidaonline.com/gifs/alassaadlogo21.jpg
 ||saidaonline.com/gifs/bsatad2013.jpg
