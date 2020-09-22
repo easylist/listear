@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: kPOaF1yPbmPUH5UynjNf7Q
-! Version: 202009221951
+! Checksum: oF1RMbBvAqLBhDJ0TDFBow
+! Version: 202009221952
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1870,6 +1870,12 @@ $script,stylesheet,third-party,xmlhttprequest,domain=cimaclub.cam|cimaclub.com
 ||vb4arb.com/jorboxhost.png
 ||vip4soft.com/draw.swf
 ||vip4soft.com/images/baneers/
+||wadhaef-sa.com/wp-content/uploads/2020/03/3.gif
+||wadhaef-sa.com/wp-content/uploads/2020/05/untitl11.gif
+||wadhaef-sa.com/wp-content/uploads/2020/07/%D8%A8%D9%86%D8%B1.png
+||wadhaef-sa.com/wp-content/uploads/2020/07/%D9%83%D8%A8%D9%8A%D8%B1.jpg
+||wadhaef-sa.com/wp-content/uploads/2020/07/5f1955356eaeb.gif
+||wadhaef-sa.com/wp-content/uploads/2020/07/untitled-3.gif
 ||waraqat.net/*/games-banner.gif
 ||waraqat.net/*/thwalel.gif
 ||waseet-dz.com/wp-content/uploads/2016/05/affiche5-185x300.png
@@ -2307,6 +2313,9 @@ annahar.ma##img[src^="data:image/jpeg;base64,"]
 bramjnet.com##img[style="WIDTH: 468px; HEIGHT: 60px"][title*="الإعلان "]
 teckni-sat.com##img[style="height: 90px; width: 728px; border-width: 0px"]
 dostor.org##img[style="width: 120px; height: 599px;"]
+wadhaef-sa.com##img[style="width: 150px ;height: 60px"]
+wadhaef-sa.com##img[style="width: 350px ;height: 60px"]
+wadhaef-sa.com##img[style="width: 728px ;height: 90px"]
 egynt.net,herosh.com,up-00.com##img[width="100"][height="35"]
 arab.sh,herosh.com##img[width="100"][height="40"]
 absba.org##img[width="100"][height="50"]
