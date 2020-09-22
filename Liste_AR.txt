@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: r3pI3ogRAQZCB4kRfGl4xg
-! Version: 202008122051
+! Checksum: 00Bh+oVW0lK3R/kWnSxHgg
+! Version: 202009221950
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1711,6 +1711,14 @@ $script,stylesheet,third-party,xmlhttprequest,domain=cimaclub.cam|cimaclub.com
 ||panet.co.il/online/images/links_blocks/
 ||panet.co.il^*/flash_banners/
 ||petra.gov.jo/Public_Images/Banner
+||petro-press.com/wp-content/uploads/2019/01/petro-300x250.jpg
+||petro-press.com/wp-content/uploads/2019/02/borais7.jpg
+||petro-press.com/wp-content/uploads/2020/02/egyptgas-1.jpg
+||petro-press.com/wp-content/uploads/2020/02/egyptgas.jpg
+||petro-press.com/wp-content/uploads/2020/02/website-01-scaled.jpg
+||petro-press.com/wp-content/uploads/2020/04/%D8%BA%D8%A7%D8%B2-%D8%AA%D9%83.jpg
+||petro-press.com/wp-content/uploads/2020/05/img-20200502-wa0069.jpg
+||petro-press.com/wp-content/uploads/2020/09/img-20200905-wa00041153149085127291571.jpg
 ||popup.egyup.com^
 ||q8classroom.net/adv_
 ||q8classroom.net/banners/
@@ -2317,6 +2325,9 @@ libyan-sat.com##img[width="280"][height="60"][style="margin: 0px 0px 0px 0px;"]
 calcio4arab.com##img[width="280"][height="80"]
 y4yy.com##img[width="300"][height="250"]
 am-ngd.com,bahranicool.com,qassimy.com,shbab1.com##img[width="300"][height="60"]
+petro-press.com##img[width="320"][height="280"]
+petro-press.com##img[width="336"][height="190"]
+petro-press.com##img[width="336"][height="280"]
 herosh.com##img[width="345"][height="40"]
 fonction-publique-dz.mountada.net##img[width="364"][height="60"]
 libyan-sat.com##img[width="400"][height="60"][style="margin: 0px 0px 0px 0px;"]
@@ -2330,7 +2341,7 @@ badrsat.com##img[width="620"][height="300"]
 silkroad4arab.com##img[width="625"]
 jo-sharing.com##img[width="700"][height="120"]
 silkroad4arab.com##img[width="720"]
-202020.net,alamelarab.com,arablionz.online,arabseed.co,arabseed.com,arabseed.tv,dzair-tube.com,foxpic.com,mye.gy,myegy.cc,myegy.io,myegy.tv,myegy.xyz,novriko.com,zi-m.com##img[width="728"][height="90"]
+202020.net,alamelarab.com,arablionz.online,arabseed.co,arabseed.com,arabseed.tv,dzair-tube.com,foxpic.com,mye.gy,myegy.cc,myegy.io,myegy.tv,myegy.xyz,novriko.com,petro-press.com,zi-m.com##img[width="728"][height="90"]
 chtoukapress.com##img[width="728px"][height="100px"]
 qatarshares.com##img[width="804"][height="80"]
 ech-chaab.net##img[width="820"][height="159"]
