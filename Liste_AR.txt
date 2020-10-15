@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Plzbyk1XCLmnqs3mxfeZzw
-! Version: 202010110138
+! Checksum: 6A4DiKO6uny2mWmi60Fu+A
+! Version: 202010150608
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -659,7 +659,6 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|cima4up.c
 ||campaign-uploads.s3.amazonaws.com^
 ||casasky.com/bannerslider/
 ||cdn.rawgit.com/vander100/Techpro10/master/ad.js
-||cinemalek.com/*.gif
 ||cnbcarabia.com/top_banner.php
 ||cs-proton.tv/images/banner-*.
 ||ctn-abbas.com/*_ads.
@@ -941,9 +940,6 @@ $script,stylesheet,third-party,xmlhttprequest,domain=cimaclub.cam|cimaclub.com
 ! anyanime.com
 |http://$script,third-party,domain=anyanime.com
 |https://$script,third-party,domain=anyanime.com
-! cinemalek.com
-|http://$script,third-party,domain=cinemalek.com
-|https://$script,third-party,domain=cinemalek.com
 ! arablionz.tv
 |http://$script,third-party,xmlhttprequest,domain=arablionz.tv
 |https://$script,third-party,xmlhttprequest,domain=arablionz.tv
