@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: hT8i+ZNlMDD2vFumBMbO6w
-! Version: 202011040512
+! Checksum: MchZVuHPQ9+UhTsXBtDxew
+! Version: 202011040520
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -306,6 +306,7 @@ _New_Ads.
 ##.fixedMpu
 ##.float_ads
 ##.geminiLB1Ad
+##.geminiLB2Ad
 ##.geminiSC2Ad
 ##.getSponsored
 ##.header_add
@@ -450,6 +451,7 @@ _New_Ads.
 ||finishclueobscure.info^$third-party
 ||fortvision.com^$third-party
 ||ftd.agency^$third-party
+||geminimedia-eg.com^$third-party
 ||hoood.info^$third-party
 ||idelv.net^$third-party
 ||idsly.com^$third-party
@@ -1889,6 +1891,7 @@ $script,stylesheet,third-party,xmlhttprequest,domain=cimaclub.cam|cimaclub.com
 ||yaislam.com/menux160.html
 ||yalladrama.tv/js.php
 ||yalladrama.tv/player/Download-icon.gif
+||yallakora.com/images/geminilb.jpg
 ||yallakora.com/images/geminisc.jpg
 ||ylla.net/bun.php?
 ||youm7.com/cairodar/index2.html
@@ -2090,7 +2093,6 @@ sawasport.com##.full-width-banner
 youm7.com##.fullBanner
 filfan.com##.gads_MR
 almasryalyoum.com##.gam-holder
-yallakora.com##.geminiSC2Ad
 moheet.com##.gplus
 graaam.com##.haw
 makkahnews.net##.header_banner
