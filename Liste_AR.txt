@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: MchZVuHPQ9+UhTsXBtDxew
-! Version: 202011040520
+! Checksum: TiYj7gj0u7B0jwuLUyTViw
+! Version: 202011040535
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -2200,7 +2200,7 @@ bernama.com##a[class^="banner_photo_"]
 m-4u.net##a[class^="hcne_ads"]
 ibda3gate.com##a[href*="/Direct Link.html"]
 ckfu.org,uiraqi.com##a[href*="/ads.php?"]
-arabseed.co,arabseed.com,arabseed.tv,arbcinema.com,ce4arab.com,edlibre.com,el-ahly.com,khaberni.com,wattan.tv##a[href*="://bit.ly/"]
+arabseed.co,arabseed.com,arabseed.tv,arbcinema.com,ce4arab.com,edlibre.com,el-ahly.com,elconsolto.com,khaberni.com,wattan.tv##a[href*="://bit.ly/"]
 202020.net,algareda.com,arabseed.co,arabseed.com,arabseed.tv,cima4u.tv,sawasport.com##a[href*="://goo.gl/"]
 lakii.com##a[href*="ads-redirect.php?i="]
 egyfitness.com##a[href*="leadpages.co"]
