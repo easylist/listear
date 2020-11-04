@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: sRFMe/FwoHcX8juTof/PUw
-! Version: 202011040409
+! Checksum: hT8i+ZNlMDD2vFumBMbO6w
+! Version: 202011040512
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -72,6 +72,7 @@
 /ara/ads/*
 /arabycash-
 /arlinablock.
+/ArticleAds.
 /banner-990x90.
 /banner72890.
 /banner_*&pub=
@@ -304,6 +305,8 @@ _New_Ads.
 ##.fixedAd
 ##.fixedMpu
 ##.float_ads
+##.geminiLB1Ad
+##.geminiSC2Ad
 ##.getSponsored
 ##.header_add
 ##.hidden_pub
