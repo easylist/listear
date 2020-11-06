@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: ixeAONId/TKgYkxOgiDDJw
-! Version: 202011060114
+! Checksum: GXWiDe5rNg2I7B/WerLd/w
+! Version: 202011060118
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -314,6 +314,7 @@ _New_Ads.
 ##.getSponsored
 ##.header_add
 ##.hidden_pub
+##.home-page-ads
 ##.homepage_ad_half
 ##.homepage_ad_lower_leaderboard
 ##.homepage_ads_topspot
