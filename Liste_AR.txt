@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: tXdvxpwj9nDl/mFlryEZOw
-! Version: 202011062330
+! Checksum: K92T930SE1Om9ClGdhy95Q
+! Version: 202011242102
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1387,6 +1387,7 @@ $script,stylesheet,third-party,xmlhttprequest,domain=cimaclub.cam|cimaclub.com
 ||brandatvip.com^$popup,domain=akaberchat.com
 ||brg8.com/bb/
 ||brooonzyah.net/vb/js.php
+||cdn-static.egybest.*/packed/
 ||cdn.akhbarak.net/assets/*/banners/
 ||cdn.binpress.com/binpress-250-250.png
 ||ce4arab.com/images/amazon1.gif
