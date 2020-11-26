@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: K92T930SE1Om9ClGdhy95Q
-! Version: 202011242102
+! Checksum: 8oVO/3sbYwWUFYKWtYvh9w
+! Version: 202011261655
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -2292,6 +2292,7 @@ jordanzad.com##div[style="width:600px;height:80px;"]
 f16f.com##div[style^="background:#ffffff;width:728px;height:90px;"]
 f16f.com##div[style^="display:block;background:#ffffff;width:300px;height:250px;"]
 arabincest.com##div[style^="position:"]
+alfadjr-online.com##div[style^="width: 728px; height: 100px;"]
 oleeh.com##div[style^="width:336px;height:280px;"]
 ##div[style^="z-index: 99999; position: fixed; width: 100%; background-color: rgb(251, 236, 173);"]
 cinq-bem-bac.blogspot.com##font[id]
