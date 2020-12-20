@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: XH06IZchywp4NH4wF7dYjw
-! Version: 202012201425
+! Checksum: Cj0cgl4Gmgn5LgN03ohv+A
+! Version: 202012201438
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1599,6 +1599,7 @@ $script,stylesheet,third-party,xmlhttprequest,domain=cimaclub.cam|cimaclub.com
 ||marrakechalaan.com/wp-content/uploads/2015/05/hotel-cesar-copie-sd.png
 ||marrakechalaan.com/wp-content/uploads/2015/07/blach-zohair.gif
 ||marrakechalaan.com/wp-content/uploads/2015/07/radio-gueliz-pub-v-2.gif
+||masrawysat.com/images/ms/ghost_9.
 ||masrawysat.com/img/505.gif
 ||masrawysat.com/img/astra.gif
 ||masrawysat.com/img/Baaanner.gif
