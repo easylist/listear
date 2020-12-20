@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 7/OupKzIECgzP6S9Ic9o4A
-! Version: 202012142029
+! Checksum: XH06IZchywp4NH4wF7dYjw
+! Version: 202012201425
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1319,6 +1319,7 @@ $script,stylesheet,third-party,xmlhttprequest,domain=cimaclub.cam|cimaclub.com
 ||b2b-sy.com/b2b/zeuor_1.gif
 ||ban.alukah.net^
 ||banotacool.net^$popup,third-party
+||baramjak.com/pop.txt
 ||barqaluae.com/vb/last-d/2.gif
 ||barqaluae.com/vb/last-d/3.gif
 ||barqaluae.com/vb/me/2.gif
