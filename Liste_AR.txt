@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: GHfl5yqdvd21Jd+xaog2fg
-! Version: 202012250759
+! Checksum: lG6VivskOVUlP+ZiKOr5/A
+! Version: 202012261955
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -520,9 +520,9 @@ $websocket,domain=arabseed.co|arabseed.com|arabseed.tv|arawatch.tv|cera.online|c
 !
 |blob:$domain=arawatch.tv|cera.online|cera.video
 !
-$script,third-party,domain=actionz.tv|aflam2you.com|akoam.com|akoam.net|akwam.co|akwam.net|akwam.org|alm5leb.com|almstba.tv|almstbaa.tv|almstbatv.com|animestarz.com|arabe-media.com|arabincest.com|aradramatv.co|brstej.com|cima4u.tv|e5tsar.com|egyanime.com|elmoslsal.com|elmstba.com|elmstba.tv|emotionvideo-tv.com|fel3arda.com|fel3arda.net|filmey.tv|gocoo.co|halacima.net|hawak.tv|honadrama.me|jaewinter.co|kooralive.tv|kora-online.tv|laroza.tv|lodynet.co|lodynet.tv|moshahda.online|movizland.com|movizland.online|movs4u.life|movs4u.live|movs4u.tv|okanime.com|okyanime.com|rotana.video|s4w.tv|series4watch.online|shahid4u.com|shahid4u.net|team1x1.com|xsanime.com
+$script,third-party,domain=actionz.tv|aflam2you.com|akoam.com|akoam.net|akwam.co|akwam.net|akwam.org|alm5leb.com|almstba.tv|almstbaa.tv|almstbatv.com|animestarz.com|arabe-media.com|arabincest.com|aradramatv.co|brstej.com|cima4u.tv|cimaclub.cam|cimaclub.com|cimaclub.in|e5tsar.com|egyanime.com|elmoslsal.com|elmstba.com|elmstba.tv|emotionvideo-tv.com|fel3arda.com|fel3arda.net|filmey.tv|gocoo.co|halacima.net|hawak.tv|honadrama.me|jaewinter.co|kooralive.tv|kora-online.tv|laroza.tv|lodynet.co|lodynet.tv|moshahda.online|movizland.com|movizland.online|movs4u.life|movs4u.live|movs4u.tv|okanime.com|okyanime.com|rotana.video|s4w.tv|series4watch.online|shahid4u.com|shahid4u.net|team1x1.com|xsanime.com
 !
-$third-party,xmlhttprequest,domain=actionz.tv|akoam.com|akoam.net|akwam.co|akwam.net|akwam.org|almstba.tv|almstbaa.tv|almstbatv.com|brstej.com|cima4u.tv|egyanime.com|elmstba.com|elmstba.tv|emotionvideo-tv.com|gocoo.co|hawak.tv|jaewinter.co|laroza.tv|lodynet.co|lodynet.tv|moshahda.online|movizland.com|movizland.online|rotana.video|shahid4u.com|shahid4u.net
+$third-party,xmlhttprequest,domain=actionz.tv|akoam.com|akoam.net|akwam.co|akwam.net|akwam.org|almstba.tv|almstbaa.tv|almstbatv.com|brstej.com|cima4u.tv|cimaclub.cam|cimaclub.com|cimaclub.in|egyanime.com|elmstba.com|elmstba.tv|emotionvideo-tv.com|gocoo.co|hawak.tv|jaewinter.co|laroza.tv|lodynet.co|lodynet.tv|moshahda.online|movizland.com|movizland.online|rotana.video|shahid4u.com|shahid4u.net
 !
 $stylesheet,third-party,domain=akwam.co|almstba.tv|almstbaa.tv|almstbatv.com|brstej.com|cima4u.tv|egyanime.com|elmstba.com|elmstba.tv|hawak.tv|rotana.video|shahid4u.com|shahid4u.net
 !
@@ -887,9 +887,6 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|cima4up.c
 ! hd-arab.com
 |http://$script,third-party,domain=hd-arab.com
 |https://$script,third-party,domain=hd-arab.com
-! cimaclub.com
-$script,stylesheet,third-party,xmlhttprequest,domain=cimaclub.cam|cimaclub.com
-||cimaclub.*/logo/$popup
 ! cima4up.tv
 @@||m.filespeeds.com/index.php?link=$popup,domain=cima4up.co
 |http://$script,third-party,xmlhttprequest,domain=cima4up.co|cima4up.tv
@@ -1360,6 +1357,7 @@ $script,stylesheet,third-party,xmlhttprequest,domain=cimaclub.cam|cimaclub.com
 ||chadafm.net/images/stories/ban-605x106.gif
 ||christian-dogma.com^*/banners/
 ||cima4u.tv/template/$popup
+||cimaclub.*/logo/$popup
 ||ckfu.org/newbnr/
 ||ckfu.org/pic4u/uploads/ckfu1508122885021.gif
 ||clasicooo.com/pic/bd1.gif
@@ -2352,18 +2350,17 @@ ce4arab.com#?#.vbmenu_popup + br + [id^="post"]:-abp-has(.thead:-abp-contains(ا
 @@||sogarab.com/ads/js/$script,stylesheet,domain=sogarab.com
 @@||xaddad.com/advertisers/$~third-party
 ! Liste blanche pour corriger le blocage strict
-@@||ajax.googleapis.com/ajax/libs/$script,domain=3sk.co|3sk.io|actionz.tv|aflamfree.site|almotamayeztech.com|almstbatv.com|arabe-media.com|arabictorrent.net|arablionz.tv|brstej.com|chahid4u.tk|cima4up.co|cima4up.tv|cimaclub.cam|elmoslsal.com|emotionvideo-tv.com|fel3arda.com|fel3arda.net|freecccamnew.com|hawak.tv|lodynet.co|micano4u.org|movizland.com|movizland.net|movizland.online|movizland.org|okanime.com|okyanime.com|rotana.video|toofy.co|toofy.tv
+@@||ajax.googleapis.com/ajax/libs/$script,domain=3sk.co|3sk.io|actionz.tv|aflamfree.site|almotamayeztech.com|almstbatv.com|arabe-media.com|arabictorrent.net|arablionz.tv|brstej.com|chahid4u.tk|cima4up.co|cima4up.tv|cimaclub.in|elmoslsal.com|emotionvideo-tv.com|fel3arda.com|fel3arda.net|freecccamnew.com|hawak.tv|lodynet.co|micano4u.org|movizland.com|movizland.net|movizland.online|movizland.org|okanime.com|okyanime.com|rotana.video|toofy.co|toofy.tv
 @@||api.peer5.com^$script,domain=arabe-media.com
 @@||bootstrapcdn.com/bootstrap/$script,stylesheet,third-party,domain=actionz.tv|almstbatv.com|brstej.com|emotionvideo-tv.com|fel3arda.com|fel3arda.net|hawak.tv|laroza.tv|rotana.video|toofy.co|toofy.tv
 @@||cdn.dashjs.org/latest/dash.all.min.js$script,domain=fel3arda.com
 @@||cdn.jsdelivr.net^$script,stylesheet,domain=almotamayeztech.com|arabe-media.com|elmstba.com|faselhd.live|fel3arda.com
-@@||cloudflare.com/ajax/libs/$script,domain=aflamyz.com|almotamayeztech.com|arabe-media.com|arabseed.com|cima4up.co|cima4up.tv|cimaclub.cam|edu-dz.com|egybest2.com|egybest4.com|faselhd.live|movizland.net|movizland.org|okanime.com|t7meel.xyz
+@@||cloudflare.com/ajax/libs/$script,stylesheet,domain=aflamyz.com|almotamayeztech.com|arabe-media.com|arabseed.com|cima4up.co|cima4up.tv|cimaclub.in|edu-dz.com|egybest2.com|egybest4.com|faselhd.live|movizland.net|movizland.org|okanime.com|t7meel.xyz
 @@||code.jquery.com^$script,domain=actionz.tv|aflam2you.com|almstbatv.com|brstej.com|egybest2.com|egybest4.com|emotionvideo-tv.com|hawak.tv|laroza.tv|rotana.video
 @@||disqus.com/embed.js$script,domain=alm5leb.com|animelek.net|okyanime.com|xsanime.com
 @@||disquscdn.com^$script,domain=alm5leb.com|animelek.net|okyanime.com|xsanime.com
 @@||fel3arda.net/searchjs.js$script,domain=fel3arda.com
-@@||fontawesome.com^$stylesheet,domain=cimaclub.cam
-@@||fonts.googleapis.com^$stylesheet,domain=3sk.co|almstbatv.com|cimaclub.cam|egyanime.com|hawak.tv|laroza.tv|rotana.video
+@@||fonts.googleapis.com^$stylesheet,domain=3sk.co|almstbatv.com|egyanime.com|hawak.tv|laroza.tv|rotana.video
 @@||jwpsrv.com/library/$script,domain=kora-online.tv
 @@||ssl.p.jwpcdn.com/player/v/$script,stylesheet,xmlhttprequest,domain=faselhd.live|laroza.tv|moshahda.online|okanime.com
 @@||vjs.zencdn.net^$script,domain=fel3arda.com
