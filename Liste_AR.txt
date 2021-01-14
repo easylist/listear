@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 6Fi4CbglBDV0OL1uK7aU0g
-! Version: 202101120213
+! Checksum: Fl9yFHCZhipwTy1XT7eTrA
+! Version: 202101140616
 ! Title: Liste AR
 ! Expires: 3 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -616,6 +616,7 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|cima4up.c
 ||b8cdn.com^*/affiliate-
 ||babal.net/tools/home.php?$third-party
 ||banathi.com/banathi*.
+||banner.chimeratool.com^
 ||bayt.com/referred?
 ||bayt.com/scripts/associates_latest_jobs.js
 ||bayt.com/widgets/get_jobs_widget?
@@ -721,6 +722,7 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|cima4up.c
 ||i7dollar.com/i1dollar.jpg
 ||iareej.com/upload/$image,third-party
 ||icom-sat.net/Images/%D8%AF%D8%B9%D8%A7%D9%8A%D8%A7%D8%AA/
+||ifoneunlock.com/ifoneunlock_banner_$third-party
 ||img.soft98.ir/0_$image
 ||javanmobile.com/banner/
 ||jazora.com/banner/
