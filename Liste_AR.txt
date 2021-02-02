@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: T6JqoGagRZS4rn35uTamXg
-! Version: 202101270424
+! Checksum: GO1cUtN5I4d9m1kwcljnVw
+! Version: 202102022047
 ! Title: Liste AR
 ! Expires: 3 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -2099,7 +2099,7 @@ ce4arab.com#?#.vbmenu_popup + br + [id^="post"]:-abp-has(.thead:-abp-contains(ا
 @@||elhiwarnet.com/images/banners/meteo-hiwar.png
 @@||sogarab.com/ads/js/$script,stylesheet,domain=sogarab.com
 ! Liste blanche pour corriger le blocage strict
-@@||ajax.googleapis.com/ajax/libs/$script,domain=esheeq.co|actionz.tv|aflamfree.site|almstba-tv.com|arabe-media.com|arabictorrent.net|arablionz.tv|brstej.com |cima4up.cc|cinma4up.tv|cimaclub.in|elmoslsal.com|elmstba.com|emotionvideo-tv.com|fel3arda.com|fel3arda.xyz|fel3arda.net|freecccamnew.com|hawak.net|lodynet.co|micano4u.org|movizland.com|movizland.online|okanime.com|okyanime.com|rotana.video|shahidlive.co|toofy.tv
+@@||ajax.googleapis.com/ajax/libs/$script,domain=actionz.tv|aflamfree.site|almstba-tv.com|arabe-media.com|arabictorrent.net|arablionz.tv|brstej.com|cima4up.cc|cimaclub.in|cinma4up.tv|elmoslsal.com|elmstba.com|emotionvideo-tv.com|esheeq.co|fel3arda.com|fel3arda.net|fel3arda.xyz|freecccamnew.com|hawak.net|lodynet.co|micano4u.org|movizland.com|movizland.online|okanime.com|okyanime.com|rotana.video|shahidlive.co|toofy.tv
 @@||api.peer5.com^$script,domain=arabe-media.com
 @@||bootstrapcdn.com/bootstrap/$script,stylesheet,third-party,domain=actionz.tv|almstba-tv.com|brstej.com|elmstba.com|emotionvideo-tv.com|fel3arda.com|fel3arda.net|fel3arda.xyz|hawak.net|laroza.tv|rotana.video|shahidlive.co|toofy.tv
 @@||cdn.jsdelivr.net^$script,stylesheet,domain=almstba-tv.com|arabe-media.com|elmstba.com|faselhd.live|fel3arda.com|fel3arda.net|fel3arda.xyz
