@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 17O9lsDozmpXdemBtOkwOA
-! Version: 202102062111
+! Checksum: 12oOhuUhSJ+TvNfIFwiFUg
+! Version: 202102280353
 ! Title: Liste AR
 ! Expires: 3 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -408,11 +408,13 @@ _New_Ads.
 ||37.59.72.131^
 ||46.151.209.69^
 ||adnegah.net^$third-party
+||adsocy.com^$third-party
 ||adtube.ir^$third-party
 ||adv0.com^$third-party
 ||anetwork.ir^$third-party
 ||apanet.net^$third-party
 ||backtory.com^$third-party
+||belboon.com^$third-party
 ||branchroughlend.info^$third-party
 ||clicksegypt.net^$third-party
 ||clickweb.click^$third-party
@@ -442,6 +444,7 @@ _New_Ads.
 ||popuper.com^$third-party
 ||popupplus.ir^$third-party
 ||postquare.com^$third-party
+||powerspace.com^$third-party
 ||premaads.net^$third-party
 ||richnative.com^$third-party
 ||softwarepiset.com^$third-party
@@ -501,19 +504,19 @@ _New_Ads.
 !
 !----------------------- Publicités tierces ----------------------!
 !
-$webrtc,domain=aflamfree.site|akoam.com|akoam.net|akwam.co|akwam.io|akwam.net|akwam.org|arablionz.online|arabseed.co|arabseed.com|arabseed.tv|cinema4tv.com|emotionvideo-tv.com|gocoo.co|kora-live.tv|m2d.tv|mazika2day.com|okanime.com|okyanime.com|stivandz.com|wifi4games.com
+$webrtc,domain=aflamfree.site|akoam.com|akoam.net|akwam.co|akwam.cx|akwam.io|akwam.net|akwam.org|arablionz.online|arabseed.co|arabseed.com|arabseed.tv|cinema4tv.com|emotionvideo-tv.com|gocoo.co|kora-live.tv|m2d.tv|mazika2day.com|okanime.com|okyanime.com|stivandz.com|wifi4games.com
 !
 $websocket,domain=arabseed.co|arabseed.com|arabseed.tv|arawatch.tv|cera.online|cera.video|cinema4tv.com|kora-live.tv|m2d.tv|mazika2day.com|okanime.com|wifi4games.com|ya3ale.com
 !
 |blob:$domain=arawatch.tv|cera.online|cera.video
 !
-$script,third-party,domain=1short.us|33sk.tv|3sk.co|3sk.io|9alami.info|actionz.tv|aflam2you.com|aflamfree.site|aflamsexnek.com|aflamyz.com|akoam.com|akoam.net|akwam.co|akwam.io|akwam.net|akwam.org|alm5leb.com|almstba-tv.com|almstba.tv|almstbaa.tv|animelek.com|animelek.net|animestarz.com|anyanime.com|arabe-media.com|arabictorrent.net|arabincest.com|arablionz.online|arablionz.tv|arabseed.co|arabseed.com|arabseed.tv|aradramatv.co|arawatch.tv|brstej.com|cera.online|cera.video|cima4u.tv|cima4up.cc|cima4up.co|cima4up.tv|cimaclub.cam|cimaclub.com|cimaclub.in|cinma4up.tv|dndnha.me|e5tsar.com|edu-dz.com|egyanime.com|egydead.com|elmoslsal.com|elmstba.com|emotionvideo-tv.com|esheeq.co|faselhd.co|faselhd.com|faselhd.live|fel3arda.com|fel3arda.net|fel3arda.xyz|filmey.tv|freecccamnew.com|gdedak.tv|gocoo.co|halacima.net|hawak.net|hawak.tv|hd-arab.com|honadrama.me|jaewinter.co|kooralive.tv|kora-online.tv|laroza.tv|lodynet.co|lodynet.tv|micano4u.org|moshahda.online|movizland.com|movizland.online|movs4u.life|movs4u.live|movs4u.tv|mye.gy|myegy.cc|myegy.com|myegy.io|myegy.to|myegy.tv|myegy.xyz|okanime.com|okyanime.com|rotana.video|s4w.tv|shahid.mbc.net|shahid4u.com|shahid4u.net|shahid4u.onl|shahidlive.co|shahiid-anime.net|team1x1.com|toofy.co|toofy.tv|xsanime.com|ya3ale.com
+$script,third-party,domain=1short.us|33sk.tv|3sk.co|3sk.io|9alami.info|actionz.tv|aflam2you.com|aflamfree.site|aflamsexnek.com|aflamyz.com|akoam.com|akoam.net|akwam.co|akwam.cx|akwam.io|akwam.net|akwam.org|alm5leb.com|almstba-tv.com|almstba.tv|almstbaa.tv|animelek.com|animelek.net|animestarz.com|anyanime.com|arabe-media.com|arabictorrent.net|arabincest.com|arablionz.online|arablionz.tv|arabseed.co|arabseed.com|arabseed.tv|aradramatv.co|arawatch.tv|brstej.com|cera.online|cera.video|cima4u.tv|cima4up.cc|cima4up.co|cima4up.tv|cimaclub.cam|cimaclub.com|cimaclub.in|cinma4up.tv|dndnha.me|e5tsar.com|edu-dz.com|egyanime.com|egydead.com|elmoslsal.com|elmstba.com|emotionvideo-tv.com|esheeq.co|faselhd.co|faselhd.com|faselhd.live|fel3arda.com|fel3arda.net|fel3arda.xyz|filmey.tv|freecccamnew.com|gdedak.tv|gocoo.co|halacima.net|hawak.net|hawak.tv|hd-arab.com|honadrama.me|jaewinter.co|kooralive.tv|kora-online.tv|laroza.tv|lodynet.co|lodynet.tv|micano4u.org|moshahda.online|movizland.com|movizland.online|movs4u.life|movs4u.live|movs4u.tv|mye.gy|myegy.cc|myegy.com|myegy.io|myegy.to|myegy.tv|myegy.xyz|okanime.com|okyanime.com|rotana.video|s4w.tv|shahid.mbc.net|shahid4u.com|shahid4u.net|shahid4u.onl|shahidlive.co|shahiid-anime.net|team1x1.com|toofy.co|toofy.tv|xsanime.com|ya3ale.com
 !
-$third-party,xmlhttprequest,domain=1short.us|9alami.info|actionz.tv|aflamfree.site|akoam.com|akoam.net|akwam.co|akwam.io|akwam.net|akwam.org|almstba-tv.com|almstba.tv|almstbaa.tv|animelek.com|animelek.net|arabictorrent.net|arablionz.tv|arabseed.co|arabseed.com|arabseed.tv|arawatch.tv|brstej.com|cera.online|cera.video|cima4u.tv|cima4up.cc|cima4up.co|cima4up.tv|cimaclub.cam|cimaclub.com|cimaclub.in|cinma4up.tv|dndnha.me|edu-dz.com|egyanime.com|egydead.com|elmstba.com|emotionvideo-tv.com|freecccamnew.com|gocoo.co|hawak.net|hawak.tv|jaewinter.co|laroza.tv|lodynet.co|lodynet.tv|micano4u.org|moshahda.online|movizland.com|movizland.online|mye.gy|myegy.cc|myegy.com|myegy.io|myegy.to|myegy.tv|myegy.xyz|rotana.video|shahid4u.com|shahid4u.net|shahid4u.onl|toofy.co|toofy.tv|ya3ale.com
+$third-party,xmlhttprequest,domain=1short.us|9alami.info|actionz.tv|aflamfree.site|akoam.com|akoam.net|akwam.co|akwam.cx|akwam.io|akwam.net|akwam.org|almstba-tv.com|almstba.tv|almstbaa.tv|animelek.com|animelek.net|arabictorrent.net|arablionz.tv|arabseed.co|arabseed.com|arabseed.tv|arawatch.tv|brstej.com|cera.online|cera.video|cima4u.tv|cima4up.cc|cima4up.co|cima4up.tv|cimaclub.cam|cimaclub.com|cimaclub.in|cinma4up.tv|dndnha.me|edu-dz.com|egyanime.com|egydead.com|elmstba.com|emotionvideo-tv.com|freecccamnew.com|gocoo.co|hawak.net|hawak.tv|jaewinter.co|laroza.tv|lodynet.co|lodynet.tv|micano4u.org|moshahda.online|movizland.com|movizland.online|mye.gy|myegy.cc|myegy.com|myegy.io|myegy.to|myegy.tv|myegy.xyz|rotana.video|shahid4u.com|shahid4u.net|shahid4u.onl|toofy.co|toofy.tv|ya3ale.com
 !
 $subdocument,third-party,domain=s-ajfan.com|ya3ale.com
 !
-$stylesheet,third-party,domain=aflamsexnek.com|almstba.tv|almstbaa.tv|animelek.com|animelek.net|brstej.com|cima4u.tv|egyanime.com|egydead.com|rotana.video
+$stylesheet,third-party,domain=aflamsexnek.com|almstba.tv|almstbaa.tv|animelek.com|animelek.net|brstej.com|cima4u.tv|egyanime.com|egydead.com
 !
 $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|e5tsar.com|kora-online.tv|mes001.blogspot.com
 !
@@ -805,6 +808,7 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|e5tsar.co
 ||up2drives.com^$popup,domain=cartoon3rbi.net
 ||up2drives.com^$subdocument
 ||up700.net/affiliates/
+||vendorlist.dmcdn.net^
 ||vip600.com/aaa/
 ||waffarnalk.com/widget/
 ||wald-aden.com/mghrdon.gif
@@ -1922,7 +1926,7 @@ korabia.com##[class^="modal"]
 bloggerexp.com##[href="http://up.mosw3a.com"] > img
 bloggerexp.com##[href="http://www.mybbarab.com"] > img
 bloggerexp.com##[href^="http://bit.ly/"] > img
-akwam.co,akwam.io##[id^="banner-"]
+akwam.co,akwam.cx,akwam.io##[id^="banner-"]
 abuzersat.com##[id^="jcorner"]
 aljawalat.com##a > img[width="125"][height="125"]
 afriqa-sat.com,sat-dz.com##a > img[width="150"][height="60"]
@@ -2100,17 +2104,17 @@ ce4arab.com#?#.vbmenu_popup + br + [id^="post"]:-abp-has(.thead:-abp-contains(ا
 @@||elhiwarnet.com/images/banners/meteo-hiwar.png
 @@||sogarab.com/ads/js/$script,stylesheet,domain=sogarab.com
 ! Liste blanche pour corriger le blocage strict
-@@||ajax.googleapis.com/ajax/libs/$script,domain=actionz.tv|aflamfree.site|almstba-tv.com|arabe-media.com|arabictorrent.net|arablionz.tv|brstej.com|cima4up.cc|cimaclub.in|cinma4up.tv|elmoslsal.com|elmstba.com|emotionvideo-tv.com|esheeq.co|fel3arda.com|fel3arda.net|fel3arda.xyz|freecccamnew.com|hawak.net|lodynet.co|micano4u.org|movizland.com|movizland.online|okanime.com|okyanime.com|rotana.video|shahidlive.co|toofy.tv
+@@||ajax.googleapis.com/ajax/libs/$script,domain=actionz.tv|aflamfree.site|almstba-tv.com|arabe-media.com|arabictorrent.net|arablionz.tv|brstej.com|cima4up.cc|cimaclub.in|cinma4up.tv|elmoslsal.com|elmstba.com|emotionvideo-tv.com|esheeq.co|fel3arda.com|fel3arda.net|fel3arda.xyz|freecccamnew.com|hawak.net|lodynet.co|micano4u.org|movizland.com|movizland.online|okanime.com|okyanime.com|shahidlive.co|toofy.tv
 @@||api.peer5.com^$script,domain=arabe-media.com
-@@||bootstrapcdn.com/bootstrap/$script,stylesheet,third-party,domain=actionz.tv|almstba-tv.com|brstej.com|elmstba.com|emotionvideo-tv.com|fel3arda.com|fel3arda.net|fel3arda.xyz|hawak.net|laroza.tv|rotana.video|shahidlive.co|toofy.tv
+@@||bootstrapcdn.com/bootstrap/$script,stylesheet,third-party,domain=actionz.tv|almstba-tv.com|brstej.com|elmstba.com|emotionvideo-tv.com|fel3arda.com|fel3arda.net|fel3arda.xyz|hawak.net|laroza.tv|shahidlive.co|toofy.tv
 @@||cdn.jsdelivr.net^$script,stylesheet,domain=almstba-tv.com|arabe-media.com|elmstba.com|faselhd.live|fel3arda.com|fel3arda.net|fel3arda.xyz
 @@||cdns.gigya.com/js/gigya.js?$script,domain=shahid.mbc.net
 @@||cloudflare.com/ajax/libs/$script,stylesheet,domain=aflamyz.com|arabe-media.com|arabseed.com|cima4up.cc|cimaclub.in|cinma4up.tv|edu-dz.com|faselhd.live|okanime.com
-@@||code.jquery.com^$script,domain=actionz.tv|aflam2you.com|brstej.com|emotionvideo-tv.com|hawak.net|laroza.tv|rotana.video|shahidlive.co
-@@||disqus.com/embed.js$script,domain=alm5leb.com|animelek.net|okyanime.com|xsanime.com
-@@||disquscdn.com^$script,domain=alm5leb.com|animelek.net|okyanime.com|xsanime.com
+@@||code.jquery.com^$script,domain=actionz.tv|aflam2you.com|brstej.com|emotionvideo-tv.com|hawak.net|laroza.tv|shahidlive.co
+@@||disqus.com/embed.js$script,domain=alm5leb.com|animelek.net|egyanime.com|okyanime.com|xsanime.com
+@@||disquscdn.com^$script,domain=alm5leb.com|animelek.net|egyanime.com|okyanime.com|xsanime.com
 @@||fel3arda.*/searchjs.js$script,domain=fel3arda.com|fel3arda.net|fel3arda.xyz
-@@||fonts.googleapis.com^$stylesheet,domain=egyanime.com|laroza.tv|rotana.video
+@@||fonts.googleapis.com^$stylesheet,domain=egyanime.com|laroza.tv
 @@||jwpsrv.com/library/$script,domain=kora-online.tv
 @@||ssl.p.jwpcdn.com/player/v/$script,stylesheet,xmlhttprequest,domain=faselhd.live|laroza.tv|moshahda.online|okanime.com
 @@||vjs.zencdn.net^$script,stylesheet,domain=fel3arda.com|fel3arda.net|fel3arda.xyz|kora-online.tv
