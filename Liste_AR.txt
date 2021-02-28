@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 12oOhuUhSJ+TvNfIFwiFUg
-! Version: 202102280353
+! Checksum: 3j4Ce62xNT6o7xsgw1ySMQ
+! Version: 202102280355
 ! Title: Liste AR
 ! Expires: 3 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -154,7 +154,7 @@
 ?text=Ads_
 _120.240.gif
 _990x100.
-_adunit_
+_adunit_$domain=~tv2.dk
 _arabycash.
 _New_Ads.
 ! test
