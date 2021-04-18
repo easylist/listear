@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: KlxU1C71j/svsJVHgeBKKg
-! Version: 202104180800
+! Checksum: kpj0/5KmyBFPfOwvF/e6Xg
+! Version: 202104180813
 ! Title: Liste AR
 ! Expires: 3 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1662,6 +1662,7 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|e5tsar.co
 ||waraqat.net/*/thwalel.gif
 ||waseet-dz.com/wp-content/uploads/2016/05/affiche5-185x300.png
 ||wasetamazon.com/upload/2015/08/amazon.png
+||wattan.net/data/bnrs/
 ||www.on.ma/banner.
 ||xtratube.net/player/*/codes.html
 ||y4yy.com/la3bty.gif
@@ -1813,7 +1814,7 @@ bokra.net##.aside-banner
 marocannonces.com##.baner
 7chaterz.com,akhbarona.com,alayam.com,alwafd.news,alwafd.org,arabchaterz.com,darendeal.com,ounousa.com,shasha.ps##.banner
 mediamasr.tv##.banner-area
-wattan.tv##.banner-box
+wattan.net##.banner-box
 bokra.net##.banner-desktop
 makkahnews.net##.banner-home
 alhayat.com##.banner2
@@ -1887,7 +1888,7 @@ dardarkom.com##.notbar
 masr140.com##.om_ad
 chat-alriyadh.com##.paner
 tech-wd.com##.partners
-wattan.tv##.popup-banner
+wattan.net##.popup-banner
 hao123.com##.pr
 aljazair1.com##.pub
 hawaaweb.com##.right-banner
@@ -1945,7 +1946,7 @@ aljazair24.com,dzayerinfo.com,masrawysat.com##a > img[width="728"][height="90"]
 egmp3.net##a[href*=".php?"]
 ibda3gate.com##a[href*="/Direct Link.html"]
 ckfu.org##a[href*="/ads.php?"]
-arabseed.co,arabseed.com,arabseed.tv,arbcinema.com,ce4arab.com,edlibre.com,el-ahly.com,elconsolto.com,khaberni.com,wattan.tv##a[href*="://bit.ly/"]
+arabseed.co,arabseed.com,arabseed.tv,arbcinema.com,ce4arab.com,edlibre.com,el-ahly.com,elconsolto.com,khaberni.com,wattan.net##a[href*="://bit.ly/"]
 202020.net,arabseed.co,arabseed.com,arabseed.tv,cima4u.tv,sawasport.com##a[href*="://goo.gl/"]
 lakii.com##a[href*="ads-redirect.php?i="]
 egyfitness.com##a[href*="leadpages.co"]
