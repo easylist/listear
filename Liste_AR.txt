@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: DZbAZrFRU2xg9wL1eM6nvw
-! Version: 202106141948
+! Checksum: MMHJb86ZuFYeVjfM9gkhmQ
+! Version: 202106142006
 ! Title: Liste AR
 ! Expires: 3 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1811,6 +1811,7 @@ annahar.com##.advertisement
 mp3quran.net##.advertising
 gololy.com##.advrtising-colum
 b2b-sy.com,silkroad4arab.com##.advs
+bokra.net,shahidlive.co,shoofvod.com##.article-banner
 bokra.net##.aside-banner
 1009.ae##.background-cover
 6ab5ty.com##.banar
@@ -1821,6 +1822,7 @@ wattan.net##.banner-box
 bokra.net##.banner-desktop
 makkahnews.net##.banner-home
 alhayat.com##.banner2
+bokra.net,shahidlive.co,shoofvod.com##.bannerBorder
 egyup.com,imanschool.com,mwadah.com##.bannerBox
 m5zn.com##.banner_120_black
 elmihwar.com,felmedan.com##.banneritem
@@ -1904,7 +1906,8 @@ alaan.tv##.show-specificimg1
 kol7agh.com##.show_left_left_google
 el3ab.com##.showcase
 aljazairalyoum.com,edlibre.com##.sidebar a[target="_blank"] > img
-shahidlive.co##.skyscraper
+bokra.net,shahidlive.co,shoofvod.com##.skyscraper
+bokra.net,shahidlive.co,shoofvod.com##.skyscraper2
 souqa3mal.com##.slid-topmaxtech-costom-ads
 alayam.com##.slides1
 alayam.com##.slides76
@@ -2119,7 +2122,7 @@ ce4arab.com#?#.vbmenu_popup + br + [id^="post"]:-abp-has(.thead:-abp-contains(ا
 @@||ajax.googleapis.com/ajax/libs/$script,domain=actionz.tv|aflamfree.site|almstba-tv.com|arabe-media.com|arabictorrent.net|arablionz.tv|brstej.com|cima4up.cc|cimaclub.in|cinma4up.tv|elmoslsal.com|elmstba.com|emotionvideo-tv.com|esheeq.co|fel3arda.com|fel3arda.net|fel3arda.xyz|freecccamnew.com|gateanime.com|hawak.net|lodynet.co|micano4u.org|movizland.com|movizland.online|okanime.com|okyanime.com|shahidlive.co|toofy.tv
 @@||api.peer5.com^$script,domain=arabe-media.com
 @@||bootstrapcdn.com/bootstrap/$script,stylesheet,third-party,domain=actionz.tv|almstba-tv.com|brstej.com|elmstba.com|emotionvideo-tv.com|fel3arda.com|fel3arda.net|fel3arda.xyz|hawak.net|laroza.tv|shahidlive.co|toofy.tv
-@@||cdn.jsdelivr.net^$script,stylesheet,domain=almstba-tv.com|arabe-media.com|elmstba.com|faselhd.live|fel3arda.com|fel3arda.net|fel3arda.xyz
+@@||cdn.jsdelivr.net^$script,stylesheet,domain=almstba-tv.com|arabe-media.com|elmstba.com|faselhd.live|fel3arda.com|fel3arda.net|fel3arda.xyz|shahidlive.co
 @@||cdns.gigya.com/js/gigya.js?$script,domain=shahid.mbc.net
 @@||cloudflare.com/ajax/libs/$script,stylesheet,domain=aflamyz.com|arabe-media.com|arabseed.com|cima4up.cc|cimaclub.in|cinma4up.tv|edu-dz.com|faselhd.live|okanime.com
 @@||code.jquery.com^$script,domain=actionz.tv|aflam2you.com|brstej.com|emotionvideo-tv.com|hawak.net|laroza.tv|shahidlive.co
