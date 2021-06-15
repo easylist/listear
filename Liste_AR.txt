@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 3i7SHQIm1Ewjz0OEk+FhVA
-! Version: 202106151335
+! Checksum: qLW4NiPQLAXLYnoVTY0F0A
+! Version: 202106151540
 ! Title: Liste AR
 ! Expires: 3 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1926,7 +1926,6 @@ d7ika.ma##.top-banner
 al3abo.com##.topBannerBOX
 q8yat.com##.top_recipes
 almesryoon.com##.topad
-octboot.com##.topbanner
 bokra.net##.tower
 bokra.net##.towerBanner
 bokra.net##.twoBanners
