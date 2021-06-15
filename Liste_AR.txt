@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: qLW4NiPQLAXLYnoVTY0F0A
-! Version: 202106151540
+! Checksum: +9uz1Y0lB93RZB6QTDLOLQ
+! Version: 202106151543
 ! Title: Liste AR
 ! Expires: 3 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1676,7 +1676,6 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|e5tsar.co
 ||yallakora.com/images/geminisc.jpg
 ||ylla.net/bun.php?
 ||youm7.com/cairodar/index2.html
-||youtube.com/watch?v=88eJwlVi898$popup,domain=alrealclub.com
 ||youtube.com^*7wxGtUQDtI4
 ||z-shadow.co/image/announce.gif
 ||z-shadow.co/image/pub.gif
@@ -1912,13 +1911,11 @@ souqa3mal.com##.slid-topmaxtech-costom-ads
 alayam.com##.slides1
 alayam.com##.slides76
 el3ab.com##.smallLeader
-alrealclub.com##.smallfont a[target="_blank"]
 ennaharonline.com##.souq
 tsa-arabi.com##.sponsored-by
 dev-point.com##.sponsors
 dzairfoot.tv##.stream-item-top
 bokra.net##.strip
-alrealclub.com##.style10 img
 darendeal.com##.takeover
 e-tejara.com##.td-banner-wrap-full
 ar-wp.com##.ten-banners
@@ -2001,7 +1998,6 @@ sat-vb.com##a[target="_blanck"] > img
 gulf-up.com##a[target="_blank"] > img
 aliahmedali.com##a[target="_blank"] > img[width="235"][height="60"]
 misrlinks.com##a[target="_blank"][href*="to-"]
-alrealclub.com##a[title^="ينتهي في"]
 aswaqcity.com##div#vbseo_vhtml_0
 shof.co.il##div[class*="banner"]
 shof.co.il##div[class*="bnr"]
