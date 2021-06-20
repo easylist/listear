@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: hsBQr7+jK+fY/ofQTJRMxg
-! Version: 202106182314
+! Checksum: sKoQ7R7nPkooTj8XoQukkA
+! Version: 202106201812
 ! Title: Liste AR
 ! Expires: 3 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1752,7 +1752,6 @@ klmty.net###overlay
 m2d.tv###page_end_bans
 qalansuwa.com###pathway
 alwatannews.net###pnlAdv12
-alittihad.press.ma###pub
 okanime.com###pubbbbbbb
 assayyarat.com###push_lightbox
 alarab.com,alarab.net###secncom
