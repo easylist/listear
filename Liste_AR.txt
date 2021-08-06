@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: E8DjFxZ3vUxuDHrclzVHww
-! Version: 202107222127
+! Checksum: 3/Lfgb3NFHL54p7mvO5lZg
+! Version: 202108062204
 ! Title: Liste AR
 ! Expires: 3 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1140,6 +1140,7 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|e5tsar.co
 ||arabe-media.com/700.php
 ||arabe-media.com/tourisme.js
 ||arabicbroker.com/wordpress/wp-content/uploads/banner1.swf
+||arabicworld.club/images/bs/L/olymp-trade-app-1.jpg
 ||arabincest.com/store/
 ||arabmersal.net^$popup,domain=rmoz.cc
 ||arabs-up.com/uploads/12_02_13_13606696151.gif
