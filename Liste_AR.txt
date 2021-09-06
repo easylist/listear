@@ -381,6 +381,7 @@ _New_Ads.
 ##a[href^="http://clicks.pipaffiliates.com/"] > img
 ##a[href^="http://viral481.com/srv."]
 ##a[href^="http://www.fusebux.com/index.php?r="] > img
+##a[href^="https://arabic-life.buzz/"]
 ##a[href^="https://cs-api.postquare.com/gas-api/click.json?"]
 ##a[href^="https://firstbyte.pro/?from="] > img
 ##a[href^="https://halocell.com/go/"] > img
@@ -414,6 +415,7 @@ _New_Ads.
 ||adv0.com^$third-party
 ||anetwork.ir^$third-party
 ||apanet.net^$third-party
+||arabic-life.buzz^
 ||backtory.com^$third-party
 ||belboon.com^$third-party
 ||branchroughlend.info^$third-party
