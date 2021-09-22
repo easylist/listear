@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: iQePgGBv/oZ6rYk32i3A4A
-! Version: 202109221128
+! Checksum: XrJfpsjbLstmEJ/RgQsNog
+! Version: 202109221140
 ! Title: Liste AR
 ! Expires: 3 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1181,6 +1181,7 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|e5tsar.co
 ||b2b-sy.com/b2b/video-1593420156.gif
 ||b2b-sy.com/b2b/zeuor_1.gif
 ||ban.alukah.net^
+||bank-zone.com/wp-content/uploads/2019/03/gifad.gif
 ||banotacool.net^$popup,third-party
 ||baramjak.com/pop.txt
 ||bdr130.net^*/bdr130_popup/
@@ -2048,7 +2049,7 @@ nilemotors.net##img[height="60"][width\"468\"]
 wed-alqlop.com##img[height="600"][width="160"]
 silkroad4arab.com##img[height="80"]
 silkroad4arab.com##img[height="90"]
-adslgate.com,alwatan.sy,gem-flash.com,wed-alqlop.com##img[height="90"][width="728"]
+adslgate.com,alwatan.sy,bank-zone.com,gem-flash.com,wed-alqlop.com##img[height="90"][width="728"]
 ech-chaab.com##img[src^="data:"]
 annahar.ma##img[src^="data:image/jpeg;base64,"]
 bramjnet.com##img[style="WIDTH: 468px; HEIGHT: 60px"][title*="الإعلان "]
