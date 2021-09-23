@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: kvdtMAkciKrp7BIMzFjVqQ
-! Version: 202109221310
+! Checksum: gifaT+JLxvfFO+OykOXOxg
+! Version: 202109230932
 ! Title: Liste AR
 ! Expires: 3 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1003,8 +1003,6 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|e5tsar.co
 !
 !------------------------ Sites spécifiques ----------------------!
 !
-/nexp/dok3v=*/cloudflare/rocket.js$script,domain=masrawysat.com
-!
 ||0sat.net/index/
 ||0zz0.com/e/
 ||0zz0.com/js.php
@@ -1457,12 +1455,9 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|e5tsar.co
 ||marrakechalaan.com/wp-content/uploads/2015/05/hotel-cesar-copie-sd.png
 ||marrakechalaan.com/wp-content/uploads/2015/07/blach-zohair.gif
 ||marrakechalaan.com/wp-content/uploads/2015/07/radio-gueliz-pub-v-2.gif
-||masrawysat.com/images/ms/ghost_9.
+||masrawysat.com/images/ms/
 ||masrawysat.com/img/505.gif
 ||masrawysat.com/img/astra.gif
-||masrawysat.com/img/Baaanner.gif
-||masrawysat.com/img/Eaj06zD.gif
-||masrawysat.com/img/LNB.gif
 ||masrawysat.com/img/omix.gif
 ||masrawysat.com/vb/images/alsharingbanner.gif
 ||mazajcool.net/160.gif
@@ -1871,6 +1866,7 @@ sawasport.com##.full-width-banner
 youm7.com##.fullBanner
 filfan.com##.gads_MR
 almasryalyoum.com##.gam-holder
+masrawysat.com##.ghost
 moheet.com##.gplus
 graaam.com##.haw
 makkahnews.net##.header_banner
@@ -1972,7 +1968,6 @@ arabictorrent.net##a[href="/dwl"]
 baitkebeer.com##a[href="http://adf.ly/O9EKG"]
 baitkebeer.com##a[href="http://www.arabawe.com/"]
 animop.net##a[href="http://www.b3lok.com"]
-masrawysat.com##a[href="http://www.c1000000.com"]
 s-oman.net##a[href="http://www.rennamobile.com/promotions/"]
 aljazairalyoum.com##a[href^=" http://ngaous.com"]
 otlaat.com##a[href^="/ads.php?"]
