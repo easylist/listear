@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: gifaT+JLxvfFO+OykOXOxg
-! Version: 202109230932
+! Checksum: Py50CgJOt65cm5grkaPmCQ
+! Version: 202110031212
 ! Title: Liste AR
 ! Expires: 3 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -58,6 +58,7 @@
 /adds.gif
 /adedinfo/*
 /AdHead1.
+/ads-emall-
 /ads.*&autoplay=
 /ads.*?vid=
 /ads/*/banners_
@@ -1312,6 +1313,7 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|e5tsar.co
 ||elwassat.com/wp-content/uploads/2020/10/ezgif.com-gif-maker.mp4
 ||elwassat.dz/wp-content/uploads/2020/10/ezgif.com-gif-maker.mp4
 ||elwatannews.com/hoa/
+||emall.masreat.com/files/2011/01/clinics_50.jpg
 ||emaratalyoum.com^*/banners/
 ||emotionvideo-tv.com/getpop.
 ||english-guide.com/images/banners/
@@ -1460,6 +1462,7 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|e5tsar.co
 ||masrawysat.com/img/astra.gif
 ||masrawysat.com/img/omix.gif
 ||masrawysat.com/vb/images/alsharingbanner.gif
+||masreat.com/images/hospital-addiction-treatment2.jpg
 ||mazajcool.net/160.gif
 ||mazajcool.net/300.gif
 ||mazajcool.net/300.html
@@ -2087,7 +2090,7 @@ rmadarab.com##img[width="500"][height="60"]
 rmadarab.com##img[width="600"][height="90"]
 silkroad4arab.com##img[width="625"]
 jo-sharing.com##img[width="700"][height="120"]
-silkroad4arab.com##img[width="720"]
+masreat.com,silkroad4arab.com##img[width="720"]
 202020.net,alamelarab.com,arablionz.online,arabseed.co,arabseed.com,arabseed.tv,dzair-tube.com,foxpic.com,mye.gy,myegy.cc,myegy.io,myegy.tv,myegy.xyz,novriko.com,petro-press.com,zi-m.com##img[width="728"][height="90"]
 chtoukapress.com##img[width="728px"][height="100px"]
 qatarshares.com##img[width="804"][height="80"]
