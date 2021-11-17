@@ -831,6 +831,7 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|e5tsar.co
 ||widgipedia.com/widgets/$third-party
 ||wirwaar.com^$subdocument,third-party
 ||xatech.com^
+||xsanime.com/wp-content/*/$popup
 ||xuscacamusca.se/js/adsj.js
 ||yamli.com/static/gam_iframe.htm?
 ||yellowpages.com.ps/search_bricks/ps_search_bricks_300X130.php
