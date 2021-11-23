@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: ZbVh8Cv/e4ovPbDTLeW00g
-! Version: 202111010528
+! Checksum: PCDpMlNUr3bY68fZewG4ZQ
+! Version: 202111230707
 ! Title: Liste AR
 ! Expires: 3 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -2118,6 +2118,7 @@ traidnt.net##td[width="160px"]
 ! Filtres de propriété CSS pour Adblock Plus
 amni8.com,kora-live.tv,stivandz.com#?#:-abp-properties(opacity:)
 ce4arab.com#?#.vbmenu_popup + br + [id^="post"]:-abp-has(.thead:-abp-contains(اعلان))
+ouedkniss.com#?#.container:-abp-has(.o-section-heading:-abp-contains(متاجر في المقدمة))
 !
 !------------------------ Exceptions -----------------------------!
 !
