@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: oLkXzfbYUj6DE+HX7/56OQ
-! Version: 202112170527
+! Checksum: 9UcB3B/SckoxTqD6Csg4DQ
+! Version: 202112180330
 ! Title: Liste AR
 ! Expires: 3 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -2029,7 +2029,7 @@ shof.co.il##div[class*="banner"]
 shof.co.il##div[class*="bnr"]
 shof.co.il##div[class*="cube"]
 sunnewsnow.com##div[class][data-index][style]
-sarayanews.com##div[class^="ads"]
+almasryalyoum.com,sarayanews.com##div[class^="ads"]
 mexat.com##div[class^="banner"]
 arbcinema.com##div[id*="fish_div"]
 sarayanews.com##div[id^="ads"]
