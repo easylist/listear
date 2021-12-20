@@ -486,6 +486,7 @@ _New_Ads.
 ||aflam.io^$popup
 ||aso1.net^$popup
 ||celebritypranky.com^$popup,third-party
+||cima-club.cc*/themes/CimaClub/$popup
 ||cimaflash.tv^$popup
 ||eclkspbn.com^$popup,third-party
 ||elmassar-ar.com^$popup
