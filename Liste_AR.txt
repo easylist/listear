@@ -1153,6 +1153,7 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|e5tsar.co
 ||amazonaws.com/fl/KSA-Footer/JSFiles/leader.js
 ||amronline202.blogspot.com^$domain=tfilm.ba7r.biz
 ||anakbnet.com/video/a/banar/
+||anime4up.com/wp-content/uploads/$popup
 ||animestarz.com/files/sponsors/
 ||ar-tr.com/wp-content/uploads/Download
 ||ar-wp.com/forums-archive/images/bn1.
