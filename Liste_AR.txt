@@ -1281,6 +1281,7 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|e5tsar.co
 ||egy.best/click.$popup
 ||egybest.*/click.$popup
 ||egybest.*/cv.$popup
+||egydead.live/*/EgyDead-Logo.png$popup
 ||egylords.com/vb/images/bnar-games.gif
 ||egylords.com/vb/images/dir.gif
 ||egylords.com/vb/images/mosh.gif
