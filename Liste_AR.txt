@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: WzR/4YJcTUv1nVDh875Mpg
-! Version: 202112211551
+! Checksum: Qfy8C9ve+Htsy0LikCFucQ
+! Version: 202112230328
 ! Title: Liste AR
 ! Expires: 3 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1416,6 +1416,7 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|e5tsar.co
 ||kleeja.com/static/images/e3/
 ||klmty.net/message.php?
 ||konouz.com^*/images/banners/
+||kooora.com/banners/
 ||kora-online.tv/channellist.
 ||kora-online.tv/chat.html
 ||kora-online.tv/img/$popup
@@ -1845,7 +1846,7 @@ bokra.net##.aside-banner
 1009.ae##.background-cover
 6ab5ty.com##.banar
 marocannonces.com##.baner
-7chaterz.com,akhbarona.com,alayam.com,alnaharegypt.com,alwafd.news,alwafd.org,arabchaterz.com,bitcoindz.com,darendeal.com,elamwal.com,ounousa.com,shasha.ps##.banner
+7chaterz.com,akhbarona.com,alayam.com,alnaharegypt.com,alwafd.news,alwafd.org,arabchaterz.com,bitcoindz.com,darendeal.com,elamwal.com,kooora.com,ounousa.com,shasha.ps##.banner
 mediamasr.tv##.banner-area
 wattan.net##.banner-box
 bokra.net##.banner-desktop
