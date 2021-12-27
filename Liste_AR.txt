@@ -1233,6 +1233,7 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|e5tsar.co
 ||chadafm.net/images/stories/ban-605x106.gif
 ||christian-dogma.com^*/banners/
 ||cima4u.tv/template/$popup
+||cima4u.ws/wp-content/uploads/$popup
 ||cimaclub.*/logo/$popup
 ||ckfu.org/newbnr/
 ||ckfu.org/pic4u/uploads/ckfu1508122885021.gif
