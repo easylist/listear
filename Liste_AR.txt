@@ -475,6 +475,7 @@ _New_Ads.
 ||valshara.com^$third-party
 ||windailyprizes.info^$third-party
 ||yektanet.com^$third-party
+||ygnnqkxheq.com^
 ||zarpop.com^$third-party
 ||zermeo.com^$third-party
 !
