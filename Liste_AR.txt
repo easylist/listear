@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: +IRFAs7LkoI61PtPpGujyg
-! Version: 202202072320
+! Checksum: wWrE3Gp5o6ntaI4CBLXs0w
+! Version: 202202072328
 ! Title: Liste AR
 ! Expires: 3 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -2141,7 +2141,7 @@ ouedkniss.com#?#.container:-abp-has(.o-section-heading:-abp-contains(/إعلان
 @@||bootstrapcdn.com/bootstrap/$script,stylesheet,third-party,domain=actionz.tv|almstba-tv.com|brstej.com|elmstba.com|emotionvideo-tv.com|fel3arda.com|fel3arda.net|fel3arda.xyz|hawak.net|laroza.tv|shahidlive.co|toofy.tv
 @@||cdn.jsdelivr.net^$script,stylesheet,domain=almstba-tv.com|arabe-media.com|egynow.live|elmstba.com|faselhd.live|fel3arda.com|fel3arda.net|fel3arda.xyz|shahidlive.co
 @@||cdns.gigya.com/js/gigya.js?$script,domain=shahid.mbc.net
-@@||cloudflare.com/ajax/libs/$script,stylesheet,domain=aflamyz.com|arabe-media.com|arabseed.com|cima4up.cc|cimaclub.in|cinma4up.tv|edu-dz.com|faselhd.live|okanime.com|online-hackers.com
+@@||cloudflare.com/ajax/libs/$script,stylesheet,domain=aflamyz.com|arabe-media.com|arabseed.com|cima4up.cc|cimaclub.in|cinma4up.tv|edu-dz.com|faselhd.live|okanime.com|online-hackers.com|xsanime.com
 @@||code.jquery.com^$script,domain=actionz.tv|aflam2you.com|brstej.com|emotionvideo-tv.com|hawak.net|laroza.tv|shahidlive.co
 @@||disqus.com/embed.js$script,domain=alm5leb.com|animelek.net|egyanime.com|okyanime.com|xsanime.com
 @@||disquscdn.com^$script,domain=alm5leb.com|animelek.net|egyanime.com|okyanime.com|xsanime.com
