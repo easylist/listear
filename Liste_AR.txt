@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 7Ynip2P1h3d8/9OSKShEaA
-! Version: 202201300506
+! Checksum: vVsIx3O1z9tpMGtr4vjv0w
+! Version: 202202072250
 ! Title: Liste AR
 ! Expires: 3 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -28,7 +28,6 @@
 -866x120.
 -866x120_
 -90x728.
--970-x-250.
 -ad-300x250-
 -ad-728x90-
 -delivery.js
@@ -229,7 +228,6 @@ _New_Ads.
 ##.a3lan-related
 ##.a3lan-top
 ##.ad--list
-##.ad--wrapper
 ##.ad-id_
 ##.ad-id_shortcode
 ##.ad-image
@@ -249,7 +247,6 @@ _New_Ads.
 ##.ad-location_wrapper_left
 ##.ad-location_wrapper_right
 ##.ad-post-bottom
-##.ad-post-top
 ##.ad-rt
 ##.ad-type_adsense
 ##.ad-type_code
@@ -258,7 +255,6 @@ _New_Ads.
 ##.ad220
 ##.ad250250
 ##.ad720
-##.ad970
 ##.adNavDesktop
 ##.adNavMob
 ##.adOTPDesktop
@@ -357,7 +353,6 @@ _New_Ads.
 ##.safeAreaRightAds
 ##.sideColAds
 ##.sidea-ad
-##.speakol-widget
 ##.sponsorDuplicate
 ##.srapad
 ##.srapad_bg
@@ -367,7 +362,6 @@ _New_Ads.
 ##.widget-custom-ads
 ##.widget_a4h_ads
 ##.widget_widget_pub
-##.zad.billboard
 ##[ad-unit="160X600"]
 ##[ad-unit="300X250"]
 ##[ad-unit="300X600"]
@@ -408,7 +402,6 @@ _New_Ads.
 ##a[href^="https://onlivestreams.online/"]
 ##a[href^="https://witalfieldt.com/"]
 ##aside[id^="custom-ads-"]
-##div[class^="ad-id_ad_"]
 ##div[class^="ad-id_shortcode"]
 ##div[class^="ads-area-"]
 ##div[id^="POSTQUARE_WIDGET"]
@@ -434,7 +427,6 @@ _New_Ads.
 ||adv0.com^$third-party
 ||anetwork.ir^$third-party
 ||apanet.net^$third-party
-||arabic-life.buzz^
 ||backtory.com^$third-party
 ||belboon.com^$third-party
 ||branchroughlend.info^$third-party
@@ -458,7 +450,6 @@ _New_Ads.
 ||ketshwa.com^$third-party
 ||kimia.es^$third-party
 ||marvelmanager.com^$third-party
-||mediaad.org^$third-party
 ||monetizd.com^$third-party
 ||mpi.ps^$third-party
 ||paht.tech^$third-party
@@ -515,7 +506,6 @@ _New_Ads.
 ||smintmouse.com^$popup,third-party
 ||theclickcheck.com^$popup,third-party
 ||tncrun.net^$popup,third-party
-||topflownews.com^$popup
 ||trinylium.com^$popup,third-party
 ||ublockerext.com^$popup,third-party
 ||valshara.com^$popup,third-party
@@ -574,7 +564,6 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|e5tsar.co
 ||adv.bokra.net^
 ||adv.videomega.tv^$popup
 ||af.gamepower7.com/*?aid=$popup,third-party
-||aff.bstatic.com^
 ||aflam.info^$popup
 ||aflamy.tv^$popup,domain=mrfile.co|spikyup.com
 ||afrecano.ml^$subdocument
@@ -787,7 +776,6 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|e5tsar.co
 ||online-sale24.com^$script
 ||op-arab.net/images/2015/01/04/BYVMon.gif
 ||optionyard.com/l.aspx?
-||pacontainer.s3.amazonaws.com^
 ||pics.chimeratool.com/images_b/$third-party
 ||pop.naminews.ir^
 ||profvb.com/pub/
@@ -813,7 +801,6 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|e5tsar.co
 ||shwqna.at.ua/pop*.js
 ||shy22.com/upfilgif/eca15583.gif
 ||shy22.com/upfilgif/eou19449.gif
-||sikr.chimeratool.com^
 ||skauu.com/add/
 ||soccerhot.com/images/banner/
 ||souqasr.com/images/index_02.gif
