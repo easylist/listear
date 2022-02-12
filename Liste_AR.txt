@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: qPN7K8AqB2A9Qp2cBXX88A
-! Version: 202202072341
+! Checksum: 69dHioDx5ruBqEdakOwczQ
+! Version: 202202120425
 ! Title: Liste AR
 ! Expires: 3 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -468,6 +468,10 @@ _New_Ads.
 ||yektanet.com^$third-party
 ||zarpop.com^$third-party
 ||zermeo.com^$third-party
+!
+||cgzad-traderz.tech^
+||pahtwt.tech^
+||qhaxbtvr.xyz^
 !
 !------------------------ Annonceurs popup -----------------------!
 !
