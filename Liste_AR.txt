@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 69dHioDx5ruBqEdakOwczQ
-! Version: 202202120425
+! Checksum: SlpScSb5g2HRXaNE5TtadQ
+! Version: 202202120504
 ! Title: Liste AR
 ! Expires: 3 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -185,6 +185,7 @@ _New_Ads.
 ###ClicksAds
 ###FixAdv160L
 ###FixAdv160R
+###ad-center-most-view
 ###ad4game728x90
 ###adLeftHolder
 ###adOTPDesktop
@@ -1375,11 +1376,23 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|e5tsar.co
 ||images.akhbarelyom.com/up/20210323160955805.jpg
 ||images.akhbarelyom.com/up/20210324205646629.jpg
 ||images.akhbarelyom.com/up/20210324205753036.jpg
+||images.akhbarelyom.com/up/20210406231515104.jpg
+||images.akhbarelyom.com/up/20210628192750610.jpg
 ||images.akhbarelyom.com/up/20210815024133531.jpg
 ||images.akhbarelyom.com/up/20210901192935159.jpg
 ||images.akhbarelyom.com/up/20210915000029287.jpg
 ||images.akhbarelyom.com/up/20210915000829315.jpg
 ||images.akhbarelyom.com/up/20210915002037077.jpg
+||images.akhbarelyom.com/up/20211001235612526.jpg
+||images.akhbarelyom.com/up/20211003141655199.jpg
+||images.akhbarelyom.com/up/20220103152712895.jpg
+||images.akhbarelyom.com/up/20220105164532927.jpg
+||images.akhbarelyom.com/up/20220105164624556.jpg
+||images.akhbarelyom.com/up/20220105165238003.jpg
+||images.akhbarelyom.com/up/20220109174240596.jpg
+||images.akhbarelyom.com/up/20220125233703238.jpg
+||images.akhbarelyom.com/up/20220210162822547.jpg
+||images.akhbarelyom.com/up/20220210165954226.jpg
 ||img.dev-point.com/imgcache/2014/12/831970.gif
 ||img.gem-flash.com/images/27717855529074681287.gif
 ||img.gem-flash.com/images/51428347088205203468.gif
@@ -2021,6 +2034,7 @@ elheddaf.com##a[style*="url(/data/pub/)"]
 elheddaf.com##a[style="width:100%; height:850px; display:block; background:#000 url(/data/pub/pub.jpg) no-repeat center top; position: relative;"]
 sat-vb.com##a[target="_blanck"] > img
 gulf-up.com##a[target="_blank"] > img
+akhbarelyom.com##a[target="_blank"] > img[style*="width: 300px;"]
 aliahmedali.com##a[target="_blank"] > img[width="235"][height="60"]
 misrlinks.com##a[target="_blank"][href*="to-"]
 aswaqcity.com##div#vbseo_vhtml_0
