@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: rV71ovf3AjaeQm7PwN+YAQ
-! Version: 202202120524
+! Checksum: zQn0fnErqeoTqmz4HLIbhA
+! Version: 202202191533
 ! Title: Liste AR
 ! Expires: 3 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -150,7 +150,6 @@
 /vb/*/banr.gif
 /vb/*/bnr.gif
 /vb/open.js
-800x100.gif?
 ://fbm.*/banners/
 ://go.*/afu.
 ://partners.*/widget/$third-party
@@ -2191,7 +2190,6 @@ eldjoumhouria.dz#@#.top_small_ad
 @@.png#$image,domain=elmoslsal.com|farescd.com|sigma4pc.com
 @@/advert2.js$script,~third-party,domain=oload.fun|oload.win|openload.co
 @@/advertisement.js$script,domain=embratoria.com|imbratoria.info|zee3rb.com
-@@||arabcut.com/js/ads.js$script,~third-party
 @@||cdn.vidyomani.com^*/showads.js$script,domain=vidyomani.com
 @@||jeddahbikers.com/templates/js/adframe.js|$script,~third-party
 !
