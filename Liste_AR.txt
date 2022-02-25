@@ -534,7 +534,7 @@ $subdocument,third-party,domain=s-ajfan.com|ya3ale.com
 !
 $stylesheet,third-party,domain=aflamsexnek.com|almstba.tv|almstbaa.tv|animelek.com|animelek.net|brstej.com|egyanime.com|egydead.com|egydead.live
 !
-$popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|e5tsar.com|kora-online.tv|mes001.blogspot.com
+$popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|e5tsar.com|kora-online.tv|lodynet.dev|mes001.blogspot.com
 !
 /script.js$domain=anakbnet.com|e5tsar.com|itahvil.com
 /sw.js$domain=almstba.tv|almstbaa.tv|arabseed.co|arabseed.com|arabseed.tv|hawak.net|hawak.tv|rotana.video
