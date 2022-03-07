@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: KpNW1FUEuqieFMZi9h6tIg
-! Version: 202203010744
+! Checksum: iujmrmtP6fcw/2xR9V7BnQ
+! Version: 202203070550
 ! Title: Liste AR
 ! Expires: 3 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -2167,6 +2167,7 @@ ouedkniss.com#?#.container:-abp-has(.o-section-heading:-abp-contains(/إعلان
 @@||fel3arda.*/searchjs.js$script,domain=fel3arda.com|fel3arda.net|fel3arda.xyz
 @@||fonts.googleapis.com^$stylesheet,domain=egyanime.com|laroza.tv
 @@||jwpsrv.com/library/$script,domain=kora-online.tv
+@@||scdn.to/stream/$xmlhttprequest,domain=faselhd.top
 @@||ssl.p.jwpcdn.com/player/v/$script,stylesheet,xmlhttprequest,domain=faselhd.top|laroza.tv|moshahda.online|okanime.com
 @@||vjs.zencdn.net^$script,stylesheet,domain=fel3arda.com|fel3arda.net|fel3arda.xyz|kora-online.tv
 @@||wp.com/*/wp-includes/js/jquery/$script,domain=anime4up.com|gateanime.com|shahiid-anime.net
