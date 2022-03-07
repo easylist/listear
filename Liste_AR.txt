@@ -1931,6 +1931,7 @@ dardarkom.com##.notbar
 masr140.com##.om_ad
 chat-alriyadh.com##.paner
 tech-wd.com##.partners
+shahidmosalsalat.co##.pm-ads-inplayer
 wattan.net##.popup-banner
 hao123.com##.pr
 aljazair1.com##.pub
