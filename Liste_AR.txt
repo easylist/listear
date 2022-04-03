@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: UiIjjQLn9h7qQluA2XZEfQ
-! Version: 202204031943
+! Checksum: iqQcDgFin0TkTPLcz/5MWA
+! Version: 202204031953
 ! Title: Liste AR
 ! Expires: 3 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -128,6 +128,7 @@
 /nugg-ad-
 /opensooqads.
 /OuterAds.
+/partner_ad_
 /png%2Bad.
 /pop/ads.
 /productbox.*?zone=$third-party
@@ -423,6 +424,7 @@ _New_Ads.
 ||0.13.75.226^$third-party
 ||37.59.72.131^
 ||46.151.209.69^
+||adarabi.com^$third-party
 ||adnegah.net^$third-party
 ||adsocy.com^$third-party
 ||adtube.ir^$third-party
