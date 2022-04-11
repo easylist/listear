@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: g+OXO3RhXYlzwJcGAkCQSQ
-! Version: 202204110559
+! Checksum: aPn/PXwNqjO6IaAABYfEog
+! Version: 202204110603
 ! Title: Liste AR
 ! Expires: 3 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1271,11 +1271,11 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|e5tsar.co
 ||educ40.net/hotcourses.swf
 ||educ40.net/images/hotcourses.gif
 ||educ40.net/images/kotobdz.gif
+||eegmp3.com/cl.js
+||eegmp3.com/dek.png
 ||efa.com.eg/pepsi.jpg
 ||efa.com.eg/pres.jpg
 ||efa.com.eg/saib.jpg
-||egmp3.net/cl.js
-||egmp3.net/dek.png
 ||egmus.vip/cl.js
 ||egy.best/click.$popup
 ||egybest.*/click.$popup
@@ -1995,7 +1995,7 @@ sat-dz.com##a > img[width="460"][height="60"]
 arabs-up.com##a > img[width="585"][height="80"]
 afriqa-sat.com##a > img[width="624"][height="60"]
 aljazair24.com,dzayerinfo.com,masrawysat.com##a > img[width="728"][height="90"]
-egmp3.net##a[href*=".php?"]
+eegmp3.com,egmp3.net##a[href*=".php?"]
 ibda3gate.com##a[href*="/Direct Link.html"]
 ckfu.org##a[href*="/ads.php?"]
 arabseed.co,arabseed.com,arabseed.tv,arbcinema.com,ce4arab.com,e-tejara.com,edlibre.com,el-ahly.com,elconsolto.com,khaberni.com,wattan.net##a[href*="://bit.ly/"]
