@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: k9wHB5YjuGcvPiPu0lg+Dw
-! Version: 202207231821
+! Checksum: NoxbtnskD4ohRSAJ4QMuwQ
+! Version: 202207261924
 ! Title: Liste AR
 ! Expires: 3 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -455,6 +455,7 @@ _New_Ads.
 ||marvelmanager.com^$third-party
 ||monetizd.com^$third-party
 ||mpi.ps^$third-party
+||pabidding.io^$third-party
 ||paht.tech^$third-party
 ||popupaval.com^$third-party
 ||popuper.com^$third-party
