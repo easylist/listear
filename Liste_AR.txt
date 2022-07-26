@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: H6VxxyDzbYbrBc0W9t30AA
-! Version: 202207261941
+! Checksum: EKlmR1ig+9f9oEnuW+R3hg
+! Version: 202207261946
 ! Title: Liste AR
 ! Expires: 3 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1326,7 +1326,6 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|e5tsar.co
 ||emotionvideo-tv.com/getpop.
 ||english-guide.com/images/banners/
 ||englishforarabs.com/iphone-ad.png
-||eqla3.com/if/code*.htm
 ||esheeq.co/ex/$popup
 ||facebook.com/nansy.sbry1$popup,domain=dtyds.blogspot.com
 ||farep.org/styles/helion/espace1.jpg
@@ -1694,7 +1693,6 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|e5tsar.co
 ||upload.aflamhq.com/14642607811239_AflamHQ.com.gif
 ||uploadboy.com/banner/
 ||vb.elmstaba.com/girls.jpg
-||vb.eqla3.com/code/*.html
 ||vb.zi-m.com/aerowindow/
 ||vb.zi-m.com/js.php
 ||vb4arb.com/jorboxhost.png
@@ -2076,7 +2074,6 @@ alfadjr-online.com##div[style^="width: 728px; height: 100px;"]
 oleeh.com##div[style^="width:336px;height:280px;"]
 ##div[style^="z-index: 99999; position: fixed; width: 100%; background-color: rgb(251, 236, 173);"]
 cinq-bem-bac.blogspot.com##font[id]
-eqla3.com##iframe
 fibladi.com##iframe[id^="google_ads"]
 el3b.sukrbnat.com##img[alt="M5znUpload"]
 absba.org##img[alt^="اعلان"]
