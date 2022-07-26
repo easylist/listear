@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: EKlmR1ig+9f9oEnuW+R3hg
-! Version: 202207261946
+! Checksum: MJGQfTjzXxdPNzwSrsyPYg
+! Version: 202207261950
 ! Title: Liste AR
 ! Expires: 3 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -2072,7 +2072,6 @@ f16f.com##div[style^="display:block;background:#ffffff;width:300px;height:250px;
 arabincest.com##div[style^="position:"]
 alfadjr-online.com##div[style^="width: 728px; height: 100px;"]
 oleeh.com##div[style^="width:336px;height:280px;"]
-##div[style^="z-index: 99999; position: fixed; width: 100%; background-color: rgb(251, 236, 173);"]
 cinq-bem-bac.blogspot.com##font[id]
 fibladi.com##iframe[id^="google_ads"]
 el3b.sukrbnat.com##img[alt="M5znUpload"]
@@ -2139,7 +2138,6 @@ zi-m.com##td[style$="width:728px;height:90px;"]
 ksa-ads.info##td[style="border:2px #A56B2E  solid; width:728px;height:90px;"]
 7hob.com##td[style="border:2px #EA8336 dotted ; width:336px;height:280px;"]
 forums.7hob.com##td[style="border:2px #EA8610 dotted ; width:750px;height:280px;"]
-arfonts.net##td[style="height: 90px; padding: 0px 0px 0px 0px; text-align:center; border-bottom:1px dashed #336699;"]
 sat31-dz.com##td[width="150"][height="60"]
 traidnt.net##td[width="160px"]
 ! Filtres de propriété CSS pour Adblock Plus
