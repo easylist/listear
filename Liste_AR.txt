@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: MrFhM/0tysPFxvecxLn10A
-! Version: 202207290613
+! Checksum: 3GGZNhtW4DjvdFL0WL0CdQ
+! Version: 202208080457
 ! Title: Liste AR
 ! Expires: 3 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1201,7 +1201,7 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|e5tsar.co
 ||bdr130.net^*/bnr1/
 ||bentvip.com/up/20120511032813.gif
 ||bernama.com^*/banner/
-||bit.ly^$popup,domain=arbcinema.com|ultshare.com|videosexphoto.com
+||bit.ly^$popup,domain=arbcinema.com|rdd.edu.iq|ultshare.com|videosexphoto.com
 ||blogspot.$popup,domain=cima4u.cloud|cima4u.film|cima4u.ink|cima4u.tv|cima4u.ws|mountada.net|yallamoviez.com
 ||blogspot.com/-ZGaEt5qQ2Sw/*/*D8%A7%D8%B4%2B160%2B600.png
 ||blogspot.com^*/banusr.jpg$domain=juste4femme.blogspot.com
