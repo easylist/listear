@@ -410,6 +410,7 @@ _New_Ads.
 ##aside[id^="custom-ads-"]
 ##div[class^="ad-id_shortcode"]
 ##div[class^="ads-area-"]
+##div[id*="digiad-"]
 ##div[id^="POSTQUARE_WIDGET"]
 ##div[id^="adSlot-inPage"]
 ##div[id^="admixer_"]
