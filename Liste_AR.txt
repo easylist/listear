@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: vTWqlr5u/YqMUin7YlBcLg
-! Version: 202211160621
+! Checksum: /h0jIb4yVGlZnY6G3CjXjQ
+! Version: 202211170057
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -850,6 +850,7 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arteenz.com|kora-online.
 ||realup.net/201001/1362929493.gif
 ||realup.net/201001/1374349753.gif
 ||s21.postimg.org/sdwex12bb/animated_banner.gif
+||scontent.ftlm1-2.fna.fbcdn.net/v/t39.30808-6/313873733_813774596559831_2533948326577825250_n.jpg
 ||servimg.com/*/5souq_10.gif
 ||servimg.com/u/f10/16/22/48/64/f40-mo10.gif
 ||servimg.com/u/f30/15/50/53/07/0802.jpg
