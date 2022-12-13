@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 3nbz9I3WFDi5uhxejGa22A
-! Version: 202212132044
+! Checksum: UqvJ9rElwR9sfHa+i21Ppw
+! Version: 202212132045
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -444,6 +444,7 @@ _New_Ads.
 ||erate.co.il^$third-party
 ||fortvision.com^$third-party
 ||ftd.agency^$third-party
+||gecko.me^$third-party
 ||geminimedia-eg.com^$third-party
 ||idelv.net^$third-party
 ||idsly.com^$third-party
