@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: UqvJ9rElwR9sfHa+i21Ppw
-! Version: 202212132045
+! Checksum: LK82k8aQEOeG5rDFxi0YIw
+! Version: 202212150031
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -587,14 +587,7 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arteenz.com|kora-online.
 ||beeieg.com/bums//js.php?
 ||bistscript.ir/banner/
 ||bit.ly/hxLEG7
-||blogspot.com/*/s1600/728x90%2B
-||blogspot.com^*/al3abo.png$domain=th3professional.com
-||blogspot.com^*/s1600/*.gif$domain=mikrotikarabs.com
 ||bothemes.com^*/popup.js
-||bp.blogspot.com/*/s1600/ad.
-||bp.blogspot.com/*/s1600/ads.
-||bp.blogspot.com^*/250-250-green.png$domain=abu-iyad.com
-||c.top4top.net/i_7a2e7b89c71.png
 ||campaign-uploads.s3.amazonaws.com^
 ||casasky.com/bannerslider/
 ||cdn.hostdl.com^$popup,third-party
@@ -777,11 +770,14 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arteenz.com|kora-online.
 ||4.bp.blogspot.com/-_vd60vnaZiQ/U1zU7LvHjdI/AAAAAAAAB0w/sH4jObMJr9k/s1600/head-banner.png
 ||a.top4top.net/p_8859dto61.png
 ||a.top4top.net/p_96169nxg1.jpg
-||a.up-00.com/2018/02/151889451132591.gif
-||afriqa-sat.com/up/uploads/150926963909041.gif
-||afriqa-sat.com/up/uploads/150926963910412.gif
-||afriqa-sat.com/up/uploads/150926963911373.gif
 ||blogspot.com/*/Ld_kUAzSv8o5_Bqf3Pcn_KKHqNFfQkFzACLcB/s1600/2.gif
+||blogspot.com/*/s1600/728x90%2B
+||blogspot.com/-ZGaEt5qQ2Sw/*/*D8%A7%D8%B4%2B160%2B600.png
+||blogspot.com^*/al3abo.png$domain=th3professional.com
+||blogspot.com^*/s1600/*.gif$domain=mikrotikarabs.com
+||bp.blogspot.com/*/s1600/ad.
+||bp.blogspot.com/*/s1600/ads.
+||c.top4top.net/i_7a2e7b89c71.png
 ||c.top4top.net/p_7010u9u81.gif
 ||cache.gametracker.com/server_info/148.251.92.28:27015/b_560_95_1.png
 ||d.top4top.io/p_19138baq31.jpg
@@ -922,6 +918,9 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arteenz.com|kora-online.
 ||afedmag.com/web/banner/
 ||aff.kooora.com/images/aff_
 ||aflamedia.com/pubs/
+||afriqa-sat.com/up/uploads/150926963909041.gif
+||afriqa-sat.com/up/uploads/150926963910412.gif
+||afriqa-sat.com/up/uploads/150926963911373.gif
 ||afriqa-sat.com/vb/images/library.gif
 ||agadir24.info/flash.swf
 ||agadir24.info/khir.swf
@@ -1009,7 +1008,6 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arteenz.com|kora-online.
 ||alweeam.com.sa/wp-content/themes/alweam/images/proji-banner.jpg
 ||amalh.net/images/*.gif
 ||amazonaws.com/fl/KSA-Footer/JSFiles/leader.js
-||amronline202.blogspot.com^$domain=tfilm.ba7r.biz
 ||anakbnet.com/video/a/banar/
 ||anime4up.com/wp-content/$popup
 ||animestarz.com/files/sponsors/
@@ -1057,8 +1055,6 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arteenz.com|kora-online.
 ||bentvip.com/up/20120511032813.gif
 ||bernama.com^*/banner/
 ||blogspot.$popup,domain=cima4u.cloud|cima4u.film|cima4u.ink|cima4u.tv|cima4u.ws|mountada.net|yallamoviez.com
-||blogspot.com/-ZGaEt5qQ2Sw/*/*D8%A7%D8%B4%2B160%2B600.png
-||blogspot.com^*/banusr.jpg$domain=juste4femme.blogspot.com
 ||bnanit.com^$popup,domain=nghmat.com
 ||bou-saada.info^*/banar/
 ||bramjnet.com/images/upload/bramj.jpg
@@ -1526,7 +1522,6 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arteenz.com|kora-online.
 ||syaanh.net/images/*.gif
 ||tabeebk.com^$popup,domain=egynt.net
 ||tangersport.com/VillArt.gif
-||tfilm.tv^$domain=tfilm.ba7r.biz
 ||toofy.co/design/js/
 ||top-an.com^$subdocument,domain=vb.zi-m.com
 ||tourism-review.net/banners/
