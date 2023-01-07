@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Ufi1pbjeaNEFnX7IL7sqVg
-! Version: 202212212101
+! Checksum: pCCGhweDtVO3TANvnYVngg
+! Version: 202301070751
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1670,6 +1670,7 @@ souq.com##.ad2
 el-ahly.com##.adAB
 el-ahly.com##.adBC
 el-ahly.com##.adCD
+pramgnet.com##.addy
 aljazeera.net,alnafiza.ps,arabictorrent.net,cima4u.cloud,cima4u.film,cima4u.ink,cima4u.ws,felesteen.ps,informatique-phone.com,khaberni.com,mrabuali.com,nilemotors.net##.ads
 arab-eng.org##.adsensarab2
 4read.net##.adsense
