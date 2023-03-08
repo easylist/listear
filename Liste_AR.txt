@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: CfPDfs8MJYAam6hd+cpo9g
-! Version: 202303080441
+! Checksum: Z7rH2JmJRlQQsMWU+sEV8g
+! Version: 202303080822
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -68,6 +68,7 @@
 /ads/revive/*
 /adsbar.
 /adsbeytoote/*
+/AdSense.min.
 /adsph2/*
 /adss.gif
 /adsvideos.
@@ -141,6 +142,7 @@
 /pub3.php
 /pub4.php
 /pub_header_
+/PubadsDesktop.
 /pvtads/*
 /sb_dfp.
 /ScriptAds.
@@ -257,6 +259,7 @@ _New_Ads.
 ##.ad220
 ##.ad250250
 ##.ad720
+##.adAsync
 ##.adNavDesktop
 ##.adNavMob
 ##.adOTPDesktop
@@ -595,7 +598,6 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arteenz.com|kora-online.
 ||chatblackberry.net/unnamed34333.jpg
 ||cnbcarabia.com/top_banner.php
 ||daralakhbar.com/widgetgen/$third-party
-||darendeal.com/widgets/recommendation_box?
 ||deals.souq.com^$subdocument
 ||deals.souq.com^*&pubref=$popup
 ||deemuae^$popup,domain=gulf-up.com
@@ -1329,6 +1331,7 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arteenz.com|kora-online.
 ||marrakechalaan.com/wp-content/uploads/2015/05/hotel-cesar-copie-sd.png
 ||marrakechalaan.com/wp-content/uploads/2015/07/blach-zohair.gif
 ||marrakechalaan.com/wp-content/uploads/2015/07/radio-gueliz-pub-v-2.gif
+||masrawy.com/scripts/article.js
 ||masrawysat.com/images/ms/
 ||masrawysat.com/img/505.gif
 ||masrawysat.com/img/astra.gif
@@ -1562,6 +1565,7 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arteenz.com|kora-online.
 ||yaislam.com/menux160.html
 ||yallakora.com/images/geminilb.jpg
 ||yallakora.com/images/geminisc.jpg
+||yallakora.com/scripts/article.js
 ||youm7.com/cairodar/index2.html
 ||youtube.com^*7wxGtUQDtI4
 ||z-shadow.co/image/announce.gif
@@ -1615,10 +1619,8 @@ jsoftj.com###freet
 bacdz.org###head-banner
 rb7ne.com###header2
 fel3arda.com###headlineatas
-masrawy.com###hleader
 facenama.com###home-left-120
 facenama.com###home-top-468
-masrawy.com###hswcase
 fel3arda.com###id-custom_banner
 imovie-time.com###invideo_wrapper
 contactcars.com###leaderBoard
@@ -1652,11 +1654,9 @@ alwatannews.net##.Adv
 oleeh.com##.Advinner
 alwakeelnews.com##.C_AD
 elwatannews.com##.HLB
-yallakora.com##.Leaderboard
 alsumaria.tv##.LeftBannerSkin
 dotmsr.com##.MPUDesk
 filgoal.com##.MRContainer
-masrawy.com##.NewClassifieds
 elwatannews.com##.PM-ROS-MPU
 alsumaria.tv##.RightBannerSkin
 swalif.net##.ShowThreadAdplace
@@ -1701,6 +1701,7 @@ alfajertv.com,arabsharing.com,gulf-up.com,ibda3gate.com,mediamasr.tv##.banners
 marocemploi.net##.bg_link
 bokra.net##.big-banner
 bokra.net##.bigStrip
+masrawy.com,yallakora.com##.billboardDiv
 bacdz.org##.blogroll
 efa.com.eg##.body_sponsors
 ar-wp.com##.box
@@ -1708,7 +1709,6 @@ inewsarabia.com##.box728
 bokra.net##.catsBanner
 hawamer.com##.centerBanner
 alweeam.com.sa##.content-banner
-masrawy.com,yallakora.com##.dealsoffer
 khaberni.com##.desktop-banners
 3a2ilati.com##.eshop-list
 arabsharing.com##.extras_footer
@@ -1728,8 +1728,8 @@ bwabaa.blogspot.com##.kotak_iklan2
 n4hr.com##.ladv
 arabia.com,youm7.com##.leaderBoard
 youm7.com##.leaderBoard1
-masrawy.com##.leaderbg
 z4ar.com##.leaderboard
+masrawy.com,yallakora.com##.leaderboardDiv
 filbalad.com##.leaderbord
 linkat-online.com##.left_side
 alarab.com,alarab.net##.left_sqr
@@ -1742,6 +1742,7 @@ mediamasr.tv##.mediumbanner
 hawaaweb.com##.middle-banner
 khaberni.com##.mobile-banners
 ech-chaab.net##.module.mod-line.color-black.deepest
+masrawy.com,yallakora.com##.monsterDiv
 elcinema.com##.movie-reserve-cinema
 skynewsarabia.com##.mpu
 brooonzyah.net##.navbar_notice
@@ -1761,6 +1762,7 @@ korabia.com##.sayingOutOfContent
 alaan.tv##.show-specificimg1
 kol7agh.com##.show_left_left_google
 el3ab.com##.showcase
+masrawy.com,yallakora.com##.showcaseDiv
 aljazairalyoum.com,edlibre.com##.sidebar a[target="_blank"] > img
 bokra.net,shahidlive.co,shoofvod.com##.skyscraper
 bokra.net,shahidlive.co,shoofvod.com##.skyscraper2
