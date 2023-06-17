@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: ngLAXKVzjvx2Zgdkx6Ubgg
-! Version: 202306171524
+! Checksum: WeRf/P8ccHHWur+n4Wgpcw
+! Version: 202306171526
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -486,6 +486,7 @@ _New_Ads.
 ||cimaflash.tv^$popup
 ||eclkspbn.com^$popup,third-party
 ||elmassar-ar.com^$popup
+||eonads.com^$popup
 ||fullspeeddownload.com^$popup,third-party
 ||iafov.com^$popup,third-party
 ||ir-dl.com^$popup,third-party
@@ -522,8 +523,6 @@ $third-party,xmlhttprequest,domain=1short.us|3iisk.video|9alami.info|actionz.tv|
 !$subdocument,third-party,domain=example.com
 !
 $stylesheet,third-party,domain=arteenz.com|brstej.com|egydead.live
-!
-$popup,domain=mes001.blogspot.com
 !
 ||0sat.com/photo0sat/
 ||20script.ir/banner/
