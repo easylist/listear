@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: WeRf/P8ccHHWur+n4Wgpcw
-! Version: 202306171526
+! Checksum: GykpBl1X4UfPqGHh9fHSYg
+! Version: 202306181951
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1939,9 +1939,10 @@ ouedkniss.com#?#.container:-abp-has(.o-section-heading:-abp-contains(/إعلان
 @@||ajax.googleapis.com/ajax/libs/$script,domain=actionz.tv|ahwaktv.net|akhbar24.news|akhbara24.news|almstba-tv.com|anime4up.com|arabictorrent.net|arablionz.tv|arteenz.com|brstej.com|cima4up.bio|cimaclub.in|cimalight.vip|cimawbas.tv|cinma4up.tv|eessq.net|elmoslsal.com|elmstba.com|esheeq.co|eshiq.net|fel3arda.com|freecccamnew.com|gateanime.com|lodynet.win|micano4u.org|movizland.xyz|okanime.tv|okyanime.com|online-hackers.com|shahidlive.co|shahidmosalsalat.me|toofy.tv
 @@||bootstrapcdn.com^$script,stylesheet,domain=actionz.tv|ahwaktv.net|almstba-tv.com|brstej.com|cimalight.vip|cimawbas.tv|elmstba.com|fel3arda.com|laroza.one|shahidlive.co|shahidmosalsalat.me|toofy.tv
 @@||cdn.jsdelivr.net^$script,stylesheet,domain=almstba-tv.com|arabseed.sbs|arteenz.com|cima-club.lol|egynow.live|elmstba.com|faselhd.vip|fel3arda.com|fushaar.video|fushar.video|shahid4u.beauty|shahidlive.co
+@@||cdn.plyr.io^$xmlhttprequest,domain=stardima.co
 @@||cdn.tiny.cloud/*/tinymce.min.js$script,domain=gmanga.io|gmanga.me|gmanga.org
-@@||cloudflare.com/ajax/libs/$script,stylesheet,domain=arabseed.sbs|brstej.com|cima4up.bio|cimaclub.in|cinma4up.tv|edu-dz.com|faselhd.vip|okanime.tv|okyanime.com|online-hackers.com|xsanime.com
-@@||code.jquery.com^$script,domain=actionz.tv|aflam2you.com|ahwaktv.net|asia2tv.cn|brstej.com|cimalight.vip|cimawbas.tv|laroza.one|shahidlive.co|shahidmosalsalat.me
+@@||cloudflare.com/ajax/libs/$script,stylesheet,domain=arabseed.sbs|brstej.com|cima4up.bio|cimaclub.in|cinma4up.tv|edu-dz.com|faselhd.vip|okanime.tv|okyanime.com|online-hackers.com|stardima.co|xsanime.com
+@@||code.jquery.com^$script,domain=actionz.tv|aflam2you.com|ahwaktv.net|asia2tv.cn|brstej.com|cimalight.vip|cimawbas.tv|laroza.one|shahidlive.co|shahidmosalsalat.me|stardima.co
 @@||disqus.com/embed.js$script,domain=alm5leb.com|okyanime.com|xsanime.com
 @@||disquscdn.com^$script,domain=alm5leb.com|okyanime.com|xsanime.com
 @@||fel3arda.*/searchjs.js$script,domain=fel3arda.com
