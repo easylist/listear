@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: M1+pE8kb/dxNg8bONNwtyg
-! Version: 202306231822
+! Checksum: WljQJZn0FIMg3uNArwlSNg
+! Version: 202306231904
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -360,6 +360,7 @@ _New_Ads.
 ##.safeAreaRightAds
 ##.sideColAds
 ##.sidea-ad
+##.sponser-stick
 ##.sponsorDuplicate
 ##.srapad
 ##.srapad_bg
@@ -1630,6 +1631,7 @@ arabia.com###showcase
 makkahnews.net###sidebar1
 ninjaup.com###spons
 europages.ma###sponsor
+washwasha.org###sticky-wrapper
 liilas.com###tickermain
 ar-tr.com,arabseed.co,arabseed.com,arabseed.tv###top-banner
 hawamer.com###topBanner
