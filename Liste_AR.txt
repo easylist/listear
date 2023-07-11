@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: mD34XWN2xZF0dNMNQI6Szg
-! Version: 202306290340
+! Checksum: OxzZvH/z77dRt8XwXnYHEw
+! Version: 202307111811
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -957,7 +957,6 @@ $stylesheet,third-party,domain=arteenz.com|brstej.com|egydead.live
 ||alfajertv.com/data/banners/
 ||alfajertv.com/data/flash/
 ||alfajertv.com^*/banner/
-||algeria-dream.com/vb/sharing.gif
 ||algeria-press.com/algerieannonce.jpg
 ||algeria-press.com/kechkhedma.jpg
 ||algerianhome.com/mountada/adv/
