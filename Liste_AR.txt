@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: OxzZvH/z77dRt8XwXnYHEw
-! Version: 202307111811
+! Checksum: WkdiyVdQzzaPQTHIqRsfQw
+! Version: 202307151931
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1189,10 +1189,6 @@ $stylesheet,third-party,domain=arteenz.com|brstej.com|egydead.live
 ||felesteen.ps/uploads/images/2020/05/a4lG1.jpeg
 ||felesteen.ps/uploads/images/2020/05/TAbQq.jpeg
 ||felmedan.com/images/banners/
-||fennec-dz.com/img/atlas.jpg
-||fennec-dz.com/img/ayrade.jpg
-||fennec-dz.com/img/bann_sweet.jpg
-||fennec-dz.com/img/efth.jpg
 ||fibladi.com/common/pub_
 ||filmey.com/vb/xzx16.js
 ||filmey.tv/wp-content/uploads/$popup
