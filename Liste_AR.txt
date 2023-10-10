@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 7x1IhT9I24ddZhvbVbhaFQ
-! Version: 202310102140
+! Checksum: 0ktqscCjtvsWgHnA8i3NPw
+! Version: 202310102230
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -251,6 +251,7 @@ _New_Ads.
 ##.ad-location_wrapper_right
 ##.ad-post-bottom
 ##.ad-rt
+##.ad-sidy
 ##.ad-type_adsense
 ##.ad-type_code
 ##.ad160left
@@ -1752,6 +1753,7 @@ alayam.com##.slides1
 alayam.com##.slides76
 el3ab.com##.smallLeader
 ennaharonline.com##.souq
+bukja.net##.stream-item-top
 aljazairalyoum.dz##.stream-item.stream-item-below-header
 bokra.net##.strip
 darendeal.com##.takeover
