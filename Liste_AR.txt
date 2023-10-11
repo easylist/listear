@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: GuLk1149TclwehsX+/3c7Q
-! Version: 202310110558
+! Checksum: kBkFASc2n/ymxdxhGCzJbA
+! Version: 202310110600
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1569,7 +1569,8 @@ $stylesheet,third-party,domain=arteenz.com|brstej.com|egydead.live
 !
 ahram.org.eg###AdvShowCase1_divShowcase
 arabseyes.com###Banner
-kooora.com,sotor.com###Leaderboard
+kooora.com,sotor.com,webteb.com###Leaderboard
+webteb.com###MPU
 vb4arb.com###ad
 fatakat.com###ad1
 masr140.com###ad_20
