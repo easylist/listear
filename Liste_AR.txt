@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Ih3Qbt4AQUBtSAbDhXIRSw
-! Version: 202310110552
+! Checksum: uvYCZXmg3I3LEtjiDosvPQ
+! Version: 202310110556
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -319,6 +319,8 @@ _New_Ads.
 ##.e3lan-code
 ##.e3lan300_600-widget
 ##.fbAdsCont
+##.fixed-ads-left
+##.fixed-ads-right
 ##.fixedMpu
 ##.float_ads
 ##.geminiLB1Ad
@@ -1240,6 +1242,8 @@ $stylesheet,third-party,domain=arteenz.com|brstej.com|egydead.live
 ||images.akhbarelyom.com/up/20220125233703238.jpg
 ||images.akhbarelyom.com/up/20220210162822547.jpg
 ||images.akhbarelyom.com/up/20220210165954226.jpg
+||images.akhbarelyom.com/up/20230921193801591.jpg
+||images.akhbarelyom.com/up/20231009180654749.jpg
 ||img.gem-flash.com/images/27717855529074681287.gif
 ||img.gem-flash.com/images/51428347088205203468.gif
 ||img.youm7.com/PlugInImages/120192591552298.jpg
