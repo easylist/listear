@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: kBkFASc2n/ymxdxhGCzJbA
-! Version: 202310110600
+! Checksum: DD+Bt4alPVHe/954XBEwnA
+! Version: 202310110603
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1668,7 +1668,7 @@ linkat-online.com##.adss_left
 ahram.org.eg,ashwagi.com,mobdi3ine.net,op-arab.com,shofha.com,silkroad4arab.com,y4yy.com,yallabina.com##.adv
 akhbarelyom.com##.adv3960
 n4hr.com##.advactar
-annahar.com##.advertisement
+annahar.com,elbalad.news##.advertisement
 mp3quran.net##.advertising
 gololy.com##.advrtising-colum
 b2b-sy.com,silkroad4arab.com##.advs
