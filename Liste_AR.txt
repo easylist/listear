@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: GfDjLGD+WYPgs6btAnBoyQ
-! Version: 202310110548
+! Checksum: Ih3Qbt4AQUBtSAbDhXIRSw
+! Version: 202310110552
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1655,6 +1655,7 @@ el-ahly.com##.adAB
 el-ahly.com##.adBC
 el-ahly.com##.adCD
 pramgnet.com##.addy
+mqall.org##.adprof
 aljazeera.net,alnafiza.ps,cimaaa4u.mom,felesteen.ps,informatique-phone.com,khaberni.com,mrabuali.com,nilemotors.net##.ads
 arab-eng.org##.adsensarab2
 4read.net##.adsense
