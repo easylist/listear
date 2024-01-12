@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: fpMYMeRyx1bd6npnkUTq2A
-! Version: 202401040410
+! Checksum: VJGA25eKBLKHR+qpK9fnnw
+! Version: 202401120132
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1445,12 +1445,6 @@ $stylesheet,third-party,domain=arteenz.com|brstej.com|egydead.live
 ||rmadarab.com/vb/rmad-pro/pub/
 ||roro44.com/girls-games-banner.jpg
 ||rumonline.net^*/banners/
-||s-oman.net/bangkok3.swf
-||s-oman.net/banner
-||s-oman.net/bVp9Ju.gif
-||s-oman.net/custom_js/expandablebanners_.js
-||s-oman.net/MzqAJ.gif
-||s-oman.net/OPYzAHGn.gif
 ||sabqpress.net/wp-content/uploads/2020/03/658ae4f9d831d9ae4018de434c5b92bd.jpg
 ||sabqpress.net/wp-content/uploads/2020/05/bellat.png
 ||sabqpress.net/wp-content/uploads/2020/07/mobilis.png
@@ -1798,7 +1792,6 @@ arabseed.lol,arbcinema.com,arbsd2.site,ce4arab.com,e-tejara.com,edlibre.com,el-a
 202020.net,arabseed.lol,arbsd2.site,sawasport.com##a[href*="://goo.gl/"]
 lakii.com##a[href*="ads-redirect.php?i="]
 egyfitness.com##a[href*="leadpages.co"]
-s-oman.net##a[href="http://www.rennamobile.com/promotions/"]
 aljazairalyoum.com##a[href^=" http://ngaous.com"]
 otlaat.com##a[href^="/ads.php?"]
 kech24.com,nadorcity.com##a[href^="/ads/"]
