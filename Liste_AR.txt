@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: ExVliBAQOn5YRIEo3XKyhQ
-! Version: 202402101940
+! Checksum: AlRwCYzaQxbERTlLY1RiBw
+! Version: 20240221211007
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -596,7 +596,7 @@ $stylesheet,third-party,domain=arteenz.com|brstej.com|egydead.live
 ||bayt.com/widgets/get_jobs_widget?
 ||beeieg.com/bums//js.php?
 ||bistscript.ir/banner/
-||bit.ly/hxLEG7
+||bit.ly^$domail=amni8.com
 ||bothemes.com^*/popup.js
 ||campaign-uploads.s3.amazonaws.com^
 ||casasky.com/bannerslider/
@@ -761,6 +761,7 @@ $stylesheet,third-party,domain=arteenz.com|brstej.com|egydead.live
 ||0zz0.com/2012/07/28/21/250712642.gif
 ||1.bp.blogspot.com/-2hQYBbupIGk/XDoF9pO1QdI/AAAAAAAABrM/zkf5cGbGGC4BhM75rKukAUc8bgYTzPlUwCLcBGAs/s1600/ledger_nano-s_4-6-8x6-0.jpg
 ||1.bp.blogspot.com/-4qnfLZW8Jqw/Wc0jfXvGMJI/AAAAAAAAACw/HoPkQ1c3rCM2waf4zfQP0FmTFMaaTYqdACLcBGAs/s1600/banner.gif
+||1.bp.blogspot.com/-6mo0A0EofTE/Xtz7c8uxOaI/AAAAAAAAU6M/ANzRpNs1cCAAA9Bso0A3He0Pbaz7DAaVACLcBGAsYHQ/s0-rw-e90/ads%2Bamni.webpp
 ||1.bp.blogspot.com/-Ck9g7_dCnbY/XamXSQvy5GI/AAAAAAAAAwA/5f10maIzx_MsqB65JjIgFHbfjFQ78X9TgCLcBGAsYHQ/s1600/yipido.jpg
 ||1.bp.blogspot.com/-FguLQWZuqI8/XGq4sO7EyAI/AAAAAAAAevI/XTxfTZu0IbQxh5vtzYujvVDTjz7S8_WngCK4BGAYYCw/s1600/43059068_2078749625478306_5503711937956937728_n.jpg
 ||1.bp.blogspot.com/-JY2gQDfvZQY/YFzx0rz1U6I/AAAAAAAACok/Xy3Ntgiq23YrcH_6cbRpoqsdeYCeK5XtwCLcBGAsYHQ/s16000/CRYPTO-CAPITAL.gif
@@ -1871,7 +1872,6 @@ forums.7hob.com##td[style="border:2px #EA8610 dotted ; width:750px;height:280px;
 sat31-dz.com##td[width="150"][height="60"]
 traidnt.net##td[width="160px"]
 ! Filtres de propriété CSS pour Adblock Plus
-amni8.com#?#:-abp-properties(opacity:)
 ce4arab.com#?#.vbmenu_popup + br + [id^="post"]:-abp-has(.thead:-abp-contains(اعلان))
 ouedkniss.com#?#.container:-abp-has(.o-section-heading:-abp-contains(/إعلانات في المقدمة|متاجر في المقدمة/))
 !
