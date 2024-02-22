@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: AlRwCYzaQxbERTlLY1RiBw
-! Version: 20240221211007
+! Checksum: OH3ii/T8PjTrPuGW5g/Cyg
+! Version: 20240222100620
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -596,7 +596,7 @@ $stylesheet,third-party,domain=arteenz.com|brstej.com|egydead.live
 ||bayt.com/widgets/get_jobs_widget?
 ||beeieg.com/bums//js.php?
 ||bistscript.ir/banner/
-||bit.ly^$domail=amni8.com
+||bit.ly^$domain=amni8.com
 ||bothemes.com^*/popup.js
 ||campaign-uploads.s3.amazonaws.com^
 ||casasky.com/bannerslider/
