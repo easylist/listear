@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: mbRD22dvHe6tIKV1DZ+FNA
-! Version: 20240226205223
+! Checksum: R+Zso6Sd3IbbKD7LwWAqtw
+! Version: 20240228031136
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1576,7 +1576,7 @@ rb7ne.com###header2
 fel3arda.com###headlineatas
 facenama.com###home-left-120
 facenama.com###home-top-468
-fel3arda.com###id-custom_banner
+arteenz.com,fel3arda.com###id-custom_banner
 contactcars.com###leaderBoard
 alwatannews.net###lnkMainAdver3
 educdz.com###main-header-content
