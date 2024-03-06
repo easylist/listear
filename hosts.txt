@@ -1,9 +1,110 @@
 ################################################################################
 # Title       : Liste AR HOSTS
 # Description : Hosts file for use with DNS and Domain blocking tools
-# Version     : 
-# Update      : 
+# Version     : 20240306023314
+# Update      : 2024-03-06 01:33:14 UTC
 # Homepage    : https://github.com/easylist/listear
 # Raw         : https://raw.githubusercontent.com/easylist/listear/master/hosts.txt
 # Licence     : (CC BY-NC-SA) http://creativecommons.org/licenses/by-nc-sa/3.0/
 ################################################################################
+
+0.0.0.0 adarabi.com
+0.0.0.0 add-friendso.blogspot.com
+0.0.0.0 adfoc.us
+0.0.0.0 adintop.com
+0.0.0.0 adnegah.net
+0.0.0.0 adoptim.com
+0.0.0.0 adsocy.com
+0.0.0.0 adtube.ir
+0.0.0.0 ad.utop.ir
+0.0.0.0 adv0.com
+0.0.0.0 adv.bokra.net
+0.0.0.0 adv.mmnon.com
+0.0.0.0 adv.videomega.tv
+0.0.0.0 aflam.info
+0.0.0.0 aflam.io
+0.0.0.0 al3ab2014.com
+0.0.0.0 alal3ab.net
+0.0.0.0 anetwork.ir
+0.0.0.0 apanet.net
+0.0.0.0 arabiawin.com
+0.0.0.0 arabnewscom.ipage.com
+0.0.0.0 aso1.net
+0.0.0.0 backtory.com
+0.0.0.0 ban.alukah.net
+0.0.0.0 banner.chimeratool.com
+0.0.0.0 banotacool.net
+0.0.0.0 belboon.com
+0.0.0.0 branchroughlend.info
+0.0.0.0 campaign-uploads.s3.amazonaws.com
+0.0.0.0 cdn.hostdl.com
+0.0.0.0 celebritypranky.com
+0.0.0.0 cimaflash.tv
+0.0.0.0 clicksegypt.net
+0.0.0.0 clickweb.click
+0.0.0.0 clickyab.com
+0.0.0.0 congoro.com
+0.0.0.0 diwanee.net
+0.0.0.0 ec-ho.net
+0.0.0.0 eclkspbn.com
+0.0.0.0 elmassar-ar.com
+0.0.0.0 eonads.com
+0.0.0.0 erate.co.il
+0.0.0.0 forexxzx.blogspot.com.eg
+0.0.0.0 fortvision.com
+0.0.0.0 ftd.agency
+0.0.0.0 fullspeeddownload.com
+0.0.0.0 gecko.me
+0.0.0.0 geminimedia-eg.com
+0.0.0.0 goto.astdn.ru
+0.0.0.0 iafov.com
+0.0.0.0 idelv.net
+0.0.0.0 idsly.com
+0.0.0.0 ilovemobi.com
+0.0.0.0 ir-dl.com
+0.0.0.0 jubnaadserve.com
+0.0.0.0 kaprila.com
+0.0.0.0 ketshwa.com
+0.0.0.0 kimia.es
+0.0.0.0 laserveradedomaina.com
+0.0.0.0 marvelmanager.com
+0.0.0.0 mlbanners.misrlinks.com
+0.0.0.0 mobna.com
+0.0.0.0 monetizd.com
+0.0.0.0 mpi.ps
+0.0.0.0 m.worldtourisme.com
+0.0.0.0 naja7math.com
+0.0.0.0 newpoptab.com
+0.0.0.0 newtab-tv.com
+0.0.0.0 nozzorli.com
+0.0.0.0 omasatra.com
+0.0.0.0 onclickbright.com
+0.0.0.0 pabidding.io
+0.0.0.0 paht.tech
+0.0.0.0 partners.xm.com
+0.0.0.0 pipaffiliates.com
+0.0.0.0 pop.naminews.ir
+0.0.0.0 popupaval.com
+0.0.0.0 popup.egyup.com
+0.0.0.0 popuper.com
+0.0.0.0 popupplus.ir
+0.0.0.0 postquare.com
+0.0.0.0 powerspace.com
+0.0.0.0 premaads.net
+0.0.0.0 projectagora.s3.amazonaws.com
+0.0.0.0 protect-web.com
+0.0.0.0 prwidgets.com
+0.0.0.0 pub.sabqpress.net
+0.0.0.0 replainy.co
+0.0.0.0 richnative.com
+0.0.0.0 theclickcheck.com
+0.0.0.0 tncrun.net
+0.0.0.0 ublockerext.com
+0.0.0.0 user-api.com
+0.0.0.0 valshara.com
+0.0.0.0 windailyprizes.info
+0.0.0.0 xatech.com
+0.0.0.0 yektanet.com
+0.0.0.0 zarpop.com
+0.0.0.0 zermeo.com
+0.0.0.0 zlps.xyz
