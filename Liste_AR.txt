@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 8uTUIvzDI0Eqqi0jScPqIw
-! Version: 20240312205810
+! Checksum: 4zpQFJUn+T4Tww0zXS42WA
+! Version: 20240312210313
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -401,6 +401,7 @@ _New_Ads.
 ##a[data-ads-placement-id]
 ##a[data-ads-placement-type]
 ##a[href*=".aflam.info"]
+##a[href*=".forooqso.tv/"]
 ##a[href*=".hao123.com/?tn="] > img
 ##a[href*="/?track=ad:"]
 ##a[href*="/jump/next.php?r="]
