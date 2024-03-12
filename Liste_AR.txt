@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: r7Mxgyvt7fs2d84RsKZCNQ
-! Version: 20240306023424
+! Checksum: 8uTUIvzDI0Eqqi0jScPqIw
+! Version: 20240312205810
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1893,6 +1893,7 @@ ouedkniss.com#?#.container:-abp-has(.o-section-heading:-abp-contains(/إعلان
 @@||code.jquery.com^$script,domain=aflam2you.com|ahwaktv.net|asia2tv.cn|brstej.com|cimaclub.cloud|cimalight.vip|cimawbas.tv|laroza.one|shahidlive.co|shahidmosalsalat.me|stardima.vip|weciimaa.online
 @@||disqus.com/embed.js$script,domain=okyanime.com|xsanime.com
 @@||disquscdn.com^$script,domain=okyanime.com|xsanime.com
+@@||faselhd.center/wp-$script,domain=faselhd.link
 @@||fel3arda.*/searchjs.js$script,domain=fel3arda.com
 @@||fonts.googleapis.com^$stylesheet,domain=brstej.com|laroza.one
 @@||scdn.to/stream/$script,xmlhttprequest,domain=faselhd.link
