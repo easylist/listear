@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: PueSc3V44RDw1rC/sSM7oQ
-! Version: 20240715000135
+! Checksum: fFHQyiU0Zv6Yx9CFPONw8Q
+! Version: 20240724040715
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -600,6 +600,7 @@ $stylesheet,third-party,domain=arteenz.com|brstej.com
 ||beeieg.com/bums//js.php?
 ||bistscript.ir/banner/
 ||bit.ly^$domain=amni8.com
+||bit.ly^$popup,domain=esm3ha.com|sm3ha.mx
 ||bothemes.com^*/popup.js
 ||campaign-uploads.s3.amazonaws.com^
 ||casasky.com/bannerslider/
@@ -703,6 +704,7 @@ $stylesheet,third-party,domain=arteenz.com|brstej.com
 ||naja7math.com^
 ||nqashalhob.com/sharing.gif
 ||online-sale24.com^$script
+||open.anghami.com^$popup,domain=esm3ha.com|sm3ha.mx
 ||pics.chimeratool.com/images_b/$third-party
 ||pop.naminews.ir^
 ||profvb.com/pub/
@@ -1756,7 +1758,7 @@ afriqa-sat.com##a > img[width="624"][height="60"]
 aljazair24.com,dzayerinfo.com,masrawysat.com##a > img[width="728"][height="90"]
 egmp3.net##a[href*=".php?"]
 ckfu.org##a[href*="/ads.php?"]
-arbcinema.com,arbsd2.site,ce4arab.com,e-tejara.com,edlibre.com,el-ahly.com,elconsolto.com,khaberni.com,wattan.net##a[href*="://bit.ly/"]
+arbcinema.com,arbsd2.site,ce4arab.com,e-tejara.com,edlibre.com,el-ahly.com,elconsolto.com,esm3ha.com,khaberni.com,sm3ha.mx,wattan.net##a[href*="://bit.ly/"]
 202020.net,arbsd2.site,sawasport.com##a[href*="://goo.gl/"]
 lakii.com##a[href*="ads-redirect.php?i="]
 egyfitness.com##a[href*="leadpages.co"]
