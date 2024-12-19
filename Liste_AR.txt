@@ -933,6 +933,7 @@ $stylesheet,third-party,domain=arteenz.com|brstej.com
 ||alarab.net/data/cubes/
 ||alarab.net/fursa.php
 ||alarab.net/SDK/MB_SDK_script.js
+||alarbda.com/qZEDNB7.js
 ||alfajertv.com/bedata/*_ad.jpg
 ||alfajertv.com/data/banners/
 ||alfajertv.com/data/flash/
