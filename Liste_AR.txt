@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 8qCPjdBNd2c8hqy0SfzeHQ
-! Version: 20250126030723
+! Checksum: uTS7UZnyla95Cu+a/OVb7g
+! Version: 20250126031519
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -960,7 +960,6 @@ $stylesheet,third-party,domain=arteenz.com|brstej.com
 ||almountakhab.com/img/cote_bas.swf
 ||almountakhab.com/img/cote_top.swf
 ||almountakhab.com^*/img/pub/
-||almstba.com/Pic/Alexa.gif
 ||alnda.com/13.gif
 ||alquds.co.uk/fx1.htm
 ||alquds.co.uk/fx2.htm
@@ -1825,7 +1824,7 @@ ouedkniss.com#?#.v-container:has(.o-section-heading:-abp-contains(/إعلان|إ
 ! Liste blanche pour corriger le blocage strict
 @@||ajax.googleapis.com/ajax/libs/$script,domain=ahwaktv.net|akhbar24.news|akhbara24.news|anime4up.cam|arlionztv.site|arteenz.com|brstej.com|cimalight.vip|cimawbas.tv|cinma4up.tv|eceeq.org|eessq.net|elmstba.com|esheeq.co|eshiq.net|faselhds.world|fel3arda.com|freecccamnew.com|gateanime.com|movizland.xyz|okanime.tv|okyanime.com|online-hackers.com|shahidlive.co|shahidmosalsalat.me|t7meel.site
 @@||bootstrapcdn.com^$script,stylesheet,domain=ahwaktv.net|brstej.com|cimalight.vip|cimawbas.tv|elmstba.com|fel3arda.com|laroza.one|shahidlive.co|shahidmosalsalat.me
-@@||cdn.jsdelivr.net^$script,stylesheet,domain=arbsd.ink|arteenz.com|elmstba.com|faselhds.world|fel3arda.com|fushaar.video|fushar.video|shahidd4u.cam|shahidlive.co
+@@||cdn.jsdelivr.net^$script,stylesheet,domain=almstba.tv|arbsd.ink|arteenz.com|elmstba.com|faselhds.world|fel3arda.com|fushaar.video|fushar.video|shahidd4u.cam|shahidlive.co
 @@||cdn.jwplayer.com/libraries/$script,domain=faselhds.world
 @@||cdn.plyr.io^$xmlhttprequest,domain=stardima.vip
 @@||cloudflare.com/ajax/libs/$script,stylesheet,domain=arbsd.ink|brstej.com|cinma4up.tv|edu-dz.com|elhowt.pro|faselhds.world|okanime.tv|okyanime.com|online-hackers.com|stardima.vip|t7meel.site
