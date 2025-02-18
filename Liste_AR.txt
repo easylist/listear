@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: SI8ikorkS3+dck1kxv1Cvg
-! Version: 20250211031056
+! Checksum: D45lxCck8d+9dS3CNxRmmg
+! Version: 20250218205959
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -503,7 +503,7 @@ $third-party,xmlhttprequest,domain=1egy.best|9alami.info|aflam2you.com|ak.sv|akh
 !
 $stylesheet,third-party,domain=arteenz.com|brstej.com
 !
-$popup,third-party,domain=animeiat.tv
+$popup,third-party,domain=animeiat.tv|topcinema.cam
 !
 |about:$popup,domain=faselhd.link|faselhds.world
 !
