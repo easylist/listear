@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: GD6e5rhreTcCb5UStSTiag
-! Version: 20250226045750
+! Checksum: M10lXsfYW3vqyXBriUVYVg
+! Version: 20250226051901
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -747,7 +747,6 @@ $popup,third-party,domain=4yftwvrdz7.sbs|6sfkrspw4u.sbs|6tnutl8knw.sbs|732eg54de
 ||c.top4top.io/i_7a2e7b89c71.png
 ||cache.gametracker.com/server_info/148.251.92.28:27015/b_560_95_1.png
 ||d.top4top.io/p_19138baq31.jpg
-||d16.net/up/uploads/1478118841381.gif
 ||dm0z.com/images/dm0zadvs.png
 ||i.imgur.com/3tAhgla.gif
 ||i.imgur.com/7I3wwJb.gif
@@ -768,7 +767,6 @@ $popup,third-party,domain=4yftwvrdz7.sbs|6sfkrspw4u.sbs|6tnutl8knw.sbs|732eg54de
 ||i.servimg.com/u/f56/18/71/69/24/pub10.png
 ||i.servimg.com/u/f72/19/03/22/67/main210.gif
 ||i.top4top.io/p_7010u9u81.gif
-||i0.wp.com/cdn.tst-tipasa.dz/wp-content/uploads/2020/03/dYkGTa.gif
 ||i0.wp.com/edlibre.com/wp-content/uploads/1200x400.png
 ||i0.wp.com/edlibre.com/wp-content/uploads/320x480.jpg
 ||i1.wp.com/edlibre.com/wp-content/uploads/300kh300_copy.png
@@ -788,32 +786,23 @@ $popup,third-party,domain=4yftwvrdz7.sbs|6sfkrspw4u.sbs|6tnutl8knw.sbs|732eg54de
 ||i65.servimg.com/u/f65/15/95/28/21/uoooo-10.gif
 ||i68.servimg.com/u/f68/11/55/73/09/oie_ld10.png
 ||i72.servimg.com/u/f72/12/06/64/11/my-ban10.gif
-||im33.gulfup.com/fPvZK.gif
-||im40.gulfup.com/pytsR.gif
-||im41.gulfup.com/IOAhV.gif
 ||imageshack.us/img195/9178/28906591.jpg
 ||imageshack.us/img22/7856/81950907.jpg
 ||imageshack.us/img687/748/83145832.jpg
 ||imageshack.us/img831/6584/69953352.jpg
 ||imageshack.us/img856/4224/64119518.jpg
 ||imagizer.imageshack.us/a/img923/6140/4amCK1.png
-||img15.hostingpics.net/pics/554573Howtotravelforfree.png
 ||img41.glitterfy.com/13115/glitterfy-flpbk3115925990241.gif
 ||lh3.googleusercontent.com/proxy/-fJYWeIRkoKi0a5ObYKmXk7P3uXiaW0R92QTmYgmK9whLDHRtbFnAf9UHSH9cuWvzrR2Pg
 ||lh3.googleusercontent.com/proxy/X24ekvqA0bNH5MIkBz1Hv7_SwmMB0ieOfphg6rt8vIKtqruhJLv2m0wEA5fdb_ckK6PHjblHJINrRxVU__OeQY5r1Gh4WY8TpBum-w
 ||media.giphy.com/media/1swu51Uh1SLzhOCNq8/giphy.gif
 ||media.giphy.com/media/xulw8eprb5w7cjzug4/giphy.gif
-||postimg.org/7o5uqjk4z/810_80.gif
-||postimg.org/d2mqd9lmh/final_banner.gif
-||postimg.org/g70xglyjt/banner.png
-||postimg.org/hl6o7kygp/993966453_1.gif
 ||preview.ibb.co/mSRUsw/banner.jpg
 ||realup.net/201001/1362674452.gif
 ||realup.net/201001/1362765520.gif
 ||realup.net/201001/1362929492.gif
 ||realup.net/201001/1362929493.gif
 ||realup.net/201001/1374349753.gif
-||s21.postimg.org/sdwex12bb/animated_banner.gif
 ||scontent.ftlm1-2.fna.fbcdn.net/v/t39.30808-6/313873733_813774596559831_2533948326577825250_n.jpg
 ||servimg.com/*/5souq_10.gif
 ||servimg.com/u/f10/16/22/48/64/f40-mo10.gif
@@ -821,22 +810,12 @@ $popup,third-party,domain=4yftwvrdz7.sbs|6sfkrspw4u.sbs|6tnutl8knw.sbs|732eg54de
 ||servimg.com/u/f30/15/50/53/07/0879.jpg
 ||servimg.com/u/f42/16/22/48/64/34637510.gif
 ||servimg.com/u/f65/11/55/73/09/downlo10.gif
-||swishschool.com/up/uploads/1469722778271.jpg
-||ta3lime.com/up/uploads/14597609769341.jpg
 ||up-00.com/i/00217/r1aogdfbpfgo.png
 ||up-00.com/i/00217/rylv2ggps02i.png
 ||up-00.com/i/00217/yqib2hba7rx2.png
-||up.arabseyes.com/uploads2013/03_11_16147815736026541.jpg
-||up.star7arab.com/file/2016/10/400800109.gif
-||up.star7arab.com/file/2017/04/54432151.gif
-||up.tassilialgerie.com/do.php?img=30719
-||upload.al-wed.com/uploader/upload2009//765/01315078415.gif
-||upload.traidnt.net/upfiles/2A883338.gif
 ||uupload.ir/files/x9kb_banner-936.gif
 ||www10.0zz0.com/2015/04/15/04/632112270.gif
 ||www3.0zz0.com/2018/05/07/15/910657576.jpg
-||www8.0zz0.com/2015/04/15/04/869130160.gif
-||www9.0zz0.com/2015/04/15/04/195483282.gif
 !------------------------ Sites spécifiques ----------------------!
 !
 ||0sat.net/index/
@@ -976,7 +955,6 @@ $popup,third-party,domain=4yftwvrdz7.sbs|6sfkrspw4u.sbs|6tnutl8knw.sbs|732eg54de
 ||arabseed.*/photos/shares/5c5dd200b3da8.png
 ||arabseed.*/pop/
 ||arabseed.*/tvgate/
-||arabseyes.com/php1.js
 ||arabsgate.com/banners2/
 ||arabstoday.net/images/250.jpg
 ||arabstoday.net/images/babyad.gif
@@ -1478,7 +1456,6 @@ $popup,third-party,domain=4yftwvrdz7.sbs|6sfkrspw4u.sbs|6tnutl8knw.sbs|732eg54de
 !------------------------ Éléments -------------------------------!
 !
 ahram.org.eg###AdvShowCase1_divShowcase
-arabseyes.com###Banner
 kooora.com,sotor.com,webteb.com###Leaderboard
 kooora.com###LeaderboardCont
 webteb.com###MPU
