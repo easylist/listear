@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: M10lXsfYW3vqyXBriUVYVg
-! Version: 20250226051901
+! Checksum: iFlD5kvPNQUvGJFdxhZlLQ
+! Version: 20250303194848
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1104,7 +1104,9 @@ $popup,third-party,domain=4yftwvrdz7.sbs|6sfkrspw4u.sbs|6tnutl8knw.sbs|732eg54de
 ||farep.org/styles/helion/espace1.jpg
 ||farep.org/styles/helion/pener-2.png
 ||farfesh.com^*/Banners/
+||faselhds.$media
 ||faselhds.*/aimgs/
+||faselhds.*/v.xml
 ||fatafeeet.com^$popup,domain=egyptladies.net
 ||felesteen.ps/uploads/images/2020/05/a4lG1.jpeg
 ||felesteen.ps/uploads/images/2020/05/TAbQq.jpeg
