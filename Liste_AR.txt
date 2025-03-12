@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Fv9CNP+9aihrGRGgGNxIPg
-! Version: 20250312040333
+! Checksum: bX3Mt/nKlGOMn3GO4QaJHA
+! Version: 20250312041134
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1606,7 +1606,7 @@ ouedkniss.com#?#.v-container:has(.o-section-heading:-abp-contains(/إعلان|إ
 @@||bootstrapcdn.com^$script,stylesheet,domain=ahwaktv.net|brstej.com|cimalight.vip|cimawbas.tv|elmstba.com|fel3arda.com|laroza.now|laroza.one|shahidlive.co|shahidmosalsalat.me
 @@||cdn.jsdelivr.net^$script,stylesheet,domain=almstba.tv|arteenz.com|asd.rest|elmstba.com|faselhds.care|fel3arda.com|fushaar.video|fushar.video|shahidd4u.cam|shahidlive.co|yalla4shoot.live|yallashoot.video
 @@||cdn.jwplayer.com/libraries/$script,domain=faselhds.care
-@@||cdn.plyr.io^$xmlhttprequest,domain=stardima.vip
+@@||cdn.plyr.io^$xmlhttprequest,domain=ak.sv|stardima.vip
 @@||cloudflare.com/ajax/libs/$script,stylesheet,domain=asd.rest|brstej.com|cinma4up.tv|edu-dz.com|elhowt.pro|faselhds.care|okanime.tv|okyanime.com|online-hackers.com|stardima.vip|t7meel.site|yalla-shoot.sx
 @@||code.jquery.com^$script,domain=aflam2you.com|ahwaktv.net|asia2tv.cn|brstej.com|cimaclub.cloud|cimalight.vip|cimawbas.tv|laroza.now|laroza.one|shahidlive.co|shahidmosalsalat.me|stardima.vip|wecima.watch
 @@||disqus.com/embed.js$script,domain=okyanime.com
