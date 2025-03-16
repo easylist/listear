@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 6Rg93EoJ5Pll+hq7fCogbw
-! Version: 20250314221310
+! Checksum: I0WXVTn3cB5kbGvAj+VA7A
+! Version: 20250316020020
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1394,6 +1394,7 @@ alhayat.com##.banner2
 bokra.net,shahidlive.co,shoofvod.com##.bannerBorder
 egyup.com,imanschool.com,mwadah.com##.bannerBox
 alfajertv.com,arabsharing.com,gulf-up.com,mediamasr.tv##.banners
+starhomee.com##.below-fixed-product-details-banner
 marocemploi.net##.bg_link
 bokra.net##.big-banner
 bokra.net##.bigStrip
