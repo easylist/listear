@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: I0WXVTn3cB5kbGvAj+VA7A
-! Version: 20250316020020
+! Checksum: StGMVcla8M90P9LMAJNRXg
+! Version: 20250401063143
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1519,6 +1519,7 @@ elheddaf.com##a[style="width:100%; height:850px; display:block; background:#000 
 gulf-up.com,stardima.vip##a[target="_blank"] > img
 aliahmedali.com##a[target="_blank"] > img[width="235"][height="60"]
 misrlinks.com##a[target="_blank"][href*="to-"]
+star7arab.com##b > ##a[href="https://www.otf-tv.com"]
 aswaqcity.com##div#vbseo_vhtml_0
 shof.co.il##div[class*="banner"]
 shof.co.il##div[class*="bnr"]
