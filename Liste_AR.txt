@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: StGMVcla8M90P9LMAJNRXg
-! Version: 20250401063143
+! Checksum: 9l5iVMS7EIv1VS+IyJGciA
+! Version: 20250401064425
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1448,7 +1448,7 @@ hawaaweb.com##.right-banner
 alarab.com,alarab.net##.right_cubes
 swalif.net##.sab-adPlace
 korabia.com##.sayingOutOfContent
-syrialive.cc##.separator
+syrialive.cc,yallla-shoot.io##.separator
 alaan.tv##.show-specificimg1
 el3ab.com##.showcase
 masrawy.com,yallakora.com##.showcaseDiv
