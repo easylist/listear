@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 9l5iVMS7EIv1VS+IyJGciA
-! Version: 20250401064425
+! Checksum: ujnYCytg90K+ZIwuMV8tcg
+! Version: 20250408171357
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -192,7 +192,6 @@ _New_Ads.
 ###adintop_video
 ###adpost2
 ###ads_300_250
-###ads_iframe
 ###adspos1
 ###adspos2
 ###alaa-ads
@@ -1298,6 +1297,7 @@ fatakat.com###ad1
 masr140.com###ad_20
 azrotv.com###ad_asd
 alam3arb.com,mutaz.net,pdfiles.com###ads
+arteenz.com###ads_iframe
 moheet.com###ads_l_content
 rb7ne.com###aladdin-ads
 europages.ma###article-apbox
