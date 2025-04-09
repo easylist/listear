@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: ujnYCytg90K+ZIwuMV8tcg
-! Version: 20250408171357
+! Checksum: 8v83hQFcR4f7KMkLlTWXOw
+! Version: 20250409180041
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1409,6 +1409,7 @@ alweeam.com.sa##.content-banner
 khaberni.com##.desktop-banners
 3a2ilati.com##.eshop-list
 arabsharing.com##.extras_footer
+kooora.com##.fco-ad
 alwatanvoice.com##.flash-top
 bokra.net##.floatBanner
 youm7.com##.fullBanner
