@@ -1,11 +1,11 @@
 ################################################################################
 # Title       : Liste AR HOSTS
 # Description : Hosts file for use with DNS and Domain blocking tools
-# Version     : 20240306023314
-# Update      : 2024-03-06 01:33:14 UTC
+# Version     : 20250820190418
+# Update      : 2025-08-20 19:04:18 UTC
 # Homepage    : https://github.com/easylist/listear
 # Raw         : https://raw.githubusercontent.com/easylist/listear/master/hosts.txt
-# Licence     : (CC BY-NC-SA) http://creativecommons.org/licenses/by-nc-sa/3.0/
+# Licence     : (CC BY-SA 3.0) https://creativecommons.org/licenses/by-sa/3.0/
 ################################################################################
 
 0.0.0.0 adarabi.com

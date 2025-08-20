@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: T/wJbT1DEOA4F9Wuc/9hDg
-! Version: 20250610212938
+! Checksum: lZK83r8hA3Qiiq3Q8F+euQ
+! Version: 20250820190418
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
 ! Homepage: https://code.google.com/p/liste-ar-adblock/
 ! Repo Git: https://github.com/easylist/listear
-! Licence : https://creativecommons.org/licenses/by-nc-sa/3.0/
+! Licence : https://creativecommons.org/licenses/by-sa/3.0/
 !
 ! شكرا للإبلاغ عن أي إعلان أو لافتة إشهارية غير محجوبة
 ! Merci de signaler toute publicité non bloquée ou tout blocage inadéquat.
