@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: wEA3LLNj9KwV49iE/1Yunw
-! Version: 20251010204250
+! Checksum: fByg+K5tGWPfL/xxiwNoKg
+! Version: 20251215025625
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -672,8 +672,6 @@ $popup,third-party,domain=4yftwvrdz7.sbs|6sfkrspw4u.sbs|6tnutl8knw.sbs|732eg54de
 ||yimg.com^*/www.blueridgehobbies.com/images/Misc/ClickHereAnimated.gif
 ||yourjavascript.com^*/add-url.js
 ||yourjavascript.com^*/pp-kora.js
-||youtube.com^*_gOXf63AAJg$domain=qatarbike.com
-||youtube.com^*_gOXf63AAJg$popup
 ||zimabdk.com/uploads/13739105611.gif
 ||zimabdk.com/uploads/13739970081.png
 ||zimabdk.com/uploads/1385612495381.gif
@@ -1277,7 +1275,6 @@ $popup,third-party,domain=4yftwvrdz7.sbs|6sfkrspw4u.sbs|6tnutl8knw.sbs|732eg54de
 ||yallakora.com/images/geminisc.jpg
 ||yallakora.com/scripts/article.js
 ||youm7.com/cairodar/index2.html
-||youtube.com^*7wxGtUQDtI4
 ||z-shadow.co/image/announce.gif
 ||z-shadow.co/image/pub.gif
 ||zaiocity.net^*/zaiocitypub/
