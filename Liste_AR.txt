@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 2DGGdZVvroMQyog3Q5kT2Q
-! Version: 20251222025857
+! Checksum: 4QmbTW6cTWeFiROV3GbJeA
+! Version: 20251222030800
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1232,6 +1232,7 @@ $popup,third-party,domain=4yftwvrdz7.sbs|6sfkrspw4u.sbs|6tnutl8knw.sbs|732eg54de
 ||souss24.com^$popup,domain=ilmaroc.org
 ||spa.gov.sa/images/banner/
 ||star7arab.com/icon.aspx?ads=
+||stardima.com/redirect.php?$popup
 ||stat.arabstoday.net/images/alpharooms.jpg
 ||stat.arabstoday.net/images/pizza.jpg
 ||stat.arabstoday.net/images/weather-ad.png
@@ -1612,9 +1613,10 @@ ouedkniss.com#?#.v-container:has(.o-section-heading:-abp-contains(/إعلان|إ
 @@||ajax.googleapis.com/ajax/libs/$script,domain=ahwaktv.net|akhbar24.news|akhbara24.news|anime4up.cam|arabveturk.com|arlionztv.site|arteenz.com|brstej.com|cimalight.vip|cimawbas.tv|cinma4up.tv|eceeq.org|eessq.net|elmstba.com|esheeq.co|eshiq.net|faselhds.care|fel3arda.com|freecccamnew.com|gateanime.com|movizland.xyz|okanime.tv|okyanime.com|online-hackers.com|shahidlive.co|shahidmosalsalat.me|t7meel.site|turkvearab.com|yallashoot.video
 @@||api.animegarden.net^$xmlhttprequest,domain=animeiat.tv
 @@||bootstrapcdn.com^$script,stylesheet,domain=ahwaktv.net|brstej.com|cimalight.vip|cimawbas.tv|elmstba.com|fel3arda.com|larooza.icu|shahidlive.co|shahidmosalsalat.me
-@@||cdn.jsdelivr.net^$script,stylesheet,domain=almstba.tv|arteenz.com|asd.homes|elmstba.com|faselhds.care|fel3arda.com|fushaar.video|fushar.video|shahidd4u.cam|shahidlive.co|yalla4shoot.live|yallashoot.video
+@@||cdn.jsdelivr.net^$script,stylesheet,domain=almstba.tv|arteenz.com|asd.homes|elmstba.com|faselhds.care|fel3arda.com|fushaar.video|fushar.video|shahidd4u.cam|shahidlive.co|stardima.com|yalla4shoot.live|yallashoot.video
 @@||cdn.jwplayer.com/libraries/$script,domain=faselhds.care
 @@||cdn.plyr.io^$xmlhttprequest,domain=ak.sv|stardima.com
+@@||cdn.tailwindcss.com/$script,stylesheet,domain=stardima.com
 @@||cloudflare.com/ajax/libs/$script,stylesheet,domain=asd.homes|brstej.com|cinma4up.tv|edu-dz.com|elhowt.pro|faselhds.care|okanime.tv|okyanime.com|online-hackers.com|stardima.com|t7meel.site|yalla-shoot.sx
 @@||code.jquery.com^$script,domain=aflam2you.com|ahwaktv.net|asia2tv.cn|brstej.com|cimaclub.cloud|cimalight.vip|cimawbas.tv|larooza.icu|shahidlive.co|shahidmosalsalat.me|stardima.com|wecima.watch
 @@||disqus.com/embed.js$script,domain=okyanime.com
