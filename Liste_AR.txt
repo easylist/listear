@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: eiQ3L6IiLHMP9Wu3YXr21w
-! Version: 20251226065851
+! Checksum: qhg6rtbpWTfFQ7ZHeUB9ww
+! Version: 20251231210322
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -955,6 +955,7 @@ $popup,third-party,domain=4yftwvrdz7.sbs|6sfkrspw4u.sbs|6tnutl8knw.sbs|732eg54de
 ||dotmsr.com/images/pod320x100.jpg
 ||dzayerinfo.com/ar/wp-content/uploads/*/AvaTrade.jpg
 ||dzayerinfo.com/ar/wp-content/uploads/*/publ.jpg
+||dzgsm.com/vb/gsm-banner.gif
 ||dzgsm.com/vb/pub/
 ||e-tejara.com/wp-content/uploads/1031205C-8807-452E-9767-39DAF8452C17.jpeg
 ||eaglepro.net^$popup,domain=bramjnet.com
@@ -1479,6 +1480,8 @@ dzjobs.net##.wiki
 arabia.com##.ykaleader
 korabia.com##[class^="modal"]
 kooora.com##[data-openweb-ad]
+dzgsm.com##[data-widget-key="Xf_Ads_Sidebar"]
+dzgsm.com##[data-widget-key="xf_gsmAds"]
 bloggerexp.com##[href="http://up.mosw3a.com"] > img
 bloggerexp.com##[href="http://www.mybbarab.com"] > img
 bloggerexp.com##[href^="http://bit.ly/"] > img
