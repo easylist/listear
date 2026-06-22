@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: oYRJHvdkC6ARvp2aE8VY1w
-! Version: 20260622162957
+! Checksum: 5ZkJBE2mYDG8TshnyED2Sg
+! Version: 20260622164504
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -499,7 +499,7 @@ $third-party,xmlhttprequest,domain=1egy.best|ak.sv|akhbar24.news|akhbara24.news|
 !
 $stylesheet,third-party,domain=arteenz.com|brstej.com
 !
-$popup,third-party,domain=4yftwvrdz7.sbs|6sfkrspw4u.sbs|ak.sv|alkoora.live|animeiat.tv|arabveturk.com|hd7live.xyz|iplayerhls.com|koora-stream.live|kora-api.top|kora-tv.vip|larhu.website|segavid.com|topcinema.cam|turkvearab.com|yalla4shoot.live
+$popup,third-party,domain=4yftwvrdz7.sbs|6sfkrspw4u.sbs|ak.sv|alkoora.live|animeiat.tv|arabveturk.com|hd7live.xyz|iplayerhls.com|koora-stream.live|koora24.sbs|kora-api.top|kora-tv.vip|larhu.website|segavid.com|topcinema.cam|turkvearab.com|yalla4shoot.live
 !
 |about:$popup,domain=faselhds.world
 !
