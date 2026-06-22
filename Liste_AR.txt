@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: oyUCupvZRmQ845DqtNrVbg
-! Version: 20260621021920
+! Checksum: oYRJHvdkC6ARvp2aE8VY1w
+! Version: 20260622162957
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -609,6 +609,7 @@ $popup,third-party,domain=4yftwvrdz7.sbs|6sfkrspw4u.sbs|ak.sv|alkoora.live|anime
 ||kuwaitold.com^$subdocument,third-party
 ||lazezh.com^$subdocument,third-party
 ||leadpages.co/leadbox-
+||liveonlinesports.net/b7e2d91f4a8c3065
 ||ma3lomh.com^$subdocument,third-party
 ||media.linkonlineworld.com/img/shift-eg/original/2019/9/3/2019_9_3_12_15_29_545.jpg
 ||mediafree.co/pop*.js
@@ -1335,6 +1336,8 @@ arabia.com###showcase
 ninjaup.com###spons
 europages.ma###sponsor
 washwasha.org###sticky-wrapper
+liveonlinesports.net,siiiiiiir.tv,siiiiir.tv,siiiit.tv,siir-tv.com,siir-tv.live,ssirtv.com###tgAdModern
+liveonlinesports.net,siiiiiiir.tv,siiiiir.tv,siiiit.tv,siir-tv.com,siir-tv.live,ssirtv.com###tgAdNotification
 liilas.com###tickermain
 hawamer.com###topBanner
 elheddaf.com###top_pub + a[style]
