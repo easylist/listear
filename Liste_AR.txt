@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 5ZkJBE2mYDG8TshnyED2Sg
-! Version: 20260622164504
+! Checksum: F6pHqgydwqE7Y1FNnCaOZA
+! Version: 20260630080705
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -312,6 +312,7 @@ _New_Ads.
 ##.dfp_ad_top_ldb1_mobile
 ##.dfp_ad_top_ldb1_tablet
 ##.e3lan-code
+##.e3lan-header_after
 ##.e3lan300_600-widget
 ##.fbAdsCont
 ##.fixed-ads-left
@@ -1347,6 +1348,7 @@ hawaaworld.com###vacuumcleaners
 firedrive.com###ve_box
 europages.ma###vipBox
 jeddahbikers.com###x-728
+shootalive.com###ys-store-sticky
 sayidaty.net##.Ads
 alwatannews.net##.Adv
 oleeh.com##.Advinner
