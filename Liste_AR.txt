@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 7UmJcSfxd5Y0w+dm5LfSlQ
-! Version: 20260702004251
+! Checksum: RKASDq4nn8B2XQs6mtGnXw
+! Version: 20260707223150
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -649,6 +649,7 @@ $popup,third-party,domain=4yftwvrdz7.sbs|6sfkrspw4u.sbs|ak.sv|alkoora.live|anime
 ||shein.com/?aff_id=$popup
 ||shortenow.com^$image,third-party
 ||shwqna.at.ua/pop*.js
+||sites10.top^$popup,domain=sgtpepperat50.com
 ||soccerhot.com/images/banner/
 ||souqcms.s3.amazonaws.com^*/Banners/
 ||startdedicated.com/newbrz.gif
