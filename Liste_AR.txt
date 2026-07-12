@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: RKASDq4nn8B2XQs6mtGnXw
-! Version: 20260707223150
+! Checksum: qVRZ5IOwyaZaFFLGwSseMQ
+! Version: 20260712223246
 ! Title: Liste AR
 ! Expires: 1 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1631,6 +1631,7 @@ kooora.com#?#li:has(a:-abp-contains(/أمازون|البطن|تخسيس|خصم �
 @@||scdn.to/stream/$script,xmlhttprequest,domain=faselhds.care
 @@||scdns.io/stream/$script,xmlhttprequest,domain=faselhds.care
 @@||ssl.p.jwpcdn.com/player/v/$script,stylesheet,xmlhttprequest,domain=arabveturk.com|faselhds.care|moshahda.net|okanime.tv|turkvearab.com
+@@||unpkg.com^$script,domain=stardima.com
 @@||vjs.zencdn.net^$script,stylesheet,domain=fel3arda.com
 @@||wp.com/*/wp-includes/js/$script,domain=anime4up.cam|cimaclub.us|gateanime.com|shahiid-anime.net
 @@||wp.com/p/jetpack/$script,domain=anime4up.cam|gateanime.com|shahiid-anime.net
